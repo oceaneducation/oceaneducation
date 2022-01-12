@@ -2,7 +2,7 @@
   "homedata": [
     {
       "homedata_name": "આગાન વાડી ",
-      "homedata_image": "https://github.com/oceaneducation/oceaneducation/blob/main/images/Chrysanthemum.jpg",
+      "homedata_image": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/images/auction.png",
       "direct_sub_cat": true,
       "sub_data": [
         {
