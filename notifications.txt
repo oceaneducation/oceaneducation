@@ -1,0 +1,19 @@
+{
+  "notifications": [
+    {
+      "title": "First notification",
+      "desc": "This is for notifications",
+      "link": "https://www.orimi.com/pdf-test.pdf"
+    },
+    {
+      "title": "Second notification",
+      "desc": "This is for notifications",
+      "link": "https://www.orimi.com/pdf-test.pdf"
+    },
+    {
+      "title": "Standard 12 Material HELLO",
+      "desc": "Standard 12 Material arrive",
+      "link": "https://www.orimi.com/pdf-test.pdf"
+    }
+  ]
+}
