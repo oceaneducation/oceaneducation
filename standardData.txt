@@ -1,0 +1,2665 @@
+{
+  "homedata": [
+    {
+      "homedata_name": "ઘરે શીખ્યે ",
+      "homedata_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+      "direct_sub_cat": false,
+      "sub_data": [
+        {
+          "sub_data_name": "ઘરે શીખ્યે ",
+          "standard_data": [
+            {
+              "standard_name": "ધોરણ 4",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "જુલાઈ 2021",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "ઓગસ્ટ 2021",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "ધોરણ  3",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "જુલાઈ 2021",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "ઓગસ્ટ 2021",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "ધોરણ  2",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "જુલાઈ 2021",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "ઓગસ્ટ 2021",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "ધોરણ  1",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "જુલાઈ 2021",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "ઓગસ્ટ 2021",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "homedata_name": "બ્રિજ કોર્સ (જ્ઞાન સેતુ) ",
+      "homedata_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+      "direct_sub_cat": false,
+      "sub_data": [
+        {
+          "sub_data_name": "બ્રિજ કોર્સ (જ્ઞાન સેતુ) ",
+          "standard_data": [
+            {
+              "standard_name": "ધોરણ 1",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "જુલાઈ 2021",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "ઓગસ્ટ 2021",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "ધોરણ  2",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "જુલાઈ 2021",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "ઓગસ્ટ 2021",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "ધોરણ  3",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "જુલાઈ 2021",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "ઓગસ્ટ 2021",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "ધોરણ  4",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "જુલાઈ 2021",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "ઓગસ્ટ 2021",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "homedata_name": "ધોરણ 12",
+      "homedata_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+      "direct_sub_cat": false,
+      "sub_data": [
+        {
+          "sub_data_name": "કોમર્સ  ",
+          "standard_data": [
+            {
+              "standard_name": "Account",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "ch - 1",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "ch - 2",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "B.A",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "Ch - 1",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 2",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "Stat",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "Ch - 1",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 2",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "Eco",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "Ch - 1",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 2",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sub_data_name": "આર્ટસ ",
+          "standard_data": [
+            {
+              "standard_name": "Computer",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "Ch - 1",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 2",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "History",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "Ch - 1",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 2",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "Gujarati",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "Ch - 1",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 2",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "Bhugol",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "Ch - 1",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 2",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "homedata_name": "ધોરણ 10 ",
+      "homedata_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+      "direct_sub_cat": false,
+      "sub_data": [
+        {
+          "sub_data_name": "ધોરણ 10",
+          "standard_data": [
+            {
+              "standard_name": "ગણિત ",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "Ch - 1",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 2",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "English",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "Ch - 1",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 2",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "Computer",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "Ch - 1",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 2",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "hindi",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "Ch - 1",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 2",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "Gujarati",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "Ch - 1",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 2",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "standard_name": "hindi",
+                  "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                  "month_cat": [
+                    {
+                      "month_name": "Ch - 1",
+                      "videos": [
+                        {
+                          "video_name": "Psycology",
+                          "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                          "video_link": "https://youtu.be/Ga64onF9J0c"
+                        },
+                        {
+                          "video_name": "Geography",
+                          "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                          "video_link": "https://youtu.be/Ga64onF9J0c"
+                        }
+                      ],
+                      "material": [
+                        {
+                          "material_name": "Account",
+                          "material_link": "https://www.orimi.com/pdf-test.pdf"
+                        },
+                        {
+                          "material_name": "BA",
+                          "material_link": "https://www.orimi.com/pdf-test.pdf"
+                        }
+                      ],
+                      "textbook": [
+                        {
+                          "textbook_name": "textbook1",
+                          "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        },
+                        {
+                          "textbook_name": "textbook2",
+                          "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "month_name": "Ch - 2",
+                      "videos": [
+                        {
+                          "video_name": "Psycology",
+                          "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                          "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
+                        },
+                        {
+                          "video_name": "Geography",
+                          "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                          "video_link": "https://youtu.be/Ga64onF9J0c"
+                        }
+                      ],
+                      "material": [
+                        {
+                          "material_name": "Account",
+                          "material_link": "https://www.orimi.com/pdf-test.pdf"
+                        },
+                        {
+                          "material_name": "BA",
+                          "material_link": "https://www.orimi.com/pdf-test.pdf"
+                        }
+                      ],
+                      "textbook": [
+                        {
+                          "textbook_name": "textbook1",
+                          "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        },
+                        {
+                          "textbook_name": "textbook2",
+                          "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "homedata_name": "ધોરણ 11 ",
+      "homedata_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+      "direct_sub_cat": false,
+      "sub_data": [
+        {
+          "sub_data_name": "ધોરણ 10",
+          "standard_data": [
+            {
+              "standard_name": "ગણિત ",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "Ch - 1",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 2",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "English",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "Ch - 1",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 2",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "Computer",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "Ch - 1",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 2",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "hindi",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "Ch - 1",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 2",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "Gujarati",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "Ch - 1",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 2",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "standard_name": "hindi",
+                  "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                  "month_cat": [
+                    {
+                      "month_name": "Ch - 1",
+                      "videos": [
+                        {
+                          "video_name": "Psycology",
+                          "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                          "video_link": "https://youtu.be/Ga64onF9J0c"
+                        },
+                        {
+                          "video_name": "Geography",
+                          "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                          "video_link": "https://youtu.be/Ga64onF9J0c"
+                        }
+                      ],
+                      "material": [
+                        {
+                          "material_name": "Account",
+                          "material_link": "https://www.orimi.com/pdf-test.pdf"
+                        },
+                        {
+                          "material_name": "BA",
+                          "material_link": "https://www.orimi.com/pdf-test.pdf"
+                        }
+                      ],
+                      "textbook": [
+                        {
+                          "textbook_name": "textbook1",
+                          "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        },
+                        {
+                          "textbook_name": "textbook2",
+                          "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "month_name": "Ch - 2",
+                      "videos": [
+                        {
+                          "video_name": "Psycology",
+                          "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                          "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
+                        },
+                        {
+                          "video_name": "Geography",
+                          "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                          "video_link": "https://youtu.be/Ga64onF9J0c"
+                        }
+                      ],
+                      "material": [
+                        {
+                          "material_name": "Account",
+                          "material_link": "https://www.orimi.com/pdf-test.pdf"
+                        },
+                        {
+                          "material_name": "BA",
+                          "material_link": "https://www.orimi.com/pdf-test.pdf"
+                        }
+                      ],
+                      "textbook": [
+                        {
+                          "textbook_name": "textbook1",
+                          "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        },
+                        {
+                          "textbook_name": "textbook2",
+                          "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "homedata_name": "ધોરણ 09 ",
+      "homedata_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+      "direct_sub_cat": false,
+      "sub_data": [
+        {
+          "sub_data_name": "ધોરણ 10",
+          "standard_data": [
+            {
+              "standard_name": "ગણિત ",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "Ch - 1",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 2",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "English",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "Ch - 1",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 2",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "Computer",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "Ch - 1",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 2",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "hindi",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "Ch - 1",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 2",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "Gujarati",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "Ch - 1",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 2",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "standard_name": "hindi",
+                  "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                  "month_cat": [
+                    {
+                      "month_name": "Ch - 1",
+                      "videos": [
+                        {
+                          "video_name": "Psycology",
+                          "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                          "video_link": "https://youtu.be/Ga64onF9J0c"
+                        },
+                        {
+                          "video_name": "Geography",
+                          "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                          "video_link": "https://youtu.be/Ga64onF9J0c"
+                        }
+                      ],
+                      "material": [
+                        {
+                          "material_name": "Account",
+                          "material_link": "https://www.orimi.com/pdf-test.pdf"
+                        },
+                        {
+                          "material_name": "BA",
+                          "material_link": "https://www.orimi.com/pdf-test.pdf"
+                        }
+                      ],
+                      "textbook": [
+                        {
+                          "textbook_name": "textbook1",
+                          "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        },
+                        {
+                          "textbook_name": "textbook2",
+                          "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "month_name": "Ch - 2",
+                      "videos": [
+                        {
+                          "video_name": "Psycology",
+                          "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                          "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
+                        },
+                        {
+                          "video_name": "Geography",
+                          "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                          "video_link": "https://youtu.be/Ga64onF9J0c"
+                        }
+                      ],
+                      "material": [
+                        {
+                          "material_name": "Account",
+                          "material_link": "https://www.orimi.com/pdf-test.pdf"
+                        },
+                        {
+                          "material_name": "BA",
+                          "material_link": "https://www.orimi.com/pdf-test.pdf"
+                        }
+                      ],
+                      "textbook": [
+                        {
+                          "textbook_name": "textbook1",
+                          "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        },
+                        {
+                          "textbook_name": "textbook2",
+                          "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
