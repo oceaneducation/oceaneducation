@@ -133,7 +133,7 @@
     },
     {
       "homedata_name": "નિદાન કસોટી",
-      "homedata_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+      "homedata_image": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/images/Hydrangeas.jpg",
       "direct_sub_cat": false,
       "sub_data": [
         {
