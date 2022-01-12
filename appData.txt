@@ -89,6 +89,32 @@
                       "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ]
+                },
+                {
+                  "month_name": "વ્યવસાયકાર",
+                  "videos": [
+                    {
+                      "video_name": "વ્યવસાયકાર",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "વ્યવસાયકાર",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
                 }
               ]
             }
