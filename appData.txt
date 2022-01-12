@@ -40,6 +40,10 @@
                     {
                       "textbook_name": "textbook2",
                       "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook3",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/test1.pdf"
                     }
                   ]
                 },
