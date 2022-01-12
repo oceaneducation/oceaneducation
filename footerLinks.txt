@@ -1,0 +1,51 @@
+{
+  "allLinks": [
+    {
+      "medium": "youtube",
+      "channels": [
+        {
+          "name": "Youtube1",
+          "link": "https://youtu.be/Ga64onF9J0c"
+        },
+        {
+          "name": "Youtube2",
+          "link": "https://youtu.be/Ga64onF9J0c"
+        },
+        {
+          "name": "Youtube3",
+          "link": "https://youtu.be/Ga64onF9J0c"
+        }
+      ]
+    },
+    {
+      "medium": "telegram",
+      "channels": [
+        {
+          "name": "telegram1",
+          "link": "https://t.me/share/url?url=https%3A%2F%2Ftelegram.org%2Fblog%2Flink-preview&text=%23Telegram%20adds%20link%20previews%20for%20Youtube%2C%20Twitter%2C%20Instagram%20and%20other%20services"
+        },
+        {
+          "name": "telegram2",
+          "link": "https://t.me/share/url?url=https%3A%2F%2Ftelegram.org%2Fblog%2Flink-preview&text=%23Telegram%20adds%20link%20previews%20for%20Youtube%2C%20Twitter%2C%20Instagram%20and%20other%20services"
+        },
+        {
+          "name": "telegram3",
+          "link": "https://t.me/share/url?url=https%3A%2F%2Ftelegram.org%2Fblog%2Flink-preview&text=%23Telegram%20adds%20link%20previews%20for%20Youtube%2C%20Twitter%2C%20Instagram%20and%20other%20services"
+        }
+      ]
+    },
+    {
+      "medium": "facebook",
+      "channels": [
+        {
+          "name": "facebook1",
+          "link": "https://www.facebook.com/login.php?skip_api_login=1&api_key=113869198637480&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdevelopers.facebook.com%252Fdocs%252Fdevelopment%252Fbuild-and-test%252Ftest-pages%252F%26display%3Dpopup%26ref%3Dplugin%26src%3Dlike%26kid_directed_site%3D0%26app_id%3D113869198637480&cancel_url=https%3A%2F%2Fwww.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D113869198637480%26connect%3D0%23_%3D_&display=popup&locale=en_GB&kid_directed_site=0"
+        },
+        {
+          "name": "facebook3",
+          "link": "https://www.facebook.com/login.php?skip_api_login=1&api_key=113869198637480&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdevelopers.facebook.com%252Fdocs%252Fdevelopment%252Fbuild-and-test%252Ftest-pages%252F%26display%3Dpopup%26ref%3Dplugin%26src%3Dlike%26kid_directed_site%3D0%26app_id%3D113869198637480&cancel_url=https%3A%2F%2Fwww.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D113869198637480%26connect%3D0%23_%3D_&display=popup&locale=en_GB&kid_directed_site=0"
+        }
+      ]
+    }
+  ]
+}
