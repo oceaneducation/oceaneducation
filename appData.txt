@@ -1,15 +1,15 @@
 {
   "homedata": [
     {
-      "homedata_name": "આગાન વાડી ",
+      "homedata_name": "બાલભવન",
       "homedata_image": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/images/auction.png",
       "direct_sub_cat": true,
       "sub_data": [
         {
-          "sub_data_name": "આગાન વાડી ",
+          "sub_data_name": "બાલભવન",
           "standard_data": [
             {
-              "standard_name": "આગાન વાડી ",
+              "standard_name": "બાલભવન",
               "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
               "month_cat": [
                 {
