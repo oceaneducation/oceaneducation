@@ -1,0 +1,7 @@
+{
+  "images": [
+    "https://leverageedu.com/blog/wp-content/uploads/2020/12/education-News-1.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTySPDj3-XEbSivwGsIxamSUFj4cqu14igI5ThXgmMIQfbIUsrFxNmArl2wRmxPrqX12dU&usqp=CAU",
+    "https://leverageedu.com/blog/wp-content/uploads/2020/12/education-News-1.jpg"
+  ]
+}
