@@ -190,77 +190,51 @@
                   "month_name": "Ch - 1",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "શાળા તત્પરતા 1",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/b5TpqCAW55"
                     }
+              
                   ],
                   "material": [
-                    {
-                      "material_name": "Account",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "material_name": "BA",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
+                    
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "શાળા તત્પરતા1 ",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 KALRAV CH 1.pdf"
                     }
+                    
                   ]
                 },
                 {
                   "month_name": "Ch - 2",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "શાળા તત્પરતા 2",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/kEbL8zEAthk"
                     }
+                    
                   ],
                   "material": [
                     
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "શાળા તત્પરતા 2",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 KALRAV CH 2.pdf"
                     }
+                    
                   ]
                 },
                 {
                   "month_name": "Ch - 3",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "અજબ જેવી વાત છે",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/qnBJaVqPsPQ"
                     }
                   ],
                   "material": [
@@ -268,12 +242,8 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "અજબ જેવી વાત છે",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 KALRAV CH 3.pdf"
                     }
                   ]
                 },
@@ -281,14 +251,9 @@
                   "month_name": "Ch - 4",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "આવ રે વરસાદ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/k2vKuzI5KKc"
                     }
                   ],
                   "material": [
@@ -296,12 +261,8 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "આવ રે વરસાદ",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 KALRAV CH 4.pdf"
                     }
                   ]
                 },
@@ -309,14 +270,14 @@
                   "month_name": "Ch - 5",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "અમે સૌ (part :1)",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/7oClVbke8eE"
                     },
                     {
-                      "video_name": "Geography",
+                      "video_name": "અમે સૌ (part :2)",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/qXK3x0RPA1A"
                     }
                   ],
                   "material": [
@@ -324,12 +285,12 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "અમે સૌ (part :1)",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 KALRAV CH 5.pdf"
                     },
                     {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "અમે સૌ (part :2)",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 KALRAV CH 5.pdf"
                     }
                   ]
                 },
@@ -337,14 +298,9 @@
                   "month_name": "Ch - 6",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "મજા પડે, મજા પડે",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/4woIug4XfrM"
                     }
                   ],
                   "material": [
@@ -352,12 +308,8 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "મજા પડે, મજા પડે",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 KALRAV CH 6.pdf"
                     }
                   ]
                 },
@@ -365,14 +317,9 @@
                   "month_name": "Ch - 7",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "ચપટી વાગી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/wC1P-HY8h8U "
                     }
                   ],
                   "material": [
@@ -380,12 +327,8 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "ચપટી વાગી",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 KALRAV CH 7.pdf"
                     }
                   ]
                 },
@@ -393,14 +336,14 @@
                   "month_name": "Ch - 8",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "હું તો મોટો થઈશ (part :1)",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/DytjXWlGZmY"
                     },
                     {
-                      "video_name": "Geography",
+                      "video_name": "હું તો મોટો થઈશ (part :2)",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/iZEp-wj9CoU"
                     }
                   ],
                   "material": [
@@ -408,12 +351,12 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "હું તો મોટો થઈશ (part :1)",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 KALRAV CH 8.pdf"
                     },
                     {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "હું તો મોટો થઈશ (part :2)",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 KALRAV CH 8.pdf"
                     }
                   ]
                 },
@@ -421,14 +364,9 @@
                   "month_name": "Ch - 9",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "પોપટે ખાધી પાકી કેરી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/b5TpqCAW55E"
                     }
                   ],
                   "material": [
@@ -436,12 +374,8 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "પોપટે ખાધી પાકી કેરી",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 KALRAV CH 9.pdf"
                     }
                   ]
                 },
@@ -449,14 +383,9 @@
                   "month_name": "Ch - 10",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "વડ દાદા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/kWfaI6lZekY"
                     }
                   ],
                   "material": [
@@ -464,12 +393,8 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "વડ દાદા",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 KALRAV CH 10.pdf"
                     }
                   ]
                 }
