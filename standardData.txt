@@ -401,41 +401,25 @@
               ]
             },
             {
-              "standard_name": "matha",
+              "standard_name": "maths",
               "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
               "month_cat": [
                 {
-                  "month_name": "Ch - 1",
+                  "month_name":"CH - 1",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "આકારો અને જગ્યા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/s-IIdvybZzY"
                     }
                   ],
                   "material": [
-                    {
-                      "material_name": "Account",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "material_name": "BA",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
+                    
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "આકારો અને જગ્યા",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 1.pdf"
                     }
                   ]
                 },
@@ -443,14 +427,9 @@
                   "month_name": "Ch - 2",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "એકથી નવ સુધીની સંખ્યા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/xQ08idqL-Pg"
                     }
                   ],
                   "material": [
@@ -458,12 +437,8 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "એકથી નવ સુધીની સંખ્યા",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 2.pdf"
                     }
                   ]
                 },
@@ -471,14 +446,9 @@
                   "month_name": "Ch - 3",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "સરવાળા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/R_Mnir-p954"
                     }
                   ],
                   "material": [
@@ -487,11 +457,7 @@
                   "textbook": [
                     {
                       "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 3.pdf"
                     }
                   ]
                 },
@@ -499,14 +465,9 @@
                   "month_name": "Ch - 4",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "બાદબાકી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/WP7yrD7_X9Y "
                     }
                   ],
                   "material": [
@@ -514,12 +475,8 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "બાદબાકી",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 4.pdf"
                     }
                   ]
                 },
@@ -527,14 +484,14 @@
                   "month_name": "Ch - 5",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "દસથી વીસ સુધીની સંખ્યા(part 1)",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/wKrKCn9S5y8"
                     },
                     {
-                      "video_name": "Geography",
+                      "video_name": "દસથી વીસ સુધીની સંખ્યા(part 2)",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/nEc8ggCGv5M"
                     }
                   ],
                   "material": [
@@ -542,12 +499,12 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "દસથી વીસ સુધીની સંખ્યા(part 1)",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 5.pdf"
                     },
                     {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "દસથી વીસ સુધીની સંખ્યા(part 2)",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 5.pdf"
                     }
                   ]
                 },
@@ -555,14 +512,9 @@
                   "month_name": "Ch - 6",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "સમય",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/ufumvyHxTaA"
                     }
                   ],
                   "material": [
@@ -570,12 +522,8 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "સમય",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 6.pdf"
                     }
                   ]
                 },
@@ -583,14 +531,14 @@
                   "month_name": "Ch - 7",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "માપન (part 1)",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/H15gZiDWs-k"
                     },
                     {
-                      "video_name": "Geography",
+                      "video_name": "માપન (part 2)",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/qzrghpgmSlQ"
                     }
                   ],
                   "material": [
@@ -598,12 +546,12 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "માપન (part 1)",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 7.pdf"
                     },
                     {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "માપન (part 2)",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 7.pdf"
                     }
                   ]
                 },
@@ -611,14 +559,14 @@
                   "month_name": "Ch - 8",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "એકવીસથી પચાસ સુધીની સંખ્યા (part 1)",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/u3bLs9Y_1B8"
                     },
                     {
-                      "video_name": "Geography",
+                      "video_name": "એકવીસથી પચાસ સુધીની સંખ્યા (part 2)",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/qTqNQ27z6Mc"
                     }
                   ],
                   "material": [
@@ -626,12 +574,12 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "એકવીસથી પચાસ સુધીની સંખ્યા (part 1)",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 8.pdf"
                     },
                     {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "એકવીસથી પચાસ સુધીની સંખ્યા (part 2)",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 8.pdf"
                     }
                   ]
                 },
@@ -639,14 +587,9 @@
                   "month_name": "Ch - 9",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "માહિતીની ઉપયોગ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/mQ3SVrFZkAU"
                     }
                   ],
                   "material": [
@@ -654,12 +597,8 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "માહિતીની ઉપયોગ",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 9.pdf"
                     }
                   ]
                 },
@@ -667,14 +606,9 @@
                   "month_name": "Ch - 10",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "પેટર્ન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/jm8LWqWKVzk"
                     }
                   ],
                   "material": [
@@ -682,12 +616,8 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "પેટર્ન",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 10.pdf"
                     }
                   ]
                 },
@@ -695,14 +625,14 @@
                   "month_name": "Ch - 11",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "સંખ્યાઓ (part 1)",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/GlkPK71p6h8"
                     },
                     {
-                      "video_name": "Geography",
+                      "video_name": "સંખ્યાઓ (part 2)",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/FHWIplsNeAw"
                     }
                   ],
                   "material": [
@@ -710,12 +640,12 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "સંખ્યાઓ (part 1)",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 11.pdf"
                     },
                     {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "સંખ્યાઓ (part 2)",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 11.pdf"
                     }
                   ]
                 },
@@ -723,14 +653,9 @@
                   "month_name": "Ch - 12",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "નાણું",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/DBjq7QxDF3w"
                     }
                   ],
                   "material": [
@@ -738,12 +663,8 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "નાણું",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 12.pdf"
                     }
                   ]
                 },
@@ -751,14 +672,9 @@
                   "month_name": "Ch - 13",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "કેટલા ?",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/YUnMXHXMXfA"
                     }
                   ],
                   "material": [
@@ -766,12 +682,8 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "કેટલા ?",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 13.pdf"
                     }
                   ]
                 }
