@@ -1188,9 +1188,11 @@
                 {
                   "month_name": "પુનરાવર્તન – 1",
                   "videos": [
+                  {
                     "video_name": "પુનરાવર્તન – 1",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/xCSTPhujwik"
+                      }
                   ],
                   "material": [
                     
@@ -1202,9 +1204,11 @@
                 {
                   "month_name": "પુનરાવર્તન – 2",
                   "videos": [
+                  {
                     "video_name": "પુનરાવર્તન – 2",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/4doNlGAwVWs"
+                      }
                   ],
                   "material": [
                     
@@ -1216,9 +1220,11 @@
                 {
                   "month_name": "પુનરાવર્તન – 3",
                   "videos": [
+                  {
                     "video_name": "પુનરાવર્તન – 3",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/1Bh7RAk-e0c"
+                      }
                   ],
                   "material": [
                     
