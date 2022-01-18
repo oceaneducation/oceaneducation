@@ -1242,203 +1242,105 @@
                 {
                   "month_name": "Ch - 1",
                   "videos": [
-                    {
-                      "video_name": "Psycology",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    }
+                    
                   ],
                   "material": [
-                    {
-                      "material_name": "Account",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "material_name": "BA",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
+                    
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "Ch - 1",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 BULBUL CH1.pdf"
                     }
                   ]
                 },
                 {
                   "month_name": "Ch - 2",
                   "videos": [
-                    {
-                      "video_name": "Psycology",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    }
+                    
                   ],
                   "material": [
                     
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "Ch - 2",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 BULBUL CH2.pdf"
                     }
                   ]
                 },
                 {
                   "month_name": "Ch - 3",
                   "videos": [
-                    {
-                      "video_name": "Psycology",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    }
+                    
                   ],
                   "material": [
                     
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "Ch - 3",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 BULBUL CH3.pdf"
                     }
                   ]
                 },
                 {
                   "month_name": "Ch - 4",
                   "videos": [
-                    {
-                      "video_name": "Psycology",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    }
+                    
                   ],
                   "material": [
                     
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "Ch - 4",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 BULBUL CH4.pdf"
                     }
                   ]
                 },
                 {
                   "month_name": "Ch - 5",
                   "videos": [
-                    {
-                      "video_name": "Psycology",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    }
+                    
                   ],
                   "material": [
                     
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "Ch - 5",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 BULBUL CH5.pdf"
                     }
                   ]
                 },
                 {
                   "month_name": "Ch - 6",
                   "videos": [
-                    {
-                      "video_name": "Psycology",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    }
+                    
                   ],
                   "material": [
                     
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "Ch - 6",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 BULBUL CH6.pdf"
                     }
                   ]
                 },
                 {
                   "month_name": "Ch - 7",
                   "videos": [
-                    {
-                      "video_name": "Psycology",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    }
+                    
                   ],
                   "material": [
                     
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "Ch - 7",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 BULBUL CH7.pdf"
                     }
                   ]
                 }
