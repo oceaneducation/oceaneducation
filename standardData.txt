@@ -943,7 +943,7 @@
                   "textbook": [
                     {
                       "textbook_name": "તમે કેટલું ઊંચકી શકો?",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 MATHS CH3.pdf"
                     }
                   ]
                 },
@@ -962,7 +962,7 @@
                   "textbook": [
                     {
                       "textbook_name": "દસ-દસની ગણતરી",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 MATHS CH4.pdf"
                     }
                   ]
                 },
@@ -981,7 +981,7 @@
                   "textbook": [
                     {
                       "textbook_name": "પૅટર્ન",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 MATHS CH5.pdf"
                     }
                   ]
                 },
@@ -1000,7 +1000,7 @@
                   "textbook": [
                     {
                       "textbook_name": "પગની છાપ",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 MATHS CH6.pdf"
                     }
                   ]
                 },
@@ -1019,7 +1019,7 @@
                   "textbook": [
                     {
                       "textbook_name": "જગ અને મગ",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 MATHS CH7.pdf"
                     }
                   ]
                 },
@@ -1038,7 +1038,7 @@
                   "textbook": [
                     {
                       "textbook_name": "દશક અને એકમ",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 MATHS CH8.pdf"
                     }
                   ]
                 },
@@ -1057,7 +1057,7 @@
                   "textbook": [
                     {
                       "textbook_name": "મારો મજાનો દિવસ",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 MATHS CH9.pdf"
                     }
                   ]
                 },
@@ -1081,11 +1081,11 @@
                   "textbook": [
                     {
                       "textbook_name": "part-1 અમારા અંકો ઉમેરો",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 MATHS CH10.pdf"
                     },
                     {
                       "textbook_name": "part-2 અમારા અંકો ઉમેરો",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 MATHS CH10.pdf"
                     }
                   ]
                 },
@@ -1104,7 +1104,7 @@
                   "textbook": [
                     {
                       "textbook_name": "લીટીઓ જ લીટીઓ",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 MATHS CH11.pdf"
                     }
                   ]
                 },
@@ -1128,11 +1128,11 @@
                   "textbook": [
                     {
                       "textbook_name": "part-1 આપો અને લો",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 MATHS CH12.pdf"
                     },
                     {
                       "textbook_name": "part-2 આપો અને લો",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 MATHS CH12.pdf"
                     }
                   ]
                 },
@@ -1151,7 +1151,7 @@
                   "textbook": [
                     {
                       "textbook_name": "સૌથી લાંબું ડગલું",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 MATHS CH13.pdf"
                     }
                   ]
                 },
@@ -1166,7 +1166,7 @@
                   "textbook": [
                     {
                       "textbook_name": "પક્ષીઓ આવે, પક્ષીઓ જાય",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 MATHS CH14.pdf"
                     }
                   ]
                 },
@@ -1181,7 +1181,7 @@
                   "textbook": [
                     {
                       "textbook_name": "કેટલી ચોટલીઓ છે?",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 MATHS CH15.pdf"
                     }
                   ]
                 },
