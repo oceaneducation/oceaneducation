@@ -2521,7 +2521,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ક્યાંથી જોવું",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 MATHS CH1.pdf"
                     }
                   ]
                 },
@@ -2545,11 +2545,11 @@
                   "textbook": [
                     {
                       "textbook_name": "સંખ્યાની ગમ્મત ભાગ 1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 MATHS CH2.pdf"
                     },
                     {
                       "textbook_name": "સંખ્યાની ગમ્મત ભાગ 2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 MATHS CH2.pdf"
                     }
                   ]
                 },
@@ -2573,11 +2573,11 @@
                   "textbook": [
                     {
                       "textbook_name": "આપો અને લો ભાગ-૧ સરવાળા",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 MATHS CH3.pdf"
                     },
                     {
                       "textbook_name": "આપો અને લો ભાગ 2 બાદબાકી",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 MATHS CH3.pdf"
                     }
                   ]
                 },
@@ -2596,7 +2596,7 @@
                   "textbook": [
                     {
                       "textbook_name": "લાંબુ અને ટૂંકું",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 MATHS CH4.pdf"
                     }
                   ]
                 },
@@ -2615,7 +2615,7 @@
                   "textbook": [
                     {
                       "textbook_name": "આકારો અને ભાત",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 MATHS CH5.pdf"
                     }
                   ]
                 },
@@ -2639,11 +2639,11 @@
                   "textbook": [
                     {
                       "textbook_name": "આપ લે ની ગમ્મત ભાગ 1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 MATHS CH6.pdf"
                     },
                     {
                       "textbook_name": "આપ લે ની ગમ્મત ભાગ 2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 MATHS CH6.pdf"
                     }
                   ]
                 },
@@ -2667,11 +2667,11 @@
                   "textbook": [
                     {
                       "textbook_name": "સમય વહી જાય છે. ભાગ 1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 MATHS CH7.pdf"
                     },
                     {
                       "textbook_name": "સમય વહી જાય છે. ભાગ 2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 MATHS CH7.pdf"
                     }
                   ]
                 },
@@ -2690,7 +2690,7 @@
                   "textbook": [
                     {
                       "textbook_name": "વધુ ભારે કોણ?",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 MATHS CH8.pdf"
                     }
                   ]
                 },
@@ -2714,11 +2714,11 @@
                   "textbook": [
                     {
                       "textbook_name": "કેટલા વખત ભાગ 1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 MATHS CH9.pdf"
                     },
                     {
                       "textbook_name": "કેટલા વખત ભાગ 2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 MATHS CH9.pdf"
                     }
                   ]
                 },
@@ -2737,7 +2737,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ભાત(પેટર્ન) ની રમત",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 MATHS CH10.pdf"
                     }
                   ]
                 },
@@ -2752,7 +2752,7 @@
                   "textbook": [
                     {
                       "textbook_name": " જગ અને મગ",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 MATHS CH11.pdf"
                     }
                   ]
                 },
@@ -2767,7 +2767,7 @@
                   "textbook": [
                     {
                       "textbook_name": "આપણે ભાગ પાડી શકીશું ?",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 MATHS CH12.pdf"
                     }
                   ]
                 },
@@ -2782,7 +2782,7 @@
                   "textbook": [
                     {
                       "textbook_name": "સ્માર્ટ ચાર્ટ",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 MATHS CH13.pdf"
                     }
                   ]
                 },
@@ -2797,7 +2797,7 @@
                   "textbook": [
                     {
                       "textbook_name": "રૂપિયા પૈસા",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 MATHS CH14.pdf"
                     }
                   ]
                 }
