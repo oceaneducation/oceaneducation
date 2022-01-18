@@ -1354,34 +1354,18 @@
                   "month_name": "Ch - 1",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "શરણાઈ, ઢોલક અને રંગ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/9KGkJ5fdWC8"
                     }
                   ],
                   "material": [
-                    {
-                      "material_name": "Account",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "material_name": "BA",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
+                   
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "શરણાઈ, ઢોલક અને રંગ",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 KALLOL CH1.pdf"
                     }
                   ]
                 },
@@ -1389,14 +1373,9 @@
                   "month_name": "Ch - 2",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "દાદા ખોવાયા છે",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/v13JCmwbrp8 "
                     }
                   ],
                   "material": [
@@ -1404,12 +1383,8 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "દાદા ખોવાયા છે",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 KALLOL CH2.pdf"
                     }
                   ]
                 },
@@ -1417,14 +1392,9 @@
                   "month_name": "Ch - 3",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "આટલા બધા રમકડાં! ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/QGaHRyNo3vM "
                     }
                   ],
                   "material": [
@@ -1432,12 +1402,8 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "આટલા બધા રમકડાં! ",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 KALLOL CH3.pdf"
                     }
                   ]
                 },
@@ -1445,14 +1411,9 @@
                   "month_name": "Ch - 4",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "જંગલ બુક",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/0NoNXOfKmeU"
                     }
                   ],
                   "material": [
@@ -1460,12 +1421,8 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "જંગલ બુક",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 KALLOL CH4.pdf"
                     }
                   ]
                 },
@@ -1473,14 +1430,14 @@
                   "month_name": "Ch - 5",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "part – 1 મારે તો બસ રમવું છે",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/H9OqKMqWoa4"
                     },
                     {
-                      "video_name": "Geography",
+                      "video_name": "part – 2 મારે તો બસ રમવું છે",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/YGUhRZ4k_yo"
                     }
                   ],
                   "material": [
@@ -1488,12 +1445,12 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "part – 1 મારે તો બસ રમવું છે",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 KALLOL CH5.pdf"
                     },
                     {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "part – 2 મારે તો બસ રમવું છે",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 KALLOL CH5.pdf"
                     }
                   ]
                 },
@@ -1501,14 +1458,9 @@
                   "month_name": "Ch - 6",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "પર્વતનો મુરબ્બો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/XeCLHk_Q0B4"
                     }
                   ],
                   "material": [
@@ -1516,12 +1468,8 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "પર્વતનો મુરબ્બો",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 KALLOL CH6.pdf"
                     }
                   ]
                 },
@@ -1529,14 +1477,14 @@
                   "month_name": "Ch - 7",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "part -1 આમ પણ હોય",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/BhZICg78dEI"
                     },
                     {
-                      "video_name": "Geography",
+                      "video_name": "part -2 આમ પણ હોય",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/tDJqgHGxZ34 "
                     }
                   ],
                   "material": [
@@ -1544,12 +1492,12 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "part -1 આમ પણ હોય",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 KALLOL CH7.pdf"
                     },
                     {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "part -2 આમ પણ હોય",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 KALLOL CH7.pdf"
                     }
                   ]
                 },
@@ -1557,14 +1505,14 @@
                   "month_name": "Ch - 8",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "part-1 સોય, સંચો અને સાબુ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/zQGa4gvQaSE"
                     },
                     {
-                      "video_name": "Geography",
+                      "video_name": "part-2 સોય, સંચો અને સાબુ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/oumWBBeAURY"
                     }
                   ],
                   "material": [
@@ -1572,12 +1520,12 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "part-1 સોય, સંચો અને સાબુ",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 KALLOL CH8.pdf"
                     },
                     {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "part-2 સોય, સંચો અને સાબુ",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 KALLOL CH8.pdf"
                     }
                   ]
                 },
@@ -1585,14 +1533,14 @@
                   "month_name": "Ch - 9",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "part-1 આપણે સૌ તોફાની",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/XKYSxMNdYG0"
                     },
                     {
-                      "video_name": "Geography",
+                      "video_name": "part-2 આપણે સૌ તોફાની",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/i6dNgZwa3_M"
                     }
                   ],
                   "material": [
@@ -1600,12 +1548,12 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "part-1 આપણે સૌ તોફાની",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 KALLOL CH9.pdf"
                     },
                     {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "part-2 આપણે સૌ તોફાની",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 KALLOL CH9.pdf"
                     }
                   ]
                 },
@@ -1613,14 +1561,14 @@
                   "month_name": "Ch - 10",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "part -1 કામ કરીએ કલક કલક",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/ixgINAgX5KU"
                     },
                     {
-                      "video_name": "Geography",
+                      "video_name": "part -2 કામ કરીએ કલક કલક",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/RwKz-8djy7M"
                     }
                   ],
                   "material": [
@@ -1628,13 +1576,77 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "part -1 કામ કરીએ કલક કલક",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 KALLOL CH10.pdf"
                     },
                     {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "part -2 કામ કરીએ કલક કલક",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 KALLOL CH10.pdf"
                     }
+                  ]
+                },
+                {
+                  "month_name": "પુનરાવર્તન -1",
+                  "videos": [
+                    {
+                      "video_name":"પુનરાવર્તન -1",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/p6ovlnL57JQ"
+                    }
+                  ],
+                  "material": [
+                    
+                  ],
+                  "textbook": [
+                    
+                  ]
+                },
+                {
+                  "month_name": "પુનરાવર્તન -2",
+                  "videos": [
+                    {
+                      "video_name": "પુનરાવર્તન -2",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/ipbYSMk7Fck"
+                    }
+                  ],
+                  "material": [
+                    
+                  ],
+                  "textbook": [
+                    
+                  ]
+                },
+                {
+                  "month_name": "પુનરાવર્તન -3",
+                  "videos": [
+                    {
+                      "video_name": "પુનરાવર્તન -3",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/CpzEfFpI-Oc"
+                    }
+                  ],
+                  "material": [
+                    
+                  ],
+                  "textbook": [
+                    
+                  ]
+                },
+                {
+                  "month_name": "પુનરાવર્તન -4",
+                  "videos": [
+                    {
+                      "video_name": "પુનરાવર્તન -4",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/-lVEBM2WJ08"
+                    }
+                  ],
+                  "material": [
+                    
+                  ],
+                  "textbook": [
+                   
                   ]
                 }
               ]
