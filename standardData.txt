@@ -887,41 +887,25 @@
           "sub_data_name": "ધોરણ 2",
           "standard_data": [
             {
-              "standard_name": "maths ",
+              "standard_name": "Maths",
               "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
               "month_cat": [
                 {
                   "month_name": "Ch - 1",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "શું લાંબુ છે? શું ગોળ છે?",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/Xpq4YYFHcH0"
                     }
                   ],
                   "material": [
-                    {
-                      "material_name": "Account",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "material_name": "BA",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
+                   
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "શું લાંબુ છે? શું ગોળ છે?",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 MATHS CH1.pdf"
                     }
                   ]
                 },
@@ -929,14 +913,9 @@
                   "month_name": "Ch - 2",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "જૂથમાં ગણવું",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/_YpTZsWUlLI"
                     }
                   ],
                   "material": [
@@ -944,12 +923,8 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "જૂથમાં ગણવું",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 MATHS CH2.pdf"
                     }
                   ]
                 },
@@ -957,14 +932,9 @@
                   "month_name": "Ch - 3",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "તમે કેટલું ઊંચકી શકો?",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/3yYAlKCEmxc"
                     }
                   ],
                   "material": [
@@ -972,11 +942,7 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
+                      "textbook_name": "તમે કેટલું ઊંચકી શકો?",
                       "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ]
@@ -985,14 +951,9 @@
                   "month_name": "Ch - 4",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "દસ-દસની ગણતરી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/Mf9Yg0z9FNM"
                     }
                   ],
                   "material": [
@@ -1000,11 +961,7 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
+                      "textbook_name": "દસ-દસની ગણતરી",
                       "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ]
@@ -1013,14 +970,9 @@
                   "month_name": "Ch - 5",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "પૅટર્ન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/U_WN-mq0Ktw"
                     }
                   ],
                   "material": [
@@ -1028,11 +980,7 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
+                      "textbook_name": "પૅટર્ન",
                       "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ]
@@ -1041,14 +989,9 @@
                   "month_name": "Ch - 6",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "પગની છાપ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/EI-ogY0heFA"
                     }
                   ],
                   "material": [
@@ -1056,11 +999,7 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
+                      "textbook_name": "પગની છાપ",
                       "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ]
@@ -1069,14 +1008,9 @@
                   "month_name": "Ch - 7",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "જગ અને મગ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/612vzjOkfCU"
                     }
                   ],
                   "material": [
@@ -1084,11 +1018,7 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
+                      "textbook_name": "જગ અને મગ",
                       "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ]
@@ -1097,14 +1027,9 @@
                   "month_name": "Ch - 8",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "દશક અને એકમ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/-G7zvbHMBEM"
                     }
                   ],
                   "material": [
@@ -1112,11 +1037,7 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
+                      "textbook_name": "દશક અને એકમ",
                       "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ]
@@ -1125,14 +1046,9 @@
                   "month_name": "Ch - 9",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "મારો મજાનો દિવસ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/DrA8BViYkdg"
                     }
                   ],
                   "material": [
@@ -1140,11 +1056,7 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
+                      "textbook_name": "મારો મજાનો દિવસ",
                       "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ]
@@ -1153,14 +1065,14 @@
                   "month_name": "Ch - 10",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "part-1 અમારા અંકો ઉમેરો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/si8u_bPtwDs"
                     },
                     {
-                      "video_name": "Geography",
+                      "video_name": "part-2 અમારા અંકો ઉમેરો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/6jsHGSbYzQw"
                     }
                   ],
                   "material": [
@@ -1168,11 +1080,11 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
+                      "textbook_name": "part-1 અમારા અંકો ઉમેરો",
                       "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "textbook_name": "textbook2",
+                      "textbook_name": "part-2 અમારા અંકો ઉમેરો",
                       "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ]
@@ -1181,14 +1093,9 @@
                   "month_name": "Ch - 11",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "લીટીઓ જ લીટીઓ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/ER6QN-foEg0"
                     }
                   ],
                   "material": [
@@ -1196,11 +1103,7 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
+                      "textbook_name": "લીટીઓ જ લીટીઓ",
                       "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ]
@@ -1209,14 +1112,14 @@
                   "month_name": "Ch - 12",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "part-1 આપો અને લો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/7T1W4Zmbqdk"
                     },
                     {
-                      "video_name": "Geography",
+                      "video_name": "part-2 આપો અને લો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/sUERJO6CaNg"
                     }
                   ],
                   "material": [
@@ -1224,11 +1127,11 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
+                      "textbook_name": "part-1 આપો અને લો",
                       "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "textbook_name": "textbook2",
+                      "textbook_name": "part-2 આપો અને લો",
                       "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ]
@@ -1237,14 +1140,9 @@
                   "month_name": "Ch - 13",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "સૌથી લાંબું ડગલું",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/NzJgc0hRz9o"
                     }
                   ],
                   "material": [
@@ -1252,11 +1150,7 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
+                      "textbook_name": "સૌથી લાંબું ડગલું",
                       "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ]
@@ -1264,27 +1158,14 @@
                 {
                   "month_name": "Ch - 14",
                   "videos": [
-                    {
-                      "video_name": "Psycology",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    }
+                    
                   ],
                   "material": [
                     
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
+                      "textbook_name": "પક્ષીઓ આવે, પક્ષીઓ જાય",
                       "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ]
@@ -1292,29 +1173,58 @@
                 {
                   "month_name": "Ch - 15",
                   "videos": [
-                    {
-                      "video_name": "Psycology",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    }
+                    
                   ],
                   "material": [
                     
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
+                      "textbook_name": "કેટલી ચોટલીઓ છે?",
                       "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     }
+                  ]
+                },
+                {
+                  "month_name": "પુનરાવર્તન – 1",
+                  "videos": [
+                    "video_name": "પુનરાવર્તન – 1",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/xCSTPhujwik"
+                  ],
+                  "material": [
+                    
+                  ],
+                  "textbook": [
+                   
+                  ]
+                },
+                {
+                  "month_name": "પુનરાવર્તન – 2",
+                  "videos": [
+                    "video_name": "પુનરાવર્તન – 2",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/4doNlGAwVWs"
+                  ],
+                  "material": [
+                    
+                  ],
+                  "textbook": [
+                   
+                  ]
+                },
+                {
+                  "month_name": "પુનરાવર્તન – 3",
+                  "videos": [
+                    "video_name": "પુનરાવર્તન – 3",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/1Bh7RAk-e0c"
+                  ],
+                  "material": [
+                    
+                  ],
+                  "textbook": [
+                   
                   ]
                 }
               ]
