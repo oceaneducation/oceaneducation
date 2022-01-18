@@ -2802,6 +2802,224 @@
                   ]
                 }
               ]
+            },
+            {
+              "standard_name": "Hindi",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "Ch - 1",
+                  "videos": [
+                    {
+                      "video_name": "વર્ણમાળા પરિચય",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/DjanGCANle4"
+                    }
+              
+                  ],
+                  "material": [
+                    
+                  ],
+                  "textbook": [
+                  
+                    
+                  ]
+                },
+                {
+                  "month_name": "Ch - 2",
+                  "videos": [
+                   
+                  ],
+                  "material": [
+                    
+                  ],
+                  "textbook": [
+                  
+                    
+                  ]
+                },
+                {
+                  "month_name": "Ch - 3",
+                  "videos": [
+                    {
+                      "video_name": "તોતા",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/arYAYPTHdsQ "
+                    }
+              
+                  ],
+                  "material": [
+                    
+                  ],
+                  "textbook": [
+                  
+                    
+                  ]
+                },
+                {
+                  "month_name": "Ch - 4",
+                  "videos": [
+                    {
+                      "video_name": "શાક સબ્જી",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/wlBP7F7Z4Gw"
+                    }
+              
+                  ],
+                  "material": [
+                    
+                  ],
+                  "textbook": [
+                  
+                    
+                  ]
+                },
+                {
+                  "month_name": "Ch - 5",
+                  "videos": [
+                    {
+                      "video_name": "कौन कहाँ रहता है?",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f0sJYaa9Cf8"
+                    }
+              
+                  ],
+                  "material": [
+                    
+                  ],
+                  "textbook": [
+                  
+                    
+                  ]
+                },
+                {
+                  "month_name": "Ch - 6",
+                  "videos": [
+                    {
+                      "video_name": "ઘડી",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/gnBKisMh0Eg"
+                    }
+              
+                  ],
+                  "material": [
+                    
+                  ],
+                  "textbook": [
+                  
+                    
+                  ]
+                },
+                {
+                  "month_name": "Ch - 7",
+                  "videos": [
+                    {
+                      "video_name": "કૌન ક્યાં કરતાં હૈ?",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/hUZxKAW3v-o"
+                    }
+              
+                  ],
+                  "material": [
+                    
+                  ],
+                  "textbook": [
+                  
+                    
+                  ]
+                },
+                {
+                  "month_name": "Ch - 8",
+                  "videos": [
+                    {
+                      "video_name": "સપ્તાહ કે દિન",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/c3LqqvmwZxM"
+                    }
+              
+                  ],
+                  "material": [
+                    
+                  ],
+                  "textbook": [
+                  
+                    
+                  ]
+                },
+                {
+                  "month_name": "Ch - 9",
+                  "videos": [
+                    {
+                      "video_name": "भेड़िये की सुंदरता",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/caJ7XM196SQ"
+                    }
+              
+                  ],
+                  "material": [
+                    
+                  ],
+                  "textbook": [
+                  
+                    
+                  ]
+                },
+                {
+                  "month_name": "Ch - 10",
+                  "videos": [
+                    {
+                      "video_name": " गिनती",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/lQceU9Q56Lc"
+                    }
+              
+                  ],
+                  "material": [
+                    
+                  ],
+                  "textbook": [
+                  
+                    
+                  ]
+                },
+                {
+                  "month_name": "પુનરાવર્તન ૧",
+                  "videos": [
+                    {
+                      "video_name": "પુનરાવર્તન ૧",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/MSfyhSUg73E"
+                    }
+              
+                  ],
+                  "material": [
+                    
+                  ],
+                  "textbook": [
+                  
+                    
+                  ]
+                },
+                {
+                  "month_name": "પુનરાવર્તન ૨",
+                  "videos": [
+                    {
+                      "video_name": "પુનરાવર્તન ૨",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/7RPldsTat00"
+                    }
+              
+                  ],
+                  "material": [
+                    
+                  ],
+                  "textbook": [
+                  
+                    
+                  ]
+                }
+               
+              ]
             }
           ]
         }
