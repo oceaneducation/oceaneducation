@@ -1901,34 +1901,18 @@
                   "month_name": "Ch - 1",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "પૂનમે શું જોયું ?",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/mQl9zLE4tto"
                     }
                   ],
                   "material": [
-                    {
-                      "material_name": "Account",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "material_name": "BA",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
+                   
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "પૂનમે શું જોયું ?",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 ENVIRONMENT CH1.pdf"
                     }
                   ]
                 },
@@ -1936,14 +1920,9 @@
                   "month_name": "Ch - 2",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "વનપરી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/uIv4KP5WhjE"
                     }
                   ],
                   "material": [
@@ -1951,12 +1930,8 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "વનપરી",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 ENVIRONMENT CH2.pdf"
                     }
                   ]
                 },
@@ -1964,14 +1939,9 @@
                   "month_name": "Ch - 3",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "પાણી જ પાણી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/hDTgzKcxrNw"
                     }
                   ],
                   "material": [
@@ -1979,12 +1949,8 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "પાણી જ પાણી",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 ENVIRONMENT CH3.pdf"
                     }
                   ]
                 },
@@ -1992,14 +1958,9 @@
                   "month_name": "Ch - 4",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "છોટું નું ઘર",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/ib9opfJR9fI"
                     }
                   ],
                   "material": [
@@ -2007,12 +1968,8 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "છોટું નું ઘર",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 ENVIRONMENT CH4.pdf"
                     }
                   ]
                 },
@@ -2020,14 +1977,9 @@
                   "month_name": "Ch - 5",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "ઘર એક શાળા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/a6UAPDdJ0X8"
                     }
                   ],
                   "material": [
@@ -2035,12 +1987,8 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "ઘર એક શાળા",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 ENVIRONMENT CH5.pdf"
                     }
                   ]
                 },
@@ -2048,14 +1996,9 @@
                   "month_name": "Ch - 6",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "ખાધા વિના ન ચાલે",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/bdyB2E3mL8s"
                     }
                   ],
                   "material": [
@@ -2063,12 +2006,8 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "ખાધા વિના ન ચાલે",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 ENVIRONMENT CH6.pdf"
                     }
                   ]
                 },
@@ -2076,14 +2015,9 @@
                   "month_name": "Ch - 7",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "અનોખો સંવાદ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/FmhaZpHMbJc"
                     }
                   ],
                   "material": [
@@ -2091,12 +2025,8 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "અનોખો સંવાદ",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 ENVIRONMENT CH7.pdf"
                     }
                   ]
                 },
@@ -2104,14 +2034,9 @@
                   "month_name": "Ch - 8",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "ફરરર...",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/I2mt7dERClQ"
                     }
                   ],
                   "material": [
@@ -2119,12 +2044,8 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "ફરરર...",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 ENVIRONMENT CH8.pdf"
                     }
                   ]
                 },
@@ -2132,14 +2053,9 @@
                   "month_name": "Ch - 9",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "આવ રે વરસાદ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/nAvl8K5Myic"
                     }
                   ],
                   "material": [
@@ -2147,12 +2063,8 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "આવ રે વરસાદ",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 ENVIRONMENT CH9.pdf"
                     }
                   ]
                 },
@@ -2160,14 +2072,9 @@
                   "month_name": "Ch - 10",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "રસોડા ની વાત",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/VpqWqxHV74c"
                     }
                   ],
                   "material": [
@@ -2175,12 +2082,8 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "રસોડા ની વાત",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 ENVIRONMENT CH10.pdf"
                     }
                   ]
                 },
@@ -2188,14 +2091,9 @@
                   "month_name": "Ch - 11",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "આપણાં વાહનો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/2ZZSxkXUW3Q"
                     }
                   ],
                   "material": [
@@ -2203,12 +2101,8 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "આપણાં વાહનો",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 ENVIRONMENT CH11.pdf"
                     }
                   ]
                 },
@@ -2216,14 +2110,9 @@
                   "month_name": "Ch - 12",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "આપણાં કામ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/4Y74vpx-di4"
                     }
                   ],
                   "material": [
@@ -2231,12 +2120,8 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "આપણાં કામ",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 ENVIRONMENT CH12.pdf"
                     }
                   ]
                 },
@@ -2244,14 +2129,9 @@
                   "month_name": "Ch - 13",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "આપણી લાગણી ઓની ભાગીદારી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/URF3uV0U6jE"
                     }
                   ],
                   "material": [
@@ -2259,12 +2139,8 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "આપણી લાગણી ઓની ભાગીદારી",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 ENVIRONMENT CH13.pdf"
                     }
                   ]
                 },
@@ -2272,14 +2148,9 @@
                   "month_name": "Ch - 14",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "આપણો ખોરાક",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/URF3uV0U6jE"
                     }
                   ],
                   "material": [
@@ -2287,12 +2158,8 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "આપણો ખોરાક",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 ENVIRONMENT CH14.pdf"
                     }
                   ]
                 },
@@ -2300,14 +2167,9 @@
                   "month_name": "Ch - 15",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "માટી ની મજા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/YUGfjcHu8Ro"
                     }
                   ],
                   "material": [
@@ -2315,12 +2177,8 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "માટી ની મજા",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 ENVIRONMENT CH15.pdf"
                     }
                   ]
                 },
@@ -2328,14 +2186,9 @@
                   "month_name": "Ch - 16",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "મારૂ ઘર",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/qah37OQSVdM"
                     }
                   ],
                   "material": [
@@ -2343,12 +2196,8 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "મારૂ ઘર",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 ENVIRONMENT CH16.pdf"
                     }
                   ]
                 },
@@ -2356,14 +2205,9 @@
                   "month_name": "Ch - 17",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "પત્રનો પ્રવાસ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/VTJ7i5Q1-08"
                     }
                   ],
                   "material": [
@@ -2371,12 +2215,8 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "પત્રનો પ્રવાસ",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 ENVIRONMENT CH17.pdf"
                     }
                   ]
                 },
@@ -2384,14 +2224,9 @@
                   "month_name": "Ch - 18",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "રમતા રમતા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/r8owH1FtQPc"
                     }
                   ],
                   "material": [
@@ -2399,236 +2234,113 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "રમતા રમતા",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 ENVIRONMENT CH18.pdf"
                     }
                   ]
                 },
                 {
                   "month_name": "Ch - 19",
                   "videos": [
-                    {
-                      "video_name": "Psycology",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    }
+                    
                   ],
                   "material": [
                     
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "Ch - 19",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 ENVIRONMENT CH19.pdf"
                     }
                   ]
                 },
                 {
                   "month_name": "Ch - 20",
                   "videos": [
-                    {
-                      "video_name": "Psycology",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    }
+                    
                   ],
                   "material": [
                     
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "Ch - 20",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 ENVIRONMENT CH20.pdf"
                     }
                   ]
                 },
                 {
                   "month_name": "Ch - 21",
                   "videos": [
-                    {
-                      "video_name": "Psycology",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    }
+                    
                   ],
                   "material": [
                     
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "Ch - 21",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 ENVIRONMENT CH21.pdf"
                     }
                   ]
                 },
                 {
                   "month_name": "Ch - 22",
                   "videos": [
-                    {
-                      "video_name": "Psycology",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    }
+                    
                   ],
                   "material": [
                     
                   ],
                   "textbook": [
-                    {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                     {
+                      "textbook_name": "Ch - 22",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 ENVIRONMENT CH22.pdf"
                     }
                   ]
                 },
                 {
                   "month_name": "Ch - 23",
                   "videos": [
-                    {
-                      "video_name": "Psycology",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    }
+                    
                   ],
                   "material": [
                     
                   ],
                   "textbook": [
-                    {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ]
-                },
-                {
-                  "month_name": "Ch - 23",
-                  "videos": [
-                    {
-                      "video_name": "Psycology",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    }
-                  ],
-                  "material": [
-                    
-                  ],
-                  "textbook": [
-                    {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                     {
+                      "textbook_name": "Ch - 23",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 ENVIRONMENT CH23.pdf"
                     }
                   ]
                 },
                 {
                   "month_name": "Ch - 24",
                   "videos": [
-                    {
-                      "video_name": "Psycology",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    }
+                    
                   ],
                   "material": [
                     
                   ],
                   "textbook": [
-                    {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                     {
+                      "textbook_name": "Ch - 24",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 ENVIRONMENT CH24.pdf"
                     }
                   ]
                 },
                 {
                   "month_name": "Ch - 25",
                   "videos": [
-                    {
-                      "video_name": "Psycology",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    }
+                   
                   ],
                   "material": [
                     
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "textbook_name": "Ch - 25",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 ENVIRONMENT CH25.pdf"
                     }
                   ]
                 }
