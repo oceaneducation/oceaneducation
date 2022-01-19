@@ -16,12 +16,12 @@
                   "month_name": "ગુજરાતી",
                   "videos": [
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 1 : વાંદરાને વાંચતાં ન આવડે",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name":  "પાઠ : 2 : પોટલાં ટપકે ટપ્પ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
