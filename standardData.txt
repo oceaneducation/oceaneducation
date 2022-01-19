@@ -6263,40 +6263,24 @@
                 ]
               },
               {
-                "standard_name": "hindi",
+                "standard_name": "Hindi સેમેસ્ટર - 1",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
                     "month_name": "Ch - 1",
                     "videos": [
                       {
-                        "video_name": "Psycology",
+                        "video_name": "दयालु शिकारी",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
-                      },
-                      {
-                        "video_name": "Geography",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
+                        "video_link": " https://youtu.be/oaQmEsevUmY"
                       }
                     ],
                     "material": [
-                      {
-                        "material_name": "Account",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "material_name": "BA",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
+                     
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "textbook1",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "textbook_name": "textbook2",
+                        "textbook_name": "दयालु शिकारी",
                         "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                       }
                     ]
@@ -6305,33 +6289,328 @@
                     "month_name": "Ch - 2",
                     "videos": [
                       {
-                        "video_name": "Psycology",
+                        "video_name": "एक जगत एक लोक",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
-                      },
-                      {
-                        "video_name": "Geography",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
+                        "video_link": "https://youtu.be/oaQmEsevUmY"
                       }
                     ],
                     "material": [
-                      {
-                        "material_name": "Account",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "material_name": "BA",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
+                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "textbook1",
+                        "textbook_name": "एक जगत एक लोक",
                         "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 3",
+                    "videos": [
                       {
-                        "textbook_name": "textbook2",
+                        "video_name": "समजदार नन्ही",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/RjgULpoGiOE"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "समजदार नन्ही",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 4",
+                    "videos": [
+                      {
+                        "video_name": "गिन्ती ४१ से १००",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/otviLQnl0DY"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "गिन्ती ४१ से १००",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "પુનરાવર્તન 1",
+                    "videos": [
+                      {
+                        "video_name": "પુનરાવર્તન 1",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/DWcr6TDWe1s"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "પુનરાવર્તન 1",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 5",
+                    "videos": [
+                      {
+                        "video_name": "धरती को महकाई",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/YMHFFRlpVNY"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "धरती को महकाई",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 6",
+                    "videos": [
+                      {
+                        "video_name": "सुबह",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": " https://youtu.be/da_wA7gAWyQ"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "सुबह",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 7",
+                    "videos": [
+                      {
+                        "video_name": "बूझो तो जाने ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": " https://youtu.be/COpyz9Km-H8"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "बूझो तो जाने",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 8",
+                    "videos": [
+                      {
+                        "video_name": "राजा का हिस्सा",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/fJTU-1-y66o"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "राजा का हिस्सा",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "પુનરાવર્તન 2",
+                    "videos": [
+                      {
+                        "video_name": "પુનરાવર્તન 2",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/6Pr5b_7WXR8"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "પુનરાવર્તન 2",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "standard_name": "Hindi સેમેસ્ટર - 2",
+                "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                "month_cat": [
+                  {
+                    "month_name": "Ch - 1",
+                    "videos": [
+                      {
+                        "video_name": "इतनी शक्ति हमे देना..ी",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/Tj1a2NIdb6g"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "इतनी शक्ति हमे देना..ी",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 2",
+                    "videos": [
+                      {
+                        "video_name": "अनूठे इन्सान",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/KVpZDKBydZc"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "अनूठे इन्सान",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 3",
+                    "videos": [
+                      {
+                        "video_name": "जरा मुस्कुराइए",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/R8fo7JyGV98"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "जरा मुस्कुराइए",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 4",
+                    "videos": [
+                      {
+                        "video_name": "पुस्तक - हमारी मित्र",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/RiZg3KZyFDM"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "पुस्तक - हमारी मित्र",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                
+                  {
+                    "month_name": "Ch - 5",
+                    "videos": [
+                      {
+                        "video_name": "जय विज्ञान की",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/6pVEE3MSsxs"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "जय विज्ञान की",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 6",
+                    "videos": [
+                      {
+                        "video_name": "न्याय",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/Bl5Kl6ggNjI"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "न्याय",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 7",
+                    "videos": [
+                      {
+                        "video_name": "यह भी एक परीक्षा ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/EZO8krTD3o4"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "यह भी एक परीक्षा ",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "પુનરાવર્તન",
+                    "videos": [
+                      {
+                        "video_name": "પુનરાવર્તન",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/BJ4KMATAiEQ"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "પુનરાવર્તન",
                         "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                       }
                     ]
