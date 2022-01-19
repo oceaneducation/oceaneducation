@@ -8114,7 +8114,416 @@
                       }
                     ]
                   }
-                  ]
+                 ]
+               },
+               {
+                "standard_name": "સંસ્કૃત સેમેસ્ટર :- 1",
+                "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                "month_cat": [
+                  {
+                    "month_name": "वंदना",
+                    "videos": [
+                      {
+                        "video_name": "वंदना",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/LvvOdwcI6a4"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "वंदना",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 1",
+                    "videos": [
+                      {
+                        "video_name": "चित्र पदानी 1 तः 3",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": " https://youtu.be/OV6oLIZKQLs"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "चित्र पदानी 1 तः 3",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 2",
+                    "videos": [
+                      {
+                        "video_name": "मेघो वर्षती",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": " https://youtu.be/4eeMvd97bZQ"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "मेघो वर्षती",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 3",
+                    "videos": [
+                      {
+                        "video_name": "कोडरुक",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/fLRyjEFm2NY"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "कोडरुक",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 4",
+                    "videos": [
+                      {
+                        "video_name": "हास्ययोग",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/O2Aoiajl2a8"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "हास्ययोग",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 5",
+                    "videos": [
+                      {
+                        "video_name": "चटक ! चटक !",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/hq2VGtsq5p4"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "चटक ! चटक !",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "पुनरावतनम् 1",
+                    "videos": [
+                      {
+                        "video_name": "पुनरावतनम् 1",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/x7BKuOTa0xI"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "पुनरावतनम् 1",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 6",
+                    "videos": [
+                      {
+                        "video_name": "सड़ख्या",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/v3O0n0-n9MM"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "सड़ख्या",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 7",
+                    "videos": [
+                      {
+                        "video_name": "विश्वासो नैव कर्तव्य ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/suBd3AAQbaQ"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "विश्वासो नैव कर्तव्य ",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 8",
+                    "videos": [
+                      {
+                        "video_name": "समय ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/UCJW60Fjaz8"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "समय ",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 9",
+                    "videos": [
+                      {
+                        "video_name": "आम्लम द्राक्षाफलम",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/5dw7wEmyoro"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "आम्लम द्राक्षाफलम",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "पुनरावतनम् 2",
+                    "videos": [
+                      {
+                        "video_name": "पुनरावतनम् 2",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/VRfdTeyVZFo"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "पुनरावतनम् 2",
+                        "textbook_link": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "standard_name": "સંસ્કૃત સેમેસ્ટર :- 2",
+                "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                "month_cat": [
+                  {
+                    "month_name": "Ch - 1",
+                    "videos": [
+                      {
+                        "video_name": "प्रहेलिका",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": " https://youtu.be/Adw8Eq8p0qE"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "प्रहेलिका",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 2",
+                    "videos": [
+                      {
+                        "video_name": "वार्तालाप",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": " https://youtu.be/o4Pe9yJMZfA"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "वार्तालाप",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 3",
+                    "videos": [
+                      {
+                        "video_name": "सुभाषितानी",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/BipkqMKJp9I"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "सुभाषितानी",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 4",
+                    "videos": [
+                      {
+                        "video_name": "धरा गुर्जरी",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/PmSGXM6Bi5g"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "धरा गुर्जरी",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 5",
+                    "videos": [
+                      {
+                        "video_name": "योजक: तत्र दुर्लभ : ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/euw8BEs6_CU"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "योजक: तत्र दुर्लभ : ",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "पुनरावर्तनम्  1",
+                    "videos": [
+                      {
+                        "video_name": "पुनरावर्तनम्  1",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/zoIHRWNH-2c"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "पुनरावर्तनम्  1",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 6",
+                    "videos": [
+                      {
+                        "video_name": "विज्ञानस्य  चमत्कारा :",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HTX9Wlm2E3g"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "विज्ञानस्य  चमत्कारा :",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 7",
+                    "videos": [
+                      {
+                        "video_name": "सूक्त्य :",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/8Mhn2AoC-Y0"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "सूक्त्य :",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "पुनरावर्तनम्  2",
+                    "videos": [
+                      {
+                        "video_name": "पुनरावर्तनम्  2",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/OA4xfnaMn4g"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "पुनरावर्तनम्  2",
+                        "textbook_link": ""
+                      }
+                    ]
                   }
             ]
           }
