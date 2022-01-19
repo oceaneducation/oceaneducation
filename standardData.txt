@@ -6035,40 +6035,43 @@
             "sub_data_name": "ધોરણ 6",
             "standard_data": [
               {
-                "standard_name": "ગણિત ",
+                "standard_name": "સંસ્કૃત સેમેસ્ટર :- 1",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
+                  {
+                    "month_name": "वंदना",
+                    "videos": [
+                      {
+                        "video_name": "वंदना",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/MrGe9uKuHDM"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "वंदना",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
                   {
                     "month_name": "Ch - 1",
                     "videos": [
                       {
-                        "video_name": "Psycology",
+                        "video_name": "चित्र पदानी 1 तः 4",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
-                      },
-                      {
-                        "video_name": "Geography",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
+                        "video_link": "https://youtu.be/j-2Lt-n5nRE"
                       }
                     ],
                     "material": [
-                      {
-                        "material_name": "Account",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "material_name": "BA",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
+                     
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "textbook1",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "textbook_name": "textbook2",
+                        "textbook_name": "चित्र पदानी 1 तः 4",
                         "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                       }
                     ]
@@ -6077,191 +6080,195 @@
                     "month_name": "Ch - 2",
                     "videos": [
                       {
-                        "video_name": "Psycology",
+                        "video_name": "आकाश: पतती",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
-                      },
-                      {
-                        "video_name": "Geography",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
+                        "video_link": "https://youtu.be/SwiSo0knAWA"
                       }
                     ],
                     "material": [
-                      {
-                        "material_name": "Account",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "material_name": "BA",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
+                     
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "textbook1",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "textbook_name": "textbook2",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "standard_name": "English",
-                "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                "month_cat": [
-                  {
-                    "month_name": "Ch - 1",
-                    "videos": [
-                      {
-                        "video_name": "Psycology",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
-                      },
-                      {
-                        "video_name": "Geography",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
-                      }
-                    ],
-                    "material": [
-                      {
-                        "material_name": "Account",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "material_name": "BA",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
-                    ],
-                    "textbook": [
-                      {
-                        "textbook_name": "textbook1",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "textbook_name": "textbook2",
+                        "textbook_name": "आकाश: पतती",
                         "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                       }
                     ]
                   },
                   {
-                    "month_name": "Ch - 2",
+                    "month_name": "Ch - 3",
                     "videos": [
                       {
-                        "video_name": "Psycology",
+                        "video_name": "लेखनम",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
-                      },
-                      {
-                        "video_name": "Geography",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
+                        "video_link": "https://youtu.be/wQ3WzfV-i7s"
                       }
                     ],
                     "material": [
-                      {
-                        "material_name": "Account",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "material_name": "BA",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
+                     
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "textbook1",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "textbook_name": "textbook2",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "standard_name": "Computer",
-                "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                "month_cat": [
-                  {
-                    "month_name": "Ch - 1",
-                    "videos": [
-                      {
-                        "video_name": "Psycology",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
-                      },
-                      {
-                        "video_name": "Geography",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
-                      }
-                    ],
-                    "material": [
-                      {
-                        "material_name": "Account",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "material_name": "BA",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
-                    ],
-                    "textbook": [
-                      {
-                        "textbook_name": "textbook1",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "textbook_name": "textbook2",
+                        "textbook_name": "लेखनम",
                         "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                       }
                     ]
                   },
                   {
-                    "month_name": "Ch - 2",
+                    "month_name": "Ch - 4",
                     "videos": [
                       {
-                        "video_name": "Psycology",
+                        "video_name": "संख्या",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
-                      },
-                      {
-                        "video_name": "Geography",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
+                        "video_link": " https://youtu.be/UoPxr2HaLM0"
                       }
                     ],
                     "material": [
-                      {
-                        "material_name": "Account",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "material_name": "BA",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
+                     
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "textbook1",
+                        "textbook_name": "संख्या",
                         "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 5",
+                    "videos": [
                       {
-                        "textbook_name": "textbook2",
+                        "video_name": "चहस्ती हस्ती हस्ती",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/uayEwAY5COo"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "हस्ती हस्ती हस्ती",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "पुनरावतनम् 1",
+                    "videos": [
+                      {
+                        "video_name": "पुनरावतनम् 1",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/GZk5Luhcres"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "पुनरावतनम् 1",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 6",
+                    "videos": [
+                      {
+                        "video_name": "चसप्त वासरा:",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/AAoA94LF5nA"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "सप्त वासरा:",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 7",
+                    "videos": [
+                      {
+                        "video_name": "करोती:",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/6GzGkg6QZnU"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "करोती:",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 8",
+                    "videos": [
+                      {
+                        "video_name": "काकस्य चातुर्यम",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/X56c9sq9gEs"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "काकस्य चातुर्यम",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 9",
+                    "videos": [
+                      {
+                        "video_name": "समय :",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/PV2Y4lis5zA"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "समय :",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "पुनरावतनम् 2",
+                    "videos": [
+                      {
+                        "video_name": "कपुनरावतनम् 2",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/bKkUigbbCoY"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "पुनरावतनम् 2",
                         "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                       }
                     ]
                   }
                 ]
               },
+              
               {
                 "standard_name": "Hindi સેમેસ્ટર - 1",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
