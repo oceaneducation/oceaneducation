@@ -7263,40 +7263,24 @@
             "standard_data": [
              
               {
-                "standard_name": "English",
+                "standard_name": "સમાજ",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
                     "month_name": "Ch - 1",
                     "videos": [
                       {
-                        "video_name": "Psycology",
+                        "video_name": "રાજપુતયુગ = નવા શાશકો અને રાજ્યો",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
-                      },
-                      {
-                        "video_name": "Geography",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
+                        "video_link": "https://youtu.be/nUAoITT_8IU"
                       }
                     ],
                     "material": [
-                      {
-                        "material_name": "Account",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "material_name": "BA",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
+                     
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "textbook1",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "textbook_name": "textbook2",
+                        "textbook_name": "રાજપુતયુગ = નવા શાશકો અને રાજ્યો",
                         "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                       }
                     ]
@@ -7305,39 +7289,597 @@
                     "month_name": "Ch - 2",
                     "videos": [
                       {
-                        "video_name": "Psycology",
+                        "video_name": "દિલ્લી સલ્તનત",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
-                      },
-                      {
-                        "video_name": "Geography",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
+                        "video_link": "https://youtu.be/3nipngd7KFI"
                       }
                     ],
                     "material": [
-                      {
-                        "material_name": "Account",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "material_name": "BA",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
+                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "textbook1",
+                        "textbook_name": "દિલ્લી સલ્તનત",
                         "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 3",
+                    "videos": [
                       {
-                        "textbook_name": "textbook2",
+                        "video_name": "મુઘલ સામ્રાજ્ય",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/iE1SPI0zDCA"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "મુઘલ સામ્રાજ્ય",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 4",
+                    "videos": [
+                      {
+                        "video_name": "મધ્યયુગીન સ્થાપત્યો, શહેરો, વેપારી અને કારીગરો",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": " https://youtu.be/3z6eXIO8DcA"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "મધ્યયુગીન સ્થાપત્યો, શહેરો, વેપારી અને કારીગરો",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 5",
+                    "videos": [
+                      {
+                        "video_name": "આદિવાસી ( અનુસૂચિત જનજાતિઓ )",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": " https://youtu.be/_hXw_Aot4UM"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "આદિવાસી ( અનુસૂચિત જનજાતિઓ )",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 6",
+                    "videos": [
+                      {
+                        "video_name": "વિચરતી અને વિમુક્ત જાતિઓ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/5L3lMnZ8xqY"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "વિચરતી અને વિમુક્ત જાતિઓ",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 7",
+                    "videos": [
+                      {
+                        "video_name": "ભક્તિયુગ : ધાર્મિક સમુદાયો અને વિચારકો",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/xa03oNLImj8"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "ભક્તિયુગ : ધાર્મિક સમુદાયો અને વિચારકો",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 8",
+                    "videos": [
+                      {
+                        "video_name": "પ્રાદેશિક સંસ્કૃતિનું ઘડતર",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/kSnDW8Sp_To"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "પ્રાદેશિક સંસ્કૃતિનું ઘડતર",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 9",
+                    "videos": [
+                      {
+                        "video_name": "અઢારમી સદીના રાજકીય શાશકો",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/-7dt1Qlqzo0"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "દઅઢારમી સદીના રાજકીય શાશકો",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 10",
+                    "videos": [
+                      {
+                        "video_name": "પૃથ્વીની આંતરિક રચના અને ભૂમિસ્વરૂપો",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/Fhoj8AwvYZk"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "પૃથ્વીની આંતરિક રચના અને ભૂમિસ્વરૂપો",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 11",
+                    "videos": [
+                      {
+                        "video_name": "પર્યાવરણના ઘટકો અને આંતરસંબંધો",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/zFBCH0w9gSc"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "પર્યાવરણના ઘટકો અને આંતરસંબંધો",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 12",
+                    "videos": [
+                      {
+                        "video_name": "વાતાવરણની સજીવો પર અસર",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/4jxfw2sRE6Q"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "વાતાવરણની સજીવો પર અસર",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 13",
+                    "videos": [
+                      {
+                        "video_name": "આપતી અને વ્યવસ્થાપન",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/CbzKCo7tRso"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "આપતી અને વ્યવસ્થાપન",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 14",
+                    "videos": [
+                      {
+                        "video_name": "સંસાધનોનું  જતન અને સંરક્ષણ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/6ERIFXU6QhE"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "સંસાધનોનું  જતન અને સંરક્ષણ",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 15",
+                    "videos": [
+                      {
+                        "video_name": "લોકશાહીમાં સમાનતા",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/7opRPwkfmRk"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "લોકશાહીમાં સમાનતા",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 16",
+                    "videos": [
+                      {
+                        "video_name": "રાજ્ય સરકાર",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/52-wSyAnCo8"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "રાજ્ય સરકાર",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 17",
+                    "videos": [
+                      {
+                        "video_name": "જાતિગત ભિન્નતા",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/AS2mIqoEfcs"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "જાતિગત ભિન્નતા",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 18",
+                    "videos": [
+                      {
+                        "video_name": "સંચાર માધ્યમો અને જાહેરાત",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/3RKvJBjmjg4"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "સંચાર માધ્યમો અને જાહેરાત",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 19",
+                    "videos": [
+                      {
+                        "video_name": "બજાર",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": " https://youtu.be/la4n9oyCyIg"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "બજાર",
                         "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                       }
                     ]
                   }
                 ]
-              }
+              },
+              {
+                "standard_name": "હિન્દી प्रथम सत्र ",
+                "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                "month_cat": [
+                  {
+                    "month_name": "Ch - 1",
+                    "videos": [
+                      {
+                        "video_name": "चित्र के संग संग ( चित्र पाठ )",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/vMxqTKu1li0"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "चित्र के संग संग ( चित्र पाठ )",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 2",
+                    "videos": [
+                      {
+                        "video_name": "तब याद तुम्हारी आती है",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/fYBz39e4D6s"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "तब याद तुम्हारी आती है",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 3",
+                    "videos": [
+                      {
+                        "video_name": "कुत्ते की वफादारी",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/JpBctNfn56s"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "कुत्ते की वफादारी",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 4",
+                    "videos": [
+                      {
+                        "video_name": "कथनी और करनी",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/CM3w3a70Q0A"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "कथनी और करनी",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "पुनरावर्तन 1",
+                    "videos": [
+                      {
+                        "video_name": "पुनरावर्तन 1",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": " https://youtu.be/8tbE1idxdTA"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "पुनरावर्तन 1",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 5",
+                    "videos": [
+                      {
+                        "video_name": "हिन्द देश के निवासी",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/OSxnU_fwOlw"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "हिन्द देश के निवासी",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 6",
+                    "videos": [
+                      {
+                        "video_name": "डॉ विक्रम साराभाई",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/rpinE95FJBA"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "डॉ विक्रम साराभाई",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 7",
+                    "videos": [
+                      {
+                        "video_name": "ढूंढते रह जाओगे",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/roL6knpeuuU"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "ढूंढते रह जाओगे",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 8",
+                    "videos": [
+                      {
+                        "video_name": "दोहा अष्टक",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/bg3VowbBQFI"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "दोहा अष्टक",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "पुनरावर्तन 2",
+                    "videos": [
+                      {
+                        "video_name": "पुनरावर्तन 2",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/IGzkHLt7Rh4"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "पुनरावर्तन 2",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "मौखिक कसोटी",
+                    "videos": [
+                      {
+                        "video_name": "मौखिक कसोटी",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/sAciVA-zBZM"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "मौखिक कसोटी",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "लेखित कसोटी",
+                    "videos": [
+                      {
+                        "video_name": "लेखित कसोटी",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/nlENITb9HMI"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "लेखित कसोटी",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "क्रियात्मक कसोटी",
+                    "videos": [
+                      {
+                        "video_name": "क्रियात्मक कसोटी",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/lNnU9CvRCU4"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "क्रियात्मक कसोटी",
+                        "textbook_link": ""
+                      }
+                    ]
+                  }
             ]
           }
         ]
