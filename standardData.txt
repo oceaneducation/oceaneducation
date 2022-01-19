@@ -6339,40 +6339,24 @@
                 ]
               },
               {
-                "standard_name": "Gujarati",
+                "standard_name": "Gujarati સેમેસ્ટર - 1",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
                     "month_name": "Ch - 1",
                     "videos": [
                       {
-                        "video_name": "Psycology",
+                        "video_name": "રેલ્વેસ્ટેશન અભ્યાસ સ્વાધ્યાય",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
-                      },
-                      {
-                        "video_name": "Geography",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
+                        "video_link": "https://youtu.be/L1ThsfQ1Ojg"
                       }
                     ],
                     "material": [
-                      {
-                        "material_name": "Account",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "material_name": "BA",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
+                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "textbook1",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "textbook_name": "textbook2",
+                        "textbook_name": "રેલ્વેસ્ટેશન અભ્યાસ સ્વાધ્યાય",
                         "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                       }
                     ]
@@ -6381,110 +6365,189 @@
                     "month_name": "Ch - 2",
                     "videos": [
                       {
-                        "video_name": "Psycology",
+                        "video_name": "હિન્દ માતાને સંબોધન અભ્યાસ સ્વાધ્યાય",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
-                      },
-                      {
-                        "video_name": "Geography",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
+                        "video_link": "https://youtu.be/4fp9OAg3UEQ"
                       }
                     ],
                     "material": [
-                      {
-                        "material_name": "Account",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "material_name": "BA",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
+                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "textbook1",
+                        "textbook_name": "હિન્દ માતાને સંબોધન અભ્યાસ સ્વાધ્યાય",
                         "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                      {
+                        "month_name": "Ch - 3",
+                        "videos": [
+                          {
+                            "video_name": "દ્રીદલ અભ્યાસ સ્વાધ્યાય",
+                            "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                            "video_link": "https://youtu.be/RbCJzq-SZUU"
+                          }
+                        ],
+                        "material": [
+                          
+                        ],
+                        "textbook": [
+                          {
+                            "textbook_name": "દ્રીદલ અભ્યાસ સ્વાધ્યાય",
+                            "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                          }
+                        ]
                       },
                       {
-                        "textbook_name": "textbook2",
+                    "month_name": "Ch - 4",
+                    "videos": [
+                      {
+                        "video_name": "રવિશંકર મહારાજ અભ્યાસ સ્વાધ્યાય",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/fP9T-Yqw778"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "રવિશંકર મહારાજ અભ્યાસ સ્વાધ્યાય",
                         "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                       }
                     ]
                   },
                   {
-                    "standard_name": "hindi",
-                    "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                    "month_cat": [
+                    "month_name": "પુનરાવર્તન 1",
+                    "videos": [
                       {
-                        "month_name": "Ch - 1",
-                        "videos": [
-                          {
-                            "video_name": "Psycology",
-                            "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                            "video_link": "https://youtu.be/Ga64onF9J0c"
-                          },
-                          {
-                            "video_name": "Geography",
-                            "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                            "video_link": "https://youtu.be/Ga64onF9J0c"
-                          }
-                        ],
-                        "material": [
-                          {
-                            "material_name": "Account",
-                            "material_link": "https://www.orimi.com/pdf-test.pdf"
-                          },
-                          {
-                            "material_name": "BA",
-                            "material_link": "https://www.orimi.com/pdf-test.pdf"
-                          }
-                        ],
-                        "textbook": [
-                          {
-                            "textbook_name": "textbook1",
-                            "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                          },
-                          {
-                            "textbook_name": "textbook2",
-                            "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                          }
-                        ]
-                      },
+                        "video_name": "પુનરાવર્તન 1",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": " https://youtu.be/g0F399Qonhs"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
                       {
-                        "month_name": "Ch - 2",
-                        "videos": [
-                          {
-                            "video_name": "Psycology",
-                            "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                            "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
-                          },
-                          {
-                            "video_name": "Geography",
-                            "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                            "video_link": "https://youtu.be/Ga64onF9J0c"
-                          }
-                        ],
-                        "material": [
-                          {
-                            "material_name": "Account",
-                            "material_link": "https://www.orimi.com/pdf-test.pdf"
-                          },
-                          {
-                            "material_name": "BA",
-                            "material_link": "https://www.orimi.com/pdf-test.pdf"
-                          }
-                        ],
-                        "textbook": [
-                          {
-                            "textbook_name": "textbook1",
-                            "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                          },
-                          {
-                            "textbook_name": "textbook2",
-                            "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                          }
-                        ]
+                        "textbook_name": "પુનરાવર્તન 1",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 5",
+                    "videos": [
+                      {
+                        "video_name": "મહેનતની મોસમ અભ્યાસ સ્વાધ્યાય",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HycRK2KRWMo"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "મહેનતની મોસમ અભ્યાસ સ્વાધ્યાય",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 6",
+                    "videos": [
+                      {
+                        "video_name": "લેખણ ઝાલી નો રહી અભ્યાસ સ્વાધ્યાય",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/5oYh_cSfV2w"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "લેખણ ઝાલી નો રહી અભ્યાસ સ્વાધ્યાય",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 7",
+                    "videos": [
+                      {
+                        "video_name": "પગલે-પગલે અભ્યાસ સ્વાધ્યાય",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/SWKMuAyXStc"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "પગલે-પગલે અભ્યાસ સ્વાધ્યાય",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 8",
+                    "videos": [
+                      {
+                        "video_name": "બિરબલની યુકતી અભ્યાસ સ્વાધ્યાય",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/eO5R53p2NH0"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "બિરબલની યુકતી અભ્યાસ સ્વાધ્યાય",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 9",
+                    "videos": [
+                      {
+                        "video_name": "પાદર અભ્યાસ સ્વાધ્યાય",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/o4VwRhS2H38"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "પાદર અભ્યાસ સ્વાધ્યાય",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "પુનરાવર્તન 2",
+                    "videos": [
+                      {
+                        "video_name": "પુનરાવર્તન 2",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": " https://youtu.be/3AlHIi-8_A8"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "પુનરાવર્તન 2",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                       }
                     ]
                   }
