@@ -6552,6 +6552,221 @@
                     ]
                   }
                 ]
+              },
+              {
+                "standard_name": "Gujarati સેમેસ્ટર - 2",
+                "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                "month_cat": [
+                  {
+                    "month_name": "Ch - 10",
+                    "videos": [
+                      {
+                        "video_name": "આલા લીલા વાંસડીયા",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/Z4ot6Yf9zWE"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "આલા લીલા વાંસડીયા",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 11",
+                    "videos": [
+                      {
+                        "video_name": "એક જાદુઇ પત્રની વાર્તા",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/j1EuSfzddJc"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "એક જાદુઇ પત્રની વાર્તા",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                      {
+                        "month_name": "Ch - 12",
+                        "videos": [
+                          {
+                            "video_name": "રાવણનું  મિથ્યાભિમાન",
+                            "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                            "video_link": "https://youtu.be/0tCobvT3OTo"
+                          }
+                        ],
+                        "material": [
+                          
+                        ],
+                        "textbook": [
+                          {
+                            "textbook_name": "રાવણનું  મિથ્યાભિમાન",
+                            "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                          }
+                        ]
+                      },
+                      {
+                    "month_name": "Ch - 13",
+                    "videos": [
+                      {
+                        "video_name": "સાગર કાંઠાનો  પ્રવાસ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/OQKXu6VdLPs"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "સાગર કાંઠાનો  પ્રવાસ",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "પુનરાવર્તન 3",
+                    "videos": [
+                      {
+                        "video_name": "પુનરાવર્તન 3",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/NZC0Zns6LMw"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "પુનરાવર્તન 3",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 14",
+                    "videos": [
+                      {
+                        "video_name": "સારા અક્ષર",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/qyCUBaZQHgc"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "સારા અક્ષર",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 15",
+                    "videos": [
+                      {
+                        "video_name": "ગુજરાત મોરી મોરી રે",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/mOzHGGhoASU"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "ગુજરાત મોરી મોરી રે",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 16",
+                    "videos": [
+                      {
+                        "video_name": "માતૃ હદય",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": " https://youtu.be/tv5Rcrb4zQE"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "માતૃ હદય",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 17",
+                    "videos": [
+                      {
+                        "video_name": "સુગંધ કચ્છ ની ... !",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/WzE2Elcq5Fg"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "સુગંધ કચ્છ ની ... !",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 18",
+                    "videos": [
+                      {
+                        "video_name": "સુભાષીત",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/hzlVMP00pRY"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "સુભાષીત",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "પુનરાવર્તન 4",
+                    "videos": [
+                      {
+                        "video_name": "પુનરાવર્તન 4",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/qQ6smH7LJhc"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "પુનરાવર્તન 4",
+                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      }
+                    ]
+                  }
+                ]
               }
             ]
           }
