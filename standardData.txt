@@ -8526,6 +8526,493 @@
                     ]
                   }
                  ]
+               },
+               {
+                "standard_name": "ગુજરાતી પ્રથમ સત્ર",
+                "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                "month_cat": [
+                  {
+                    "month_name": "Ch - 1",
+                    "videos": [
+                      {
+                        "video_name": "મેળા માં",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/w-sMH9FW4CM"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "મેળા માં",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 2",
+                    "videos": [
+                      {
+                        "video_name": "આજની ઘડી રળિયામણી",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/39U8SDkuqmg"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "આજની ઘડી રળિયામણી",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 3",
+                    "videos": [
+                      {
+                        "video_name": "પરીક્ષા",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/u9_b-0jD6Gc"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "પરીક્ષા",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 4",
+                    "videos": [
+                      {
+                        "video_name": "બે ખાનાનો પરિગ્રહ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/jxZCbgvszPQ"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "બે ખાનાનો પરિગ્રહ",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 5",
+                    "videos": [
+                      {
+                        "video_name": "રાનમાં",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/UPVT4fwDQJ4"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "રાનમાં",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "પુનરાવર્તન  1",
+                    "videos": [
+                      {
+                        "video_name": "પુનરાવર્તન  1",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/kg2oVUYWIGU"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "પુનરાવર્તન  1",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 6",
+                    "videos": [
+                      {
+                        "video_name": "ભીખુ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/NDdTnQxJThA"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "ભીખુ",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 7",
+                    "videos": [
+                      {
+                        "video_name": "જીવનપાથેય",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/kaEUCaZ_W-4"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "જીવનપાથેય",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 8",
+                    "videos": [
+                      {
+                        "video_name": "માલમ હલેસા માર",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/MogM1iiYNxY"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "માલમ હલેસા માર",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 9",
+                    "videos": [
+                      {
+                        "video_name": "બાનો વાડો",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/4CF8EWzwMfQ"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "બાનો વાડો",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 10",
+                    "videos": [
+                      {
+                        "video_name": "વલયની અવકાશી સફર",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/4PbjJ_4AoYU"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "વલયની અવકાશી સફર",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "પુનરાવર્તન 2",
+                    "videos": [
+                      {
+                        "video_name": "પુનરાવર્તન 2",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/RDblkA1XlFU"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "પુનરાવર્તન 2",
+                        "textbook_link": ""
+                      }
+                    ]
+                  }
+                 ]
+               },
+               {
+                "standard_name": "ગુજરાતી સેમેસ્ટર - 2",
+                "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                "month_cat": [
+                  {
+                    "month_name": "Ch - 11",
+                    "videos": [
+                      {
+                        "video_name": "અખબારી નોંધ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/wG2QZrQCAiQ"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "અખબારી નોંધ",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 12",
+                    "videos": [
+                      {
+                        "video_name": "જનની",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/Ia7P2e4bO-E"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "જનની",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 13",
+                    "videos": [
+                      {
+                        "video_name": "હાઈસ્કૂલમાં",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/zxdjSiqEO_8"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "હાઈસ્કૂલમાં",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 14",
+                    "videos": [
+                      {
+                        "video_name": "ભમીએ ગુજરાતે : દક્ષિણ ભણી",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/Wz_diUXd_gM"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "ભમીએ ગુજરાતે : દક્ષિણ ભણી",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 15",
+                    "videos": [
+                      {
+                        "video_name": "આવ, ભાણા આવ !",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/CunRgGUND9c"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "આવ, ભાણા આવ !",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 16",
+                    "videos": [
+                      {
+                        "video_name": "ગ્રામમાતા",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/5q7tAIUXlIQ"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "ગ્રામમાતા",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "પુનરાવર્તન 3",
+                    "videos": [
+                      {
+                        "video_name": "પુનરાવર્તન 3",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/Om2-6JDFpWk"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "પુનરાવર્તન 3",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 17",
+                    "videos": [
+                      {
+                        "video_name": "સિંહની દોસ્તી",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/5q7tAIUXlIQ"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "સિંહની દોસ્તી",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 18",
+                    "videos": [
+                      {
+                        "video_name": "જીવરામ ભટ્ટ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/dCzQc0IkPG0"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "જીવરામ ભટ્ટ",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 19",
+                    "videos": [
+                      {
+                        "video_name": "સોના જેવી સવાર",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/p2KZFMkycM0"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "સોના જેવી સવાર",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 20",
+                    "videos": [
+                      {
+                        "video_name": "પાંચ દાણા",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/hrZHVEbbWOo"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "પાંચ દાણા",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 21",
+                    "videos": [
+                      {
+                        "video_name": "સુભાષીતો",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/Rk5lnmYs0hM"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "સુભાષીતો",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "પુનરાવર્તન 4",
+                    "videos": [
+                      {
+                        "video_name": "પુનરાવર્તન 4",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/YVQac9X7_ug"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "પુનરાવર્તન 4",
+                        "textbook_link": ""
+                      }
+                    ]
+                  }
+                 ]
                }
             ]
           }
