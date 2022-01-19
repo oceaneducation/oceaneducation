@@ -198,11 +198,66 @@
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     }
-                    
                   ],
                   "material": [
                     {
                       "material_name": "ગણિત ",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ],
@@ -349,6 +404,102 @@
                   "material": [
                     {
                       "material_name": "આસપાસ",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગણિત ",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "આસપાસ",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગણિત ",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ],
@@ -600,6 +751,58 @@
                     {
                       "material_name": "ગણિત ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ],
                   "textbook": [
@@ -746,6 +949,102 @@
                     {
                       "material_name": "આસપાસ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ],
                   "textbook": [
@@ -806,6 +1105,34 @@
                   "material": [
                     {
                       "material_name": "હિન્દી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ],
@@ -1061,6 +1388,66 @@
                     {
                       "material_name": "ગણિત ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "Gujarati",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ],
                   "textbook": [
@@ -1202,6 +1589,106 @@
                     {
                       "material_name": "આસપાસ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "આસપાસ",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ],
                   "textbook": [
@@ -1303,6 +1790,70 @@
                     {
                       "material_name": "હિન્દી",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "આસપાસ",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "આસપાસ",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ],
                   "textbook": [
@@ -1353,6 +1904,30 @@
                   "material": [
                     {
                       "material_name": "અંગ્રેજી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ],
