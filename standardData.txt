@@ -9027,41 +9027,25 @@
             "sub_data_name": "ધોરણ 8",
             "standard_data": [
               {
-                "standard_name": "ગણિત ",
+                "standard_name": "ગુજરાતી સેમેસ્ટર - 1",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
                     "month_name": "Ch - 1",
                     "videos": [
                       {
-                        "video_name": "Psycology",
+                        "video_name": "બજારમાં",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
-                      },
-                      {
-                        "video_name": "Geography",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
+                        "video_link": "https://youtu.be/7wa7MiEI3ZE"
                       }
                     ],
                     "material": [
-                      {
-                        "material_name": "Account",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "material_name": "BA",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
+                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "textbook1",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "textbook_name": "textbook2",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_name": "બજારમાં",
+                        "textbook_link": ""
                       }
                     ]
                   },
@@ -9069,419 +9053,566 @@
                     "month_name": "Ch - 2",
                     "videos": [
                       {
-                        "video_name": "Psycology",
+                        "video_name": "એક જ દે ચિનગારી",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
-                      },
-                      {
-                        "video_name": "Geography",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
+                        "video_link": "https://youtu.be/kKiky63AFvI"
                       }
                     ],
                     "material": [
-                      {
-                        "material_name": "Account",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "material_name": "BA",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
+                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "textbook1",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
+                        "textbook_name": "એક જ દે ચિનગારી",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 3",
+                    "videos": [
                       {
-                        "textbook_name": "textbook2",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "video_name": "જુમો ભિસ્તી",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/SlXizco8AqM"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "જુમો ભિસ્તી",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 4",
+                    "videos": [
+                      {
+                        "video_name": "તને ઓળખું છું, મા",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/oMEyUj-46I0"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "તને ઓળખું છું, મા",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 5",
+                    "videos": [
+                      {
+                        "video_name": "એક મુલાકાત",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/8EmmCFcexVw"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "એક મુલાકાત",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "પુનરાવર્તન 1",
+                    "videos": [
+                      {
+                        "video_name": "પુનરાવર્તન 1",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/oJCwH5emGe4"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "પુનરાવર્તન 1",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 6",
+                    "videos": [
+                      {
+                        "video_name": "ધૂળિયે મારગ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/8Fj-ddVLLBc"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "ધૂળિયે મારગ",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 7",
+                    "videos": [
+                      {
+                        "video_name": "દેશભક્ત જગડુશા",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/EfvNG_CcpXg"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "દેશભક્ત જગડુશા",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 8",
+                    "videos": [
+                      {
+                        "video_name": "આજ આનંદ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/XDlLaUwpYiQ"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "આજ આનંદ",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 9",
+                    "videos": [
+                      {
+                        "video_name": "દીકરાનો મારનાર",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/yP18fvujdI4"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "દીકરાનો મારનાર",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 10",
+                    "videos": [
+                      {
+                        "video_name": "અઢી આના",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/4SsxbmQ5JRI"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "અઢી આના",
+                        "textbook_link": ""
                       }
                     ]
                   }
                 ]
               },
               {
-                "standard_name": "English",
+                "standard_name": "ગુજરાતી સેમેસ્ટર - 2",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
-                    "month_name": "Ch - 1",
+                    "month_name": "Ch - 11",
                     "videos": [
                       {
-                        "video_name": "Psycology",
+                        "video_name": "વળાવી બા આવી",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
-                      },
-                      {
-                        "video_name": "Geography",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
+                        "video_link": "https://youtu.be/8t1Tp1nYAfY"
                       }
                     ],
                     "material": [
-                      {
-                        "material_name": "Account",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "material_name": "BA",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
+                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "textbook1",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "textbook_name": "textbook2",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_name": "વળાવી બા આવી",
+                        "textbook_link": ""
                       }
                     ]
                   },
                   {
-                    "month_name": "Ch - 2",
+                    "month_name": "Ch - 12",
                     "videos": [
                       {
-                        "video_name": "Psycology",
+                        "video_name": "નવા વર્ષના સંકલ્પો",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
-                      },
-                      {
-                        "video_name": "Geography",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
+                        "video_link": "https://youtu.be/0qWQbExpAUY"
                       }
                     ],
                     "material": [
-                      {
-                        "material_name": "Account",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "material_name": "BA",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
+                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "textbook1",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
+                        "textbook_name": "નવા વર્ષના સંકલ્પો",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 13",
+                    "videos": [
                       {
-                        "textbook_name": "textbook2",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "video_name": "શરૂઆત કરીએ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/-9F7_C_Xc2I"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "શરૂઆત કરીએ",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 14",
+                    "videos": [
+                      {
+                        "video_name": "સાકરનો શોધનારો",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/jqKGQ6e77nY"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "સાકરનો શોધનારો",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 15",
+                    "videos": [
+                      {
+                        "video_name": "અખંડ ભારતના શિલ્પી",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/1Kk7j3DUK18"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "અખંડ ભારતના શિલ્પી",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 16",
+                    "videos": [
+                      {
+                        "video_name": "સુદામો દીઠા શ્રીકૃષ્ણદેવ રે !",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/t42f8FCft2w"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "સુદામો દીઠા શ્રીકૃષ્ણદેવ રે !",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "પુનરાવર્તન  (પાઠ 11 થી 16)",
+                    "videos": [
+                      {
+                        "video_name": "પુનરાવર્તન  (પાઠ 11 થી 16)",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/_czKxQvtVSw"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "પુનરાવર્તન  (પાઠ 11 થી 16)",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 17",
+                    "videos": [
+                      {
+                        "video_name": "સંસ્કારની શ્રીમંતાઈ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/WzsQSrlMmWE"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "સંસ્કારની શ્રીમંતાઈ",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 18",
+                    "videos": [
+                      {
+                        "video_name": "દુહા-મુક્તક-હાઈકુ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/voYTi6I1Jvk"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "દુહા-મુક્તક-હાઈકુ",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 19",
+                    "videos": [
+                      {
+                        "video_name": "સાંઢ નાથ્યો",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/5uCtkxlm0CM"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "સાંઢ નાથ્યો",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 20",
+                    "videos": [
+                      {
+                        "video_name": "બહેનનો પત્ર",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/SBXH6SaMemk"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "બહેનનો પત્ર",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 21",
+                    "videos": [
+                      {
+                        "video_name": "કામાડે ચીતર્યા મેં..",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/PsYyrUQnwi4"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "કામાડે ચીતર્યા મેં..",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 22",
+                    "videos": [
+                      {
+                        "video_name": "કિસ્સા - ટુચકા",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/F5mvroTOK-Y"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "કિસ્સા - ટુચકા",
+                        "textbook_link": ""
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "પુનરાવર્તન (પાઠ 17 થી 22)",
+                    "videos": [
+                      {
+                        "video_name": "પુનરાવર્તન (પાઠ 17 થી 22)",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/f9B1sEzAD88"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "પુનરાવર્તન (પાઠ 17 થી 22)",
+                        "textbook_link": ""
                       }
                     ]
                   }
                 ]
               },
               {
-                "standard_name": "Computer",
+                "standard_name": "હિન્દી સેમેસ્ટર - 2",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
                     "month_name": "Ch - 1",
                     "videos": [
                       {
-                        "video_name": "Psycology",
+                        "video_name": "",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
-                      },
-                      {
-                        "video_name": "Geography",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
+                        "video_link": ""
                       }
                     ],
                     "material": [
-                      {
-                        "material_name": "Account",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "material_name": "BA",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
+                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "textbook1",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "textbook_name": "textbook2",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "month_name": "Ch - 2",
-                    "videos": [
-                      {
-                        "video_name": "Psycology",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
-                      },
-                      {
-                        "video_name": "Geography",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
-                      }
-                    ],
-                    "material": [
-                      {
-                        "material_name": "Account",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "material_name": "BA",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
-                    ],
-                    "textbook": [
-                      {
-                        "textbook_name": "textbook1",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "textbook_name": "textbook2",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_name": "",
+                        "textbook_link": ""
                       }
                     ]
                   }
                 ]
               },
               {
-                "standard_name": "hindi",
+                "standard_name": "હિન્દી સેમેસ્ટર - 2",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
                     "month_name": "Ch - 1",
                     "videos": [
                       {
-                        "video_name": "Psycology",
+                        "video_name": "",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
-                      },
-                      {
-                        "video_name": "Geography",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
+                        "video_link": ""
                       }
                     ],
                     "material": [
-                      {
-                        "material_name": "Account",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "material_name": "BA",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
+                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "textbook1",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "textbook_name": "textbook2",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "month_name": "Ch - 2",
-                    "videos": [
-                      {
-                        "video_name": "Psycology",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
-                      },
-                      {
-                        "video_name": "Geography",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
-                      }
-                    ],
-                    "material": [
-                      {
-                        "material_name": "Account",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "material_name": "BA",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
-                    ],
-                    "textbook": [
-                      {
-                        "textbook_name": "textbook1",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "textbook_name": "textbook2",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_name": "",
+                        "textbook_link": ""
                       }
                     ]
                   }
                 ]
               },
               {
-                "standard_name": "Gujarati",
+                "standard_name": "સંસ્કૃત સેમેસ્ટર - 1",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
                     "month_name": "Ch - 1",
                     "videos": [
                       {
-                        "video_name": "Psycology",
+                        "video_name": "",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
-                      },
-                      {
-                        "video_name": "Geography",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
+                        "video_link": ""
                       }
                     ],
                     "material": [
-                      {
-                        "material_name": "Account",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "material_name": "BA",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
+                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "textbook1",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "textbook_name": "textbook2",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "month_name": "Ch - 2",
-                    "videos": [
-                      {
-                        "video_name": "Psycology",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
-                      },
-                      {
-                        "video_name": "Geography",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
-                      }
-                    ],
-                    "material": [
-                      {
-                        "material_name": "Account",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "material_name": "BA",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
-                    ],
-                    "textbook": [
-                      {
-                        "textbook_name": "textbook1",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "textbook_name": "textbook2",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "standard_name": "hindi",
-                    "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                    "month_cat": [
-                      {
-                        "month_name": "Ch - 1",
-                        "videos": [
-                          {
-                            "video_name": "Psycology",
-                            "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                            "video_link": "https://youtu.be/Ga64onF9J0c"
-                          },
-                          {
-                            "video_name": "Geography",
-                            "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                            "video_link": "https://youtu.be/Ga64onF9J0c"
-                          }
-                        ],
-                        "material": [
-                          {
-                            "material_name": "Account",
-                            "material_link": "https://www.orimi.com/pdf-test.pdf"
-                          },
-                          {
-                            "material_name": "BA",
-                            "material_link": "https://www.orimi.com/pdf-test.pdf"
-                          }
-                        ],
-                        "textbook": [
-                          {
-                            "textbook_name": "textbook1",
-                            "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                          },
-                          {
-                            "textbook_name": "textbook2",
-                            "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                          }
-                        ]
-                      },
-                      {
-                        "month_name": "Ch - 2",
-                        "videos": [
-                          {
-                            "video_name": "Psycology",
-                            "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                            "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
-                          },
-                          {
-                            "video_name": "Geography",
-                            "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                            "video_link": "https://youtu.be/Ga64onF9J0c"
-                          }
-                        ],
-                        "material": [
-                          {
-                            "material_name": "Account",
-                            "material_link": "https://www.orimi.com/pdf-test.pdf"
-                          },
-                          {
-                            "material_name": "BA",
-                            "material_link": "https://www.orimi.com/pdf-test.pdf"
-                          }
-                        ],
-                        "textbook": [
-                          {
-                            "textbook_name": "textbook1",
-                            "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                          },
-                          {
-                            "textbook_name": "textbook2",
-                            "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                          }
-                        ]
+                        "textbook_name": "",
+                        "textbook_link": ""
                       }
                     ]
                   }
                 ]
-              }
+              },
+              {
+                "standard_name": "સંસ્કૃત સેમેસ્ટર - 2",
+                "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                "month_cat": [
+                  {
+                    "month_name": "Ch - 1",
+                    "videos": [
+                      {
+                        "video_name": "",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "",
+                        "textbook_link": ""
+                      }
+                    ]
+                  }
+                ]
+              },
             ]
           }
         ]
