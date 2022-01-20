@@ -1015,42 +1015,42 @@
                   "month_name": " હિન્દી ",
                   "videos": [
                     {
-                      "video_name": "હિન્દી",
+                      "video_name": "પાઠ : 1. नई राह   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                      {
-                      "video_name": "આસપાસ",
+                      "video_name": "પાઠ : 2. बढ़ते कदम",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગણિત ",
+                      "video_name": "પાઠ : 3. गिनती (१ से २०)",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                      {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 4. अपने बारे में...   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 5. धम्मक-धम्मक आता हाथी ",  
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 6. टपका का डर  ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 7. झूला   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 8. चतुर चूहा  ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     }
