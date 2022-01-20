@@ -1779,32 +1779,32 @@
                   "month_name": "અંગ્રેજી",
                   "videos": [
                     {
-                      "video_name": "અંગ્રેજી",
+                      "video_name": "પાઠ : 1 what is in this unit?  ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "હિન્દી",
+                      "video_name": "પાઠ : 2 : umbrellas are colourful   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                      {
-                      "video_name": "આસપાસ",
+                      "video_name": "પાઠ : 3 : travel-time    ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "આસપાસ",
+                      "video_name": "પાઠ : 4 : I am learning English  ", 
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગણિત ",
+                      "video_name":"પાઠ : 5 : helping hands   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                      {
-                      "video_name": "ગુજરાતી",
+                      "video_name":"પાઠ : 6 : I studied, ‘helping hands’",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     }
