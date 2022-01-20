@@ -380,103 +380,103 @@
                   ],
                   "material": [
                     {
-                      "material_name": "આસપાસ",
+                      "material_name":"પાઠ : 1 : પૂનમે શું જોયું ?   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગણિત ",
+                      "material_name": "પાઠ : 2 : વનપરી   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 3 : પાણી જ પાણી !    ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 4 : છોટુનું ઘર   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 5 : ઘર એક શાળા   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name":"પાઠ : 6 : ખાધા વિના ન ચાલે  ", 
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 7 : અનોખો સંવાદ   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 8 : ફરરર...   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 9 : આવ રે વરસાદ   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 10 : રસોડાની વાત",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 11 : આપણાં વાહનો",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name":"પાઠ : 12 : આપણાં કામ   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 13 : આપણી લાગણીઓની ભાગીદારી !  ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 14 : આપનો ખોરાક   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 15 : માટીની મજા",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 16 : મારું ઘર",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "આસપાસ",
+                      "material_name": "પાઠ : 17 : પત્રનો પ્રવાસ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગણિત ",
+                      "material_name": "પાઠ : 18 : રમતાં-રમતાં",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 19 : આપણાં સાથી",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 20 : કેટલા રે કેટલા",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 21 : પાણી બચાવીએ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name":"પાઠ : 22 : ડાબું-જમણું",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 23 : સુંદર કપડાં",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 24 : જીવનનું જાળું",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name":"પાઠ : 25 : મારો તાલુકો ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ],
