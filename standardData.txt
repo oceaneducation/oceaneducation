@@ -6838,7 +6838,7 @@
                     "textbook": [
                       {
                         "textbook_name": "રેલ્વેસ્ટેશન અભ્યાસ સ્વાધ્યાય",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ..sem 1 CH -1.pdf"
                       }
                     ]
                   },
@@ -6857,7 +6857,7 @@
                     "textbook": [
                       {
                         "textbook_name": "હિન્દ માતાને સંબોધન અભ્યાસ સ્વાધ્યાય",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ..sem 1 CH -2.pdf"
                       }
                     ]
                   },
@@ -6876,7 +6876,7 @@
                         "textbook": [
                           {
                             "textbook_name": "દ્રીદલ અભ્યાસ સ્વાધ્યાય",
-                            "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                            "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ..sem 1 CH -3.pdf"
                           }
                         ]
                       },
@@ -6895,7 +6895,7 @@
                     "textbook": [
                       {
                         "textbook_name": "રવિશંકર મહારાજ અભ્યાસ સ્વાધ્યાય",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ..sem 1 CH -4.pdf"
                       }
                     ]
                   },
@@ -6914,7 +6914,7 @@
                     "textbook": [
                       {
                         "textbook_name": "પુનરાવર્તન 1",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ. PUNRAVTAN.pdf"
                       }
                     ]
                   },
@@ -6933,7 +6933,7 @@
                     "textbook": [
                       {
                         "textbook_name": "મહેનતની મોસમ અભ્યાસ સ્વાધ્યાય",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ..sem 1 CH -5.pdf"
                       }
                     ]
                   },
@@ -6952,7 +6952,7 @@
                     "textbook": [
                       {
                         "textbook_name": "લેખણ ઝાલી નો રહી અભ્યાસ સ્વાધ્યાય",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ..sem 1 CH -6.pdf"
                       }
                     ]
                   },
@@ -6971,7 +6971,7 @@
                     "textbook": [
                       {
                         "textbook_name": "પગલે-પગલે અભ્યાસ સ્વાધ્યાય",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ..sem 1 CH -7.pdf"
                       }
                     ]
                   },
@@ -6990,7 +6990,7 @@
                     "textbook": [
                       {
                         "textbook_name": "બિરબલની યુકતી અભ્યાસ સ્વાધ્યાય",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ..sem 1 CH -8.pdf"
                       }
                     ]
                   },
@@ -7009,7 +7009,7 @@
                     "textbook": [
                       {
                         "textbook_name": "પાદર અભ્યાસ સ્વાધ્યાય",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ..sem 1 CH -9.pdf"
                       }
                     ]
                   },
@@ -7028,7 +7028,7 @@
                     "textbook": [
                       {
                         "textbook_name": "પુનરાવર્તન 2",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ. PUNRAVTAN.pdf"
                       }
                     ]
                   }
@@ -7053,7 +7053,7 @@
                     "textbook": [
                       {
                         "textbook_name": "આલા લીલા વાંસડીયા",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ. sem 2 CH -1.pdf"
                       }
                     ]
                   },
@@ -7072,7 +7072,7 @@
                     "textbook": [
                       {
                         "textbook_name": "એક જાદુઇ પત્રની વાર્તા",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ. sem 2 CH -2.pdf"
                       }
                     ]
                   },
@@ -7091,7 +7091,7 @@
                         "textbook": [
                           {
                             "textbook_name": "રાવણનું  મિથ્યાભિમાન",
-                            "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                            "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ. sem 2 CH -3.pdf"
                           }
                         ]
                       },
@@ -7110,7 +7110,7 @@
                     "textbook": [
                       {
                         "textbook_name": "સાગર કાંઠાનો  પ્રવાસ",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ. sem 2 CH -4.pdf"
                       }
                     ]
                   },
@@ -7127,10 +7127,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "પુનરાવર્તન 3",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
+                    
                     ]
                   },
                   {
@@ -7148,7 +7145,7 @@
                     "textbook": [
                       {
                         "textbook_name": "સારા અક્ષર",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ. sem 2 CH -5.pdf"
                       }
                     ]
                   },
@@ -7167,7 +7164,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ગુજરાત મોરી મોરી રે",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ. sem 2 CH -6.pdf"
                       }
                     ]
                   },
@@ -7186,7 +7183,7 @@
                     "textbook": [
                       {
                         "textbook_name": "માતૃ હદય",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ. sem 2 CH -7.pdf"
                       }
                     ]
                   },
@@ -7205,7 +7202,7 @@
                     "textbook": [
                       {
                         "textbook_name": "સુગંધ કચ્છ ની ... !",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ. sem 2 CH -8.pdf"
                       }
                     ]
                   },
@@ -7224,7 +7221,7 @@
                     "textbook": [
                       {
                         "textbook_name": "સુભાષીત",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ. sem 2 CH -9.pdf"
                       }
                     ]
                   },
@@ -7241,9 +7238,72 @@
                       
                     ],
                     "textbook": [
+                     
+                    ]
+                  }
+                ]
+              },
+              {
+                "standard_name": "English Sem - 1",
+                "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                "month_cat": [
+                  {
+                    "month_name": "Ch - 1",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
                       {
-                        "textbook_name": "પુનરાવર્તન 4",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_name": "Ch - 1",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 ENG. sem 1 CH -1.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 2",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "CH - 2",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 ENG. sem 1 CH -2.pdf"
+                      }
+                    ]
+                  },
+                  {
+                        "month_name": "Ch - 3",
+                        "videos": [
+                          
+                        ],
+                        "material": [
+                          
+                        ],
+                        "textbook": [
+                          {
+                            "textbook_name": "CH -3",
+                            "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ. sem 2 CH -3.pdf"
+                          }
+                        ]
+                      },
+                  {
+                    "month_name": "Ch - 4",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "CH -4",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 ENG. sem 1 CH -4.pdf"
                       }
                     ]
                   }
