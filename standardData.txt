@@ -7308,6 +7308,87 @@
                     ]
                   }
                 ]
+              },
+              {
+                "standard_name": "English Sem - 2",
+                "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                "month_cat": [
+                  {
+                    "month_name": "Ch - 1",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 1",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 ENG. sem 2 CH -1.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 2",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "CH - 2",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 ENG. sem 2 CH -2.pdf"
+                      }
+                    ]
+                  },
+                  {
+                        "month_name": "Ch - 3",
+                        "videos": [
+                          
+                        ],
+                        "material": [
+                          
+                        ],
+                        "textbook": [
+                          {
+                            "textbook_name": "CH -3",
+                            "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ. sem 2 CH -3.pdf"
+                          }
+                        ]
+                      },
+                  {
+                    "month_name": "Ch - 4",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "CH -4",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 ENG. sem 2 CH -4.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 5",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "CH -5",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 ENG. sem 2 CH -5.pdf"
+                      }
+                    ]
+                  }
+                ]
               }
             ]
           }
@@ -7341,7 +7422,7 @@
                     "textbook": [
                       {
                         "textbook_name": "રાજપુતયુગ = નવા શાશકો અને રાજ્યો",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-1.pdf"
                       }
                     ]
                   },
@@ -7360,7 +7441,7 @@
                     "textbook": [
                       {
                         "textbook_name": "દિલ્લી સલ્તનત",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-2.pdf"
                       }
                     ]
                   },
@@ -7379,7 +7460,7 @@
                     "textbook": [
                       {
                         "textbook_name": "મુઘલ સામ્રાજ્ય",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-3.pdf"
                       }
                     ]
                   },
@@ -7398,7 +7479,7 @@
                     "textbook": [
                       {
                         "textbook_name": "મધ્યયુગીન સ્થાપત્યો, શહેરો, વેપારી અને કારીગરો",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-4.pdf"
                       }
                     ]
                   },
@@ -7417,7 +7498,7 @@
                     "textbook": [
                       {
                         "textbook_name": "આદિવાસી ( અનુસૂચિત જનજાતિઓ )",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-5.pdf"
                       }
                     ]
                   },
@@ -7436,7 +7517,7 @@
                     "textbook": [
                       {
                         "textbook_name": "વિચરતી અને વિમુક્ત જાતિઓ",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-6.pdf"
                       }
                     ]
                   },
@@ -7455,7 +7536,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ભક્તિયુગ : ધાર્મિક સમુદાયો અને વિચારકો",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-7.pdf"
                       }
                     ]
                   },
@@ -7474,7 +7555,7 @@
                     "textbook": [
                       {
                         "textbook_name": "પ્રાદેશિક સંસ્કૃતિનું ઘડતર",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-8.pdf"
                       }
                     ]
                   },
@@ -7493,7 +7574,7 @@
                     "textbook": [
                       {
                         "textbook_name": "દઅઢારમી સદીના રાજકીય શાશકો",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-9.pdf"
                       }
                     ]
                   },
@@ -7512,7 +7593,7 @@
                     "textbook": [
                       {
                         "textbook_name": "પૃથ્વીની આંતરિક રચના અને ભૂમિસ્વરૂપો",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-10.pdf"
                       }
                     ]
                   },
@@ -7531,7 +7612,7 @@
                     "textbook": [
                       {
                         "textbook_name": "પર્યાવરણના ઘટકો અને આંતરસંબંધો",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7samajCH-11.pdf"
                       }
                     ]
                   },
@@ -7550,7 +7631,7 @@
                     "textbook": [
                       {
                         "textbook_name": "વાતાવરણની સજીવો પર અસર",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-12.pdf"
                       }
                     ]
                   },
@@ -7569,7 +7650,7 @@
                     "textbook": [
                       {
                         "textbook_name": "આપતી અને વ્યવસ્થાપન",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-13.pdf"
                       }
                     ]
                   },
@@ -7586,10 +7667,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "સંસાધનોનું  જતન અને સંરક્ષણ",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
+                     
                     ]
                   },
                   {
@@ -7605,10 +7683,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "લોકશાહીમાં સમાનતા",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
+                     
                     ]
                   },
                   {
@@ -7624,10 +7699,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "રાજ્ય સરકાર",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
+                      
                     ]
                   },
                   {
@@ -7643,10 +7715,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "જાતિગત ભિન્નતા",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
+                      
                     ]
                   },
                   {
@@ -7662,10 +7731,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "સંચાર માધ્યમો અને જાહેરાત",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
+                     
                     ]
                   },
                   {
@@ -7681,10 +7747,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "બજાર",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
+                      
                     ]
                   }
                 ]
@@ -7708,7 +7771,7 @@
                     "textbook": [
                       {
                         "textbook_name": "चित्र के संग संग ( चित्र पाठ )",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 HINDI sem 1 CH- 1.pdf"
                       }
                     ]
                   },
@@ -7727,7 +7790,7 @@
                     "textbook": [
                       {
                         "textbook_name": "तब याद तुम्हारी आती है",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 HINDI sem 1 CH-2.pdf"
                       }
                     ]
                   },
@@ -7746,7 +7809,7 @@
                     "textbook": [
                       {
                         "textbook_name": "कुत्ते की वफादारी",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 HINDI sem 1 CH- 3.pdf"
                       }
                     ]
                   },
@@ -7765,7 +7828,7 @@
                     "textbook": [
                       {
                         "textbook_name": "कथनी और करनी",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 HINDI sem 1 CH-4.pdf"
                       }
                     ]
                   },
@@ -7784,7 +7847,7 @@
                     "textbook": [
                       {
                         "textbook_name": "पुनरावर्तन 1",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 HINDI PUNRAVTAN.pdf"
                       }
                     ]
                   },
@@ -7803,7 +7866,7 @@
                     "textbook": [
                       {
                         "textbook_name": "हिन्द देश के निवासी",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 HINDI sem 1 CH-5.pdf"
                       }
                     ]
                   },
@@ -7822,7 +7885,7 @@
                     "textbook": [
                       {
                         "textbook_name": "डॉ विक्रम साराभाई",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 HINDI sem 1 CH-6.pdf"
                       }
                     ]
                   },
@@ -7841,7 +7904,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ढूंढते रह जाओगे",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 HINDI sem 1 CH-7.pdf"
                       }
                     ]
                   },
@@ -7860,7 +7923,7 @@
                     "textbook": [
                       {
                         "textbook_name": "दोहा अष्टक",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 HINDI sem 1 CH-8.pdf"
                       }
                     ]
                   },
@@ -7879,7 +7942,7 @@
                     "textbook": [
                       {
                         "textbook_name": "पुनरावर्तन 2",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 HINDI PUNRAVTAN.pdf"
                       }
                     ]
                   },
@@ -7896,10 +7959,7 @@
                      
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "मौखिक कसोटी",
-                        "textbook_link": ""
-                      }
+                     
                     ]
                   },
                   {
@@ -7915,10 +7975,7 @@
                      
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "लेखित कसोटी",
-                        "textbook_link": ""
-                      }
+                     
                     ]
                   },
                   {
@@ -7934,16 +7991,13 @@
                      
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "क्रियात्मक कसोटी",
-                        "textbook_link": ""
-                      }
+                     
                     ]
                   }
             ]
           },
           {
-                "standard_name": "હિન્દી प्रथम सत्र ",
+                "standard_name": "હિન્દી द्रितय सत्र ",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -7961,7 +8015,7 @@
                     "textbook": [
                       {
                         "textbook_name": "बेटी",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 HINDI sem 2 CH -1.pdf"
                       }
                     ]
                   },
@@ -7980,7 +8034,7 @@
                     "textbook": [
                       {
                         "textbook_name": "हम भी बने महान",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 HINDI sem 2 CH -2.pdf"
                       }
                     ]
                   },
@@ -7999,7 +8053,7 @@
                     "textbook": [
                       {
                         "textbook_name": "सच्चा हीरा",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 HINDI sem 2 CH -3.pdf"
                       }
                     ]
                   },
@@ -8018,7 +8072,7 @@
                     "textbook": [
                       {
                         "textbook_name": "देश के नाम संदेशी",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 HINDI sem 2 CH -4.pdf"
                       }
                     ]
                   },
@@ -8037,7 +8091,7 @@
                     "textbook": [
                       {
                         "textbook_name": "धरती की शान",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 HINDI sem 2 CH -5.pdf"
                       }
                     ]
                   },
@@ -8054,10 +8108,7 @@
                      
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "पुनरावर्तन 1",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -8075,7 +8126,7 @@
                     "textbook": [
                       {
                         "textbook_name": "मालवजी फौजदार",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 HINDI sem 2 CH -6.pdf"
                       }
                     ]
                   },
@@ -8094,7 +8145,7 @@
                     "textbook": [
                       {
                         "textbook_name": "बढ़े कहानी",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 HINDI sem 2 CH -7.pdf"
                       }
                     ]
                   },
@@ -8113,7 +8164,7 @@
                     "textbook": [
                       {
                         "textbook_name": "मुस्कान के मोती",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 HINDI sem 2v CH -8.pdf"
                       }
                     ]
                   },
@@ -8132,7 +8183,7 @@
                     "textbook": [
                       {
                         "textbook_name": "समय - सारिणी",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 HINDI sem 2 CH -9.pdf"
                       }
                     ]
                   },
@@ -8151,7 +8202,7 @@
                     "textbook": [
                       {
                         "textbook_name": "अंदाज अपना-अपना",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 HINDI sem 2 CH -10.pdf"
                       }
                     ]
                   },
@@ -8168,10 +8219,7 @@
                      
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "पुनरावर्तन 2ी",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   }
                  ]
@@ -8193,10 +8241,7 @@
                      
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "वंदना",
-                        "textbook_link": ""
-                      }
+                     
                     ]
                   },
                   {
@@ -8214,7 +8259,7 @@
                     "textbook": [
                       {
                         "textbook_name": "चित्र पदानी 1 तः 3",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SANSKRIT sem 1 CH - 1.pdf"
                       }
                     ]
                   },
@@ -8233,7 +8278,7 @@
                     "textbook": [
                       {
                         "textbook_name": "मेघो वर्षती",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SANSKRITsem 1 CH - 2.pdf"
                       }
                     ]
                   },
@@ -8252,7 +8297,7 @@
                     "textbook": [
                       {
                         "textbook_name": "कोडरुक",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SANSKRIT sem 1 CH - 3.pdf"
                       }
                     ]
                   },
@@ -8271,7 +8316,7 @@
                     "textbook": [
                       {
                         "textbook_name": "हास्ययोग",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SANSKRIT sem 1 CH - 4.pdf"
                       }
                     ]
                   },
@@ -8290,7 +8335,7 @@
                     "textbook": [
                       {
                         "textbook_name": "चटक ! चटक !",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SANSKRIT sem 1 CH - 5.pdf"
                       }
                     ]
                   },
@@ -8307,10 +8352,7 @@
                      
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "पुनरावतनम् 1",
-                        "textbook_link": ""
-                      }
+                     
                     ]
                   },
                   {
@@ -8328,7 +8370,7 @@
                     "textbook": [
                       {
                         "textbook_name": "सड़ख्या",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SANSKRIT sem 1 CH - 6.pdf"
                       }
                     ]
                   },
@@ -8347,7 +8389,7 @@
                     "textbook": [
                       {
                         "textbook_name": "विश्वासो नैव कर्तव्य ",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SANSKRIT sem 1 CH - 7.pdf"
                       }
                     ]
                   },
@@ -8366,7 +8408,7 @@
                     "textbook": [
                       {
                         "textbook_name": "समय ",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SANSKRITsem 1 CH - 8.pdf"
                       }
                     ]
                   },
@@ -8385,7 +8427,7 @@
                     "textbook": [
                       {
                         "textbook_name": "आम्लम द्राक्षाफलम",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SANSKRIT sem 1 CH - 9.pdf"
                       }
                     ]
                   },
@@ -8402,10 +8444,7 @@
                      
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "पुनरावतनम् 2",
-                        "textbook_link": ""
-                      }
+                     
                     ]
                   }
                 ]
@@ -8429,7 +8468,7 @@
                     "textbook": [
                       {
                         "textbook_name": "प्रहेलिका",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SANSKRIT sem 2 CH - 1.pdf"
                       }
                     ]
                   },
@@ -8448,7 +8487,7 @@
                     "textbook": [
                       {
                         "textbook_name": "वार्तालाप",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SANSKRIT sem 2 CH - 1.pdf"
                       }
                     ]
                   },
@@ -8467,7 +8506,7 @@
                     "textbook": [
                       {
                         "textbook_name": "सुभाषितानी",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SANSKRIT sem 2 CH- 3.pdf"
                       }
                     ]
                   },
@@ -8486,7 +8525,7 @@
                     "textbook": [
                       {
                         "textbook_name": "धरा गुर्जरी",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SANSKRIT sem 2 CH- 4.pdf"
                       }
                     ]
                   },
@@ -8505,7 +8544,7 @@
                     "textbook": [
                       {
                         "textbook_name": "योजक: तत्र दुर्लभ : ",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SANSKRIT sem 2 CH- 5.pdf"
                       }
                     ]
                   },
@@ -8522,10 +8561,7 @@
                      
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "पुनरावर्तनम्  1",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -8543,7 +8579,7 @@
                     "textbook": [
                       {
                         "textbook_name": "विज्ञानस्य  चमत्कारा :",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SANSKRIT sem 2 CH- 6.pdf"
                       }
                     ]
                   },
@@ -8562,7 +8598,7 @@
                     "textbook": [
                       {
                         "textbook_name": "सूक्त्य :",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SANSKRIT sem 2 CH- 7.pdf"
                       }
                     ]
                   },
@@ -8579,10 +8615,7 @@
                      
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "पुनरावर्तनम्  2",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   }
                  ]
@@ -8606,7 +8639,7 @@
                     "textbook": [
                       {
                         "textbook_name": "મેળા માં",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 GUJ. sem 1 CH-1.pdf"
                       }
                     ]
                   },
@@ -8625,7 +8658,7 @@
                     "textbook": [
                       {
                         "textbook_name": "આજની ઘડી રળિયામણી",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 GUJ. sem 1 CH-2.pdf"
                       }
                     ]
                   },
@@ -8644,7 +8677,7 @@
                     "textbook": [
                       {
                         "textbook_name": "પરીક્ષા",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 GUJ. sem 1 CH-3.pdf"
                       }
                     ]
                   },
@@ -8663,7 +8696,7 @@
                     "textbook": [
                       {
                         "textbook_name": "બે ખાનાનો પરિગ્રહ",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 GUJ.sem 1 CH-4.pdf"
                       }
                     ]
                   },
@@ -8682,7 +8715,7 @@
                     "textbook": [
                       {
                         "textbook_name": "રાનમાં",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 GUJ. sem 1 CH-5.pdf"
                       }
                     ]
                   },
@@ -8699,10 +8732,7 @@
                      
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "પુનરાવર્તન  1",
-                        "textbook_link": ""
-                      }
+                     
                     ]
                   },
                   {
@@ -8720,7 +8750,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ભીખુ",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 GUJ. sem 1 CH-6.pdf"
                       }
                     ]
                   },
@@ -8739,7 +8769,7 @@
                     "textbook": [
                       {
                         "textbook_name": "જીવનપાથેય",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 GUJ. sem 1 CH-7.pdf"
                       }
                     ]
                   },
@@ -8758,7 +8788,7 @@
                     "textbook": [
                       {
                         "textbook_name": "માલમ હલેસા માર",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 GUJ.sem 1 CH-8.pdf"
                       }
                     ]
                   },
@@ -8777,7 +8807,7 @@
                     "textbook": [
                       {
                         "textbook_name": "બાનો વાડો",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 GUJ. sem 1 CH-9.pdf"
                       }
                     ]
                   },
@@ -8796,7 +8826,7 @@
                     "textbook": [
                       {
                         "textbook_name": "વલયની અવકાશી સફર",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 GUJ.sem 1 CH-10.pdf"
                       }
                     ]
                   },
@@ -8813,10 +8843,7 @@
                      
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "પુનરાવર્તન 2",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   }
                  ]
@@ -8840,7 +8867,7 @@
                     "textbook": [
                       {
                         "textbook_name": "અખબારી નોંધ",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 GUJ. CH-11pdf"
                       }
                     ]
                   },
@@ -8859,7 +8886,7 @@
                     "textbook": [
                       {
                         "textbook_name": "જનની",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 GUJ. CH-12pdf"
                       }
                     ]
                   },
@@ -8878,7 +8905,7 @@
                     "textbook": [
                       {
                         "textbook_name": "હાઈસ્કૂલમાં",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 GUJ. CH-13pdf"
                       }
                     ]
                   },
@@ -8897,7 +8924,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ભમીએ ગુજરાતે : દક્ષિણ ભણી",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 GUJ. CH-14pdf"
                       }
                     ]
                   },
@@ -8916,7 +8943,7 @@
                     "textbook": [
                       {
                         "textbook_name": "આવ, ભાણા આવ !",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 GUJ. CH-15pdf"
                       }
                     ]
                   },
@@ -8935,7 +8962,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ગ્રામમાતા",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 GUJ. CH-16pdf"
                       }
                     ]
                   },
@@ -8952,10 +8979,7 @@
                      
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "પુનરાવર્તન 3",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -8973,7 +8997,7 @@
                     "textbook": [
                       {
                         "textbook_name": "સિંહની દોસ્તી",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 GUJ. CH-17pdf"
                       }
                     ]
                   },
@@ -8992,7 +9016,7 @@
                     "textbook": [
                       {
                         "textbook_name": "જીવરામ ભટ્ટ",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 GUJ. CH-18pdf"
                       }
                     ]
                   },
@@ -9011,7 +9035,7 @@
                     "textbook": [
                       {
                         "textbook_name": "સોના જેવી સવાર",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 GUJ. CH-19pdf"
                       }
                     ]
                   },
@@ -9030,7 +9054,7 @@
                     "textbook": [
                       {
                         "textbook_name": "પાંચ દાણા",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 GUJ. CH-20pdf"
                       }
                     ]
                   },
@@ -9047,10 +9071,7 @@
                      
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "સુભાષીતો",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -9066,9 +9087,237 @@
                      
                     ],
                     "textbook": [
+                      
+                    ]
+                  }
+                 ]
+               },
+               {
+                "standard_name": "Maths",
+                "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                "month_cat": [
+                  {
+                    "month_name": "Ch - 1",
+                    "videos": [
+                     
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
                       {
-                        "textbook_name": "પુનરાવર્તન 4",
-                        "textbook_link": ""
+                        "textbook_name": "Ch - 1",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 MATHS CH -1.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 2",
+                    "videos": [
+                     
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 2",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 MATHS CH -2.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 3",
+                    "videos": [
+                     
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 3",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 MATHS CH -3.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 4",
+                    "videos": [
+                     
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 4",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 MATHS CH -4.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 5",
+                    "videos": [
+                     
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 5",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 MATHS CH -5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 6",
+                    "videos": [
+                     
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 6",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 MATHS CH -6.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 7",
+                    "videos": [
+                     
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 7",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 MATHS CH -7.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 8",
+                    "videos": [
+                     
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 8",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 MATHS CH -8.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 9",
+                    "videos": [
+                     
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 9",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 MATHS CH -9.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 10",
+                    "videos": [
+                     
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 10",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 MATHS CH -10.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 11",
+                    "videos": [
+                     
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 11",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 MATHS CH -11.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 12",
+                    "videos": [
+                     
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 12",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 MATHS CH -12.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 13",
+                    "videos": [
+                     
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 13",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 MATHS CH -13.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 14",
+                    "videos": [
+                     
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 14",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 MATHS CH -14.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 15",
+                    "videos": [
+                     
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 15",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 MATHS CH -15.pdf"
                       }
                     ]
                   }
@@ -9105,7 +9354,7 @@
                     "textbook": [
                       {
                         "textbook_name": "બજારમાં",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 1 guj ch 1.pdf"
                       }
                     ]
                   },
@@ -9124,7 +9373,7 @@
                     "textbook": [
                       {
                         "textbook_name": "એક જ દે ચિનગારી",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 1 guj ch 2.pdf"
                       }
                     ]
                   },
@@ -9143,7 +9392,7 @@
                     "textbook": [
                       {
                         "textbook_name": "જુમો ભિસ્તી",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 1 guj ch 3.pdf"
                       }
                     ]
                   },
@@ -9162,7 +9411,7 @@
                     "textbook": [
                       {
                         "textbook_name": "તને ઓળખું છું, મા",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 1 guj ch 4.pdf"
                       }
                     ]
                   },
@@ -9181,7 +9430,7 @@
                     "textbook": [
                       {
                         "textbook_name": "એક મુલાકાત",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 1 guj ch 5.pdf"
                       }
                     ]
                   },
@@ -9198,10 +9447,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "પુનરાવર્તન 1",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -9219,7 +9465,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ધૂળિયે મારગ",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 1 guj ch 6.pdf"
                       }
                     ]
                   },
@@ -9238,7 +9484,7 @@
                     "textbook": [
                       {
                         "textbook_name": "દેશભક્ત જગડુશા",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 1 guj ch 7.pdf"
                       }
                     ]
                   },
@@ -9257,7 +9503,7 @@
                     "textbook": [
                       {
                         "textbook_name": "આજ આનંદ",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 1 guj ch 8.pdf"
                       }
                     ]
                   },
@@ -9276,7 +9522,7 @@
                     "textbook": [
                       {
                         "textbook_name": "દીકરાનો મારનાર",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 1 guj ch 9.pdf"
                       }
                     ]
                   },
@@ -9295,7 +9541,7 @@
                     "textbook": [
                       {
                         "textbook_name": "અઢી આના",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 1 guj ch 10.pdf"
                       }
                     ]
                   }
@@ -9320,7 +9566,7 @@
                     "textbook": [
                       {
                         "textbook_name": "વળાવી બા આવી",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 2 guj ch 1.pdf"
                       }
                     ]
                   },
@@ -9339,7 +9585,7 @@
                     "textbook": [
                       {
                         "textbook_name": "નવા વર્ષના સંકલ્પો",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 2 guj ch 2.pdf"
                       }
                     ]
                   },
@@ -9358,7 +9604,7 @@
                     "textbook": [
                       {
                         "textbook_name": "શરૂઆત કરીએ",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 2 guj ch 3.pdf"
                       }
                     ]
                   },
@@ -9377,7 +9623,7 @@
                     "textbook": [
                       {
                         "textbook_name": "સાકરનો શોધનારો",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 2 guj ch 4.pdf"
                       }
                     ]
                   },
@@ -9396,7 +9642,7 @@
                     "textbook": [
                       {
                         "textbook_name": "અખંડ ભારતના શિલ્પી",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 2 guj ch 5.pdf"
                       }
                     ]
                   },
@@ -9415,7 +9661,7 @@
                     "textbook": [
                       {
                         "textbook_name": "સુદામો દીઠા શ્રીકૃષ્ણદેવ રે !",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 2 guj ch 6.pdf"
                       }
                     ]
                   },
@@ -9432,10 +9678,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "પુનરાવર્તન  (પાઠ 11 થી 16)",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -9453,7 +9696,7 @@
                     "textbook": [
                       {
                         "textbook_name": "સંસ્કારની શ્રીમંતાઈ",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 2 guj ch 7.pdf"
                       }
                     ]
                   },
@@ -9472,7 +9715,7 @@
                     "textbook": [
                       {
                         "textbook_name": "દુહા-મુક્તક-હાઈકુ",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 2 guj ch 8.pdf"
                       }
                     ]
                   },
@@ -9491,7 +9734,7 @@
                     "textbook": [
                       {
                         "textbook_name": "સાંઢ નાથ્યો",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 2 guj ch 9.pdf"
                       }
                     ]
                   },
@@ -9510,7 +9753,7 @@
                     "textbook": [
                       {
                         "textbook_name": "બહેનનો પત્ર",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 2 guj ch 10.pdf"
                       }
                     ]
                   },
@@ -9529,7 +9772,7 @@
                     "textbook": [
                       {
                         "textbook_name": "કામાડે ચીતર્યા મેં..",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 2 guj ch 11.pdf"
                       }
                     ]
                   },
@@ -9548,7 +9791,7 @@
                     "textbook": [
                       {
                         "textbook_name": "કિસ્સા - ટુચકા",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 2 guj ch 12.pdf"
                       }
                     ]
                   },
@@ -9565,10 +9808,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "પુનરાવર્તન (પાઠ 17 થી 22)",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   }
                 ]
@@ -9592,7 +9832,7 @@
                     "textbook": [
                       {
                         "textbook_name": "तेरी है जमी",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 1 hindi ch 1.pdf"
                       }
                     ]
                   },
@@ -9611,7 +9851,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ईद गांह",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 1 hindi ch 2.pdf"
                       }
                     ]
                   },
@@ -9630,7 +9870,7 @@
                     "textbook": [
                       {
                         "textbook_name": "अंतरिक्ष परी सुनीता विलियम्स",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 1 hindi ch 3.pdf"
                       }
                     ]
                   },
@@ -9649,7 +9889,7 @@
                     "textbook": [
                       {
                         "textbook_name": "उठो, धरा के अमर सपूतो",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 1 hindi ch 4.pdf"
                       }
                     ]
                   },
@@ -9668,7 +9908,7 @@
                     "textbook": [
                       {
                         "textbook_name": "सवाल बालमन के जवाब डॉ कलाम के",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 1 hindi ch 5.pdf"
                       }
                     ]
                   },
@@ -9685,10 +9925,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "पुनरावर्तन 1",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -9706,7 +9943,7 @@
                     "textbook": [
                       {
                         "textbook_name": "भरत",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 1 hindi ch 6.pdf"
                       }
                     ]
                   },
@@ -9725,7 +9962,7 @@
                     "textbook": [
                       {
                         "textbook_name": "सोच अपनी अपनी",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 1 hindi ch 7.pdf"
                       }
                     ]
                   },
@@ -9744,7 +9981,7 @@
                     "textbook": [
                       {
                         "textbook_name": "माँ ! कह एक कहानी",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 1 hindi ch 8.pdf"
                       }
                     ]
                   },
@@ -9763,7 +10000,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ममता",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 1 hindi ch 9.pdf"
                       }
                     ]
                   },
@@ -9780,10 +10017,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "पुनरावर्तन 2",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   }
                 ]
@@ -9807,7 +10041,7 @@
                     "textbook": [
                       {
                         "textbook_name": "पत्र एवं डायरी",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 2 hindi ch 1.pdf"
                       }
                     ]
                   },
@@ -9826,7 +10060,7 @@
                     "textbook": [
                       {
                         "textbook_name": "कच्छ की सैर",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 2 hindi ch 2.pdf"
                       }
                     ]
                   },
@@ -9845,7 +10079,7 @@
                     "textbook": [
                       {
                         "textbook_name": "मत बाँटो इन्सान को",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 2 hindi ch 3.pdf"
                       }
                     ]
                   },
@@ -9864,7 +10098,7 @@
                     "textbook": [
                       {
                         "textbook_name": "कर्मयोगी लालबहादुर शास्त्री",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 2 hindi ch 4.pdf"
                       }
                     ]
                   },
@@ -9883,7 +10117,7 @@
                     "textbook": [
                       {
                         "textbook_name": "दोहे",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 2 hindi ch 5.pdf"
                       }
                     ]
                   },
@@ -9902,7 +10136,7 @@
                     "textbook": [
                       {
                         "textbook_name": "पुनरावर्तन 1",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 2 hindi revision 1.pdf"
                       }
                     ]
                   },
@@ -9921,7 +10155,7 @@
                     "textbook": [
                       {
                         "textbook_name": "तूफानो की ओर",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 2 hindi ch 6.pdf"
                       }
                     ]
                   },
@@ -9940,7 +10174,7 @@
                     "textbook": [
                       {
                         "textbook_name": "हार की जीत",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 2 hindi ch 7.pdf"
                       }
                     ]
                   },
@@ -9959,7 +10193,7 @@
                     "textbook": [
                       {
                         "textbook_name": "हँसना मना है",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 2 hindi ch 8.pdf"
                       }
                     ]
                   },
@@ -9978,7 +10212,7 @@
                     "textbook": [
                       {
                         "textbook_name": "उलझन-सुलझन",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 2 hindi ch 9.pdf"
                       }
                     ]
                   },
@@ -9997,7 +10231,7 @@
                     "textbook": [
                       {
                         "textbook_name": "पुनरावर्तन 2",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 2 hindi revision 2.pdf"
                       }
                     ]
                   }
@@ -10023,7 +10257,7 @@
                     "textbook": [
                       {
                         "textbook_name": "वन्दना",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sanskrit sem 1 ch 1.pdf"
                       }
                     ]
                   },
@@ -10042,7 +10276,7 @@
                     "textbook": [
                       {
                         "textbook_name": "चित्रपदानी 1",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sanskrit sem 1 ch 2.pdf"
                       }
                     ]
                   },
@@ -10061,7 +10295,7 @@
                     "textbook": [
                       {
                         "textbook_name": "चित्रपदानी 2",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sanskrit sem 1 ch 3.pdf"
                       }
                     ]
                   },
@@ -10080,7 +10314,7 @@
                     "textbook": [
                       {
                         "textbook_name": "आत्माश्रद्धाया : प्रभाव",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sanskrit sem 1 ch 4.pdf"
                       }
                     ]
                   },
@@ -10099,7 +10333,7 @@
                     "textbook": [
                       {
                         "textbook_name": "एहि  सुधीर",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sanskrit sem 1 ch 4.pdf"
                       }
                     ]
                   },
@@ -10118,7 +10352,7 @@
                     "textbook": [
                       {
                         "textbook_name": "शिलाया: प्रवास :",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sanskrit sem 1 ch 5.pdf"
                       }
                     ]
                   },
@@ -10137,7 +10371,7 @@
                     "textbook": [
                       {
                         "textbook_name": "पुनरावर्तनम्  1",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sanskrit sem 1 ch 6.pdf"
                       }
                     ]
                   },
@@ -10156,7 +10390,7 @@
                     "textbook": [
                       {
                         "textbook_name": "विनोदपध्यानी",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sanskrit sem 1 ch 6.pdf"
                       }
                     ]
                   },
@@ -10175,7 +10409,7 @@
                     "textbook": [
                       {
                         "textbook_name": "सड्ख्या",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sanskrit sem 1 ch 7.pdf"
                       }
                     ]
                   },
@@ -10194,7 +10428,7 @@
                     "textbook": [
                       {
                         "textbook_name": "मम् दिनचर्या",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sanskrit sem 1 ch 8.pdf"
                       }
                     ]
                   },
@@ -10213,7 +10447,7 @@
                     "textbook": [
                       {
                         "textbook_name": "भाषा सज्जता",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sanskrit sem 1 ch 9.pdf"
                       }
                     ]
                   },
@@ -10230,10 +10464,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "पुनरावर्तनम् = 2",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   }
                 ]
@@ -10253,7 +10484,7 @@
                     "textbook": [
                       {
                         "textbook_name": "पुत्री मम खलु निद्राति ।",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sanskrit sem 2 ch 1.pdf"
                       }
                     ]
                   },
@@ -10268,7 +10499,7 @@
                     "textbook": [
                       {
                         "textbook_name": "खेलमहोत्सव:",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sanskrit sem 2 ch 2.pdf"
                       }
                     ]
                   },
@@ -10283,7 +10514,7 @@
                     "textbook": [
                       {
                         "textbook_name": "प्रहेलिका:",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sanskrit sem 2 ch 3.pdf"
                       }
                     ]
                   },
@@ -10298,7 +10529,7 @@
                     "textbook": [
                       {
                         "textbook_name": "प्रेरणादीप: चाणक्य:",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sanskrit sem 2 ch 4.pdf"
                       }
                     ]
                   },
@@ -10313,7 +10544,7 @@
                     "textbook": [
                       {
                         "textbook_name": "प्रभातवर्णनम् ",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sanskrit sem 2 ch 5.pdf"
                       }
                     ]
                   },
@@ -10328,7 +10559,7 @@
                     "textbook": [
                       {
                         "textbook_name": "पुनरावर्तनम् - 1",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sanskrit sem 2 punravartan.pdf"
                       }
                     ]
                   },
@@ -10343,7 +10574,7 @@
                     "textbook": [
                       {
                         "textbook_name": "रमणीया नगरी",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sanskrit sem 2 ch 6.pdf"
                       }
                     ]
                   },
@@ -10358,7 +10589,7 @@
                     "textbook": [
                       {
                         "textbook_name": "सुभाषितानि",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sanskrit sem 2 ch 7.pdf"
                       }
                     ]
                   },
@@ -10373,7 +10604,7 @@
                     "textbook": [
                       {
                         "textbook_name": "मनुष्यसिंहयो: मैत्री",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sanskrit sem 2 ch 8.pdf"
                       }
                     ]
                   },
@@ -10386,10 +10617,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "पुनरावर्तनम् - 2",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   }
                 ]
@@ -10413,7 +10641,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ભારતમાં યુરોપિયનો અને અંગ્રેજી શાસનની સ્થાપના",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 samaj ch 1.pdf"
                       }
                     ]
                   },
@@ -10432,7 +10660,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ભારતમાં બ્રિટિશ શાસન (ઈ.સ. 1757 થી ઈ.સ. 1857)",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 samaj ch 2.pdf"
                       }
                     ]
                   },
@@ -10451,7 +10679,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ભારતનો પ્રથમ સ્વાતંત્ર્યસંગ્રામ",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 samaj ch 3.pdf"
                       }
                     ]
                   },
@@ -10470,7 +10698,7 @@
                     "textbook": [
                       {
                         "textbook_name": "અંગ્રેજ સમય ના શ્હેરો ગૃહઉધ્યોગ અને ઉધ્યોગો",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 samaj ch 4.pdf"
                       }
                     ]
                   },
@@ -10489,7 +10717,7 @@
                     "textbook": [
                       {
                         "textbook_name": "અંગ્રેજ શાશન સમય ની શિક્ષણ અને સમાજ વ્યવસ્થા",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 samaj ch 5.pdf"
                       }
                     ]
                   },
@@ -10508,7 +10736,7 @@
                     "textbook": [
                       {
                         "textbook_name": "સ્વાતંત્ર્ય  ચળવળો ( ઈ.સ. 1870 થી 1947 )",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 samaj ch 6.pdf"
                       }
                     ]
                   },
@@ -10527,7 +10755,7 @@
                     "textbook": [
                       {
                         "textbook_name": "આધુનિક ભારતમાં કળા",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 samaj ch 7.pdf"
                       }
                     ]
                   },
@@ -10546,7 +10774,7 @@
                     "textbook": [
                       {
                         "textbook_name": "સ્વતંત્રતા પછીનું ભારત",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 samaj ch 8.pdf"
                       }
                     ]
                   },
@@ -10565,7 +10793,7 @@
                     "textbook": [
                       {
                         "textbook_name": "સંસાધન",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 samaj ch 9.pdf"
                       }
                     ]
                   },
@@ -10584,7 +10812,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ખનીજ અને ઉર્જા સંસાધન",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 samaj ch 10.pdf"
                       }
                     ]
                   },
@@ -10603,7 +10831,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ખેતી",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 samaj ch 11.pdf"
                       }
                     ]
                   },
@@ -10622,7 +10850,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ઉધ્યોગ",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 samaj ch 12.pdf"
                       }
                     ]
                   },
@@ -10641,7 +10869,7 @@
                     "textbook": [
                       {
                         "textbook_name": "માનવ સંસાધન",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 samaj ch 13.pdf"
                       }
                     ]
                   },
@@ -10660,7 +10888,7 @@
                     "textbook": [
                       {
                         "textbook_name": "આપત્તિ વ્યવસ્થાપન",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 samaj ch 14.pdf"
                       }
                     ]
                   },
@@ -10679,7 +10907,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ભારતીય બંધારણ",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 samaj ch 15.pdf"
                       }
                     ]
                   },
@@ -10698,7 +10926,7 @@
                     "textbook": [
                       {
                         "textbook_name": "સંસદ અને કાયદો",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 samaj ch 16.pdf"
                       }
                     ]
                   },
@@ -10717,7 +10945,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ન્યાયતંત્ર",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 samaj ch 17.pdf"
                       }
                     ]
                   },
@@ -10736,7 +10964,7 @@
                     "textbook": [
                       {
                         "textbook_name": "સામાજીક ન્યાય અને સામાજીક વિસંગતતા",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 samaj ch 18.pdf"
                       }
                     ]
                   },
@@ -10755,7 +10983,7 @@
                     "textbook": [
                       {
                         "textbook_name": "સામાજીક-આર્થિક ક્ષેત્રે સરકારની ભૂમિકા",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 samaj ch 19.pdf"
                       }
                     ]
                   }
@@ -10780,7 +11008,7 @@
                     "textbook": [
                       {
                         "textbook_name": "પાક ઉત્પાદન  અને  વ્યવસ્થાપન",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sci ch 1.pdf"
                       }
                     ]
                   },
@@ -10799,7 +11027,7 @@
                     "textbook": [
                       {
                         "textbook_name": "સૂક્ષ્મજીવો : મિત્રો અને શત્રુ",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sci ch 2.pdf"
                       }
                     ]
                   },
@@ -10818,7 +11046,7 @@
                     "textbook": [
                       {
                         "textbook_name": "સંશ્લેષિત ( કુત્રીમ ) રેસઓ અને પ્લાસ્ટિક",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sci ch 3.pdf"
                       }
                     ]
                   },
@@ -10837,7 +11065,7 @@
                     "textbook": [
                       {
                         "textbook_name": "પદાર્થો : ધાતુઓ અને અધાતુઓ",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sci ch 4.pdf"
                       }
                     ]
                   },
@@ -10856,7 +11084,7 @@
                     "textbook": [
                       {
                         "textbook_name": "કોલસો અને પેટ્રોલિયમ",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sci ch 5.pdf"
                       }
                     ]
                   },
@@ -10875,7 +11103,7 @@
                     "textbook": [
                       {
                         "textbook_name": "દહન  અને જ્યોત",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sci ch 6.pdf"
                       }
                     ]
                   },
@@ -10894,7 +11122,7 @@
                     "textbook": [
                       {
                         "textbook_name": "વનસ્પતિઓ અને પ્રાણીઓનું સંરક્ષણ",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sci ch 7.pdf"
                       }
                     ]
                   },
@@ -10913,7 +11141,7 @@
                     "textbook": [
                       {
                         "textbook_name": "કોષ : રચના અને કાર્યો",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sci ch 8.pdf"
                       }
                     ]
                   },
@@ -10932,7 +11160,7 @@
                     "textbook": [
                       {
                         "textbook_name": "પ્રાણીઓમાં પ્રજનન",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sci ch 9.pdf"
                       }
                     ]
                   },
@@ -10951,7 +11179,7 @@
                     "textbook": [
                       {
                         "textbook_name": " તરુણાવસ્થા તરફ",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sci ch 10.pdf"
                       }
                     ]
                   },
@@ -10970,7 +11198,7 @@
                     "textbook": [
                       {
                         "textbook_name": "બળ અને દબાણ",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sci ch 11.pdf"
                       }
                     ]
                   },
@@ -10989,7 +11217,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ઘર્ષણ",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sci ch 12.pdf"
                       }
                     ]
                   },
@@ -11008,7 +11236,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ધ્વની",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sci ch 13.pdf"
                       }
                     ]
                   },
@@ -11027,7 +11255,7 @@
                     "textbook": [
                       {
                         "textbook_name": "વિધ્યુત પ્રવાહની રસાયણિક અસર",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sci ch 14.pdf"
                       }
                     ]
                   },
@@ -11046,7 +11274,7 @@
                     "textbook": [
                       {
                         "textbook_name": "કેટલીક કુદરતી ઘટનાઓ",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sci ch 15.pdf"
                       }
                     ]
                   },
@@ -11065,7 +11293,7 @@
                     "textbook": [
                       {
                         "textbook_name": "પ્રકાશ",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sci ch 16.pdf"
                       }
                     ]
                   },
@@ -11084,7 +11312,7 @@
                     "textbook": [
                       {
                         "textbook_name": "તારાઓ અને સૂર્યમંડળ",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sci ch 17.pdf"
                       }
                     ]
                   },
@@ -11103,7 +11331,7 @@
                     "textbook": [
                       {
                         "textbook_name": "હવા અને પાણી નું પ્રદૂષણ",
-                        "textbook_link": ""
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sci ch 18.pdf"
                       }
                     ]
                   }
@@ -11126,10 +11354,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "ભારતમાં યુરોપિયનો અને અંગ્રેજી શાસનની સ્થાપના",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -11145,10 +11370,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "ભારતમાં બ્રિટિશ શાસન (ઈ.સ. 1757 થી ઈ.સ. 1857)",
-                        "textbook_link": ""
-                      }
+                     
                     ]
                   },
                   {
@@ -11164,10 +11386,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "ભારતનો પ્રથમ સ્વાતંત્ર્યસંગ્રામ",
-                        "textbook_link": ""
-                      }
+                     
                     ]
                   },
                   {
@@ -11183,10 +11402,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "અંગ્રેજ સમય ના શ્હેરો ગૃહઉધ્યોગ અને ઉધ્યોગો",
-                        "textbook_link": ""
-                      }
+                     
                     ]
                   },
                   {
@@ -11202,10 +11418,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "અંગ્રેજ શાશન સમય ની શિક્ષણ અને સમાજ વ્યવસ્થા",
-                        "textbook_link": ""
-                      }
+                     
                     ]
                   },
                   {
@@ -11221,10 +11434,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "સ્વાતંત્ર્ય  ચળવળો ( ઈ.સ. 1870 થી 1947 ) ",
-                        "textbook_link": ""
-                      }
+                     
                     ]
                   },
                   {
@@ -11240,10 +11450,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "આધુનિક ભારતમાં કળા",
-                        "textbook_link": ""
-                      }
+                     
                     ]
                   },
                   {
@@ -11259,10 +11466,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "સ્વતંત્રતા પછીનું ભારત",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -11278,11 +11482,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "સંસાધન",
-                        "textbook_link": ""
-                      }
-                    ]
+                      
                   },
                   {
                     "month_name": "Ch - 10",
@@ -11297,10 +11497,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "ખનીજ અને ઉર્જા સંસાધન",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -11316,10 +11513,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "ખેતી",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -11335,10 +11529,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "ઉધ્યોગ",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -11354,10 +11545,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "માનવ સંસાધન",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -11373,10 +11561,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "આપત્તિ વ્યવસ્થાપન",
-                        "textbook_link": ""
-                      }
+                     
                     ]
                   },
                   {
@@ -11392,10 +11577,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "ભારતીય બંધારણ",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -11411,10 +11593,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "સંસદ અને કાયદો",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -11430,10 +11609,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "ન્યાયતંત્ર",
-                        "textbook_link": ""
-                      }
+                     
                     ]
                   },
                   {
@@ -11449,10 +11625,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "સામાજીક ન્યાય અને સામાજીક વિસંગતતા",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -11468,10 +11641,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "સામાજીક-આર્થિક ક્ષેત્રે સરકારની ભૂમિકા",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   }
                 ]
@@ -11493,10 +11663,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "બજારમાં",
-                        "textbook_link": ""
-                      }
+                     
                     ]
                   },
                   {
@@ -11512,10 +11679,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "એક જ દે ચિનગારી",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -11531,10 +11695,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "જુમો ભિસ્તી",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -11550,10 +11711,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "તને ઓળખું છું, મા",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -11569,10 +11727,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "એક મુલાકાત",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -11588,10 +11743,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "પુનરાવર્તન 1",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -11607,10 +11759,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "ધૂળિયે મારગ",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -11626,10 +11775,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "દેશભક્ત જગડુશા",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -11645,10 +11791,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "આજ આનંદ",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -11664,10 +11807,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "દીકરાનો મારનાર",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -11683,10 +11823,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "અઢી આના",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   }
                 ]
@@ -11708,10 +11845,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "વળાવી બા આવી",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -11727,10 +11861,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "નવા વર્ષના સંકલ્પો",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -11746,10 +11877,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "શરૂઆત કરીએ",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -11765,10 +11893,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "સાકરનો શોધનારો",
-                        "textbook_link": ""
-                      }
+                     
                     ]
                   },
                   {
@@ -11784,10 +11909,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "અખંડ ભારતના શિલ્પી",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -11803,10 +11925,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "સુદામો દીઠા શ્રીકૃષ્ણદેવ રે !",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -11822,10 +11941,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "પુનરાવર્તન  (પાઠ 11 થી 16)",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -11841,10 +11957,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "સંસ્કારની શ્રીમંતાઈ",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -11860,10 +11973,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "દુહા-મુક્તક-હાઈકુ",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -11879,10 +11989,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "સાંઢ નાથ્યો",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -11913,10 +12020,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "કામાડે ચીતર્યા મેં..",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -11932,10 +12036,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "કિસ્સા - ટુચકા",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   },
                   {
@@ -11951,10 +12052,7 @@
                       
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "પુનરાવર્તન (પાઠ 17 થી 22)",
-                        "textbook_link": ""
-                      }
+                      
                     ]
                   }
                 ]
@@ -11972,11 +12070,11 @@
             "sub_data_name": "ધોરણ 9",
             "standard_data": [
               {
-                "standard_name": "ગણિત ",
+                "standard_name": "English",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
-                    "month_name": "sankhya padhdhati",
+                    "month_name": "Ch1",
                     "videos": [
                       {
                         "video_name": "sankhya padhdhati",
