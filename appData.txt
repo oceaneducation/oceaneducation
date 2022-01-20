@@ -1053,35 +1053,35 @@
                   ],
                   "material": [
                     {
-                      "material_name": "હિન્દી",
+                      "material_name": "પાઠ : 1. नई राह   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 2. बढ़ते कदम    ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 3. गिनती (१ से २०)  ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 4. अपने बारे में...   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 5. धम्मक-धम्मक आता हाथी",   
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 6. टपका का डर  ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 7. झूला   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 8. चतुर चूहा ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ],
