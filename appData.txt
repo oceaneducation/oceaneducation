@@ -1248,77 +1248,72 @@
                   "month_name": "ગણિત ",
                   "videos": [
                     {
-                      "video_name": "ગણિત ",
+                      "video_name": "પાઠ : 1 : રાષ્ટ્રીય ફળ – કેરી",    
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                      {
-                      "video_name": "ગુજરાતી",
+                      "video_name":"પાઠ : 2 : આકાર અને ખૂણા     ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 3 : કેટલા ચોરસ?        ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 4 : ભાગ અને પૂર્ણ      ", 
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 5 : તે સરખું દેખાય છે?   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 6 : તું મારો ગુણક, હું તારો અવયવ   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 7 : તમે પેટર્ન(ભાત) જોઈ શકો છો?   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 8 : નકશા – આલેખન   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 9 : ખોખા અને રેખાચિત્ર   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name":"પાઠ : 10 : દસમો અને સો મો ભાગ   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 11 : ક્ષેત્રફળ અને પરિમિતિ",   
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 12 : સ્માર્ટ ચાર્ટ્સ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 13 : ગુણાકાર અને ભાગાકારની રીતો ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 14 : કેટલું મોટું? કેટલું ભારે?",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     }
