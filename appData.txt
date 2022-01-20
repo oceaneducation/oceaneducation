@@ -572,63 +572,63 @@
                   ],
                   "material": [
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name":"પાઠ : 1 : નાવડી ચાલી   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name":"પાઠ : 2 : ઠંડી   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 3 : સાચી હજ   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 4 : લાખો વણજારો  ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 5 : ઉખાણા  ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 6 : રાતાં ફૂલ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 7 : કલાકારની ભૂલ ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name":"પાઠ : 8 : પત્ર લખવાની મજા !",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 9 : હું તો પૂછું   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 10 : મુરખના સરદારો   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 11 : ઊંટ અને ફકીર   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 12 : બાળ નરેન્દ્ર   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 13 : પંખીઓએ પાણી પાયું",   
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 14 : સૈનિક સૈનિક રમીએ  ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name":"પાઠ : 15 : બે બહાદુર છોકરા ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ],
