@@ -12074,300 +12074,227 @@
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
-                    "month_name": "Ch1",
-                    "videos": [
-                      {
-                        "video_name": "sankhya padhdhati",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://www.youtube.com/watch?v=WAhaRBIedrg&list=PLj3_sPlKDoK6GC0qLqLD5W7qvU47VZfmF&index=1a"
-                      },
-                      {
-                        "video_name": "Geography",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
-                      }
-                    ],
-                    "material": [
-                      {
-                        "material_name": "Account",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "material_name": "BA",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
-                    ],
-                    "textbook": [
-                      {
-                        "textbook_name": "textbook1",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "textbook_name": "textbook2",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "month_name": "Ch - 2",
-                    "videos": [
-                      {
-                        "video_name": "Psycology",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
-                      },
-                      {
-                        "video_name": "Geography",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
-                      }
-                    ],
-                    "material": [
-                      {
-                        "material_name": "Account",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "material_name": "BA",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
-                    ],
-                    "textbook": [
-                      {
-                        "textbook_name": "textbook1",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "textbook_name": "textbook2",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "standard_name": "English",
-                "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                "month_cat": [
-                  {
                     "month_name": "Ch - 1",
                     "videos": [
-                      {
-                        "video_name": "Psycology",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
-                      },
-                      {
-                        "video_name": "Geography",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
-                      }
+                      
                     ],
                     "material": [
-                      {
-                        "material_name": "Account",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "material_name": "BA",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
+                     
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "textbook1",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "textbook_name": "textbook2",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_name": "Ch - 1",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 eng ch 1.pdf"
                       }
                     ]
                   },
                   {
                     "month_name": "Ch - 2",
                     "videos": [
-                      {
-                        "video_name": "Psycology",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
-                      },
-                      {
-                        "video_name": "Geography",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
-                      }
+                      
                     ],
                     "material": [
-                      {
-                        "material_name": "Account",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "material_name": "BA",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
+                     
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "textbook1",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "textbook_name": "textbook2",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "standard_name": "Computer",
-                "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                "month_cat": [
-                  {
-                    "month_name": "Ch - 1",
-                    "videos": [
-                      {
-                        "video_name": "Psycology",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
-                      },
-                      {
-                        "video_name": "Geography",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
-                      }
-                    ],
-                    "material": [
-                      {
-                        "material_name": "Account",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "material_name": "BA",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
-                    ],
-                    "textbook": [
-                      {
-                        "textbook_name": "textbook1",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "textbook_name": "textbook2",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_name": "Ch - 2",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 eng ch 2.pdf"
                       }
                     ]
                   },
                   {
-                    "month_name": "Ch - 2",
+                    "month_name": "Ch - 3",
                     "videos": [
-                      {
-                        "video_name": "Psycology",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
-                      },
-                      {
-                        "video_name": "Geography",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
-                      }
+                      
                     ],
                     "material": [
-                      {
-                        "material_name": "Account",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "material_name": "BA",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
+                     
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "textbook1",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "textbook_name": "textbook2",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "standard_name": "hindi",
-                "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                "month_cat": [
-                  {
-                    "month_name": "Ch - 1",
-                    "videos": [
-                      {
-                        "video_name": "Psycology",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
-                      },
-                      {
-                        "video_name": "Geography",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
-                      }
-                    ],
-                    "material": [
-                      {
-                        "material_name": "Account",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "material_name": "BA",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
-                    ],
-                    "textbook": [
-                      {
-                        "textbook_name": "textbook1",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "textbook_name": "textbook2",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_name": "Ch - 3",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 eng ch 3.pdf"
                       }
                     ]
                   },
                   {
-                    "month_name": "Ch - 2",
+                    "month_name": "Ch - 4",
                     "videos": [
-                      {
-                        "video_name": "Psycology",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
-                      },
-                      {
-                        "video_name": "Geography",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
-                      }
+                      
                     ],
                     "material": [
-                      {
-                        "material_name": "Account",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "material_name": "BA",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
+                     
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "textbook1",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
+                        "textbook_name": "Ch - 4",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 eng ch 4.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 5",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
                       {
-                        "textbook_name": "textbook2",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_name": "Ch - 5",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 eng ch 5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 6",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 6",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 eng ch 6.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 7",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 7",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 eng ch 7.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 8",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 8",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 eng ch 8.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 9",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 9",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 eng ch 9.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 10",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 10",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 eng ch 10.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 11",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 11",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 eng ch 11.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Poem - 1",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Poem - 1",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 eng poem 1.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Poem - 2",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Poem - 2",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 eng poem 2.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Poem - 3",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Poem - 3",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 eng poem 3.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Poem - 4",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Poem - 4",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 eng poem 4.pdf"
                       }
                     ]
                   }
@@ -12380,146 +12307,1800 @@
                   {
                     "month_name": "Ch - 1",
                     "videos": [
-                      {
-                        "video_name": "Psycology",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
-                      },
-                      {
-                        "video_name": "Geography",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
-                      }
+                      
                     ],
                     "material": [
-                      {
-                        "material_name": "Account",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "material_name": "BA",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
+                     
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "textbook1",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "textbook_name": "textbook2",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_name": "Ch - 1",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 1.pdf"
                       }
                     ]
                   },
                   {
                     "month_name": "Ch - 2",
                     "videos": [
-                      {
-                        "video_name": "Psycology",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
-                      },
-                      {
-                        "video_name": "Geography",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
-                      }
+                      
                     ],
                     "material": [
-                      {
-                        "material_name": "Account",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "material_name": "BA",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
+                     
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "textbook1",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "textbook_name": "textbook2",
-                        "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                        "textbook_name": "Ch - 2",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 2.pdf"
                       }
                     ]
                   },
                   {
-                    "standard_name": "hindi",
-                    "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                    "month_cat": [
+                    "month_name": "Ch - 3",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
                       {
-                        "month_name": "Ch - 1",
-                        "videos": [
-                          {
-                            "video_name": "Psycology",
-                            "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                            "video_link": "https://youtu.be/Ga64onF9J0c"
-                          },
-                          {
-                            "video_name": "Geography",
-                            "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                            "video_link": "https://youtu.be/Ga64onF9J0c"
-                          }
-                        ],
-                        "material": [
-                          {
-                            "material_name": "Account",
-                            "material_link": "https://www.orimi.com/pdf-test.pdf"
-                          },
-                          {
-                            "material_name": "BA",
-                            "material_link": "https://www.orimi.com/pdf-test.pdf"
-                          }
-                        ],
-                        "textbook": [
-                          {
-                            "textbook_name": "textbook1",
-                            "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                          },
-                          {
-                            "textbook_name": "textbook2",
-                            "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                          }
-                        ]
-                      },
+                        "textbook_name": "Ch - 3",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 3.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 4",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
                       {
-                        "month_name": "Ch - 2",
-                        "videos": [
-                          {
-                            "video_name": "Psycology",
-                            "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                            "video_link": "https://www.youtube.com/watch?v=A6RU-u8fHjE"
-                          },
-                          {
-                            "video_name": "Geography",
-                            "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                            "video_link": "https://youtu.be/Ga64onF9J0c"
-                          }
-                        ],
-                        "material": [
-                          {
-                            "material_name": "Account",
-                            "material_link": "https://www.orimi.com/pdf-test.pdf"
-                          },
-                          {
-                            "material_name": "BA",
-                            "material_link": "https://www.orimi.com/pdf-test.pdf"
-                          }
-                        ],
-                        "textbook": [
-                          {
-                            "textbook_name": "textbook1",
-                            "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                          },
-                          {
-                            "textbook_name": "textbook2",
-                            "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                          }
-                        ]
+                        "textbook_name": "Ch - 4",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 4.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 5",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 5",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 6",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 6",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 6.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 7",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 7",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 7.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 8",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 8",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 8.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 9",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 9",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 9.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 10",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 10",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 10.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 11",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 11",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 11.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 12",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 12",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 12.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 13",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 13",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 13.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 14",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 14",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 14.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 15",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 15",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 15.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 16",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 16",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 16.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 17",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 17",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 17.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 18",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 18",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 18.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 19",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 19",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 19.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 20",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 20",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 20.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 21",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 21",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 21.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 22",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 22",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 22.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 23",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 23",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 23.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 24",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 24",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 24.pdf"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "standard_name": "hindi",
+                "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                "month_cat": [
+                  {
+                    "month_name": "Ch - 1",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 1",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 1.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 2",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 2",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 2.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 3",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 3",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 3.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 4",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 4",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 4.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 5",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 5",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 6",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 6",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 6.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 7",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 7",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 7.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 8",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 8",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 8.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 9",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 9",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 9.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 10",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 10",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 10.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 11",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 11",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 11.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 12",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 12",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 12.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 13",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 13",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 13.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 14",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 14",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 14.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 15",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 15",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 15.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 16",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 16",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 16.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 17",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 17",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 17.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 18",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 18",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 18.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 19",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 19",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 19.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 20",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 20",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 20.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 21",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 21",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 21.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 22",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 22",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 22.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 23",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 23",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 23.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 24",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 24",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 24.pdf"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "standard_name": "Maths",
+                "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                "month_cat": [
+                  {
+                    "month_name": "Ch - 1",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 1",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 maths ch 1.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 2",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 2",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 maths ch 2.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 3",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 3",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 maths ch 3.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 4",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 4",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 maths ch 4.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 5",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 5",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 maths ch 5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 6",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 6",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 maths ch 6.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 7",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 7",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 maths ch 7.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 8",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 8",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 maths ch 8.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 9",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 9",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 maths ch 9.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 10",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 10",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 maths ch 10.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 11",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 11",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 maths ch 11.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 12",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 12",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 maths ch 12.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 13",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 13",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 maths ch 13.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 14",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 14",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 maths ch 14.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 15",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 15",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 maths ch 15.pdf"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "standard_name": "Science",
+                "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                "month_cat": [
+                  {
+                    "month_name": "Ch - 1",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 1",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 science ch 1.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 2",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 2",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 science ch 2.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 3",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 3",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 science ch 3.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 4",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 4",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 science ch 4.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 5",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 5",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 science ch 5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 6",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 6",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 science ch 6.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 7",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 7",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 science ch 7.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 8",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 8",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 science ch 8.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 9",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 9",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 science ch 9.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 10",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 10",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 science ch 10.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 11",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 11",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 science ch 11.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 12",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 12",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 science ch 12.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 13",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 13",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 science ch 13.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 14",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 14",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 science ch 14.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 15",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 15",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 science ch 15.pdf"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "standard_name": "Gujarati",
+                "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                "month_cat": [
+                  {
+                    "month_name": "Ch - 1",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 1",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 samaj ch 1.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 2",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 2",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 samaj ch 2.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 3",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 3",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 samaj ch 3.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 4",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 4",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 samaj ch 4.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 5",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 5",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 samaj ch 5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 6",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 6",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 samaj ch 6.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 7",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 7",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 samaj ch 7.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 8",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 8",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 samaj ch 8.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 9",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 9",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 samaj ch 9.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 10",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 10",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 samaj ch 10.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 11",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 11",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 samaj ch 11.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 12",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 12",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 samaj ch 12.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 13",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 13",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 samaj ch 13.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 14",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 14",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 samaj ch 14.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 15",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 15",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 samaj ch 15.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 16",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 16",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 samaj ch 16.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 17",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 17",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 samaj ch 17.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 18",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 18",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 samaj ch 18.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 19",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 19",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 samaj ch 19.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 20",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 20",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 samaj ch 20.pdf"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "standard_name": "Sanskrit",
+                "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                "month_cat": [
+                  {
+                    "month_name": "Ch - 1",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 1",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 1.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 2",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 2",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 2.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 3",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 3",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 3.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 4",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 4",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 4.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 5",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 5",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 6",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 6",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 6.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 7",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 7",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 7.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 8",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 8",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 8.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 9",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 9",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 9.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 10",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 10",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 10.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 11",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 11",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 11.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 12",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 12",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 12.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 13",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 13",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 13.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 14",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 14",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 14.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 15",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 15",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 15.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 16",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 16",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 16.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 17",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 17",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 17.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 18",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 18",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 18.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 19",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 19",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 19.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 20",
+                    "videos": [
+                      
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Ch - 20",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 20.pdf"
                       }
                     ]
                   }
