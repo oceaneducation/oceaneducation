@@ -69,43 +69,43 @@
                   "material": [
                    
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name":"પાઠ : 1 : વાંદરાને વાંચતાં ન આવડે   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 2 : પોટલાં ટપકે ટપ્પ     ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name":"પાઠ : 3 : હું પતંગિયું મારા પિલ્લુનું   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name":"પાઠ : 4 : સસલા ની પાછળ કુતરો   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 5 : કોરો કાચબો ભીનો ચાંદો   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 6 : બતક અને અથવા પણ હંસ    ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 7 : એક છલાંગે દરિયો કૂદો       ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name":"પાઠ : 8 : કીડી હતી કે હાથી હશે!",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name":"પાઠ : 9 : રંગબેરંગી મસાલિયું ",    
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name":"પાઠ : 10 : ચાલો સૌને રમત મુબારક", 
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ],
