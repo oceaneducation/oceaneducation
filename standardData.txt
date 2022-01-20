@@ -11916,12 +11916,12 @@
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
-                    "month_name": "Ch - 1",
+                    "month_name": "sankhya padhdhati",
                     "videos": [
                       {
-                        "video_name": "Psycology",
+                        "video_name": "sankhya padhdhati",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
+                        "video_link": "https://www.youtube.com/watch?v=WAhaRBIedrg&list=PLj3_sPlKDoK6GC0qLqLD5W7qvU47VZfmF&index=1a"
                       },
                       {
                         "video_name": "Geography",
@@ -12380,7 +12380,7 @@
             "sub_data_name": "ધોરણ 10",
             "standard_data": [
               {
-                "standard_name": "ગણિત ",
+                "standard_name": "english ",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -12389,23 +12389,11 @@
                       {
                         "video_name": "Psycology",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
-                      },
-                      {
-                        "video_name": "Geography",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
+                        "video_link": "https://www.youtube.com/watch?v=4ahhNdbCsQc&list=PLj3_sPlKDoK7V7YTlRRZKobX0jt8s8V5x"
                       }
                     ],
                     "material": [
-                      {
-                        "material_name": "Account",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      },
-                      {
-                        "material_name": "BA",
-                        "material_link": "https://www.orimi.com/pdf-test.pdf"
-                      }
+                      
                     ],
                     "textbook": [
                       {
