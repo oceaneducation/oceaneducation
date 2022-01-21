@@ -4189,92 +4189,92 @@
                   "month_name": "વિજ્ઞાન",
                   "videos": [
                     {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name": "પાઠ : 1 : પાક ઉત્પાદન અને વ્યવસ્થાપન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                       {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name": "પાઠ : 2 : સૂક્ષ્મજીવો : મિત્ર અને શત્રુ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                      {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name": "પાઠ : 3 : સંશ્લેશિત(કૃત્રિમ) રેસાઓ અને પ્લાસ્ટિક",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                       {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name": "પાઠ : 4 : પદાર્થો : ધાતુ અને અધાતુ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name": "પાઠ : 5 : કોલસો અને પેટ્રોલિયમ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                       {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name": "પાઠ :  6 : દહન અને જ્યોત",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                      {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name": "પાઠ :  7 : વનસ્પતિઓ અને પ્રાણીઓનું સંરક્ષણ", 
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                       {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name":"પાઠ : 8 : કોષ-રચના અને કાર્યો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name":"પાઠ : 9 : પ્રાણીઓમાં પ્રજનન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                       {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name":"પાઠ : 10 : તરુણાવસ્થા તરફ", 
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                      {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name": "પાઠ :  11 : બળ અને દબાણ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                       {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name": "પાઠ :  12 : ઘર્ષણ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name": "પાઠ :  13 : ધ્વનિ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                       {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name": "પાઠ :  14 : વિદ્યુતપ્રવાહની રસાયણિક અસરો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                      {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name":"પાઠ :  15 : કેટલીક કુદરતી ઘટનાઓ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                       {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name": "પાઠ :  16 : પ્રકાશ ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                      {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name": "પાઠ :  17 : તારાઓ અને સૂર્યમંડળ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                       {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name": "પાઠ :  18 : હવા અને પાણીનું દૂષણ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     }
@@ -4285,71 +4285,75 @@
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                           {
-                      "material_name": "વિજ્ઞાન",
+                      "material_name":"પાઠ : 1 : પાક ઉત્પાદન અને વ્યવસ્થાપન",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                        {
-                      "material_name": "વિજ્ઞાન",
+                      "material_name": "પાઠ : 2 : સૂક્ષ્મજીવો : મિત્ર અને શત્રુ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                           {
-                      "material_name": "વિજ્ઞાન",
+                      "material_name": "પાઠ : 3 : સંશ્લેશિત(કૃત્રિમ) રેસાઓ અને પ્લાસ્ટિક",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "વિજ્ઞાન",
+                      "material_name": "પાઠ : 4 : પદાર્થો : ધાતુ અને અધાતુ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                           {
-                      "material_name": "વિજ્ઞાન",
+                      "material_name": "પાઠ : 5 : કોલસો અને પેટ્રોલિયમ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                        {
-                      "material_name": "વિજ્ઞાન",
+                      "material_name": "પાઠ :  6 : દહન અને જ્યોત",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                           {
-                      "material_name": "વિજ્ઞાન",
+                      "material_name": "પાઠ :  7 : વનસ્પતિઓ અને પ્રાણીઓનું સંરક્ષણ", 
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "વિજ્ઞાન",
+                      "material_name": "પાઠ : 8 : કોષ-રચના અને કાર્યો",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                           {
-                      "material_name": "વિજ્ઞાન",
+                      "material_name": "પાઠ : 9 : પ્રાણીઓમાં પ્રજનન",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                        {
-                      "material_name": "વિજ્ઞાન",
+                      "material_name": "પાઠ : 10 : તરુણાવસ્થા તરફ ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                           {
-                      "material_name": "વિજ્ઞાન",
+                      "material_name": "પાઠ :  11 : બળ અને દબાણ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "વિજ્ઞાન",
+                      "material_name":"પાઠ :  12 : ઘર્ષણ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                           {
-                      "material_name": "વિજ્ઞાન",
+                      "material_name":"પાઠ :  13 : ધ્વનિ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                        {
-                      "material_name": "વિજ્ઞાન",
+                      "material_name": "પાઠ :  14 : વિદ્યુતપ્રવાહની રસાયણિક અસરો",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                           {
-                      "material_name": "વિજ્ઞાન",
+                      "material_name": "પાઠ :  15 : કેટલીક કુદરતી ઘટનાઓ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "વિજ્ઞાન",
+                      "material_name": "પાઠ :  16 : પ્રકાશ ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                           {
-                      "material_name": "વિજ્ઞાન",
+                      "material_name": "પાઠ :  17 : તારાઓ અને સૂર્યમંડળ",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                      {
+                      "material_name": "પાઠ :  18 : હવા અને પાણીનું દૂષણ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ],
