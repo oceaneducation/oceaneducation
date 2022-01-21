@@ -3124,91 +3124,86 @@
                   "month_name": "અંગ્રેજી",
                   "videos": [
                     {
-                      "video_name": "અંગ્રેજી",
+                      "video_name": "પાઠ : 1 : vini’s smile",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                        {
-                      "video_name": "અંગ્રેજી",
+                      "video_name":"પાઠ : 2 : how many did you?",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                        {
-                      "video_name": "અંગ્રેજી",
+                      "video_name": "પાઠ : 3 : yes, I will.",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                        {
-                      "video_name": "અંગ્રેજી",
+                      "video_name": "પાઠ : 4 : longer, shorter, bigger",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                        {
-                      "video_name": "અંગ્રેજી",
+                      "video_name": "પાઠ : 1 : am I lost?",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                         {
-                      "video_name": "અંગ્રેજી",
+                      "video_name":"પાઠ : 2 : step by step",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                        {
-                      "video_name": "અંગ્રેજી",
+                      "video_name": "પાઠ : 3 : today comes everyday",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                        {
-                      "video_name": "અંગ્રેજી",
+                      "video_name": "પાઠ : 4 : Q of yes no yes no",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                        {
-                      "video_name": "અંગ્રેજી",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                       {
-                      "video_name": "અંગ્રેજી",
+                      "video_name": "પાઠ : 5 : me too!",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "અંગ્રેજી",
+                      "material_name": "પાઠ : 1 : vini’s smile",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                       {
-                      "material_name": "હિન્દી",
+                      "material_name": "પાઠ : 2 : how many did you?",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                        {
-                      "material_name": "હિન્દી",
+                      "material_name": "પાઠ : 3 : yes, I will.",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                        {
-                      "material_name": "હિન્દી",
+                      "material_name":"પાઠ : 4 : longer, shorter, bigger",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                        {
-                      "material_name": "હિન્દી",
+                      "material_name": "પાઠ : 1 : am I lost?",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                        {
-                      "material_name": "હિન્દી",
+                      "material_name": "પાઠ : 2 : step by step",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "હિન્દી",
+                      "material_name":"પાઠ : 3 : today comes everyday",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                        {
-                      "material_name": "હિન્દી",
+                      "material_name": "પાઠ : 4 : Q of yes no yes no",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                        {
-                      "material_name": "હિન્દી",
+                      "material_name": "પાઠ : 5 : me too!",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ],
@@ -3220,167 +3215,167 @@
                   "month_name": "વિજ્ઞાન",
                   "videos": [
                     {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name":"પાઠ : 1 : વનસ્પતિમાં પોષણ ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name": "પાઠ : 2 : પ્રાણીઓમાં પોષણ ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                      {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name": "પાઠ : 3 : રેસાથી કાપડ સુધી ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                      {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name": "પાઠ : 4 : ઉષ્મા ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                      {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name": "પાઠ : 5 : ઍસિડ, બેઇઝ અને ક્ષાર",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                      {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name": "પાઠ : 6 : ભૌતિક અને રસાયણિક ફેરફારો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                      {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name": "પાઠ : 7 : હવામાન, આબોહવા અને આબોહવાની સાથે પ્રાણીઓનું અનુકૂલન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                      {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name": "પાઠ : 8 : પવન, વાવાઝોડું અને ચક્રવાત",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name": "પાઠ : 9 : ભૂમિ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                      {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name": "પાઠ : 10 : સજીવોમાં શ્વસન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                      {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name": "પાઠ : 11 : પ્રાણીઓ અને વનસ્પતિઓમાં વહન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                      {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name": "પાઠ : 12 : વનસ્પતિમાંપ્રજનન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                      {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name": "પાઠ : 13 : ગતિ અને સમય ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                      {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name":"પાઠ : 14 : વિધુતપ્રવાહ અને તેની અસરો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name": "પાઠ : 15 : પ્રકાશ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name":"પાઠ : 16 : પાણી: એક અમૂલ્ય સ્ત્રોત",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                      {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name": "પાઠ : 17 : જંગલો: આપણી જીવાદોરી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                      {
-                      "video_name": "વિજ્ઞાન",
+                      "video_name": "પાઠ : 18 : દૂષિત પાણીની વાર્તા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     }
                   ],
                   "material": [
                     {
-                      "material_name":"વિજ્ઞાન",
+                      "material_name":"પાઠ : 1 : વનસ્પતિમાં પોષણ ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                        {
-                      "material_name": "પાઠ : 1.- ચાલો, ઇતિહાસ જાણીએ",
+                      "material_name": "પાઠ : 2 : પ્રાણીઓમાં પોષણ ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "પાઠ : 2. - આદિમાનવથી સ્થાયી જીવનની સફર",
+                      "material_name": "પાઠ : 3 : રેસાથી કાપડ સુધી ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name":"પાઠ : 3. - પ્રાચીન નગરો અને ગ્રંથો",
+                      "material_name":"પાઠ : 4 : ઉષ્મા ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "પાઠ : 4. - ભારતની પ્રારંભિક રાજ્યવ્યવસ્થા",
+                      "material_name":"પાઠ : 5 : ઍસિડ, બેઇઝ અને ક્ષાર",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 5. - શાંતિની શોધમાં : બુદ્ધ અને મહાવીર",
+                      "material_name": "પાઠ : 6 : ભૌતિક અને રસાયણિક ફેરફારો",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 6. - મૌર્યયુગ : ચંદ્રગુપ્ત અને સમ્રાટ અશોક",
+                      "material_name": "પાઠ : 7 : હવામાન, આબોહવા અને આબોહવાની સાથે પ્રાણીઓનું અનુકૂલન",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 7. - ગુપ્તયુગ અને અન્ય શાસકો",
+                      "material_name": "પાઠ : 8 : પવન, વાવાઝોડું અને ચક્રવાત",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 8. - ભારતવર્ષની ભવ્યતા",
+                      "material_name": "પાઠ : 9 : ભૂમિ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 9. - આપણું ઘર : પૃથ્વી",
+                      "material_name": "પાઠ : 10 : સજીવોમાં શ્વસન",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 10. - પૃથ્વીનાં આવરણો",
+                      "material_name": "પાઠ : 11 : પ્રાણીઓ અને વનસ્પતિઓમાં વહન",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 11. - ભૂમિસ્વરૂપો",
+                      "material_name": "પાઠ : 12 : વનસ્પતિમાંપ્રજનન",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 12. - નકશો સમજીએ",
+                      "material_name":"પાઠ : 13 : ગતિ અને સમય ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "પાઠ : 13. - ભારત : ભૂપૃષ્ઠ, આબોહવાવનસ્પતિ અને વન્યજીવન",
+                      "material_name": "પાઠ : 14 : વિધુતપ્રવાહ અને તેની અસરો",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "પાઠ : 14. - વિવિધતામાં એકતા",
+                      "material_name": "પાઠ : 15 : પ્રકાશ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 15. - સરકાર",
+                      "material_name": "પાઠ : 16 : પાણી: એક અમૂલ્ય સ્ત્રોત",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 16 - સ્થાનિક સરકાર",
+                      "material_name":"પાઠ : 17 : જંગલો: આપણી જીવાદોરી",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "પાઠ : 17 - જીવનનિર્વાહ ",
+                      "material_name":"પાઠ : 18 : દૂષિત પાણીની વાર્તા",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ],
