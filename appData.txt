@@ -2860,87 +2860,87 @@
                   ],
                   "material": [
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name":"પાઠ : 1 : મેળામાં   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "Gujarati",
+                      "material_name": "પાઠ : 2 : આજની ઘડી રળિયામણી   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "પાઠ : 1.- ચાલો, ઇતિહાસ જાણીએ",
+                      "material_name": "પાઠ : 3 : પરીક્ષા    ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "પાઠ : 2. - આદિમાનવથી સ્થાયી જીવનની સફર",
+                      "material_name": "પાઠ : 4 : બે ખાનાનો પરિગ્રહ   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name":"પાઠ : 3. - પ્રાચીન નગરો અને ગ્રંથો",
+                      "material_name":"પાઠ : 5 : રાનમાં     ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "પાઠ : 4. - ભારતની પ્રારંભિક રાજ્યવ્યવસ્થા",
+                      "material_name": "પાઠ : 6 : ભીખુ      ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 5. - શાંતિની શોધમાં : બુદ્ધ અને મહાવીર",
+                      "material_name": "પાઠ : 7 : જીવનપાથેય  ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 6. - મૌર્યયુગ : ચંદ્રગુપ્ત અને સમ્રાટ અશોક",
+                      "material_name": "પાઠ : 8 : માલમ હલેસા માર   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 7. - ગુપ્તયુગ અને અન્ય શાસકો",
+                      "material_name": "પાઠ : 9 : બાનો વાડો    ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 8. - ભારતવર્ષની ભવ્યતા",
+                      "material_name": "પાઠ : 10 : વલયની અવકાશી સફર  ",  
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 9. - આપણું ઘર : પૃથ્વી",
+                      "material_name": "પાઠ :  11 : અખબારી નોંધ   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 10. - પૃથ્વીનાં આવરણો",
+                      "material_name": "પાઠ :  12 : જનની",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 11. - ભૂમિસ્વરૂપો",
+                      "material_name": "પાઠ :  13 : હાઇસ્કૂલમાં   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 12. - નકશો સમજીએ",
+                      "material_name": "પાઠ :  14 : ભમીએ ગુજરાતે : દક્ષિણ ભણી    ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "પાઠ : 13. - ભારત : ભૂપૃષ્ઠ, આબોહવાવનસ્પતિ અને વન્યજીવન",
+                      "material_name": "પાઠ :  15 : આવ, ભાણા આવ !",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "પાઠ : 14. - વિવિધતામાં એકતા",
+                      "material_name": "પાઠ :  16 : ગ્રામમાતા    ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 10. - પૃથ્વીનાં આવરણો",
+                      "material_name": "પાઠ :  17 : સિહની દોસ્તી    ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 11. - ભૂમિસ્વરૂપો",
+                      "material_name":"પાઠ :  18 : જીવરામ ભટ્ટ   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 12. - નકશો સમજીએ",
+                      "material_name": "પાઠ :  19 : સોના જેવી સવાર  ", 
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "પાઠ : 13. - ભારત : ભૂપૃષ્ઠ, આબોહવાવનસ્પતિ અને વન્યજીવન",
+                      "material_name": "પાઠ :  20 : પાંચ દાણા   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "પાઠ : 14. - વિવિધતામાં એકતા",
+                      "material_name": "પાઠ :  21 : સુભાષિતો    ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ],
@@ -2952,95 +2952,167 @@
                   "month_name": "હિન્દી",
                   "videos": [
                     {
-                      "video_name": "હિન્દી",
+                      "video_name": "પાઠ : 1 :  चित्र के संग संग",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                       {
-                      "video_name": "હિન્દી",
+                      "video_name":"પાઠ : 2 : तब याद तुम्हारी आती है !",   
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                       {
-                      "video_name": "હિન્દી",
+                      "video_name": "પાઠ : 3 : कुत्ते की वफादारी ", 
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                       {
-                      "video_name": "હિન્દી",
+                      "video_name": "પાઠ : 4 : कथनी ओर कननी",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                       {
-                      "video_name": "હિન્દી",
+                      "video_name": "પાઠ : 5 : हिन्द देश के निवासी",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                       {
-                      "video_name": "હિન્દી",
+                      "video_name":"પાઠ : 6 : डॉ. विक्रम साराभाई  ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                       {
-                      "video_name": "હિન્દી",
+                      "video_name": "પાઠ : 7 : ढूंढते रह जाओगे",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                       {
-                      "video_name": "હિન્દી",
+                      "video_name": "પાઠ : 8 : दोहा अष्टक  ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                       {
-                      "video_name": "હિન્દી",
+                      "video_name": "પાઠ : 1  : बेटी  ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                       {
-                      "video_name": "હિન્દી",
+                      "video_name": "પાઠ : 2 : हम भी बने महान",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                     {
+                      "video_name": "પાઠ : 3 : सच्चा हीरा",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                      {
+                      "video_name":"પાઠ : 4 : देश के नाम संदेश",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                      {
+                      "video_name": "પાઠ : 5 : धरती की शान",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                      {
+                      "video_name": "પાઠ : 6 : मालवजी फौजदार",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                      {
+                      "video_name": "પાઠ : 7 : बढ़े कहानी",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                      {
+                      "video_name":"પાઠ : 8 : मुस्कान के मोती ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                      {
+                      "video_name": "પાઠ : 9 : समय – सारिणी",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                      {
+                      "video_name": "પાઠ : 10 : अंदाज अपना – अपना",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "હિન્દી",
+                      "material_name": "પાઠ : 1 :  चित्र के संग संग",  
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                        {
-                      "material_name": "હિન્દી",
+                      "material_name": "પાઠ : 2 : तब याद तुम्हारी आती है !",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                        {
-                      "material_name": "હિન્દી",
+                      "material_name": "પાઠ : 3 : कुत्ते की वफादारी",  
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                        {
-                      "material_name": "હિન્દી",
+                      "material_name": "પાઠ : 4 : कथनी ओर कननी  ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                        {
-                      "material_name": "હિન્દી",
+                      "material_name":"પાઠ : 5 : हिन्द देश के निवासी",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "હિન્દી",
+                      "material_name": "પાઠ : 6 : डॉ. विक्रम साराभाई  ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                        {
-                      "material_name": "હિન્દી",
+                      "material_name": "પાઠ : 7 : ढूंढते रह जाओगे   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                        {
-                      "material_name": "હિન્દી",
+                      "material_name":"પાઠ : 8 : दोहा अष्टक  ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                        {
-                      "material_name": "હિન્દી",
+                      "material_name": "પાઠ : 1  : बेटी  ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                        {
-                      "material_name": "હિન્દી",
+                      "material_name": "પાઠ : 2 : हम भी बने महान",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પાઠ : 3 : सच्चा हीरा  ",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                       {
+                      "material_name":"પાઠ : 4 : देश के नाम संदेश",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                       {
+                      "material_name": "પાઠ : 5 : धरती की शान  ",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                       {
+                      "material_name": "પાઠ : 6 : मालवजी फौजदार",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                       {
+                      "material_name":"પાઠ : 7 : बढ़े कहानी",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name":"પાઠ : 8 : मुस्कान के मोती ",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                       {
+                      "material_name": "પાઠ : 9 : समय – सारिणी",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                       {
+                      "material_name":"પાઠ : 10 : अंदाज अपना – अपना",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ],
