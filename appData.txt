@@ -3387,167 +3387,167 @@
                   "month_name": "સમાજ",
                   "videos": [
                     {
-                      "video_name": "સમાજ",
+                      "video_name": "પાઠ :  1. રાજપૂતયુગ : નવા શાસકો અને રાજ્યો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                      {
-                      "video_name": "પાઠ : 1 : પૂનમે શું જોયું ?   ",
+                      "video_name": "પાઠ :  2. દિલ્લી સલ્તનત",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name":"પાઠ : 2 : વનપરી   ",
+                      "video_name":"પાઠ :  3. મુઘલ સામ્રાજ્ય",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "પાઠ : 3 : પાણી જ પાણી !    ",
+                      "video_name": "પાઠ :  4. મધ્યયુગીન સ્થાપત્યો, શહેરો, વેપારી અને કારીગરો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                      {
-                      "video_name": "પાઠ : 4 : છોટુનું ઘર   ",
+                      "video_name": "પાઠ :  5. આદિવાસી, વિચરતી જાતિ અને સ્થાનિક સમુદાય",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name":"પાઠ : 5 : ઘર એક શાળા   ",
+                      "video_name":"પાઠ :  6. ભક્તિયુગ : ધાર્મિક સમુદાયો અને વિચારકો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "પાઠ : 6 : ખાધા વિના ન ચાલે   ",
+                      "video_name": "પાઠ :  7. પ્રાદેશિક સંસ્કૃતિનું ઘડતર",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name":"પાઠ : 7 : અનોખો સંવાદ   ",
+                      "video_name":"પાઠ :  8. અઢારમી સદીના રાજકીય શાસકો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "પાઠ : 8 : ફરરર...   ",
+                      "video_name": "પાઠ :  9. પૃથ્વીની આંતરિક રચના અને ભૂમિ સ્વરૂપો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "પાઠ : 9 : આવ રે વરસાદ   ",
+                      "video_name": "પાઠ :  10. પર્યાવરણના ઘટકો અને આંતરસંબંધ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "પાઠ : 10 : રસોડાની વાત   ",
+                      "video_name": "પાઠ :  11. વાતાવરણની સજીવો પર અસરો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "પાઠ : 11 : આપણાં વાહનો",
+                      "video_name": "પાઠ :  12. આપત્તિ અને વ્યવસ્થાપન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "પાઠ : 12 : આપણાં કામ",
+                      "video_name":"પાઠ :  13.સંસાધનોનું જતન અને સંરક્ષણ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "પાઠ : 13 : આપણી લાગણીઓની ભાગીદારી !  ",
+                      "video_name": "પાઠ :  14. લોકશાહીમાં સમાનતા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "પાઠ : 14 : આપનો ખોરાક   ",
+                      "video_name": "પાઠ :  15. રાજ્ય સરકાર",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name":"પાઠ : 15 : માટીની મજા",
+                      "video_name":"પાઠ :  16. જાતિગત ભિન્ન્તા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "પાઠ : 16 : મારું ઘર     ",
+                      "video_name":"પાઠ :  17. સંચાર માધ્યમ અને જાહેરાત",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                      {
-                      "video_name": "પાઠ : 17 : પત્રનો પ્રવાસ   ",
+                      "video_name":"પાઠ :  18. બજાર",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "સમાજ",
+                      "material_name": "પાઠ :  1. રાજપૂતયુગ : નવા શાસકો અને રાજ્યો",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                        {
-                      "material_name":"પાઠ : 1 : પૂનમે શું જોયું ?   ",
+                      "material_name":"પાઠ :  2. દિલ્લી સલ્તનત",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 2 : વનપરી   ",
+                      "material_name": "પાઠ :  3. મુઘલ સામ્રાજ્ય",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "પાઠ : 3 : પાણી જ પાણી !    ",
+                      "material_name": "પાઠ :  4. મધ્યયુગીન સ્થાપત્યો, શહેરો, વેપારી અને કારીગરો",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "પાઠ : 4 : છોટુનું ઘર   ",
+                      "material_name":"પાઠ :  5. આદિવાસી, વિચરતી જાતિ અને સ્થાનિક સમુદાય",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 5 : ઘર એક શાળા   ",
+                      "material_name":"પાઠ :  6. ભક્તિયુગ : ધાર્મિક સમુદાયો અને વિચારકો",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name":"પાઠ : 6 : ખાધા વિના ન ચાલે  ", 
+                      "material_name":"પાઠ :  7. પ્રાદેશિક સંસ્કૃતિનું ઘડતર",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 7 : અનોખો સંવાદ   ",
+                      "material_name": "પાઠ :  8. અઢારમી સદીના રાજકીય શાસકો",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 8 : ફરરર...   ",
+                      "material_name": "પાઠ :  9. પૃથ્વીની આંતરિક રચના અને ભૂમિ સ્વરૂપો",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 9 : આવ રે વરસાદ   ",
+                      "material_name": "પાઠ :  10. પર્યાવરણના ઘટકો અને આંતરસંબંધ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 10 : રસોડાની વાત",
+                      "material_name":"પાઠ :  11. વાતાવરણની સજીવો પર અસરો",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 11 : આપણાં વાહનો",
+                      "material_name":"પાઠ :  12. આપત્તિ અને વ્યવસ્થાપન",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name":"પાઠ : 12 : આપણાં કામ   ",
+                      "material_name":"પાઠ :  13.સંસાધનોનું જતન અને સંરક્ષણ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "પાઠ : 13 : આપણી લાગણીઓની ભાગીદારી !  ",
+                      "material_name": "પાઠ :  14. લોકશાહીમાં સમાનતા",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 14 : આપનો ખોરાક   ",
+                      "material_name": "પાઠ :  15. રાજ્ય સરકાર",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 15 : માટીની મજા",
+                      "material_name": "પાઠ :  16. જાતિગત ભિન્ન્તા",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 16 : મારું ઘર",
+                      "material_name": "પાઠ :  17. સંચાર માધ્યમ અને જાહેરાત",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 17 : પત્રનો પ્રવાસ",
+                      "material_name": "પાઠ :  18. બજાર",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ],
