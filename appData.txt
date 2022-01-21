@@ -2608,140 +2608,140 @@
                   "month_name": "ગણિત",
                   "videos": [
                     {
-                      "video_name": "Gujarati",
+                      "video_name": "પાઠ : 1 : પૂર્ણાક સંખ્યાઓ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                        {
-                      "video_name": "પાઠ : 1.- ચાલો, ઇતિહાસ જાણીએ",
+                      "video_name": "પાઠ : 2 : અપૂર્ણાક અને દ્શાંશ સંખ્યાઓ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "પાઠ : 2. - આદિમાનવથી સ્થાયી જીવનની સફર",
+                      "video_name": "પાઠ : 3 માહિતીનું નિયમન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name":"પાઠ : 3. - પ્રાચીન નગરો અને ગ્રંથો",
+                      "video_name": "પાઠ : 4 : સાદા સમીકરણ   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "પાઠ : 4. - ભારતની પ્રારંભિક રાજ્યવ્યવસ્થા",
+                      "video_name": "પાઠ : 5 : રેખા અને ખૂણાઓ      ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "પાઠ : 5. - શાંતિની શોધમાં : બુદ્ધ અને મહાવીર",
+                      "video_name":"પાઠ : 6 : ત્રિકોણ અને તેના ગુણધર્મો    ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                      {
-                      "video_name": "પાઠ : 6. - મૌર્યયુગ : ચંદ્રગુપ્ત અને સમ્રાટ અશોક",
+                      "video_name":"પાઠ : 7 : ત્રિકોણની એકરૂપતા  ",  
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name":"પાઠ : 7. - ગુપ્તયુગ અને અન્ય શાસકો",
+                      "video_name":"પાઠ : 8 : રાશિઓની તુલના      ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "પાઠ : 8. - ભારતવર્ષની ભવ્યતા",
+                      "video_name": "પાઠ : 9 : સંમેય સંખ્યાઓ    ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "પાઠ : 9. - આપણું ઘર : પૃથ્વી",
+                      "video_name": "પાઠ : 10 : પ્રાયોગિક ભૂમિતિ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "પાઠ : 10. - પૃથ્વીનાં આવરણો",
+                      "video_name": "પાઠ : 11 : પરિમિતિ અને ક્ષેત્રફળ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "પાઠ : 11. - ભૂમિસ્વરૂપો",
+                      "video_name": "પાઠ : 12 : બીજગણિતીય પદાવલિ ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "પાઠ : 12. - નકશો સમજીએ",
+                      "video_name": "પાઠ : 13 : ઘાત અને ઘાતાંક",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "પાઠ : 13. - ભારત : ભૂપૃષ્ઠ, આબોહવાવનસ્પતિ અને વન્યજીવન",
+                      "video_name": "પાઠ : 14 : સંમિતિ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                      {
-                      "video_name": "પાઠ : 14. - વિવિધતામાં એકતા",
+                      "video_name": "પાઠ : 15 : ઘન આકારોની પ્રત્યક્ષીકરણ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "Gujarati",
+                      "material_name": "પાઠ : 1 : પૂર્ણાક સંખ્યાઓ   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "પાઠ : 1.- ચાલો, ઇતિહાસ જાણીએ",
+                      "material_name": "પાઠ : 2 : અપૂર્ણાક અને દ્શાંશ સંખ્યાઓ   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "પાઠ : 2. - આદિમાનવથી સ્થાયી જીવનની સફર",
+                      "material_name": "પાઠ : 3 માહિતીનું નિયમન    ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name":"પાઠ : 3. - પ્રાચીન નગરો અને ગ્રંથો",
+                      "material_name":"પાઠ : 4 : સાદા સમીકરણ   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "પાઠ : 4. - ભારતની પ્રારંભિક રાજ્યવ્યવસ્થા",
+                      "material_name": "પાઠ : 5 : રેખા અને ખૂણાઓ   ", 
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 5. - શાંતિની શોધમાં : બુદ્ધ અને મહાવીર",
+                      "material_name": "પાઠ : 6 : ત્રિકોણ અને તેના ગુણધર્મો    ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 6. - મૌર્યયુગ : ચંદ્રગુપ્ત અને સમ્રાટ અશોક",
+                      "material_name": "પાઠ : 7 : ત્રિકોણની એકરૂપતા ",   
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 7. - ગુપ્તયુગ અને અન્ય શાસકો",
+                      "material_name":"પાઠ : 8 : રાશિઓની તુલના      ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 8. - ભારતવર્ષની ભવ્યતા",
+                      "material_name": "પાઠ : 9 : સંમેય સંખ્યાઓ    ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 9. - આપણું ઘર : પૃથ્વી",
+                      "material_name": "પાઠ : 10 : પ્રાયોગિક ભૂમિતિ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 10. - પૃથ્વીનાં આવરણો",
+                      "material_name": "પાઠ : 11 : પરિમિતિ અને ક્ષેત્રફળ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 11. - ભૂમિસ્વરૂપો",
+                      "material_name": "પાઠ : 12 : બીજગણિતીય પદાવલિ ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 12. - નકશો સમજીએ",
+                      "material_name":"પાઠ : 13 : ઘાત અને ઘાતાંક",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "પાઠ : 13. - ભારત : ભૂપૃષ્ઠ, આબોહવાવનસ્પતિ અને વન્યજીવન",
+                      "material_name": "પાઠ : 14 : સંમિતિ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "પાઠ : 14. - વિવિધતામાં એકતા",
+                      "material_name": "પાઠ : 15 : ઘન આકારોની પ્રત્યક્ષીકરણ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ],
@@ -2753,107 +2753,107 @@
                   "month_name": "ગુજરાતી",
                   "videos": [
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 1 : મેળામાં  ", 
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                          {
-                      "video_name": "પાઠ : 1.- ચાલો, ઇતિહાસ જાણીએ",
+                      "video_name": "પાઠ : 2 : આજની ઘડી રળિયામણી   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "પાઠ : 2. - આદિમાનવથી સ્થાયી જીવનની સફર",
+                      "video_name":"પાઠ : 3 : પરીક્ષા    ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name":"પાઠ : 3. - પ્રાચીન નગરો અને ગ્રંથો",
+                      "video_name":"પાઠ : 4 : બે ખાનાનો પરિગ્રહ   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "પાઠ : 4. - ભારતની પ્રારંભિક રાજ્યવ્યવસ્થા",
+                      "video_name": "પાઠ : 5 : રાનમાં     ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "પાઠ : 5. - શાંતિની શોધમાં : બુદ્ધ અને મહાવીર",
+                      "video_name": "પાઠ : 6 : ભીખુ   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                      {
-                      "video_name": "પાઠ : 6. - મૌર્યયુગ : ચંદ્રગુપ્ત અને સમ્રાટ અશોક",
+                      "video_name":"પાઠ : 7 : જીવનપાથેય  ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name":"પાઠ : 7. - ગુપ્તયુગ અને અન્ય શાસકો",
+                      "video_name":"પાઠ : 8 : માલમ હલેસા માર   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "પાઠ : 8. - ભારતવર્ષની ભવ્યતા",
+                      "video_name": "પાઠ : 9 : બાનો વાડો    ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "પાઠ : 9. - આપણું ઘર : પૃથ્વી",
+                      "video_name":"પાઠ : 10 : વલયની અવકાશી સફર    ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "પાઠ : 10. - પૃથ્વીનાં આવરણો",
+                      "video_name": "પાઠ :  11 : અખબારી નોંધ   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "પાઠ : 11. - ભૂમિસ્વરૂપો",
+                      "video_name": "પાઠ :  12 : જનની  ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "પાઠ : 12. - નકશો સમજીએ",
+                      "video_name": "પાઠ :  13 : હાઇસ્કૂલમાં   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "પાઠ : 13. - ભારત : ભૂપૃષ્ઠ, આબોહવાવનસ્પતિ અને વન્યજીવન",
+                      "video_name": "પાઠ :  14 : ભમીએ ગુજરાતે : દક્ષિણ ભણી    ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                      {
-                      "video_name": "પાઠ : 14. - વિવિધતામાં એકતા",
+                      "video_name": "પાઠ :  15 : આવ, ભાણા આવ !    ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                        {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ :  16 : ગ્રામમાતા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                          {
-                      "video_name": "પાઠ : 1.- ચાલો, ઇતિહાસ જાણીએ",
+                      "video_name": "પાઠ :  17 : સિહની દોસ્તી    ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "પાઠ : 2. - આદિમાનવથી સ્થાયી જીવનની સફર",
+                      "video_name": "પાઠ :  18 : જીવરામ ભટ્ટ   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name":"પાઠ : 3. - પ્રાચીન નગરો અને ગ્રંથો",
+                      "video_name":"પાઠ :  19 : સોના જેવી સવાર   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "પાઠ : 4. - ભારતની પ્રારંભિક રાજ્યવ્યવસ્થા",
+                      "video_name": "પાઠ :  20 : પાંચ દાણા   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "પાઠ : 5. - શાંતિની શોધમાં : બુદ્ધ અને મહાવીર",
+                      "video_name": "પાઠ :  21 : સુભાષિતો    ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     }
