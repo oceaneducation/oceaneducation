@@ -1993,72 +1993,72 @@
                   "month_name": "ગણિત",
                   "videos": [
                     {
-                      "video_name": "પાઠ : 1 : વાંદરાને વાંચતાં ન આવડે",
+                      "video_name": "પાઠ : 1 : સંખ્યા પરિચય  ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name":  "પાઠ : 2 : પોટલાં ટપકે ટપ્પ",
+                      "video_name":  "પાઠ : 2 : પૂર્ણ સંખ્યાઓ   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 3 : સંખ્યા અને રમત   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name":"પાઠ : 4 : ભૂમિતિના પાયાના ખ્યાલો ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 5 : પાયાના આકારોની સમજૂતી ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 6 : પૂર્ણાંક સંખ્યાઓ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 7 : અપૂર્ણાંક સંખ્યાઓ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 8 : દશાંશ સંખ્યાઓ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 9 : માહિતીનું નિયમન ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 10 : માપન ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                      {
-                      "video_name": "પાઠ : 1 : વાંદરાને વાંચતાં ન આવડે",
+                      "video_name": "પાઠ : 11 : બીજગણિત ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name":  "પાઠ : 2 : પોટલાં ટપકે ટપ્પ",
+                      "video_name": "પાઠ : 12 : ગુણોતર અને પ્રમાણ ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 13 : સંમિતિ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 14 : પ્રાયોગિક ભૂમિતિ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     }
@@ -2066,59 +2066,59 @@
                   "material": [
                    
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 1 : સંખ્યા પરિચય  ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 2 : પૂર્ણ સંખ્યાઓ   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 3 : સંખ્યા અને રમત   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 4 : ભૂમિતિના પાયાના ખ્યાલો ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 5 : પાયાના આકારોની સમજૂતી ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 6 : પૂર્ણાંક સંખ્યાઓ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 7 : અપૂર્ણાંક સંખ્યાઓ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 8 : દશાંશ સંખ્યાઓ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 9 : માહિતીનું નિયમન ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 10 : માપન ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 11 : બીજગણિત ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 12 : ગુણોતર અને પ્રમાણ ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 13 : સંમિતિ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name":"પાઠ : 14 : પ્રાયોગિક ભૂમિતિ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ],
@@ -2130,145 +2130,140 @@
                   "month_name": "હિન્દી",
                   "videos": [
                     {
-                      "video_name": "હિન્દી",
+                      "video_name": "પાઠ : 1 : दयालु शिकारी   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગણિત ",
+                      "video_name": "પાઠ : 2 : एक जगत, एक लोक   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                      {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 3 : समझदार नन्ही   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 4 : गिनती ५१ से १००  ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 5 : धरती को महकाएँ   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 6 : सुबह        ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 7 : बूझो तो जानें ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 8 : राजा का हिस्सा  ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 1 : इतनी शक्ति हमें देना...", 
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 2 : अनूठे इन्सान  ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 3 : जरा मुस्कुराइए   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 4 : पुस्तक – हमारी मित्र  ", 
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 5 : जय विज्ञान की   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 6 : न्याय    ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     },
                     {
-                      "video_name": "ગુજરાતી",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
-                    },
-                    {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 7 : यह भी एक परीक्षा   ", 
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "હિન્દી ",
+                      "material_name": "પાઠ : 1 : दयालु शिकारी   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 2 : एक जगत, एक लोक   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "ગુજરાતી",
+                      "material_name":"પાઠ : 3 : समझदार नन्ही   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 4 : गिनती ५१ से १००  ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 5 : धरती को महकाएँ   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 6 : सुबह        ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 7 : बूझो तो जानें  ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 8 : राजा का हिस्सा  ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 1 : इतनी शक्ति हमें देना...    ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name":"પાઠ : 2 : अनूठे इन्सान  ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 3 : जरा मुस्कुराइए  ", 
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                      {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 4 : पुस्तक – हमारी मित्र",   
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 5 : जय विज्ञान की   ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name": "પાઠ : 6 : न्याय    ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "ગુજરાતી",
+                      "material_name":"પાઠ : 7 : यह भी एक परीक्षा    ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ],
