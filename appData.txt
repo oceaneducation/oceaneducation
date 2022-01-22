@@ -2523,7 +2523,87 @@
                   "month_name": "સમાજ",
                   "videos": [
                     {
-                      "video_name":    "પાઠ : 1 : રેલ્વે-સ્ટેશન   ",
+                      "video_name":   "પાઠ : 1.- ચાલો, ઇતિહાસ જાણીએ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                       {
+                      "video_name":    "પાઠ : 2. - આદિમાનવથી સ્થાયી જીવનની સફર",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                     {
+                      "video_name":   "પાઠ : 3. - પ્રાચીન નગરો અને ગ્રંથો",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                       {
+                      "video_name":   "પાઠ : 4. - ભારતની પ્રારંભિક રાજ્યવ્યવસ્થા",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                     {
+                      "video_name":   "પાઠ : 5. - શાંતિની શોધમાં : બુદ્ધ અને મહાવીર",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                       {
+                      "video_name":   "પાઠ : 6. - મૌર્યયુગ : ચંદ્રગુપ્ત અને સમ્રાટ અશોક",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                     {
+                      "video_name":   "પાઠ : 7. - ગુપ્તયુગ અને અન્ય શાસકો",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                       {
+                      "video_name":    "પાઠ : 8. - ભારતવર્ષની ભવ્યતા",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                     {
+                      "video_name":   "પાઠ : 9. - આપણું ઘર : પૃથ્વી",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                       {
+                      "video_name":  "પાઠ : 10. - પૃથ્વીનાં આવરણો",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                     {
+                      "video_name":   "પાઠ : 11. - ભૂમિસ્વરૂપો",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                       {
+                      "video_name":    "પાઠ : 12. - નકશો સમજીએ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                     {
+                      "video_name":    "પાઠ : 13. - ભારત : ભૂપૃષ્ઠ, આબોહવાવનસ્પતિ અને વન્યજીવન",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                       {
+                      "video_name":   "પાઠ : 14. - વિવિધતામાં એકતા",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                     {
+                      "video_name":   "પાઠ : 15. - સરકાર",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                       {
+                      "video_name":     "પાઠ : 16 - સ્થાનિક સરકાર",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                    },
+                     {
+                      "video_name":   "પાઠ : 17 - જીવનનિર્વાહ ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ga64onF9J0c"
                     }
