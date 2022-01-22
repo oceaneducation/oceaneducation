@@ -2,7 +2,7 @@
   "homedata": [
     {
       "homedata_name": "સ્વ અધ્યયન પોથી  ",
-      "homedata_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+      "homedata_image": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/images/image.png",
       "direct_sub_cat": false,
       "sub_data": [
         {
