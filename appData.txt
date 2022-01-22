@@ -1197,7 +1197,7 @@
                     },
                     {
                       "material_name": "પાઠ : 6 : નર્મદામૈયા   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/swa std 5 guj ch 6.pdf"
                     },
                     {
                       "material_name": "પાઠ : 7 : અલ્લક દલ્લ્ક   ",
