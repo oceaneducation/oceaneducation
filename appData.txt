@@ -4168,11 +4168,11 @@
                     },
                       {
                       "material_name": "પાઠ : 8. हँसना मना है",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 9. उलझन-सुलझन",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     }
                   ],
                   "textbook": [
@@ -4231,39 +4231,39 @@
                   "material": [
                     {
                       "material_name": "પાઠ : 1 Q for Question",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 2 : LMBB: Learn more be brighter",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                        {
                       "material_name":"પાઠ : 3 : what were you doing?",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 4 : sun-tour",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                        {
                       "material_name":"પાઠ : 1 : I will be that ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name":"પાઠ : 2 : you love English, don’t you?",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                        {
                       "material_name": "પાઠ : 3 : ah! Oh! Ouch!...",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name":"પાઠ : 4 : tell me why?",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name":"પાઠ : 5 : English plus",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     }
                   ],
                   "textbook": [
@@ -4371,75 +4371,75 @@
                     },
                           {
                       "material_name":"પાઠ : 1 : પાક ઉત્પાદન અને વ્યવસ્થાપન",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                        {
                       "material_name": "પાઠ : 2 : સૂક્ષ્મજીવો : મિત્ર અને શત્રુ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                           {
                       "material_name": "પાઠ : 3 : સંશ્લેશિત(કૃત્રિમ) રેસાઓ અને પ્લાસ્ટિક",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 4 : પદાર્થો : ધાતુ અને અધાતુ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                           {
                       "material_name": "પાઠ : 5 : કોલસો અને પેટ્રોલિયમ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                        {
                       "material_name": "પાઠ :  6 : દહન અને જ્યોત",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                           {
                       "material_name": "પાઠ :  7 : વનસ્પતિઓ અને પ્રાણીઓનું સંરક્ષણ", 
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 8 : કોષ-રચના અને કાર્યો",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                           {
                       "material_name": "પાઠ : 9 : પ્રાણીઓમાં પ્રજનન",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                        {
                       "material_name": "પાઠ : 10 : તરુણાવસ્થા તરફ ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                           {
                       "material_name": "પાઠ :  11 : બળ અને દબાણ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name":"પાઠ :  12 : ઘર્ષણ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                           {
                       "material_name":"પાઠ :  13 : ધ્વનિ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                        {
                       "material_name": "પાઠ :  14 : વિદ્યુતપ્રવાહની રસાયણિક અસરો",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                           {
                       "material_name": "પાઠ :  15 : કેટલીક કુદરતી ઘટનાઓ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ :  16 : પ્રકાશ ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                           {
                       "material_name": "પાઠ :  17 : તારાઓ અને સૂર્યમંડળ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                       {
                       "material_name": "પાઠ :  18 : હવા અને પાણીનું દૂષણ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     }
                   ],
                   "textbook": [
@@ -5686,13 +5686,13 @@
                     {
                       "video_name": "સમાજ ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     }
                   ],
                   "material": [
                     {
                       "material_name": "સમાજ ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     }
                   ],
                   "textbook": [
