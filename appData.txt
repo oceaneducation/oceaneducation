@@ -3916,91 +3916,91 @@
                   "material": [
                     {
                       "material_name": "પાઠ : 1 : બજારમાં",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 2 : એક જ દે ચિનગારી ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                       {
                       "material_name": "પાઠ : 3 : જુમો ભિસ્તી",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 4 : તને ઓળખું છું, મા",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                         {
                       "material_name": "પાઠ : 5 : એક મુલાકાત ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 6 : ધૂળીયે મારગ ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                       {
                       "material_name": "પાઠ : 7 : દેશભક્ત જગડુશા",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 8 : આજ આનંદ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                       {
                       "material_name":"પાઠ : 9 : દીકરાનો મારનાર ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 10 : અઢી આના ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                       {
                       "material_name": "પાઠ : 11 : વળાવી બા આવી ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name":"પાઠ : 12 : નવા વર્ષના સંકલ્પો",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                         {
                       "material_name": "પાઠ : 13 : શરૂઆત કરીએ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name":"પાઠ : 14 : સાકરનો શોધનારો",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                       {
                       "material_name": "પાઠ : 15 : અખંડ ભારતના શિલ્પી",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 16 : સુદામો દીઠા શ્રીકૃષ્ણદેવ રે!",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name":"પાઠ : 17 : સંસ્કારની શ્રીમંતાઇ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 18 : દુહા-મુક્તક-હાઇકુ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                       {
                       "material_name":"પાઠ : 19 : સાંઢ નાથ્યો",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 20 : બહેનનો પત્ર",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                         {
                       "material_name": "પાઠ : 21 : ક્માડે ચીતર્યા મેં...",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 22 : કિસ્સા – ટુચકા ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     }
                   ],
                   "textbook": [
@@ -4104,27 +4104,27 @@
                   "material": [
                     {
                       "material_name": "પાઠ : 1. तेरी है जमीं",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 2. ईदगाह",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 3. अंतरिक्ष परी सुनीता विलियम्स",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 4. उठो, धरा के अमर सपूतो",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 5. सवाल बालमन के, जवाब डॉ. कलाम के",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 6. भरत",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 7. सोच अपनी-अपनी",
