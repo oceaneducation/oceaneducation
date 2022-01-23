@@ -78,35 +78,35 @@
                     },
                     {
                       "material_name":"પાઠ : 3 : હું પતંગિયું મારા પિલ્લુનું   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD"
                     },
                     {
                       "material_name":"પાઠ : 4 : સસલા ની પાછળ કુતરો   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD"
                     },
                     {
                       "material_name": "પાઠ : 5 : કોરો કાચબો ભીનો ચાંદો   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD"
                     },
                     {
                       "material_name": "પાઠ : 6 : બતક અને અથવા પણ હંસ    ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD"
                     },
                     {
                       "material_name": "પાઠ : 7 : એક છલાંગે દરિયો કૂદો       ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD"
                     },
                     {
                       "material_name":"પાઠ : 8 : કીડી હતી કે હાથી હશે!",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD"
                     },
                     {
                       "material_name":"પાઠ : 9 : રંગબેરંગી મસાલિયું ",    
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD"
                     },
                     {
                       "material_name":"પાઠ : 10 : ચાલો સૌને રમત મુબારક", 
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD"
                     }
                   ],
                   "textbook": [
@@ -190,59 +190,59 @@
                   "material": [
                     {
                       "material_name": "પાઠ : 1 : ક્યાંથી જોવું  ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD"
                     },
                      {
                       "material_name": "પાઠ : 2 : સંખ્યાની ગમ્મત  ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD"
                     },
                      {
                       "material_name": "પાઠ : 3 : આપો અને લો    ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD"
                     },
                     {
                       "material_name":"પાઠ : 4 : લાંબું અને ટૂંકું    ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD"
                     },
                     {
                       "material_name": "પાઠ : 5 : આકાર અને ભાત    ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD"
                     },
                     {
                       "material_name":"પાઠ : 6 : આપ-લેની ગમ્મત   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD"
                     },
                     {
                       "material_name":"પાઠ : 7 : સમય વહી જાય છે   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD"
                     },
                     {
                       "material_name": "પાઠ : 8 : વધુ ભારે કોણ?   ",   
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD"
                     },
                     {
                       "material_name":"પાઠ : 9 : કેટલા વખત?",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD"
                     },
                     {
                       "material_name": "પાઠ : 10 : ભાત(પેટર્ન)ની રમત",   
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD"
                     },
                     {
                       "material_name": "પાઠ : 11 : જગ અને મગ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD"
                     },
                      {
                       "material_name":"પાઠ : 12 : આપણે ભાગ પાડી શકીશુ?",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 13 : સ્માર્ટ ચાર્ટ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 14 : રૂપિયા-પૈસા ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     }
                   ],
                   "textbook": [
@@ -381,103 +381,103 @@
                   "material": [
                     {
                       "material_name":"પાઠ : 1 : પૂનમે શું જોયું ?   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 2 : વનપરી   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 3 : પાણી જ પાણી !    ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 4 : છોટુનું ઘર   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 5 : ઘર એક શાળા   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name":"પાઠ : 6 : ખાધા વિના ન ચાલે  ", 
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 7 : અનોખો સંવાદ   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 8 : ફરરર...   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 9 : આવ રે વરસાદ   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 10 : રસોડાની વાત",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 11 : આપણાં વાહનો",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name":"પાઠ : 12 : આપણાં કામ   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 13 : આપણી લાગણીઓની ભાગીદારી !  ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 14 : આપનો ખોરાક   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 15 : માટીની મજા",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 16 : મારું ઘર",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 17 : પત્રનો પ્રવાસ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 18 : રમતાં-રમતાં",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 19 : આપણાં સાથી",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 20 : કેટલા રે કેટલા",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 21 : પાણી બચાવીએ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name":"પાઠ : 22 : ડાબું-જમણું",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 23 : સુંદર કપડાં",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 24 : જીવનનું જાળું",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name":"પાઠ : 25 : મારો તાલુકો ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     }
                   ],
                   "textbook": [
@@ -573,63 +573,63 @@
                   "material": [
                     {
                       "material_name":"પાઠ : 1 : નાવડી ચાલી   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name":"પાઠ : 2 : ઠંડી   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 3 : સાચી હજ   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 4 : લાખો વણજારો  ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 5 : ઉખાણા  ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 6 : રાતાં ફૂલ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 7 : કલાકારની ભૂલ ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name":"પાઠ : 8 : પત્ર લખવાની મજા !",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 9 : હું તો પૂછું   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 10 : મુરખના સરદારો   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 11 : ઊંટ અને ફકીર   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 12 : બાળ નરેન્દ્ર   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 13 : પંખીઓએ પાણી પાયું",   
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 14 : સૈનિક સૈનિક રમીએ  ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name":"પાઠ : 15 : બે બહાદુર છોકરા ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     }
                   ],
                   "textbook": [
@@ -713,59 +713,59 @@
                   "material": [
                     {
                       "material_name": "ગણિત ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગુજરાતી",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "ગુજરાતી",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગુજરાતી",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "ગુજરાતી",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "ગુજરાતી",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "ગુજરાતી",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "ગુજરાતી",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "ગુજરાતી",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "ગુજરાતી",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "ગુજરાતી",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "ગુજરાતી",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "ગુજરાતી",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગુજરાતી",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     }
                   ],
                   "textbook": [
@@ -904,103 +904,103 @@
                   "material": [
                     {
                       "material_name":"પાઠ : 1 : રોજ નિશાળે જઈએ  ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 2 : કાનથી નાક   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 3 : નંદુ સાથે એક દિવસ   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 4 : અમૃતાની વાર્તા  ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 5 : અનીતા અને મધમાખીઓ  ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 6 : રિયાની મુસાફરી   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 7 : રિયાની ટ્રેન મોડી પડી      ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 8 : રીયા પહોંચી મામાને ઘેર   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 9 : બદલાતાં કુટુંબો   ",   
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name":"પાઠ : 10 : કબડ્ડી... કબડ્ડી... કબડ્ડી…   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name":"પાઠ : 11 : વાડીમાં   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name":"પાઠ : 12 : બદલાતો સમય   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 13 : નદીની સફર   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 14 : રાજુનું ખેતર   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 15 : બજારથી ઘર સુધી   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 16 : કામનો મહિનો   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 17 : તેજલ અમદાવાદમાં  ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 18 : ગામ-ગામનાં પાણી   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 19 : સાથે જમીએ   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 20 : ખોરાક અને મજા ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 21 : જગત મારા ઘરમાં  ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 22 : પટોળાં",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name":"પાઠ : 23 : દેશ-પરદેશ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name":"પાઠ : 24 : મસાલેદાર કોયડા ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name":"પાઠ : 25 : મારો જિલ્લો ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     }
                   ],
                   "textbook": [
@@ -1054,35 +1054,35 @@
                   "material": [
                     {
                       "material_name": "પાઠ : 1. नई राह   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 2. बढ़ते कदम    ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 3. गिनती (१ से २०)  ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 4. अपने बारे में...   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 5. धम्मक-धम्मक आता हाथी",   
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 6. टपका का डर  ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 7. झूला   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 8. चतुर चूहा ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     }
                   ],
                   "textbook": [
@@ -1177,23 +1177,23 @@
                   "material": [
                     {
                       "material_name":"પાઠ : 1 : ચબૂતરો   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 2 : પર્વત તારા   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name":"પાઠ : 3 : મહેનતનો રોટલો   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 4 : સુંદર સુંદર   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 5 : શારદીના પ્રતાપે ", 
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 6 : નર્મદામૈયા   ",
@@ -1201,39 +1201,39 @@
                     },
                     {
                       "material_name": "પાઠ : 7 : અલ્લક દલ્લ્ક   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 8 : ચરણોમાં   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 9 : કદર   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 10 : ભૂલની સજા   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 11 : હિંડોળો   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 12 : અપંગનાં ઓજસ   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 13 : ભારત રત્ન : ડો. આંબેડકર   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 14 : ઊડે રે ગુલાલ  ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 15 : સુભાષિતો ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     }
                   ],
                   "textbook": [
@@ -1317,59 +1317,59 @@
                   "material": [
                     {
                       "material_name": "પાઠ : 1 : રાષ્ટ્રીય ફળ – કેરી ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 2 : આકાર અને ખૂણા     ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 3 : કેટલા ચોરસ?    ",    
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 4 : ભાગ અને પૂર્ણ    ",   
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 5 : તે સરખું દેખાય છે?",   
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name":"પાઠ : 6 : તું મારો ગુણક, હું તારો અવયવ   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 7 : તમે પેટર્ન(ભાત) જોઈ શકો છો?   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 8 : નકશા – આલેખન  ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 9 : ખોખા અને રેખાચિત્ર",   
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 10 : દસમો અને સો મો ભાગ",   
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 11 : ક્ષેત્રફળ અને પરિમિતિ   ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 12 : સ્માર્ટ ચાર્ટ્સ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 13 : ગુણાકાર અને ભાગાકારની રીતો ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 14 : કેટલું મોટું? કેટલું ભારે?",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     }
                   ],
                   "textbook": [
