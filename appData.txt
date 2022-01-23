@@ -4128,43 +4128,43 @@
                     },
                     {
                       "material_name": "પાઠ : 7. सोच अपनी-अपनी",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 8. माँ ! कह एक कहानी",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name":"પાઠ : 9. ममता",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 1. पत्र एवं डायरी",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name":"પાઠ : 2. कच्छ की सैर",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 3. मत बाँटो इन्सान को",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 4. कर्मयोगी लालबहादुर शास्त्री",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 5. दोहे",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 6. तूफानों की ओर",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 7. हार की जीत",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                       {
                       "material_name": "પાઠ : 8. हँसना मना है",
