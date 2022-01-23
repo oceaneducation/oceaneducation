@@ -3732,67 +3732,67 @@
                   "material": [
                     {
                       "material_name":"પાઠ : 1 સંમેય સંખ્યાઓ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                       {
                       "material_name": "પાઠ : 2 : એક ચલ સુરેખ સમીકરણ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                       {
                       "material_name": "પાઠ : 3 : ચતુષ્કોણની સમજ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                       {
                       "material_name": "પાઠ : 4 : પ્રાયોગિક ભૂમિતિ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                        {
                       "material_name": "પાઠ : 5 : માહિતીનું નિયમન ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                       {
                       "material_name": "પાઠ : 6 : વર્ગ અને વર્ગમૂળ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                       {
                       "material_name": "પાઠ : 7 : ઘન અને ઘનમૂળ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                       {
                       "material_name": "પાઠ : 8 : રાશિઓની તુલના",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                        {
                       "material_name": "પાઠ : 9 : બૈજિક પદાવલીઓ અને નિત્યસમ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                       {
                       "material_name": "પાઠ : 10 : ઘનાકારોનું પ્રત્યક્ષીકરણ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                       {
                       "material_name": "પાઠ : 11 : માપન",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                       {
                       "material_name": "પાઠ : 12 : ઘાત અને ઘાતાંક",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                        {
                       "material_name": "પાઠ : 13 : સમપ્રમાણ અને વ્યસ્ત પ્રમાણ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                       {
                       "material_name": "પાઠ : 14 : અવયવીકરણ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                       {
                       "material_name": "પાઠ : 15 : આલેખનો પરિચય ",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                       {
                       "material_name": "પાઠ : 16 : સંખ્યા સાથે રમત",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     }
                   ],
                   "textbook": [
