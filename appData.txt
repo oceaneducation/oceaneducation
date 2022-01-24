@@ -912,7 +912,7 @@
                     },
                     {
                       "material_name": "પાઠ : 3 : નંદુ સાથે એક દિવસ   ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/swa std 4 aaspas ch 3.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 4 : અમૃતાની વાર્તા  ",
@@ -1506,7 +1506,7 @@
                     },
                      {
                       "material_name":"પાઠ : 3 : સ્વાદથી પાચન સુધી  ", 
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/swa std 4 aaspas ch 3.pdf"
                     },
                     {
                       "material_name": "પાઠ : 4 : કેરીઓ બારેમાસ !  ",  
