@@ -1397,17 +1397,17 @@
                      {
                       "video_name": "પાઠ : 4 : કેરીઓ બારેમાસ !    ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/XCPqK0zaOq4"
                     },
                     {
                       "video_name":"પાઠ : 5 : બીજ, બીજ, બીજ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/sEQRKswNwPo"
                     },
                     {
                       "video_name": "પાઠ : 6 : જળ એ જ જીવન   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/sQUW8Lc1h28"
                     },
                     {
                       "video_name": "પાઠ : 7 : પાણી સાથેના પ્રયોગ   ",
