@@ -255,12 +255,12 @@
                     {
                       "video_name": "પાઠ : 1 : પૂનમે શું જોયું ?   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/73Z-ws4rLHw"
                     },
                     {
                       "video_name":"પાઠ : 2 : વનપરી   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/51G5alU9fyc"
                     },
                     {
                       "video_name": "પાઠ : 3 : પાણી જ પાણી !    ",
