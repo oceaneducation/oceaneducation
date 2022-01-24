@@ -1995,22 +1995,22 @@
                     {
                       "video_name": "પાઠ : 1 : સંખ્યા પરિચય  ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/EKqpLvNCvt0"
                     },
                     {
                       "video_name":  "પાઠ : 2 : પૂર્ણ સંખ્યાઓ   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/anZjqcTAsOQ"
                     },
                     {
                       "video_name": "પાઠ : 3 : સંખ્યા અને રમત   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/YOW5Znm6uVA"
                     },
                     {
                       "video_name":"પાઠ : 4 : ભૂમિતિના પાયાના ખ્યાલો ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/j0TP8VNnkCY"
                     },
                     {
                       "video_name": "પાઠ : 5 : પાયાના આકારોની સમજૂતી ",
@@ -2535,17 +2535,17 @@
                      {
                       "video_name":   "પાઠ : 3. - પ્રાચીન નગરો અને ગ્રંથો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/veLqIWdeqL8"
                     },
                        {
                       "video_name":   "પાઠ : 4. - ભારતની પ્રારંભિક રાજ્યવ્યવસ્થા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/VwkDaDCeTUQ"
                     },
                      {
                       "video_name":   "પાઠ : 5. - શાંતિની શોધમાં : બુદ્ધ અને મહાવીર",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/H72QfMKuJYM"
                     },
                        {
                       "video_name":   "પાઠ : 6. - મૌર્યયુગ : ચંદ્રગુપ્ત અને સમ્રાટ અશોક",
@@ -3474,7 +3474,7 @@
                     {
                       "video_name": "પાઠ :  1. રાજપૂતયુગ : નવા શાસકો અને રાજ્યો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/MnSdfMPBX8A"
                     },
                      {
                       "video_name": "પાઠ :  2. દિલ્લી સલ્તનત",
@@ -3484,7 +3484,7 @@
                     {
                       "video_name":"પાઠ :  3. મુઘલ સામ્રાજ્ય",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/8A1JuUS_giY"
                     },
                     {
                       "video_name": "પાઠ :  4. મધ્યયુગીન સ્થાપત્યો, શહેરો, વેપારી અને કારીગરો",
