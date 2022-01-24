@@ -381,7 +381,7 @@
                   "material": [
                     {
                       "material_name":"પાઠ : 1 : પૂનમે શું જોયું ?   ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/swa std 3 aaspass ch.1 swadhyanpothi.pdf"
                     },
                     {
                       "material_name": "પાઠ : 2 : વનપરી   ",
