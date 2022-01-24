@@ -78,35 +78,35 @@
                     },
                     {
                       "material_name":"પાઠ : 3 : હું પતંગિયું મારા પિલ્લુનું   ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STDswa std 3 gujrati ch.3 swadhyaynpothi.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/swa std 3 gujrati ch.3 swadhyaynpothi.pdf"
                     },
                     {
                       "material_name":"પાઠ : 4 : સસલા ની પાછળ કુતરો   ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STDswa std 3 gujarati ch.4 swaadhyanpothi.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/swa std 3 gujarati ch.4 swaadhyanpothi.pdf"
                     },
                     {
                       "material_name": "પાઠ : 5 : કોરો કાચબો ભીનો ચાંદો   ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STDswa std 3 gujarati ch.5 swadhyaynpothi.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/swa std 3 gujarati ch.5 swadhyaynpothi.pdf"
                     },
                     {
                       "material_name": "પાઠ : 6 : બતક અને અથવા પણ હંસ    ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 7 : એક છલાંગે દરિયો કૂદો       ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name":"પાઠ : 8 : કીડી હતી કે હાથી હશે!",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name":"પાઠ : 9 : રંગબેરંગી મસાલિયું ",    
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name":"પાઠ : 10 : ચાલો સૌને રમત મુબારક", 
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     }
                   ],
                   "textbook": [
@@ -190,47 +190,47 @@
                   "material": [
                     {
                       "material_name": "પાઠ : 1 : ક્યાંથી જોવું  ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 2 : સંખ્યાની ગમ્મત  ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "પાઠ : 3 : આપો અને લો    ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name":"પાઠ : 4 : લાંબું અને ટૂંકું    ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 5 : આકાર અને ભાત    ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name":"પાઠ : 6 : આપ-લેની ગમ્મત   ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name":"પાઠ : 7 : સમય વહી જાય છે   ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 8 : વધુ ભારે કોણ?   ",   
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name":"પાઠ : 9 : કેટલા વખત?",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 10 : ભાત(પેટર્ન)ની રમત",   
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
                       "material_name": "પાઠ : 11 : જગ અને મગ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name":"પાઠ : 12 : આપણે ભાગ પાડી શકીશુ?",
