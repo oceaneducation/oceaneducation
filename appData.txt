@@ -1013,7 +1013,7 @@
                     {
                       "video_name": "પાઠ : 1. नई राह   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/IREYb-72yOM"
                     },
                      {
                       "video_name": "પાઠ : 2. बढ़ते कदम",
@@ -2015,7 +2015,7 @@
                     {
                       "video_name": "પાઠ : 5 : પાયાના આકારોની સમજૂતી ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/2zXakY15KiQ"
                     },
                     {
                       "video_name": "પાઠ : 6 : પૂર્ણાંક સંખ્યાઓ",
@@ -2550,7 +2550,7 @@
                        {
                       "video_name":   "પાઠ : 6. - મૌર્યયુગ : ચંદ્રગુપ્ત અને સમ્રાટ અશોક",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/OSaCot8fFhU"
                     },
                      {
                       "video_name":   "પાઠ : 7. - ગુપ્તયુગ અને અન્ય શાસકો",
