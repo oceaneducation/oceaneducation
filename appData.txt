@@ -1599,12 +1599,12 @@
                     {
                       "video_name": "પાઠ : 1 : यातायात( चित्रपाठ)",  
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/HM-OoMKrrGg"
                     },
                      {
                       "video_name":"પાઠ : 2 : गिनती (२१ से ५०)   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/HO2rqXJNACo"
                     },
                     {
                       "video_name":"પાઠ : 3 : नन्हा मुन्ना राही हूँ",   
