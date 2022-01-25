@@ -1018,7 +1018,7 @@
                      {
                       "video_name": "પાઠ : 2. बढ़ते कदम",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/yq7Yla6IzvQ"
                     },
                     {
                       "video_name": "પાઠ : 3. गिनती (१ से २०)",
@@ -1136,7 +1136,7 @@
                     {
                       "video_name": "પાઠ : 8 : ચરણોમાં   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/8DMYgUA1lEk"
                     },
                     {
                       "video_name": "પાઠ : 9 : કદર   ",
@@ -1609,22 +1609,22 @@
                     {
                       "video_name":"પાઠ : 3 : नन्हा मुन्ना राही हूँ",   
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/zqxyD4y6Boo"
                     },
                     {
                       "video_name": "પાઠ : 4 : सोच अपनी अपनी  ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/gtB5RUVAEFk"
                     },
                      {
                       "video_name": "પાઠ : 5 : चिड़ियाघर की सैर    ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/wBhwfxtx0Do"
                     },
                     {
                       "video_name":"પાઠ : 6 : हँसी का पिटारा   ",  
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/mPIBOy80uTI"
                     },
                     {
                       "video_name": "પાઠ : 7 : खाना खजाना (चित्रपाठ)  ",
@@ -1868,12 +1868,12 @@
                      {
                       "video_name":"પાઠ : 10 : આલાલીલા વાંસડિયા  ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/E2M79rDAWXw"
                     },
                      {
                       "video_name": "પાઠ : 11 : એક જાદુઇ પત્રની વાર્તા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/IkNN1_9eaxQ"
                     },
                      {
                       "video_name":"પાઠ : 12 : રાવણનું મિથ્યાભિમાન  ",
@@ -2555,17 +2555,17 @@
                      {
                       "video_name":   "પાઠ : 7. - ગુપ્તયુગ અને અન્ય શાસકો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/H5_UPySa0zE"
                     },
                        {
                       "video_name":    "પાઠ : 8. - ભારતવર્ષની ભવ્યતા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/Vxr1EQjogKE"
                     },
                      {
                       "video_name":   "પાઠ : 9. - આપણું ઘર : પૃથ્વી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/-qtci257fBg"
                     },
                        {
                       "video_name":  "પાઠ : 10. - પૃથ્વીનાં આવરણો",
@@ -2925,22 +2925,22 @@
                     {
                       "video_name": "પાઠ :  18 : જીવરામ ભટ્ટ   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/IwCLFNhPTpk"
                     },
                     {
                       "video_name":"પાઠ :  19 : સોના જેવી સવાર   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/QL6fTVsgMR8"
                     },
                     {
                       "video_name": "પાઠ :  20 : પાંચ દાણા   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/NNcNjE7BkQY"
                     },
                     {
                       "video_name": "પાઠ :  21 : સુભાષિતો    ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/TMwc_F90euo"
                     }
                   ],
                   "material": [
@@ -3479,7 +3479,7 @@
                      {
                       "video_name": "પાઠ :  2. દિલ્લી સલ્તનત",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/D5WyC28aFws"
                     },
                     {
                       "video_name":"પાઠ :  3. મુઘલ સામ્રાજ્ય",
@@ -3489,7 +3489,7 @@
                     {
                       "video_name": "પાઠ :  4. મધ્યયુગીન સ્થાપત્યો, શહેરો, વેપારી અને કારીગરો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/flnIqJN_eqI"
                     },
                      {
                       "video_name": "પાઠ :  5. આદિવાસી, વિચરતી જાતિ અને સ્થાનિક સમુદાય",
@@ -3830,7 +3830,7 @@
                          {
                       "video_name": "પાઠ : 6 : ધૂળીયે મારગ ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ga64onF9J0c"
+                      "video_link": "https://youtu.be/k6oq8wNkex8"
                     },
                       {
                       "video_name": "પાઠ : 7 : દેશભક્ત જગડુશા",
