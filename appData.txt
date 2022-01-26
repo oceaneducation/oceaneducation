@@ -1141,7 +1141,7 @@
                     {
                       "video_name": "પાઠ : 9 : કદર   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/XcV0ZuLi7rg"
                     },
                     {
                       "video_name":"પાઠ : 10 : ભૂલની સજા   ",
@@ -1878,7 +1878,7 @@
                      {
                       "video_name":"પાઠ : 12 : રાવણનું મિથ્યાભિમાન  ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/oejNqKSB-3o"
                     },
                     {
                       "video_name": "પાઠ : 13 : સાગરકાંઠાનો પ્રવાસ",
@@ -2570,7 +2570,7 @@
                        {
                       "video_name":  "પાઠ : 10. - પૃથ્વીનાં આવરણો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/4fzHBoQ7AAU"
                     },
                      {
                       "video_name":   "પાઠ : 11. - ભૂમિસ્વરૂપો",
@@ -2580,7 +2580,7 @@
                        {
                       "video_name":    "પાઠ : 12. - નકશો સમજીએ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/vuR4AVid-hs"
                     },
                      {
                       "video_name":    "પાઠ : 13. - ભારત : ભૂપૃષ્ઠ, આબોહવાવનસ્પતિ અને વન્યજીવન",
@@ -3835,7 +3835,7 @@
                       {
                       "video_name": "પાઠ : 7 : દેશભક્ત જગડુશા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/OVHS7h2MxVo"
                     },
                          {
                       "video_name": "પાઠ : 8 : આજ આનંદ",
@@ -3875,17 +3875,17 @@
                       {
                       "video_name": "પાઠ : 15 : અખંડ ભારતના શિલ્પી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/X55lEUk6u_M"
                     },
                          {
                       "video_name": "પાઠ : 16 : સુદામો દીઠા શ્રીકૃષ્ણદેવ રે!",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/kTEalKnru8Q"
                     },
                       {
                       "video_name":"પાઠ : 17 : સંસ્કારની શ્રીમંતાઇ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/2T8GaamJlxw"
                     },
                          {
                       "video_name": "પાઠ : 18 : દુહા-મુક્તક-હાઇકુ",
