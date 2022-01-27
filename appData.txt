@@ -1213,7 +1213,7 @@
                     },
                     {
                       "material_name": "પાઠ : 10 : ભૂલની સજા   ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/SWA std 5 ગુજરાતી ch 10 સ્વઅધ્યયન પોથી.pdf"
                     },
                     {
                       "material_name": "પાઠ : 11 : હિંડોળો   ",
@@ -1974,15 +1974,15 @@
                     },
                     {
                       "material_name": "પાઠ : 16 : માતૃહદય   ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/SWA std 6 ch 16 gujarati swa aadhyayanpothi.pdf"
                     },
                     {
                       "material_name": "પાઠ : 17 : સુગંધ કચ્છની...!   ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/SWA std 6 guj ch 17 સ્વ-અધ્યયનપોથી.pdf"
                     },
                     {
                       "material_name": "પાઠ : 18 : સુભાષિત",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/SWA std 6 guj ch 18 સ્વ-અધ્યયનપોથી.pdf"
                     }
                   ],
                   "textbook": [
@@ -2456,11 +2456,11 @@
                     },
                     {
                       "material_name": "પાઠ : 2 : આહારના ઘટકો   ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/SWA std 6 sci ch 2 સ્વઅધ્યયન પોથી.pdf"
                     },
                      {
                       "material_name": "પાઠ : 3 : રેસાથી કાપડ સુધી   ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/SWA std 6 sci ch 3 સ્વઅધ્યયન પોથી.pdf"
                     },
                     {
                       "material_name": "પાઠ : 4 : વસ્તુઓના જુથ બનાવવા ",
@@ -2484,7 +2484,7 @@
                     },
                     {
                       "material_name": "પાઠ : 9 : સજીવો – લક્ષણો અને નિવાસસ્થાન    ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/SWA std 6 sci ch 9 સ્વઅધ્યયન પોથી.pdf"
                     },
                     {
                       "material_name": "પાઠ : 10 : ગતિ અને અંતરનું માપન    ",
@@ -2663,7 +2663,7 @@
                     },
                      {
                       "material_name": "પાઠ : 14. - વિવિધતામાં એકતા",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/SWA std 6 s.s ch 14 સ્વ-અધ્યયનપોથી.pdf"
                     },
                     {
                       "material_name": "પાઠ : 15. - સરકાર",
@@ -2978,11 +2978,11 @@
                     },
                     {
                       "material_name": "પાઠ : 9 : બાનો વાડો    ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/SWA std 7 gujarati ch.9 swaddhyanpothi.pdf"
                     },
                     {
                       "material_name": "પાઠ : 10 : વલયની અવકાશી સફર  ",  
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/SWA std 7 gujarati ch.10 swaddhyanpothi.pdf"
                     },
                     {
                       "material_name": "પાઠ :  11 : અખબારી નોંધ   ",
@@ -2994,7 +2994,7 @@
                     },
                     {
                       "material_name": "પાઠ :  13 : હાઇસ્કૂલમાં   ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/SWA std 7 gujarati ch.13 swaddhyanpothi.pdf"
                     },
                     {
                       "material_name": "પાઠ :  14 : ભમીએ ગુજરાતે : દક્ષિણ ભણી    ",
