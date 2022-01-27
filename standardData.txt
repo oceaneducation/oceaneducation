@@ -13886,7 +13886,7 @@
                     "month_name": "Ch - 3",
                     "videos": [
                        {
-                        "video_name": "वन्दना",
+                        "video_name":  "परं निधानम्",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/dudXdJFY4vw"
                       }
@@ -13896,7 +13896,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 3",
+                        "textbook_name":  "परं निधानम्",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 3.pdf"
                       }
                     ]
@@ -13905,7 +13905,7 @@
                     "month_name": "Ch - 4",
                     "videos": [
                        {
-                        "video_name": "वन्दना",
+                        "video_name":  "वलभी विध्यास्थानम ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/M9q1N2bfvhY"
                       }
@@ -13915,7 +13915,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 4",
+                        "textbook_name":  "वलभी विध्यास्थानम ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 4.pdf"
                       }
                     ]
@@ -13924,7 +13924,7 @@
                     "month_name": "Ch - 5",
                     "videos": [
                        {
-                        "video_name": "वन्दना",
+                        "video_name": "सुभाषितवैभव",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/ugBT2iB-pFM"
                       }
@@ -13934,7 +13934,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 5",
+                        "textbook_name":  "सुभाषितवैभव",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 5.pdf"
                       }
                     ]
@@ -13943,7 +13943,7 @@
                     "month_name": "Ch - 6",
                     "videos": [
                        {
-                        "video_name": "वन्दना",
+                        "video_name":"सर्व चारुतरं वासन्ते !  ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/W62qdFrAzbA "
                       }
@@ -13953,7 +13953,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 6",
+                        "textbook_name":"सर्व चारुतरं वासन्ते !  ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 6.pdf"
                       }
                     ]
@@ -13962,7 +13962,7 @@
                     "month_name": "Ch - 7",
                     "videos": [
                        {
-                        "video_name": "वन्दना",
+                        "video_name": "संहतिः कार्यसाधिका ।",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/uaoOVeLhpng"
                       }
@@ -13972,7 +13972,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 7",
+                        "textbook_name":"संहतिः कार्यसाधिका ।",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 7.pdf"
                       }
                     ]
@@ -13981,7 +13981,7 @@
                     "month_name": "Ch - 8",
                     "videos": [
                        {
-                        "video_name": "वन्दना",
+                        "video_name":  "काषायानां कोड्पराध ? ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/v4TFDlmmvZg"
                       }
@@ -13991,7 +13991,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 8",
+                        "textbook_name":   "काषायानां कोड्पराध ? ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 8.pdf"
                       }
                     ]
@@ -14000,7 +14000,7 @@
                     "month_name": "Ch - 9",
                     "videos": [
                        {
-                        "video_name": "वन्दना",
+                        "video_name": "उपकारहतस्तू कर्तव्यः ।  ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/9UqBrC5j2Co"
                       }
@@ -14010,7 +14010,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 9",
+                        "textbook_name":  "उपकारहतस्तू कर्तव्यः ।  ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 9.pdf"
                       }
                     ]
@@ -14019,7 +14019,7 @@
                     "month_name": "Ch - 10",
                     "videos": [
                        {
-                        "video_name": "वन्दना",
+                        "video_name": "दौवारिकस्य सेवानिष्ठा ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/VgWL-j3EfCY"
                       }
@@ -14029,7 +14029,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 10",
+                        "textbook_name":  "दौवारिकस्य सेवानिष्ठा ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 10.pdf"
                       }
                     ]
@@ -14038,7 +14038,7 @@
                     "month_name": "Ch - 11",
                     "videos": [
                        {
-                        "video_name": "वन्दना",
+                        "video_name":  "वेदितव्यानी मित्राणी ।",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/PN2o05yXflk"
                       }
@@ -14048,7 +14048,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 11",
+                        "textbook_name":  "वेदितव्यानी मित्राणी ।",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 11.pdf"
                       }
                     ]
@@ -14057,7 +14057,7 @@
                     "month_name": "Ch - 12",
                     "videos": [
                        {
-                        "video_name": "वन्दना",
+                        "video_name":  "सुभाषित-सप्तकम",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/85wP-JMLGTI"
                       }
@@ -14067,7 +14067,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 12",
+                        "textbook_name":  "सुभाषित-सप्तकम",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 12.pdf"
                       }
                     ]
@@ -14076,7 +14076,7 @@
                     "month_name": "Ch - 13",
                     "videos": [
                        {
-                        "video_name": "वन्दना",
+                        "video_name": "द्रीष्ट्या गोग्रहनं स्वनतम् !",  
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/rY6_FZwoBOQ"
                       }
@@ -14086,7 +14086,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 13",
+                        "textbook_name":  "द्रीष्ट्या गोग्रहनं स्वनतम् ! ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 13.pdf"
                       }
                     ]
@@ -14095,7 +14095,7 @@
                     "month_name": "Ch - 14",
                     "videos": [
                        {
-                        "video_name": "वन्दना",
+                        "video_name": "हनुमद्रणीतरामवृतांतः  ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/HMeU6otM_k8"
                       }
@@ -14105,13 +14105,13 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 14",
+                        "textbook_name":  "हनुमद्रणीतरामवृतांतः  ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 14.pdf"
                       }
                     ]
                   },
                   {
-                    "month_name": "Ch - 15",
+                    "month_name":  "सुदुर्लभा सर्वमनोरमा वाणी । ",
                     "videos": [
                        {
                         "video_name": "वन्दना",
@@ -14124,7 +14124,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 15",
+                        "textbook_name": "सुदुर्लभा सर्वमनोरमा वाणी ।", 
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 15.pdf"
                       }
                     ]
@@ -14133,7 +14133,7 @@
                     "month_name": "Ch - 16",
                     "videos": [
                        {
-                        "video_name": "वन्दना",
+                        "video_name": "अजेय: स भविष्यती । ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/WWavzzhnMzs"
                       }
@@ -14143,7 +14143,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 16",
+                        "textbook_name":"अजेय: स भविष्यती । ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 16.pdf"
                       }
                     ]
@@ -14152,7 +14152,7 @@
                     "month_name": "Ch - 17",
                     "videos": [
                        {
-                        "video_name": "वन्दना",
+                        "video_name": "आचार्य: चरक: ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/1mY8iAeDQ3g"
                       }
@@ -14162,7 +14162,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 17",
+                        "textbook_name": "आचार्य: चरक: ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 17.pdf"
                       }
                     ]
@@ -14171,7 +14171,7 @@
                     "month_name": "Ch - 18",
                     "videos": [
                        {
-                        "video_name": "वन्दना",
+                        "video_name": "बिलस्य वाणी न कदापी मे श्रुता ।",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/UXUf0bvxgQo"
                       }
@@ -14181,7 +14181,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 18",
+                        "textbook_name": "बिलस्य वाणी न कदापी मे श्रुता ।",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 18.pdf"
                       }
                     ]
@@ -14190,7 +14190,7 @@
                     "month_name": "Ch - 19",
                     "videos": [
                        {
-                        "video_name": "वन्दना",
+                        "video_name": "विनोद्पध्यानी ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/qD5jg4I2b2A "
                       }
@@ -14200,7 +14200,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 19",
+                        "textbook_name":  "विनोद्पध्यानी ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 19.pdf"
                       }
                     ]
@@ -14209,7 +14209,7 @@
                     "month_name": "Ch - 20",
                     "videos": [
                        {
-                        "video_name": "वन्दना",
+                        "video_name":  "संस्कृतभाषाया: वैशिष्ट्यम्",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/tgxTZ7zPc7I"
                       }
@@ -14219,7 +14219,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 20",
+                        "textbook_name":  "संस्कृतभाषाया: वैशिष्ट्यम्",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 20.pdf"
                       }
                     ]
