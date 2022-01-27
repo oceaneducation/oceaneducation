@@ -1146,7 +1146,7 @@
                     {
                       "video_name":"પાઠ : 10 : ભૂલની સજા   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/CfHEShHz_m4"
                     },
                     {
                       "video_name": "પાઠ : 11 : હિંડોળો",
@@ -1883,32 +1883,32 @@
                     {
                       "video_name": "પાઠ : 13 : સાગરકાંઠાનો પ્રવાસ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/832eBz87GgM"
                     },
                      {
                       "video_name": "પાઠ : 14 : સારા અક્ષર ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/mFh0EWm57XI"
                     },
                      {
                       "video_name": "પાઠ : 15 : ગુજરાત મોરી મોરી રે  ", 
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/2L1GIvPL6Y8"
                     },
                      {
                       "video_name": "પાઠ : 16 : માતૃહદય   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/2LARaHUOJB8"
                     },
                      {
                       "video_name": "પાઠ : 17 : સુગંધ કચ્છની...! ",  
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/iqUpflgjYFs"
                     },
                      {
                       "video_name": "પાઠ : 18 : સુભાષિત",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/bnagmDk7q7U"
                     }
                   ],
                   "material": [
@@ -2020,12 +2020,12 @@
                     {
                       "video_name": "પાઠ : 6 : પૂર્ણાંક સંખ્યાઓ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/SEiEdKXDb3c"
                     },
                     {
                       "video_name": "પાઠ : 7 : અપૂર્ણાંક સંખ્યાઓ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/oKvdgBqisjY"
                     },
                     {
                       "video_name": "પાઠ : 8 : દશાંશ સંખ્યાઓ",
@@ -2371,17 +2371,17 @@
                     {
                       "video_name": "પાઠ : 1 ખોરાક : ક્યાથી મળે છે? ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/m6datXZ_uRo"
                     },
                     {
                       "video_name": "પાઠ : 2 : આહારના ઘટકો   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/gXLaefwLRcA"
                     },
                     {
                       "video_name": "પાઠ : 3 : રેસાથી કાપડ સુધી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/Ug5_vOLqvRQ"
                     },
                     {
                       "video_name": "પાઠ : 4 : વસ્તુઓના જુથ બનાવવા",
@@ -2411,7 +2411,7 @@
                     {
                       "video_name":"પાઠ : 9 : સજીવો – લક્ષણો અને નિવાસસ્થાન  ",  
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/iL-hDGA1xkY"
                     },
                     {
                       "video_name": "પાઠ : 10 : ગતિ અને અંતરનું માપન ",   
@@ -2590,7 +2590,7 @@
                        {
                       "video_name":   "પાઠ : 14. - વિવિધતામાં એકતા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/ALLAzKxlh-w"
                     },
                      {
                       "video_name":   "પાઠ : 15. - સરકાર",
@@ -2878,14 +2878,14 @@
                       "video_link": "https://youtu.be/lMBSmS5pY5o"
                     },
                     {
-                      "video_name": "પાઠ : 9 : બાનો વાડો    ",
+                      "video_name": "પાઠ : 9 : બા નો વાડો    ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/lU89alssi1s"
                     },
                     {
                       "video_name":"પાઠ : 10 : વલયની અવકાશી સફર    ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/NhaupS-jkmM"
                     },
                     {
                       "video_name": "પાઠ :  11 : અખબારી નોંધ   ",
@@ -2900,17 +2900,17 @@
                     {
                       "video_name": "પાઠ :  13 : હાઇસ્કૂલમાં   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/yumfkfrhteg"
                     },
                     {
                       "video_name": "પાઠ :  14 : ભમીએ ગુજરાતે : દક્ષિણ ભણી    ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/EIa-a7Ief5E"
+                      "video_link": "https://youtu.be/2svoz-xphMw"
                     },
                      {
                       "video_name": "પાઠ :  15 : આવ, ભાણા આવ !    ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/B5EuZ3FHMTo"
                     },
                        {
                       "video_name": "પાઠ :  16 : ગ્રામમાતા",
