@@ -14111,10 +14111,10 @@
                     ]
                   },
                   {
-                    "month_name":  "सुदुर्लभा सर्वमनोरमा वाणी । ",
+                    "month_name":  "ch - 15",
                     "videos": [
                        {
-                        "video_name": "वन्दना",
+                        "video_name": "सुदुर्लभा सर्वमनोरमा वाणी । ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/PW9kD6DnJ5c "
                       }
@@ -14235,7 +14235,392 @@
         "homedata_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
         "direct_sub_cat": false,
         "sub_data": [
-          
+           {
+                "standard_name": "Sanskrit",
+                "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                "month_cat": [
+                  {
+                    "month_name": "Ch - 1",
+                    "videos": [
+                       {
+                        "video_name": "सं वदध्वम् ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/27wwgvSboyQ "
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "सं वदध्वम् ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 1.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 2",
+                    "videos": [
+                       {
+                        "video_name":  "यद्भविष्यो विनश्यति  ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/kmctDewUtTM "
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name":  "यद्भविष्यो विनश्यति  ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 2.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 3",
+                    "videos": [
+                       {
+                        "video_name":  "स्वस्थवृत्तं समाचर",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/IiyvySXozGg "
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "स्वस्थवृत्तं समाचर",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 3.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 4",
+                    "videos": [
+                       {
+                        "video_name":  "जनार्दनस्य पश्चिमः",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/BHlkuRkXhxs "
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "जनार्दनस्य पश्चिमः",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 4.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 5",
+                    "videos": [
+                       {
+                        "video_name":  "गुणवती कन्या",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HE1WhYEEYkA "
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name":  "गुणवती कन्या",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 6",
+                    "videos": [
+                       {
+                        "video_name": "काष्ठखण्डः ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/O5sGkUOvZeQ  "
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "काष्ठखण्डः ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 6.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 7",
+                    "videos": [
+                       {
+                        "video_name": " सुभाषितकुसुमानि",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/YHT9KAcLrBI "
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "सुभाषितकुसुमानि ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 7.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 8",
+                    "videos": [
+                       {
+                        "video_name":  "साक्षिभूतः मनुष्यः ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/2cEfnMi9i-4 "
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name":   "साक्षिभूतः मनुष्यः ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 8.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 9",
+                    "videos": [
+                       {
+                        "video_name": "चक्षुष्मान् अन्ध एव,",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/d98JMjz7wQQ "
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "चक्षुष्मान् अन्ध एव",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 9.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 10",
+                    "videos": [
+                       {
+                        "video_name":"त्वमेका भवानि   ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/KlzSyVHDg7I"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name":  "त्वमेका भवानि   ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 10.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 11",
+                    "videos": [
+                       {
+                        "video_name":  "यस्य जननं तस्य मरणम् ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/lajyyEDs0lI "
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name":  "यस्य जननं तस्य मरणम् ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 11.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 12",
+                    "videos": [
+                       {
+                        "video_name":  "कलिकालसर्वज्ञो हेमचन्द्राचार्यः ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/AH66cNDUFpE "
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "कलिकालसर्वज्ञो हेमचन्द्राचार्यः ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 12.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 13",
+                    "videos": [
+                       {
+                        "video_name": "गीतामृतम्",  
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/AH66cNDUFpE "
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "गीतामृतम्",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 13.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 14",
+                    "videos": [
+                       {
+                        "video_name":  "क इदं दुष्करं कुर्यात्  ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/Keioj5XkLLM "
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name":  "क इदं दुष्करं कुर्यात्  ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 14.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "ch - 15",
+                    "videos": [
+                       {
+                        "video_name": "जयः पराजयो वा",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/BYxZl70XK6o "
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "जयः पराजयो वा ।", 
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 15.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 16",
+                    "videos": [
+                       {
+                        "video_name": "अद्भुतं युद्धम् ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/z54ubvn2MIg "
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name":"अद्भुतं युद्धम् ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 16.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 17",
+                    "videos": [
+                       {
+                        "video_name": "स्वाभाविकं सादृश्यम्",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/oX3Wfh8TEOQ "
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "स्वाभाविकं सादृश्यम्",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 17.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 18",
+                    "videos": [
+                       {
+                        "video_name": "मुक्तानि मुक्तकानि ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/VMgKzmMnF7c "
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "मुक्तानि मुक्तकानि ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 18.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 19",
+                    "videos": [
+                       {
+                        "video_name": "सत्यं मयूरः ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/ciOP_MueO-E  "
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name":  "सत्यं मयूरः ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 19.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 20",
+                    "videos": [
+                       {
+                        "video_name":   "तथैव तिष्ठति",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/FdSfe0M42X4"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name":  "तथैव तिष्ठति",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 20.pdf"
+                      }
+                    ]
+                  }
+                ]
+              }
             
         ]
       },
