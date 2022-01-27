@@ -10305,7 +10305,7 @@
                       {
                         "video_name": "आत्माश्रद्धाया : प्रभाव",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/BD3vsoRAkOo"
+                        "video_link": "https://youtu.be/vJ37MhZA3Zw"
                       }
                     ],
                     "material": [
@@ -10324,7 +10324,7 @@
                       {
                         "video_name": "एहि  सुधीर",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Lye628FzKLY"
+                        "video_link": "https://youtu.be/Sv8MQOZ6AsM"
                       }
                     ],
                     "material": [
@@ -10343,7 +10343,7 @@
                       {
                         "video_name": "शिलाया: प्रवास :",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/eJcyFytbFrk"
+                        "video_link": "https://www.youtube.com/watch?v=x033g-zXW8g"
                       }
                     ],
                     "material": [
@@ -10381,7 +10381,7 @@
                       {
                         "video_name": "विनोदपध्यानी",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/g8pb4_z34rw"
+                        "video_link": "https://youtu.be/HJhsq0smttw"
                       }
                     ],
                     "material": [
@@ -10400,7 +10400,7 @@
                       {
                         "video_name": "सड्ख्या",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/s_GD6jKZN1s"
+                        "video_link": "https://youtu.be/GZBHLOeOfi4"
                       }
                     ],
                     "material": [
@@ -10419,7 +10419,7 @@
                       {
                         "video_name": "मम् दिनचर्या",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/cySPp9b51Eo"
+                        "video_link": "https://youtu.be/2qjTZByOtJo"
                       }
                     ],
                     "material": [
