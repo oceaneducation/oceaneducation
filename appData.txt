@@ -270,7 +270,7 @@
                      {
                       "video_name": "પાઠ : 4 : છોટુનું ઘર   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/Hq3KJRZHf8E"
                     },
                     {
                       "video_name":"પાઠ : 5 : ઘર એક શાળા   ",
@@ -2421,7 +2421,7 @@
                     {
                       "video_name": "પાઠ : 11 : પ્રકાશ, પડછાયો અને પરાવર્તન    ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/Ucei3Bhheyw"
                     },
                     {
                       "video_name": "પાઠ : 12 : વિધુત તથા પરિપથ   ",
@@ -3850,7 +3850,7 @@
                          {
                       "video_name": "પાઠ : 10 : અઢી આના ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/F7PlRnr1LPU"
                     },
                       {
                       "video_name":"પાઠ : 11 : વળાવી બા આવી ",
