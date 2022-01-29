@@ -494,17 +494,17 @@
                   "month_name": "ગુજરાતી",
                   "videos": [
                     {
-                      "video_name": "પાઠ : 1 : નાવડી ચાલી   ",
+                      "video_name": "પાઠ : 1 : ખિસ્સામાં પહેલવાન? હા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/1PW2tj47yPo"
                     },
                     {
-                      "video_name": "પાઠ : 2 : ઠંડી   ",
+                      "video_name": "પાઠ : 2 : તેને તે ઊગશે?",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/78Hur5ZxE5A"
                     },
                     {
-                      "video_name":"પાઠ : 3 : સાચી હજ   ",
+                      "video_name":"પાઠ : 3 : શંખલાની બહેન છીપલી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/gS4ZZdpTJ50"
                     },
@@ -524,7 +524,7 @@
                       "video_link": "https://youtu.be/f8nxI-cepZs"
                     },
                     {
-                      "video_name": "પાઠ : 7 : કલાકારની ભૂલ  ", 
+                      "video_name": "પાઠ : 7 : ખોટો જાદુ ખોટો બાવો?",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/DDHF66LqJkQ"
                     },
