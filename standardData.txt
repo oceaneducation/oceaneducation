@@ -14246,7 +14246,7 @@
                     "month_name": "Ch - 1",
                     "videos": [
                        {
-                        "video_name": "ગણિત",
+                        "video_name": "વાસ્તવિક સંખ્યાઓ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/27wwgvSboyQ "
                       }
@@ -14256,8 +14256,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "ગણિત",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 1.pdf"
+                        "textbook_name": "વાસ્તવિક સંખ્યાઓ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 maths ch 1.pdf"
                       }
                     ]
                   },
@@ -14265,7 +14265,7 @@
                     "month_name": "Ch - 2",
                     "videos": [
                        {
-                        "video_name":  "यद्भविष्यो विनश्यति  ",
+                        "video_name":  "બહુપદીઓ  ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/kmctDewUtTM "
                       }
@@ -14275,8 +14275,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name":  "यद्भविष्यो विनश्यति  ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 2.pdf"
+                        "textbook_name": "બહુપદીઓ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 maths ch 2.pdf"
                       }
                     ]
                   },
@@ -14284,7 +14284,7 @@
                     "month_name": "Ch - 3",
                     "videos": [
                        {
-                        "video_name":  "स्वस्थवृत्तं समाचर",
+                        "video_name": "દ્વિચલ સુરેખ સમીકરણયુગ્મ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/IiyvySXozGg "
                       }
@@ -14294,8 +14294,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "स्वस्थवृत्तं समाचर",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 3.pdf"
+                        "textbook_name":"દ્વિચલ સુરેખ સમીકરણયુગ્મ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 maths ch 3.pdf"
                       }
                     ]
                   },
@@ -14303,7 +14303,7 @@
                     "month_name": "Ch - 4",
                     "videos": [
                        {
-                        "video_name":  "जनार्दनस्य पश्चिमः",
+                        "video_name":  "દ્વિઘાત સમીકરણ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/BHlkuRkXhxs "
                       }
@@ -14313,8 +14313,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "जनार्दनस्य पश्चिमः",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 4.pdf"
+                        "textbook_name": "દ્વિઘાત સમીકરણ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 maths ch 4.pdf"
                       }
                     ]
                   },
@@ -14322,7 +14322,7 @@
                     "month_name": "Ch - 5",
                     "videos": [
                        {
-                        "video_name":  "गुणवती कन्या",
+                        "video_name":  "સમાંતર શ્રેણી",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/HE1WhYEEYkA "
                       }
@@ -14332,8 +14332,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name":  "गुणवती कन्या",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 5.pdf"
+                        "textbook_name": "સમાંતર શ્રેણી",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 maths ch 5.pdf"
                       }
                     ]
                   },
@@ -14341,7 +14341,7 @@
                     "month_name": "Ch - 6",
                     "videos": [
                        {
-                        "video_name": "काष्ठखण्डः ",
+                        "video_name": "ત્રિકોણ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/O5sGkUOvZeQ  "
                       }
@@ -14351,8 +14351,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "काष्ठखण्डः ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 6.pdf"
+                        "textbook_name": "ત્રિકોણ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 maths ch 6.pdf"
                       }
                     ]
                   },
@@ -14360,7 +14360,7 @@
                     "month_name": "Ch - 7",
                     "videos": [
                        {
-                        "video_name": " सुभाषितकुसुमानि",
+                        "video_name": "યામ ભૂમિતિ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/YHT9KAcLrBI "
                       }
@@ -14370,8 +14370,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "सुभाषितकुसुमानि ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 7.pdf"
+                        "textbook_name": "યામ ભૂમિતિ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 maths ch 7.pdf"
                       }
                     ]
                   },
@@ -14379,7 +14379,7 @@
                     "month_name": "Ch - 8",
                     "videos": [
                        {
-                        "video_name":  "साक्षिभूतः मनुष्यः ",
+                        "video_name":  "ત્રિકોણમિતિનો પરિચય",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/2cEfnMi9i-4 "
                       }
@@ -14389,8 +14389,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name":   "साक्षिभूतः मनुष्यः ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 8.pdf"
+                        "textbook_name":   "ત્રિકોણમિતિનો પરિચય",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 maths ch 8.pdf"
                       }
                     ]
                   },
@@ -14398,7 +14398,7 @@
                     "month_name": "Ch - 9",
                     "videos": [
                        {
-                        "video_name": "चक्षुष्मान् अन्ध एव,",
+                        "video_name": "ત્રિકોણમિતિના ઉપયોગો",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/d98JMjz7wQQ "
                       }
@@ -14408,8 +14408,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "चक्षुष्मान् अन्ध एव",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 9.pdf"
+                        "textbook_name": "ત્રિકોણમિતિના ઉપયોગો",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 maths ch 9.pdf"
                       }
                     ]
                   },
@@ -14417,7 +14417,7 @@
                     "month_name": "Ch - 10",
                     "videos": [
                        {
-                        "video_name":"त्वमेका भवानि   ",
+                        "video_name":"વર્તુળ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/KlzSyVHDg7I"
                       }
@@ -14427,8 +14427,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name":  "त्वमेका भवानि   ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 10.pdf"
+                        "textbook_name":  "વર્તુળ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 maths ch 10.pdf"
                       }
                     ]
                   },
@@ -14436,7 +14436,7 @@
                     "month_name": "Ch - 11",
                     "videos": [
                        {
-                        "video_name":  "यस्य जननं तस्य मरणम् ",
+                        "video_name":  "રચના",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/lajyyEDs0lI "
                       }
@@ -14446,8 +14446,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name":  "यस्य जननं तस्य मरणम् ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 11.pdf"
+                        "textbook_name":"રચના",
+                        "textbook_link":"https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 maths ch 11.pdf"
                       }
                     ]
                   },
@@ -14455,7 +14455,7 @@
                     "month_name": "Ch - 12",
                     "videos": [
                        {
-                        "video_name":  "कलिकालसर्वज्ञो हेमचन्द्राचार्यः ",
+                        "video_name": "વર્તુળ સબંધિત ક્ષેત્રફળ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/AH66cNDUFpE "
                       }
@@ -14465,8 +14465,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "कलिकालसर्वज्ञो हेमचन्द्राचार्यः ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 12.pdf"
+                        "textbook_name": "વર્તુળ સબંધિત ક્ષેત્રફળ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 maths ch 12.pdf"
                       }
                     ]
                   },
@@ -14474,7 +14474,7 @@
                     "month_name": "Ch - 13",
                     "videos": [
                        {
-                        "video_name": "गीतामृतम्",  
+                        "video_name": "પૃષ્ઠફળ અને ઘનફળ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/AH66cNDUFpE "
                       }
@@ -14484,8 +14484,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "गीतामृतम्",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 13.pdf"
+                        "textbook_name": "પૃષ્ઠફળ અને ઘનફળ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 maths ch 13.pdf"
                       }
                     ]
                   },
@@ -14493,7 +14493,7 @@
                     "month_name": "Ch - 14",
                     "videos": [
                        {
-                        "video_name":  "क इदं दुष्करं कुर्यात्  ",
+                        "video_name":  "આંકડાશાસ્ત્ર",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/Keioj5XkLLM "
                       }
@@ -14503,8 +14503,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name":  "क इदं दुष्करं कुर्यात्  ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 14.pdf"
+                        "textbook_name":  "આંકડાશાસ્ત્ર",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 maths ch 14.pdf"
                       }
                     ]
                   },
@@ -14512,7 +14512,7 @@
                     "month_name": "ch - 15",
                     "videos": [
                        {
-                        "video_name": "जयः पराजयो वा",
+                        "video_name": "સંભાવના",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/BYxZl70XK6o "
                       }
@@ -14522,16 +14522,16 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "जयः पराजयो वा ।", 
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 15.pdf"
+                        "textbook_name": "સંભાવના",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 maths ch 15.pdf"
                       }
                     ]
                   },
                   {
-                    "month_name": "Ch - 16",
+                    "month_name":  "ગણિતમાં સાબિતીઓ A1",
                     "videos": [
                        {
-                        "video_name": "अद्भुतं युद्धम् ",
+                        "video_name":  "ગણિતમાં સાબિતીઓ A1",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/z54ubvn2MIg "
                       }
@@ -14541,16 +14541,16 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name":"अद्भुतं युद्धम् ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 16.pdf"
+                        "textbook_name": "ગણિતમાં સાબિતીઓ A1",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 ગણિતમાં સાબિતીઓ A1.pdf"
                       }
                     ]
                   },
                   {
-                    "month_name": "Ch - 17",
+                    "month_name": "ગાણિતિક મોડેલીંગ ",
                     "videos": [
                        {
-                        "video_name": "स्वाभाविकं सादृश्यम्",
+                        "video_name": "ગાણિતિક મોડેલીંગ ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/oX3Wfh8TEOQ "
                       }
@@ -14560,65 +14560,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "स्वाभाविकं सादृश्यम्",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 17.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "month_name": "Ch - 18",
-                    "videos": [
-                       {
-                        "video_name": "मुक्तानि मुक्तकानि ",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/VMgKzmMnF7c "
-                      }
-                    ],
-                    "material": [
-                     
-                    ],
-                    "textbook": [
-                      {
-                        "textbook_name": "मुक्तानि मुक्तकानि ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 18.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "month_name": "Ch - 19",
-                    "videos": [
-                       {
-                        "video_name": "सत्यं मयूरः ",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/ciOP_MueO-E  "
-                      }
-                    ],
-                    "material": [
-                     
-                    ],
-                    "textbook": [
-                      {
-                        "textbook_name":  "सत्यं मयूरः ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 19.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "month_name": "Ch - 20",
-                    "videos": [
-                       {
-                        "video_name":   "तथैव तिष्ठति",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/FdSfe0M42X4"
-                      }
-                    ],
-                    "material": [
-                     
-                    ],
-                    "textbook": [
-                      {
-                        "textbook_name":  "तथैव तिष्ठति",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 20.pdf"
+                        "textbook_name": "ગાણિતિક મોડેલીંગ ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 ગાણિતિક મોડેલીંગ A2.pdf"
                       }
                     ]
                   }
@@ -14643,7 +14586,7 @@
                     "textbook": [
                       {
                         "textbook_name": "सं वदध्वम् ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 1.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 maths ch 1.pdf"
                       }
                     ]
                   },
