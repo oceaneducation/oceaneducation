@@ -496,17 +496,17 @@
                     {
                       "video_name": "પાઠ : 1 : નાવડી ચાલી   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/1PW2tj47yPo"
                     },
                     {
                       "video_name": "પાઠ : 2 : ઠંડી   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/78Hur5ZxE5A"
                     },
                     {
                       "video_name":"પાઠ : 3 : સાચી હજ   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/gS4ZZdpTJ50"
                     },
                     {
                       "video_name": "પાઠ : 4 : લાખો વણજારો  ",
@@ -526,7 +526,7 @@
                     {
                       "video_name": "પાઠ : 7 : કલાકારની ભૂલ  ", 
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/DDHF66LqJkQ"
                     },
                     {
                       "video_name": "પાઠ : 8 : પત્ર લખવાની મજા !   ",
@@ -1156,12 +1156,12 @@
                     {
                       "video_name": "પાઠ : 12 : અપંગનાં ઓજસ   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/fk7f_8zWVGM"
                     },
                     {
                       "video_name": "13 : ભારત રત્ન : ડો. આંબેડકર  ", 
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/gkTdnAkfANg"
                     },
                     {
                       "video_name": "પાઠ : 14 : ઊડે રે ગુલાલ  ",
@@ -2890,12 +2890,12 @@
                     {
                       "video_name": "પાઠ :  11 : અખબારી નોંધ   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/umVu5dqkoCQ"
                     },
                     {
                       "video_name": "પાઠ :  12 : જનની  ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/vSr5tCr28TU"
                     },
                     {
                       "video_name": "પાઠ :  13 : હાઇસ્કૂલમાં   ",
@@ -3840,12 +3840,12 @@
                          {
                       "video_name": "પાઠ : 8 : આજ આનંદ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/vpY6aWWSAQ0"
                     },
                      {
                       "video_name": "પાઠ : 9 : દીકરાનો મારનાર ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/n6nD0zFxqI8"
                     },
                          {
                       "video_name": "પાઠ : 10 : અઢી આના ",
