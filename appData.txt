@@ -43,7 +43,7 @@
                     {
                       "video_name": "પાઠ : 6 : બતક અને અથવા પણ હંસ    ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/xTqTfi2e3z4"
                     },
                     {
                       "video_name": "પાઠ : 7 : એક છલાંગે દરિયો કૂદો       ",
@@ -275,7 +275,7 @@
                     {
                       "video_name":"પાઠ : 5 : ઘર એક શાળા   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/PWcLRs0DlNU"
                     },
                     {
                       "video_name": "પાઠ : 6 : ખાધા વિના ન ચાલે   ",
@@ -1171,7 +1171,7 @@
                     {
                       "video_name": "પાઠ : 15 : સુભાષિતો ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/NR5wzR0pmZ0"
                     }
                   ],
                   "material": [
@@ -1412,7 +1412,7 @@
                     {
                       "video_name": "પાઠ : 7 : પાણી સાથેના પ્રયોગ   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/FBVZjWj16m8"
                     },
                     {
                       "video_name": "પાઠ : 8 : મચ્છર : રોગો અને સારવાર   ",
@@ -1427,7 +1427,7 @@
                     {
                       "video_name": "પાઠ : 10 : દિવાલોની કહાણી    ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/O_t1q9fPfEo"
                     },
                     {
                       "video_name": "પાઠ : 11 : સુનિતા અવકાશમાં   ",
@@ -2035,7 +2035,7 @@
                     {
                       "video_name": "પાઠ : 9 : માહિતીનું નિયમન ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/LJgcpbzJZts"
                     },
                     {
                       "video_name": "પાઠ : 10 : માપન ",
@@ -2585,7 +2585,7 @@
                      {
                       "video_name":    "પાઠ : 13. - ભારત : ભૂપૃષ્ઠ, આબોહવાવનસ્પતિ અને વન્યજીવન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/YvIHhG4A3gQ"
                     },
                        {
                       "video_name":   "પાઠ : 14. - વિવિધતામાં એકતા",
@@ -2595,17 +2595,17 @@
                      {
                       "video_name":   "પાઠ : 15. - સરકાર",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/86Tm2i7BYh8"
                     },
                        {
                       "video_name":     "પાઠ : 16 - સ્થાનિક સરકાર",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/ZtWUnGOMbF4"
                     },
                      {
                       "video_name":   "પાઠ : 17 - જીવનનિર્વાહ ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/lWxmQZT8hrg"
                     }
                   ],
                   "material": [
