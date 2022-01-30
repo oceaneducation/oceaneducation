@@ -119,12 +119,12 @@
                     {
                       "video_name":"પાઠ : 1 : ક્યાંથી જોવું",  
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/-TYwvD4lLXs"
                     },
                     {
                       "video_name": "પાઠ : 2 : સંખ્યાની ગમ્મત ", 
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/UJqrnCebhHU"
                     },
                      {
                       "video_name": "પાઠ : 3 : આપો અને લો   ",
@@ -300,7 +300,7 @@
                     {
                       "video_name": "પાઠ : 10 : રસોડાની વાત   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/DJJoXD6sP7E"
                     },
                     {
                       "video_name": "પાઠ : 11 : આપણાં વાહનો",
@@ -509,9 +509,9 @@
                       "video_link": "https://youtu.be/gS4ZZdpTJ50"
                     },
                     {
-                      "video_name": "પાઠ : 4 : લાખો વણજારો  ",
+                      "video_name": "પાઠ : 4 : સિંહ ઘઘૂવે બકરો ભાગે ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/4AzJSi33MME"
                     },
                     {
                       "video_name": "પાઠ : 5 : ઉખાણા   ",
@@ -584,7 +584,7 @@
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/-swa std 4 ch 3 gujarati swa addhyan pothi.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 4 : લાખો વણજારો  ",
+                      "material_name": "પાઠ : 4 : સિંહ ઘઘૂવે બકરો ભાગે ",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/.swa std 4 ch 4 gujarati swa adhdhyanpothi.pdf"
                     },
                     {
@@ -2431,7 +2431,7 @@
                      {
                       "video_name": "પાઠ : 13 : ચુંબક અને ગમ્મત   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/T4Gn7Pb2NmI"
                     },
                     {
                       "video_name": "પાઠ : 14 : પાણી    ",
@@ -4331,7 +4331,7 @@
                       {
                       "video_name": "પાઠ :  12 : ઘર્ષણ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/OLrn-k8jvOU"
                     },
                     {
                       "video_name": "પાઠ :  13 : ધ્વનિ",
