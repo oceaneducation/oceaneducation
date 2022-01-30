@@ -280,7 +280,7 @@
                     {
                       "video_name": "પાઠ : 6 : ખાધા વિના ન ચાલે   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/gOeFc2LzYrw"
                     },
                     {
                       "video_name":"પાઠ : 7 : અનોખો સંવાદ   ",
@@ -572,15 +572,15 @@
                   ],
                   "material": [
                     {
-                      "material_name":"પાઠ : 1 : નાવડી ચાલી   ",
+                      "material_name":"પાઠ : 1 : ખિસ્સામાં પહેલવાન? હા",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/.swa. std 4 guj ch 1 સ્વ-અધ્યયનપોથી.pdf"
                     },
                     {
-                      "material_name":"પાઠ : 2 : ઠંડી   ",
+                      "material_name":"પાઠ : 2 : તેને તે ઊગશે?", 
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/-swa std 4 guj ch 2 સ્વ-અધ્યયનપોથી.pdf"
                     },
                      {
-                      "material_name": "પાઠ : 3 : સાચી હજ   ",
+                      "material_name": "પાઠ : 3 : શંખલાની બહેન છીપલી",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/-swa std 4 ch 3 gujarati swa addhyan pothi.pdf"
                     },
                     {
@@ -1246,12 +1246,12 @@
                     {
                       "video_name": "પાઠ : 1 : રાષ્ટ્રીય ફળ – કેરી",    
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/HmaKOG7KMf0"
                     },
                      {
                       "video_name":"પાઠ : 2 : આકાર અને ખૂણા     ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/y-A1oXEVp-A"
                     },
                     {
                       "video_name": "પાઠ : 3 : કેટલા ચોરસ?        ",
@@ -1417,12 +1417,12 @@
                     {
                       "video_name": "પાઠ : 8 : મચ્છર : રોગો અને સારવાર   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/IWMjX-5bSG8"
                     },
                     {
                       "video_name": "પાઠ : 9 : ચઢીએ ઊંચા  ચડાણ !   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/0af6-Jxk6yM"
                     },
                     {
                       "video_name": "પાઠ : 10 : દિવાલોની કહાણી    ",
@@ -2040,7 +2040,7 @@
                     {
                       "video_name": "પાઠ : 10 : માપન ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/E7_1gXpzqVs"
                     },
                      {
                       "video_name": "પાઠ : 11 : બીજગણિત ",
@@ -2426,7 +2426,7 @@
                     {
                       "video_name": "પાઠ : 12 : વિધુત તથા પરિપથ   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZshttps://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/4VGx7rAUAkU"
                     },
                      {
                       "video_name": "પાઠ : 13 : ચુંબક અને ગમ્મત   ",
