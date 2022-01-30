@@ -198,7 +198,7 @@
                     },
                      {
                       "material_name": "પાઠ : 3 : આપો અને લો    ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Alllpdf2/.swa std 3 maths ch 3 સ્વ અધ્યયનપોથી.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/.swa std 3 maths ch 3 સ્વ અધ્યયનપોથી.pdf"
                     },
                     {
                       "material_name":"પાઠ : 4 : લાંબું અને ટૂંકું    ",
