@@ -15048,7 +15048,7 @@
                     "textbook": [
                       {
                         "textbook_name": "રાસાયણિક પ્રક્રિયાઓ અને સમીકરણો",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 1.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 science ch 1.pdf"
                       }
                     ]
                   },
@@ -15067,7 +15067,7 @@
                     "textbook": [
                       {
                         "textbook_name":  "ઍસિડ, બેઇઝ અને ક્ષાર",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 2.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 science ch 2.pdf"
                       }
                     ]
                   },
@@ -15086,7 +15086,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ધાતુઓ અને અધાતુઓ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 3.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 science ch 3.pdf"
                       }
                     ]
                   },
@@ -15105,7 +15105,7 @@
                     "textbook": [
                       {
                         "textbook_name": "કાર્બન અને તેનાં સંયોજનો",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 4.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 science ch 4.pdf"
                       }
                     ]
                   },
@@ -15124,7 +15124,7 @@
                     "textbook": [
                       {
                         "textbook_name": "તત્ત્વોનું આવર્તી વર્ગીકરણ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 5.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 science ch 5.pdf"
                       }
                     ]
                   },
@@ -15143,7 +15143,7 @@
                     "textbook": [
                       {
                         "textbook_name": "જૈવિક ક્રિયાઓ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 6.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 science ch 6.pdf"
                       }
                     ]
                   },
@@ -15162,7 +15162,7 @@
                     "textbook": [
                       {
                         "textbook_name": "નિયંત્રણ અને સંકલન",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 7.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 science ch 7.pdf"
                       }
                     ]
                   },
@@ -15181,7 +15181,7 @@
                     "textbook": [
                       {
                         "textbook_name":  "સજીવો કેવી રીતે પ્રજનન કરે છે ?",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 8.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 science ch 8.pdf"
                       }
                     ]
                   },
@@ -15200,7 +15200,7 @@
                     "textbook": [
                       {
                         "textbook_name": "આનુવંશિકતા અને ઉવિકાસ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 9.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 science ch 9.pdf"
                       }
                     ]
                   },
@@ -15219,7 +15219,7 @@
                     "textbook": [
                       {
                         "textbook_name": "પ્રકાશ-પરાવર્તન અને વક્રીભવન",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 10.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 science ch 10.pdf"
                       }
                     ]
                   },
@@ -15238,7 +15238,7 @@
                     "textbook": [
                       {
                         "textbook_name": "માનવ-આંખ અને રંગબેરંગી દુનિયા",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 11.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 science ch 11.pdf"
                       }
                     ]
                   },
@@ -15257,7 +15257,7 @@
                     "textbook": [
                       {
                         "textbook_name": "વિદ્યુત",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 12.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 science ch 12.pdf"
                       }
                     ]
                   },
@@ -15276,7 +15276,7 @@
                     "textbook": [
                       {
                         "textbook_name": "વિદ્યુતપ્રવાહની ચુંબકીય અસરો",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 13.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 science ch 13.pdf"
                       }
                     ]
                   },
@@ -15295,7 +15295,7 @@
                     "textbook": [
                       {
                         "textbook_name":  "ઊર્જાના સ્ત્રોતો",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 14.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 science ch 14.pdf"
                       }
                     ]
                   },
@@ -15314,7 +15314,7 @@
                     "textbook": [
                       {
                         "textbook_name": "આપણું પર્યાવરણ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 15.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 science ch 15.pdf"
                       }
                     ]
                   },
@@ -15358,7 +15358,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ભારતનો વારસો",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 1.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 social science ch 1.pdf"
                       }
                     ]
                   },
@@ -15377,7 +15377,7 @@
                     "textbook": [
                       {
                         "textbook_name":  "ભારતનો સાંસ્કૃતિક વારસો : પરંપરાઓ : હસ્ત અને લલિતકલા",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 2.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 social science ch 2.pdf"
                       }
                     ]
                   },
@@ -15396,7 +15396,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ભારતનો સાંસ્કૃતિક વારસો : શિલ્પ અને સ્થાપત્ય",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 3.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 social science ch 3.pdf"
                       }
                     ]
                   },
@@ -15415,7 +15415,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ભારતનો સાહિત્યિક વારસો",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 4.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 social science ch 4.pdf"
                       }
                     ]
                   },
@@ -15434,7 +15434,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ભારતનો વિજ્ઞાન અને ટેક્નોલૉજીનો વારસો",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 5.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 social science ch 5.pdf"
                       }
                     ]
                   },
@@ -15453,7 +15453,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ભારતના સાંસ્કૃતિક વારસાનાં સ્થળો",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 6.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 social science ch 6.pdf"
                       }
                     ]
                   },
@@ -15472,7 +15472,7 @@
                     "textbook": [
                       {
                         "textbook_name": "આપણા વારસાનું જતન",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 7.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 social science ch 7.pdf"
                       }
                     ]
                   },
@@ -15491,7 +15491,7 @@
                     "textbook": [
                       {
                         "textbook_name":  "કુદરતી સંસાધનો",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 8.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 social science ch 8.pdf"
                       }
                     ]
                   },
@@ -15510,7 +15510,7 @@
                     "textbook": [
                       {
                         "textbook_name": "વન અને વન્યજીવ સંસાધન",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 9.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 social science ch 9.pdf"
                       }
                     ]
                   },
@@ -15529,7 +15529,7 @@
                     "textbook": [
                       {
                         "textbook_name":  "ભારત : કૃષિ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 10.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 social science ch 10.pdf"
                       }
                     ]
                   },
@@ -15548,7 +15548,7 @@
                     "textbook": [
                       {
                         "textbook_name":  "ભારત : જળ સંસાધન",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 11.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 social science ch 11.pdf"
                       }
                     ]
                   },
@@ -15567,7 +15567,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ભારત : ખનિજ અને શક્તિનાં સંસાધનો",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 12.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 social science ch 12.pdf"
                       }
                     ]
                   },
@@ -15586,7 +15586,7 @@
                     "textbook": [
                       {
                         "textbook_name":"ઉત્પાદન ઉદ્યોગો",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 13.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 social science ch 13.pdf"
                       }
                     ]
                   },
@@ -15605,7 +15605,7 @@
                     "textbook": [
                       {
                         "textbook_name":  "પરિવહન, સંદેશાવ્યવહાર અને વ્યાપાર",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 14.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 social science ch 14.pdf"
                       }
                     ]
                   },
