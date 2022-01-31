@@ -14624,7 +14624,7 @@
                     "textbook": [
                       {
                         "textbook_name": "શીલવંત સાધુને",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 3.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 gujrati ch 3.pdf"
                       }
                     ]
                   },
@@ -14643,7 +14643,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ભૂલી ગયા પછી",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 4.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 gujrati ch 4.pdf"
                       }
                     ]
                   },
@@ -14662,7 +14662,7 @@
                     "textbook": [
                       {
                         "textbook_name":  "દીકરી",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 5.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 gujrati ch 5.pdf"
                       }
                     ]
                   },
@@ -14681,7 +14681,7 @@
                     "textbook": [
                       {
                         "textbook_name": "વાઈરલ ઈન્ટેશન",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 6.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 gujrati ch 6.pdf"
                       }
                     ]
                   },
@@ -14700,7 +14700,7 @@
                     "textbook": [
                       {
                         "textbook_name": "હું એવો ગુજરાતી",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 7.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 gujrati ch 7.pdf"
                       }
                     ]
                   },
@@ -14719,7 +14719,7 @@
                     "textbook": [
                       {
                         "textbook_name":   "છત્રી",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 8.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 gujrati ch 8.pdf"
                       }
                     ]
                   },
@@ -14738,7 +14738,7 @@
                     "textbook": [
                       {
                         "textbook_name": "માધવને દીઠો છે ક્યાંય ?",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 9.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 gujrati ch 9.pdf"
                       }
                     ]
                   },
@@ -14757,7 +14757,7 @@
                     "textbook": [
                       {
                         "textbook_name":  "ડાંગવનો અને...",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 10.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 gujrati ch 10.pdf"
                       }
                     ]
                   },
@@ -14776,7 +14776,7 @@
                     "textbook": [
                       {
                         "textbook_name":  "શિકારીને",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 11.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 gujrati ch 11.pdf"
                       }
                     ]
                   },
@@ -14795,7 +14795,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ચોપડાની ઇન્દ્રજાળ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 12.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 gujrati ch 12.pdf"
                       }
                     ]
                   },
@@ -14814,7 +14814,7 @@
                     "textbook": [
                       {
                         "textbook_name": "વતનથી વિદાય થતાં",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 13.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 gujrati ch 13.pdf"
                       }
                     ]
                   },
@@ -14833,7 +14833,7 @@
                     "textbook": [
                       {
                         "textbook_name":  "જન્મોત્સવ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 14.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 gujrati ch 14.pdf"
                       }
                     ]
                   },
@@ -14852,7 +14852,7 @@
                     "textbook": [
                       {
                         "textbook_name": "બોલીએ ના કાંઈ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 15.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 gujrati ch 15.pdf"
                       }
                     ]
                   },
@@ -14871,7 +14871,7 @@
                     "textbook": [
                       {
                         "textbook_name":"ગતિભંગ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 16.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 gujrati ch 16.pdf"
                       }
                     ]
                   },
@@ -14890,7 +14890,7 @@
                     "textbook": [
                       {
                         "textbook_name": "દિવસો જુદાઈના જાય છે",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 17.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 gujrati ch 17.pdf"
                       }
                     ]
                   },
@@ -14909,7 +14909,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ભૂખથીય ભૂંડી ભીખ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 18.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 gujrati ch 18.pdf"
                       }
                     ]
                   },
@@ -14928,7 +14928,7 @@
                     "textbook": [
                       {
                         "textbook_name":  "એક બપોરે",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 19.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 gujrati ch 19.pdf"
                       }
                     ]
                   },
@@ -14947,7 +14947,7 @@
                     "textbook": [
                       {
                         "textbook_name": "વિરલ વિભૂતિ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 17.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 gujrati ch 20.pdf"
                       }
                     ]
                   },
@@ -14966,7 +14966,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ચાંદલિયો",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 18.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 gujrati ch 21.pdf"
                       }
                     ]
                   },
@@ -14985,7 +14985,7 @@
                     "textbook": [
                       {
                         "textbook_name":  "હિમાલયમાં એક સાહસ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 19.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 gujrati ch 22.pdf"
                       }
                     ]
                   },
@@ -15004,7 +15004,7 @@
                     "textbook": [
                       {
                         "textbook_name":  "લઘુકાવ્યો",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 20.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 gujrati ch 23.pdf"
                       }
                     ]
                   },
@@ -15023,7 +15023,7 @@
                     "textbook": [
                       {
                         "textbook_name":  "ઘોડીની સ્વામીભક્તિ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 20.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 gujrati ch 24.pdf"
                       }
                     ]
                   }
