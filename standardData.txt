@@ -15624,7 +15624,7 @@
                     "textbook": [
                       {
                         "textbook_name": "આર્થિક વિકાસ ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 15.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 social science ch 15.pdf"
                       }
                     ]
                   },
@@ -15643,7 +15643,7 @@
                     "textbook": [
                       {
                         "textbook_name":"આર્થિક ઉદારીકરણ અને વૈશ્વિકીકરણ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 16.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 social science ch 16.pdf"
                       }
                     ]
                   },
@@ -15662,7 +15662,7 @@
                     "textbook": [
                       {
                         "textbook_name": "આર્થિક સમસ્યાઓ અને પડકારો : ગરીબી અને બેરોજગારી",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 17.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 social science ch 17.pdf"
                       }
                     ]
                   },
@@ -15681,7 +15681,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ભાવવધારો અને ગ્રાહક જાગૃતિ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 18.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 social science ch 18.pdf"
                       }
                     ]
                   },
@@ -15700,7 +15700,7 @@
                     "textbook": [
                       {
                         "textbook_name": "માનવ વિકાસ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 19.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 social science ch 19.pdf"
                       }
                     ]
                   },
@@ -15719,7 +15719,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ભારતની સામાજિક સમસ્યાઓ અને પડકારો",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 20.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 social science ch 20.pdf"
                       }
                     ]
                   },
@@ -15738,7 +15738,7 @@
                     "textbook": [
                       {
                         "textbook_name":"સામાજિક પરિવર્તન",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 20.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 social science ch 21.pdf"
                       }
                     ]
                   }
@@ -15763,7 +15763,7 @@
                     "textbook": [
                       {
                         "textbook_name": "Against the odds",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 1.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 english ch 1.pdf"
                       }
                     ]
                   },
@@ -15782,7 +15782,7 @@
                     "textbook": [
                       {
                         "textbook_name":  "The Human Robot",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 2.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 english ch 2.pdf"
                       }
                     ]
                   },
@@ -15801,7 +15801,7 @@
                     "textbook": [
                       {
                         "textbook_name": "An Interview with Arun Krishnamurthy",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 3.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 english ch 3.pdf"
                       }
                     ]
                   },
@@ -15820,7 +15820,7 @@
                     "textbook": [
                       {
                         "textbook_name": "A Wonderful Creation",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 4.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 english ch 4.pdf"
                       }
                     ]
                   },
@@ -15839,7 +15839,7 @@
                     "textbook": [
                       {
                         "textbook_name":  "Playing with Fire",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 5.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 english ch 5.pdf"
                       }
                     ]
                   },
@@ -15858,7 +15858,7 @@
                     "textbook": [
                       {
                         "textbook_name": "I Love You, Teacher",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 6.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 english ch 6.pdf"
                       }
                     ]
                   },
@@ -15877,7 +15877,7 @@
                     "textbook": [
                       {
                         "textbook_name": "Kach & Devayani",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 7.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 english ch 7.pdf"
                       }
                     ]
                   },
@@ -15896,7 +15896,7 @@
                     "textbook": [
                       {
                         "textbook_name":  "Our Feathered Friends",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 8.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 english ch 8.pdf"
                       }
                     ]
                   },
@@ -15915,7 +15915,7 @@
                     "textbook": [
                       {
                         "textbook_name": "Tune up 0 Teens!",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 9.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 english ch 9.pdf"
                       }
                     ]
                   },
@@ -15934,7 +15934,7 @@
                     "textbook": [
                       {
                         "textbook_name": "A Test of True Love",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 10.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 english ch 10.pdf"
                       }
                     ]
                   },
@@ -15953,7 +15953,7 @@
                     "textbook": [
                       {
                         "textbook_name": "My Song",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 11.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 english poem - 1.pdf"
                       }
                     ]
                   },
@@ -15972,7 +15972,7 @@
                     "textbook": [
                       {
                         "textbook_name": "Pencil",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 12.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 english poem - 2.pdf"
                       }
                     ]
                   },
@@ -15991,7 +15991,7 @@
                     "textbook": [
                       {
                         "textbook_name": "Growing",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 13.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 english poem - 3.pdf"
                       }
                     ]
                   },
@@ -16010,7 +16010,7 @@
                     "textbook": [
                       {
                         "textbook_name": "Vanila Twilight",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 14.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 english poem - 4.pdf"
                       }
                     ]
                   }
