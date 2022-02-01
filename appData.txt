@@ -601,11 +601,11 @@
                     },
                     {
                       "material_name":"પાઠ : 8 : પત્ર લખવાની મજા !",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/;swa std 4 ch 8 gujarati swa adhyayanpothi.pdf"
                     },
                     {
                       "material_name": "પાઠ : 9 : હું તો પૂછું   ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/;swa std 4 ch 9 gujarati swa adhyayan pothi.pdf"
                     },
                     {
                       "material_name": "પાઠ : 10 : મુરખના સરદારો   ",
