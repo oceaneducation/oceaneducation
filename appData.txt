@@ -519,7 +519,7 @@
                       "video_link": "https://youtu.be/ErZaWYQFGuQ"
                     },
                     {
-                      "video_name": "પાઠ : 6 : રાતાં ફૂલ",
+                      "video_name": "પાઠ : 6 : ભાઈબંધ બોલ્યો મારો કુહૂ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/AvniHee6mQY"
                     },
@@ -592,7 +592,7 @@
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/'swa std 4 ch 5 gujarati swa adhyayan pothi [Recovered].pdf"
                     },
                     {
-                      "material_name": "પાઠ : 6 : રાતાં ફૂલ",
+                      "material_name": "પાઠ : 6 : ભાઈબંધ બોલ્યો મારો કુહૂ",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/'swa std 4 ch 6 gujarati swa adhyayanpothi.pdf"
                     },
                     {
