@@ -589,11 +589,11 @@
                     },
                     {
                       "material_name": "પાઠ : 5 : ઉખાણા  ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/'swa std 4 ch 5 gujarati swa adhyayan pothi [Recovered].pdf"
                     },
                     {
                       "material_name": "પાઠ : 6 : રાતાં ફૂલ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/'swa std 4 ch 6 gujarati swa adhyayanpothi.pdf"
                     },
                     {
                       "material_name": "પાઠ : 7 : કલાકારની ભૂલ ",
