@@ -589,7 +589,7 @@
                     },
                     {
                       "material_name": "પાઠ : 5 : પવન  ખિજાય તો ગોળ ઝાપટો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/'swa std 4 ch 5 gujarati swa adhyayan pothi [Recovered].pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/'swa std 4 ch 5 gujarati swa adhyayan pothi.pdf"
                     },
                     {
                       "material_name": "પાઠ : 6 : ભાઈબંધ બોલ્યો મારો કુહૂ",
