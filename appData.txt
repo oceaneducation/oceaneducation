@@ -531,7 +531,7 @@
                     {
                       "video_name":"પાઠ : 8 :ટામેટાની દડી, રમે  દાદાદાદી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/mwfGxfeL_Xk"
                     },
                     {
                       "video_name":"પાઠ : 9 : કમળજળજળકમળ જળકમળજળકમળ",
@@ -1452,7 +1452,7 @@
                     {
                       "video_name": "પાઠ : 15 : ઠંડુ કે ગરમ ?   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/nh3RVNuY99E"
                     },
                     {
                       "video_name": "પાઠ : 16 : સ્વચ્છતા આપણું કામ ",
@@ -3307,12 +3307,12 @@
                     {
                       "video_name": "પાઠ : 2 : પ્રાણીઓમાં પોષણ ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/bK8UXsQ04JM"
                     },
                      {
                       "video_name": "પાઠ : 3 : રેસાથી કાપડ સુધી ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/Chxz3qymy28"
                     },
                      {
                       "video_name": "પાઠ : 4 : ઉષ્મા ",
@@ -3342,7 +3342,7 @@
                     {
                       "video_name": "પાઠ : 9 : ભૂમિ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/s3NctP77lIA"
                     },
                      {
                       "video_name": "પાઠ : 10 : સજીવોમાં શ્વસન",
