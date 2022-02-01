@@ -129,7 +129,7 @@
                      {
                       "video_name": "પાઠ : 3 : આપો અને લો   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/LRryoLQBeCA"
                     },
                     {
                       "video_name": "પાઠ : 4 : લાંબું અને ટૂંકું  ",  
@@ -144,7 +144,7 @@
                     {
                       "video_name": "પાઠ : 6 : આપ-લે ની ગમ્મત  ", 
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/LRryoLQBeCA"
                     },
                     {
                       "video_name": "પાઠ : 7 : સમય વહી જાય છે ",  
@@ -516,12 +516,12 @@
                     {
                       "video_name": "પાઠ : 5 : ઉખાણા   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/ErZaWYQFGuQ"
                     },
                     {
                       "video_name": "પાઠ : 6 : રાતાં ફૂલ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/AvniHee6mQY"
                     },
                     {
                       "video_name": "પાઠ : 7 : ખોટો જાદુ ખોટો બાવો?",
@@ -1166,7 +1166,7 @@
                     {
                       "video_name": "પાઠ : 14 : ઊડે રે ગુલાલ  ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/wGUU3pgHkSg"
                     },
                     {
                       "video_name": "પાઠ : 15 : સુભાષિતો ",
@@ -1447,7 +1447,7 @@
                     {
                       "video_name": "પાઠ : 14 : જ્યારે ધરતી ધ્રુજી ઉઠી !   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/_Y770_c2VF8"
                     },
                     {
                       "video_name": "પાઠ : 15 : ઠંડુ કે ગરમ ?   ",
