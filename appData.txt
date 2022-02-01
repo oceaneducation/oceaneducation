@@ -3302,7 +3302,7 @@
                     {
                       "video_name":"પાઠ : 1 : વનસ્પતિમાં પોષણ ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/CNiQbIeptRE"
                     },
                     {
                       "video_name": "પાઠ : 2 : પ્રાણીઓમાં પોષણ ",
@@ -3504,12 +3504,12 @@
                     {
                       "video_name": "પાઠ :  7. પ્રાદેશિક સંસ્કૃતિનું ઘડતર",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/VkgmlzF6xRc"
                     },
                     {
                       "video_name":"પાઠ :  8. અઢારમી સદીના રાજકીય શાસકો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/DZnY5GTPQRw"
                     },
                     {
                       "video_name": "પાઠ :  9. પૃથ્વીની આંતરિક રચના અને ભૂમિ સ્વરૂપો",
