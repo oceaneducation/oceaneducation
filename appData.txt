@@ -1337,11 +1337,11 @@
                     },
                     {
                       "material_name":"પાઠ : 6 : તું મારો ગુણક, હું તારો અવયવ   ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/'swa std 5 maths ch 6 સ્વ અધ્યયનપોથી.pdf"
                     },
                     {
                       "material_name": "પાઠ : 7 : તમે પેટર્ન(ભાત) જોઈ શકો છો?   ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/'swa std 5 maths ch 7 સ્વ અધ્યયનપોથી.pdf"
                     },
                     {
                       "material_name": "પાઠ : 8 : નકશા – આલેખન  ",
