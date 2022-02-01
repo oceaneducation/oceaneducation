@@ -2464,7 +2464,7 @@
                     },
                     {
                       "material_name": "પાઠ : 4 : વસ્તુઓના જુથ બનાવવા ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/'swa std 6 sci ch 4 સ્વઅધ્યયન પોથી.pdf"
                     },
                     {
                       "material_name": "પાઠ : 5 : પદાર્થોનું અલગીકરણ ",   
@@ -2488,7 +2488,7 @@
                     },
                     {
                       "material_name": "પાઠ : 10 : ગતિ અને અંતરનું માપન    ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/'swa std 6 sci ch 10 સ્વઅધ્યયન પોથી.pdf"
                     },
                     {
                       "material_name": "પાઠ : 11 : પ્રકાશ, પડછાયો અને પરાવર્તન    ",
