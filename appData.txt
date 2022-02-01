@@ -3589,19 +3589,19 @@
                     },
                     {
                       "material_name":"પાઠ :  7. પ્રાદેશિક સંસ્કૃતિનું ઘડતર",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/'swa std 7 s.s ch 7 સ્વ અધ્યયનપોથી.pdf"
                     },
                     {
                       "material_name": "પાઠ :  8. અઢારમી સદીના રાજકીય શાસકો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/'swa std 7 s.s ch 8 સ્વ અધ્યયનપોથી.pdf"
                     },
                     {
                       "material_name": "પાઠ :  9. પૃથ્વીની આંતરિક રચના અને ભૂમિ સ્વરૂપો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/'swa std 7 s.s ch 9 સ્વ અધ્યયનપોથી.pdf"
                     },
                     {
                       "material_name": "પાઠ :  10. પર્યાવરણના ઘટકો અને આંતરસંબંધ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/'swa std 7 s.s ch 10 સ્વ અધ્યયનપોથી.pdf"
                     },
                     {
                       "material_name":"પાઠ :  11. વાતાવરણની સજીવો પર અસરો",
