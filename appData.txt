@@ -536,7 +536,7 @@
                     {
                       "video_name":"પાઠ : 9 : કમળજળજળકમળ જળકમળજળકમળ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/jn3Ov0ueP40"
                     },
                     {
                       "video_name": "પાઠ : 10 : મુરખના સરદારો   ",
@@ -2391,7 +2391,7 @@
                      {
                       "video_name": "પાઠ : 5 : પદાર્થોનું અલગીકરણ    ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/CtOu8d-MNu8"
                     },
                     {
                       "video_name": "પાઠ : 6 આપણી આસપાસ થતાં ફેરફારો",
@@ -2436,7 +2436,7 @@
                     {
                       "video_name": "પાઠ : 14 : પાણી    ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/yyRQnGF64W8"
                     },
                     {
                       "video_name":"પાઠ : 15 : આપણી આસપાસ ની હવા  ",
@@ -3671,12 +3671,12 @@
                         {
                       "video_name": "પાઠ : 5 : માહિતીનું નિયમન ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/rSBIO4d-ElE"
                     },
                      {
                       "video_name": "પાઠ : 6 : વર્ગ અને વર્ગમૂળ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/1GFNFGa62w8"
                     },
                      {
                       "video_name": "પાઠ : 7 : ઘન અને ઘનમૂળ",
