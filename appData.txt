@@ -1345,11 +1345,11 @@
                     },
                     {
                       "material_name": "પાઠ : 8 : નકશા – આલેખન  ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/;swa std 5 maths ch 8 svavadhyaynpothi.pdf"
                     },
                     {
                       "material_name": "પાઠ : 9 : ખોખા અને રેખાચિત્ર",   
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/;swa std 5 maths ch 9 sva adhyaynpothi.pdf"
                     },
                     {
                       "material_name": "પાઠ : 10 : દસમો અને સો મો ભાગ",   
@@ -1554,7 +1554,7 @@
                     },
                      {
                       "material_name":"પાઠ : 15 : ઠંડુ કે ગરમ ?   ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/;swa std 5 aaspas ch 15 swa adhayayan pothi.pdf"
                     },
                      {
                       "material_name":"પાઠ : 16 : સ્વચ્છતા આપણું કામ ",
