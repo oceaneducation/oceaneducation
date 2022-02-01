@@ -529,12 +529,12 @@
                       "video_link": "https://youtu.be/DDHF66LqJkQ"
                     },
                     {
-                      "video_name": "પાઠ : 8 : પત્ર લખવાની મજા !   ",
+                      "video_name":"પાઠ : 8 :ટામેટાની દડી, રમે  દાદાદાદી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f8nxI-cepZs"
                     },
                     {
-                      "video_name":"પાઠ : 9 : હું તો પૂછું   ",
+                      "video_name":"પાઠ : 9 : કમળજળજળકમળ જળકમળજળકમળ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f8nxI-cepZs"
                     },
@@ -600,11 +600,11 @@
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/-swa std 4 guj ch 7 સ્વ-અધ્યયનપોથી.pdf"
                     },
                     {
-                      "material_name":"પાઠ : 8 : પત્ર લખવાની મજા !",
+                      "material_name":"પાઠ : 8 :ટામેટાની દડી, રમે  દાદાદાદી",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/;swa std 4 ch 8 gujarati swa adhyayanpothi.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 9 : હું તો પૂછું   ",
+                      "material_name": "પાઠ : 9 : કમળજળજળકમળ જળકમળજળકમળ",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/;swa std 4 ch 9 gujarati swa adhyayan pothi.pdf"
                     },
                     {
@@ -3453,7 +3453,7 @@
                     },
                     {
                       "material_name": "પાઠ : 16 : પાણી: એક અમૂલ્ય સ્ત્રોત",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/;swa std 7 વિજ્ઞાન ch 16 સ્વઅધ્યયન પોથી.pdf"
                     },
                     {
                       "material_name":"પાઠ : 17 : જંગલો: આપણી જીવાદોરી",
