@@ -14265,9 +14265,33 @@
                     "month_name": "Ch - 2",
                     "videos": [
                        {
-                        "video_name":  "બહુપદીઓ  ",
+                        "video_name":  "બહુપદીઓ  ભાગ-૧              ",        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/Z9S-Y96PkQA "
+                      },
+                       {
+                        "video_name":  "બહુપદીઓ  ભાગ-૨",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/kmctDewUtTM "
+                        "video_link": "https://youtu.be/ICX3eri6H38 "
+                      },
+                       {
+                        "video_name":  "બહુપદીઓ  ભાગ-૩",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/KQJ5-7yrQ9s"
+                      },
+                      {
+                        "video_name":  "બહુપદીઓ  ભાગ-૪",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/aeesxY1pHC8 "
+                      },
+                      {
+                        "video_name":  "બહુપદીઓ  ભાગ-૫",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/rVQ2jAJOn20 "
+                      },
+                      {
+                        "video_name":  "બહુપદીઓ  ભાગ-૬",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/9P4GYsGhMs4 "
                       }
                     ],
                     "material": [
