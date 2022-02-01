@@ -134,17 +134,17 @@
                     {
                       "video_name": "પાઠ : 4 : લાંબું અને ટૂંકું  ",  
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/rU_wCP5tgg4"
                     },
                     {
                       "video_name": "પાઠ : 5 : આકાર અને ભાત   ", 
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/zuw3wTZUi4A"
                     },
                     {
                       "video_name": "પાઠ : 6 : આપ-લે ની ગમ્મત  ", 
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/LRryoLQBeCA"
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
                     },
                     {
                       "video_name": "પાઠ : 7 : સમય વહી જાય છે ",  
@@ -2386,7 +2386,7 @@
                     {
                       "video_name": "પાઠ : 4 : વસ્તુઓના જુથ બનાવવા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/pzCKgivi0RE"
                     },
                      {
                       "video_name": "પાઠ : 5 : પદાર્થોનું અલગીકરણ    ",
@@ -2416,7 +2416,7 @@
                     {
                       "video_name": "પાઠ : 10 : ગતિ અને અંતરનું માપન ",   
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/ObwosexSDMU"
                     },
                     {
                       "video_name": "પાઠ : 11 : પ્રકાશ, પડછાયો અને પરાવર્તન    ",
@@ -3514,12 +3514,12 @@
                     {
                       "video_name": "પાઠ :  9. પૃથ્વીની આંતરિક રચના અને ભૂમિ સ્વરૂપો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/qxtw6FJi_AQ"
                     },
                     {
                       "video_name": "પાઠ :  10. પર્યાવરણના ઘટકો અને આંતરસંબંધ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/G6sfPZtR4Tw"
                     },
                     {
                       "video_name": "પાઠ :  11. વાતાવરણની સજીવો પર અસરો",
@@ -3651,7 +3651,7 @@
                     {
                       "video_name":"પાઠ : 1 સંમેય સંખ્યાઓ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/RsSlCge5Wq8"
                     },
                      {
                       "video_name": "પાઠ : 2 : એક ચલ સુરેખ સમીકરણ",
@@ -4361,7 +4361,7 @@
                       {
                       "video_name": "પાઠ :  18 : હવા અને પાણીનું દૂષણ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/KhQqGdVMbCc"
                     }
                   ],
                   "material": [
