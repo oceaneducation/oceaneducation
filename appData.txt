@@ -154,7 +154,7 @@
                     {
                       "video_name": "પાઠ : 8 : વધુ ભારે કોણ?",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/BbfGVYJLQ5U"
                     },
                     {
                       "video_name": "પાઠ : 9 : કેટલા વખત?",
@@ -375,7 +375,7 @@
                     {
                       "video_name": "પાઠ : 25 : મારો તાલુકો ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/L5E8gQT1T2E"
                     }
                   ],
                   "material": [
@@ -1266,7 +1266,7 @@
                     {
                       "video_name": "પાઠ : 5 : તે સરખું દેખાય છે?   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/pAn8lHfNCCM"
                     },
                     {
                       "video_name": "પાઠ : 6 : તું મારો ગુણક, હું તારો અવયવ   ",
@@ -3347,12 +3347,12 @@
                      {
                       "video_name": "પાઠ : 10 : સજીવોમાં શ્વસન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/9frZA5eObFI"
                     },
                      {
                       "video_name": "પાઠ : 11 : પ્રાણીઓ અને વનસ્પતિઓમાં વહન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/zWRKVGqyqmk"
                     },
                      {
                       "video_name": "પાઠ : 12 : વનસ્પતિમાંપ્રજનન",
@@ -3372,7 +3372,7 @@
                     {
                       "video_name": "પાઠ : 15 : પ્રકાશ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/_y2fKern3cY"
                     },
                     {
                       "video_name":"પાઠ : 16 : પાણી: એક અમૂલ્ય સ્ત્રોત",
@@ -3387,7 +3387,7 @@
                      {
                       "video_name": "પાઠ : 18 : દૂષિત પાણીની વાર્તા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/yYTB0x3nz50"
                     }
                   ],
                   "material": [
@@ -3684,7 +3684,7 @@
                       "video_link": "https://youtu.be/yt7ViuZV96w"
                     },
                      {
-                      "video_name": "પાઠ : 8 : રાશિઓની તુલના",
+                      "video_name": "પાઠ : 8 : જથ્થાની સરખામણી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f8nxI-cepZs"
                     },
@@ -3759,7 +3759,7 @@
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/'swa std 8 maths ch 7 સ્વ અધ્યયનપોથી.pdf"
                     },
                       {
-                      "material_name": "પાઠ : 8 : રાશિઓની તુલના",
+                      "material_name": "પાઠ : 8 : જથ્થાની સરખામણી",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 8 maths ch 8 સ્વ અધ્યયનપોથી'.pdf"
                     },
                        {
@@ -3900,7 +3900,7 @@
                          {
                       "video_name": "પાઠ : 20 : બહેનનો પત્ર",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/redfoV0FKkg"
                     },
                        {
                       "video_name": "પાઠ : 21 : ક્માડે ચીતર્યા મેં...",
