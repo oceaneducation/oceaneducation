@@ -13079,14 +13079,18 @@
                   {
                     "month_name": "Ch - 1",
                     "videos": [
-                      
+                       {
+                        "video_name": "સંખ્યા પદ્ધતિ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 1",
+                        "textbook_name": "સંખ્યા પદ્ધતિ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 maths ch 1.pdf"
                       }
                     ]
@@ -13094,14 +13098,18 @@
                   {
                     "month_name": "Ch - 2",
                     "videos": [
-                      
+                       {
+                        "video_name": "બહુપદીઓ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 2",
+                        "textbook_name": "બહુપદીઓ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 maths ch 2.pdf"
                       }
                     ]
@@ -13109,14 +13117,18 @@
                   {
                     "month_name": "Ch - 3",
                     "videos": [
-                      
+                       {
+                        "video_name": "યામ ભૂમિતિ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 3",
+                        "textbook_name": "યામ ભૂમિતિ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 maths ch 3.pdf"
                       }
                     ]
@@ -13124,14 +13136,18 @@
                   {
                     "month_name": "Ch - 4",
                     "videos": [
-                      
+                       {
+                        "video_name": "દ્વિચલ સુરેખ સમીકરણો",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 4",
+                        "textbook_name": "દ્વિચલ સુરેખ સમીકરણો",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 maths ch 4.pdf"
                       }
                     ]
@@ -13139,14 +13155,18 @@
                   {
                     "month_name": "Ch - 5",
                     "videos": [
-                      
+                       {
+                        "video_name": "યુકિલ્ડની ભૂમિતિનો પરિચય ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 5",
+                        "textbook_name": "યુકિલ્ડની ભૂમિતિનો પરિચય ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 maths ch 5.pdf"
                       }
                     ]
@@ -13154,14 +13174,18 @@
                   {
                     "month_name": "Ch - 6",
                     "videos": [
-                      
+                       {
+                        "video_name": "રેખાઓ અને ખૂણાઓ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 6",
+                        "textbook_name": "રેખાઓ અને ખૂણાઓ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 maths ch 6.pdf"
                       }
                     ]
@@ -13169,14 +13193,18 @@
                   {
                     "month_name": "Ch - 7",
                     "videos": [
-                      
+                       {
+                        "video_name": "ત્રિકોણ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 7",
+                        "textbook_name": "ત્રિકોણ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 maths ch 7.pdf"
                       }
                     ]
@@ -13184,14 +13212,18 @@
                   {
                     "month_name": "Ch - 8",
                     "videos": [
-                      
+                       {
+                        "video_name":"ચતુષ્કોણ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 8",
+                        "textbook_name": "ચતુષ્કોણ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 maths ch 8.pdf"
                       }
                     ]
@@ -13199,14 +13231,18 @@
                   {
                     "month_name": "Ch - 9",
                     "videos": [
-                      
+                       {
+                        "video_name": "સમાંતરબાજુ ચતુષ્કોણ અને ત્રિકોણનાં ક્ષેત્રફળ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 9",
+                        "textbook_name": "સમાંતરબાજુ ચતુષ્કોણ અને ત્રિકોણનાં ક્ષેત્રફળ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 maths ch 9.pdf"
                       }
                     ]
@@ -13214,14 +13250,18 @@
                   {
                     "month_name": "Ch - 10",
                     "videos": [
-                      
+                       {
+                        "video_name": "વર્તુળ ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 10",
+                        "textbook_name": "વર્તુળ ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 maths ch 10.pdf"
                       }
                     ]
@@ -13229,14 +13269,18 @@
                   {
                     "month_name": "Ch - 11",
                     "videos": [
-                      
+                       {
+                        "video_name": "રચનાઓ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 11",
+                        "textbook_name": "રચનાઓ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 maths ch 11.pdf"
                       }
                     ]
@@ -13244,14 +13288,18 @@
                   {
                     "month_name": "Ch - 12",
                     "videos": [
-                      
+                       {
+                        "video_name": "હેરોનું સૂત્ર",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 12",
+                        "textbook_name": "હેરોનું સૂત્ર",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 maths ch 12.pdf"
                       }
                     ]
@@ -13259,14 +13307,18 @@
                   {
                     "month_name": "Ch - 13",
                     "videos": [
-                      
+                       {
+                        "video_name": "પૃષ્ઠફળ અને ઘનફળ ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 13",
+                        "textbook_name": "પૃષ્ઠફળ અને ઘનફળ ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 maths ch 13.pdf"
                       }
                     ]
@@ -13274,14 +13326,18 @@
                   {
                     "month_name": "Ch - 14",
                     "videos": [
-                      
+                       {
+                        "video_name": "આંકડાશાસ્ત્ર",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 14",
+                        "textbook_name": "આંકડાશાસ્ત્ર",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 maths ch 14.pdf"
                       }
                     ]
@@ -13289,14 +13345,18 @@
                   {
                     "month_name": "Ch - 15",
                     "videos": [
-                      
+                       {
+                        "video_name": "સંભાવના",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 15",
+                        "textbook_name": "સંભાવના",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 maths ch 15.pdf"
                       }
                     ]
