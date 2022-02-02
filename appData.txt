@@ -1261,7 +1261,7 @@
                     {
                       "video_name": "પાઠ : 4 : ભાગ અને પૂર્ણ      ", 
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/8Stl6o1WRUU"
                     },
                     {
                       "video_name": "પાઠ : 5 : તે સરખું દેખાય છે?   ",
@@ -1286,7 +1286,7 @@
                     {
                       "video_name": "પાઠ : 9 : ખોખા અને રેખાચિત્ર   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZshttps://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/LRUPrxn2pcE"
                     },
                     {
                       "video_name":"પાઠ : 10 : દસમો અને સો મો ભાગ   ",
@@ -3681,7 +3681,7 @@
                      {
                       "video_name": "પાઠ : 7 : ઘન અને ઘનમૂળ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/yt7ViuZV96w"
                     },
                      {
                       "video_name": "પાઠ : 8 : રાશિઓની તુલના",
