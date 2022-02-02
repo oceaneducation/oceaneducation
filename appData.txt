@@ -149,7 +149,7 @@
                     {
                       "video_name": "પાઠ : 7 : સમય વહી જાય છે ",  
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/Ex1bBIGMc84"
                     },
                     {
                       "video_name": "પાઠ : 8 : વધુ ભારે કોણ?",
@@ -1281,7 +1281,7 @@
                     {
                       "video_name": "પાઠ : 8 : નકશા – આલેખન   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/1RxspX5zKPs"
                     },
                     {
                       "video_name": "પાઠ : 9 : ખોખા અને રેખાચિત્ર   ",
@@ -3367,7 +3367,7 @@
                      {
                       "video_name":"પાઠ : 14 : વિધુતપ્રવાહ અને તેની અસરો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/XETJ6suBB3w"
                     },
                     {
                       "video_name": "પાઠ : 15 : પ્રકાશ",
