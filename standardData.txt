@@ -12116,7 +12116,11 @@
                   {
                     "month_name": "Ch - 1",
                     "videos": [
-                      
+                        {
+                        "video_name": "સંખ્યા પદ્ધતિ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
@@ -12131,7 +12135,11 @@
                   {
                     "month_name": "Ch - 2",
                     "videos": [
-                      
+                        {
+                        "video_name": "સંખ્યા પદ્ધતિ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
@@ -12146,7 +12154,11 @@
                   {
                     "month_name": "Ch - 3",
                     "videos": [
-                      
+                        {
+                        "video_name": "સંખ્યા પદ્ધતિ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
@@ -12161,7 +12173,11 @@
                   {
                     "month_name": "Ch - 4",
                     "videos": [
-                      
+                        {
+                        "video_name": "સંખ્યા પદ્ધતિ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
@@ -12176,7 +12192,11 @@
                   {
                     "month_name": "Ch - 5",
                     "videos": [
-                      
+                        {
+                        "video_name": "સંખ્યા પદ્ધતિ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
@@ -12191,7 +12211,11 @@
                   {
                     "month_name": "Ch - 6",
                     "videos": [
-                      
+                        {
+                        "video_name": "સંખ્યા પદ્ધતિ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
@@ -12206,7 +12230,11 @@
                   {
                     "month_name": "Ch - 7",
                     "videos": [
-                      
+                        {
+                        "video_name": "સંખ્યા પદ્ધતિ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
@@ -12221,7 +12249,11 @@
                   {
                     "month_name": "Ch - 8",
                     "videos": [
-                      
+                        {
+                        "video_name": "સંખ્યા પદ્ધતિ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
@@ -12236,7 +12268,11 @@
                   {
                     "month_name": "Ch - 9",
                     "videos": [
-                      
+                        {
+                        "video_name": "સંખ્યા પદ્ધતિ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
@@ -12251,7 +12287,11 @@
                   {
                     "month_name": "Ch - 10",
                     "videos": [
-                      
+                        {
+                        "video_name": "સંખ્યા પદ્ધતિ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
@@ -12266,7 +12306,11 @@
                   {
                     "month_name": "Ch - 11",
                     "videos": [
-                      
+                        {
+                        "video_name": "સંખ્યા પદ્ધતિ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
@@ -12281,7 +12325,11 @@
                   {
                     "month_name": "Poem - 1",
                     "videos": [
-                      
+                        {
+                        "video_name": "સંખ્યા પદ્ધતિ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
@@ -12296,7 +12344,11 @@
                   {
                     "month_name": "Poem - 2",
                     "videos": [
-                      
+                        {
+                        "video_name": "સંખ્યા પદ્ધતિ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
@@ -12311,7 +12363,11 @@
                   {
                     "month_name": "Poem - 3",
                     "videos": [
-                      
+                        {
+                        "video_name": "સંખ્યા પદ્ધતિ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
@@ -12326,7 +12382,11 @@
                   {
                     "month_name": "Poem - 4",
                     "videos": [
-                      
+                        {
+                        "video_name": "સંખ્યા પદ્ધતિ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
@@ -12347,14 +12407,18 @@
                   {
                     "month_name": "Ch - 1",
                     "videos": [
-                      
+                        {
+                        "video_name": "સાંજ સમે શામળિયો",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 1",
+                        "textbook_name":"સાંજ સમે શામળિયો",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 1.pdf"
                       }
                     ]
@@ -12362,14 +12426,18 @@
                   {
                     "month_name": "Ch - 2",
                     "videos": [
-                      
+                        {
+                        "video_name": "ચોરી અને પ્રાયશ્ચિત્ત",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 2",
+                        "textbook_name": "ચોરી અને પ્રાયશ્ચિત્ત",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 2.pdf"
                       }
                     ]
@@ -12377,14 +12445,18 @@
                   {
                     "month_name": "Ch - 3",
                     "videos": [
-                      
+                        {
+                        "video_name": "પછે શામળિયોજી બોલિયા",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 3",
+                        "textbook_name": "પછે શામળિયોજી બોલિયા",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 3.pdf"
                       }
                     ]
@@ -12392,14 +12464,18 @@
                   {
                     "month_name": "Ch - 4",
                     "videos": [
-                      
+                        {
+                        "video_name": "ગોપાળબાપા",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 4",
+                        "textbook_name": "ગોપાળબાપા",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 4.pdf"
                       }
                     ]
@@ -12407,14 +12483,18 @@
                   {
                     "month_name": "Ch - 5",
                     "videos": [
-                      
+                        {
+                        "video_name": "ગુર્જરીના ગૃહકુંજે",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 5",
+                        "textbook_name": "ગુર્જરીના ગૃહકુંજે",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 5.pdf"
                       }
                     ]
@@ -12422,14 +12502,18 @@
                   {
                     "month_name": "Ch - 6",
                     "videos": [
-                      
+                        {
+                        "video_name": "લોહીની સગાઈ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 6",
+                        "textbook_name": "લોહીની સગાઈ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 6.pdf"
                       }
                     ]
@@ -12437,14 +12521,18 @@
                   {
                     "month_name": "Ch - 7",
                     "videos": [
-                      
+                        {
+                        "video_name": "કામ કરે ઈ જીતે",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 7",
+                        "textbook_name": "કામ કરે ઈ જીતે",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 7.pdf"
                       }
                     ]
@@ -12452,14 +12540,18 @@
                   {
                     "month_name": "Ch - 8",
                     "videos": [
-                      
+                        {
+                        "video_name": "છાલ, છોતરાં અને ગોટલા",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 8",
+                        "textbook_name": "છાલ, છોતરાં અને ગોટલા",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 8.pdf"
                       }
                     ]
@@ -12467,14 +12559,18 @@
                   {
                     "month_name": "Ch - 9",
                     "videos": [
-                      
+                        {
+                        "video_name": "પુત્રવધૂનું સ્વાગત",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 9",
+                        "textbook_name": "પુત્રવધૂનું સ્વાગત",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 9.pdf"
                       }
                     ]
@@ -12482,14 +12578,18 @@
                   {
                     "month_name": "Ch - 10",
                     "videos": [
-                      
+                        {
+                        "video_name": "ભારતીય સંસ્કૃતિની સિદ્ધિ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 10",
+                        "textbook_name": "ભારતીય સંસ્કૃતિની સિદ્ધિ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 10.pdf"
                       }
                     ]
@@ -12497,14 +12597,18 @@
                   {
                     "month_name": "Ch - 11",
                     "videos": [
-                      
+                        {
+                        "video_name": "મરજીવિયા",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 11",
+                        "textbook_name": "મરજીવિયા",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 11.pdf"
                       }
                     ]
@@ -12512,14 +12616,18 @@
                   {
                     "month_name": "Ch - 12",
                     "videos": [
-                      
+                        {
+                        "video_name": "સખી માર્કડી",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 12",
+                        "textbook_name": "સખી માર્કડી",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 12.pdf"
                       }
                     ]
@@ -12527,14 +12635,18 @@
                   {
                     "month_name": "Ch - 13",
                     "videos": [
-                      
+                        {
+                        "video_name": "રસ્તો કરી જવાના",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 13",
+                        "textbook_name": "રસ્તો કરી જવાના",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 13.pdf"
                       }
                     ]
@@ -12542,14 +12654,18 @@
                   {
                     "month_name": "Ch - 14",
                     "videos": [
-                      
+                        {
+                        "video_name": "વાડી પરનાં વહાલાં",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 14",
+                        "textbook_name": "વાડી પરનાં વહાલાં",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 14.pdf"
                       }
                     ]
@@ -12557,14 +12673,18 @@
                   {
                     "month_name": "Ch - 15",
                     "videos": [
-                      
+                        {
+                        "video_name": "ગોદ માતની ક્યાં ?",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 15",
+                        "textbook_name": "ગોદ માતની ક્યાં ?",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 15.pdf"
                       }
                     ]
@@ -12572,14 +12692,18 @@
                   {
                     "month_name": "Ch - 16",
                     "videos": [
-                      
+                        {
+                        "video_name": "કુદરતી",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 16",
+                        "textbook_name": "કુદરતી",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 16.pdf"
                       }
                     ]
@@ -12587,14 +12711,18 @@
                   {
                     "month_name": "Ch - 17",
                     "videos": [
-                      
+                        {
+                        "video_name": "મારા સપનામાં આવ્યા હરિ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 17",
+                        "textbook_name": "મારા સપનામાં આવ્યા હરિ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 17.pdf"
                       }
                     ]
@@ -12602,14 +12730,18 @@
                   {
                     "month_name": "Ch - 18",
                     "videos": [
-                      
+                        {
+                        "video_name": "પંગું લંઘયતે ગિરિમ્",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 18",
+                        "textbook_name": "પંગું લંઘયતે ગિરિમ્",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 18.pdf"
                       }
                     ]
@@ -12617,14 +12749,18 @@
                   {
                     "month_name": "Ch - 19",
                     "videos": [
-                      
+                        {
+                        "video_name": "પપ્પા, હવે ફોન મૂકું ?",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 19",
+                        "textbook_name": "પપ્પા, હવે ફોન મૂકું ?",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 19.pdf"
                       }
                     ]
@@ -12632,14 +12768,18 @@
                   {
                     "month_name": "Ch - 20",
                     "videos": [
-                      
+                        {
+                        "video_name": "સમાજ સમર્પિત શ્રેષ્ઠી",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 20",
+                        "textbook_name": "સમાજ સમર્પિત શ્રેષ્ઠી",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 20.pdf"
                       }
                     ]
@@ -12647,14 +12787,18 @@
                   {
                     "month_name": "Ch - 21",
                     "videos": [
-                      
+                        {
+                        "video_name": "તેજમલ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 21",
+                        "textbook_name": "તેજમલ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 21.pdf"
                       }
                     ]
@@ -12662,14 +12806,18 @@
                   {
                     "month_name": "Ch - 22",
                     "videos": [
-                      
+                        {
+                        "video_name": "બોળો",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 22",
+                        "textbook_name": "બોળો",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 22.pdf"
                       }
                     ]
@@ -12677,14 +12825,18 @@
                   {
                     "month_name": "Ch - 23",
                     "videos": [
-                      
+                        {
+                        "video_name": "લઘુકાવ્યો",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 23",
+                        "textbook_name": "લઘુકાવ્યો",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 23.pdf"
                       }
                     ]
@@ -12692,14 +12844,18 @@
                   {
                     "month_name": "Ch - 24",
                     "videos": [
-                      
+                        {
+                        "video_name": "પ્રેરક પ્રસંગો",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 24",
+                        "textbook_name": "પ્રેરક પ્રસંગો",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 gujrati ch 24.pdf"
                       }
                     ]
@@ -12713,14 +12869,18 @@
                   {
                     "month_name": "Ch - 1",
                     "videos": [
-                      
+                      {
+                        "video_name": "आराधना",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 1",
+                        "textbook_name": "आराधना",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 1.pdf"
                       }
                     ]
@@ -12728,14 +12888,18 @@
                   {
                     "month_name": "Ch - 2",
                     "videos": [
-                      
+                       {
+                        "video_name": "न्यायमंत्री",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 2",
+                        "textbook_name": "न्यायमंत्री",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 2.pdf"
                       }
                     ]
@@ -12743,14 +12907,18 @@
                   {
                     "month_name": "Ch - 3",
                     "videos": [
-                      
+                       {
+                        "video_name": "क्या निराश हुआ जाए",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 3",
+                        "textbook_name": "क्या निराश हुआ जाए",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 3.pdf"
                       }
                     ]
@@ -12758,14 +12926,18 @@
                   {
                     "month_name": "Ch - 4",
                     "videos": [
-                      
+                       {
+                        "video_name": "कर्ण का जीवनदर्शन",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 4",
+                        "textbook_name": "कर्ण का जीवनदर्शन",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 4.pdf"
                       }
                     ]
@@ -12773,14 +12945,18 @@
                   {
                     "month_name": "Ch - 5",
                     "videos": [
-                      
+                       {
+                        "video_name": "स्वराज्य की नींव",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 5",
+                        "textbook_name": "स्वराज्य की नींव",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 5.pdf"
                       }
                     ]
@@ -12788,14 +12964,18 @@
                   {
                     "month_name": "Ch - 6",
                     "videos": [
-                      
+                       {
+                        "video_name": "मेरी बीमारी श्यामा ने ली",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 6",
+                        "textbook_name": "मेरी बीमारी श्यामा ने ली",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 6.pdf"
                       }
                     ]
@@ -12803,14 +12983,18 @@
                   {
                     "month_name": "Ch - 7",
                     "videos": [
-                      
+                       {
+                        "video_name": "सूरदास के पद",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 7",
+                        "textbook_name": "सूरदास के पद",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 7.pdf"
                       }
                     ]
@@ -12818,14 +13002,18 @@
                   {
                     "month_name": "Ch - 8",
                     "videos": [
-                      
+                       {
+                        "video_name": "गुलमर्ग की खिड़की से एक रात",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 8",
+                        "textbook_name": "गुलमर्ग की खिड़की से एक रात",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 8.pdf"
                       }
                     ]
@@ -12833,14 +13021,18 @@
                   {
                     "month_name": "Ch - 9",
                     "videos": [
-                      
+                       {
+                        "video_name": "निर्भय बनो",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 9",
+                        "textbook_name": "निर्भय बनो",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 9.pdf"
                       }
                     ]
@@ -12848,14 +13040,18 @@
                   {
                     "month_name": "Ch - 10",
                     "videos": [
-                      
+                       {
+                        "video_name": "भारत गौरव",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 10",
+                        "textbook_name": "भारत गौरव",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 10.pdf"
                       }
                     ]
@@ -12863,14 +13059,18 @@
                   {
                     "month_name": "Ch - 11",
                     "videos": [
-                      
+                       {
+                        "video_name": "एक यात्रा यह भी",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 11",
+                        "textbook_name": "एक यात्रा यह भी",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 11.pdf"
                       }
                     ]
@@ -12878,14 +13078,18 @@
                   {
                     "month_name": "Ch - 12",
                     "videos": [
-                      
+                       {
+                        "video_name": "रानी",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 12",
+                        "textbook_name": "रानी",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 12.pdf"
                       }
                     ]
@@ -12893,14 +13097,18 @@
                   {
                     "month_name": "Ch - 13",
                     "videos": [
-                      
+                       {
+                        "video_name": "नीति के दोहे.",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 13",
+                        "textbook_name": "नीति के दोहे.",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 13.pdf"
                       }
                     ]
@@ -12908,14 +13116,18 @@
                   {
                     "month_name": "Ch - 14",
                     "videos": [
-                      
+                       {
+                        "video_name": "युग और मैं",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 14",
+                        "textbook_name": "युग और मैं",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 14.pdf"
                       }
                     ]
@@ -12923,14 +13135,18 @@
                   {
                     "month_name": "Ch - 15",
                     "videos": [
-                      
+                       {
+                        "video_name": "दाज्यू",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 15",
+                        "textbook_name": "दाज्यू",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 15.pdf"
                       }
                     ]
@@ -12938,14 +13154,18 @@
                   {
                     "month_name": "Ch - 16",
                     "videos": [
-                      
+                       {
+                        "video_name": "भारतीय संस्कृति में गुरुशिष्य संबंध",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 16",
+                        "textbook_name": "भारतीय संस्कृति में गुरुशिष्य संबंध",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 16.pdf"
                       }
                     ]
@@ -12953,14 +13173,18 @@
                   {
                     "month_name": "Ch - 17",
                     "videos": [
-                      
+                       {
+                        "video_name": "तुलसी के पद",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 17",
+                        "textbook_name": "तुलसी के पद",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 17.pdf"
                       }
                     ]
@@ -12968,14 +13192,18 @@
                   {
                     "month_name": "Ch - 18",
                     "videos": [
-                      
+                       {
+                        "video_name": "अंधेरी नगरी",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 18",
+                        "textbook_name": "अंधेरी नगरी",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 18.pdf"
                       }
                     ]
@@ -12983,14 +13211,18 @@
                   {
                     "month_name": "Ch - 19",
                     "videos": [
-                      
+                       {
+                        "video_name": "महाकवि कालिदास",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 19",
+                        "textbook_name": "महाकवि कालिदास",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 19.pdf"
                       }
                     ]
@@ -12998,14 +13230,18 @@
                   {
                     "month_name": "Ch - 20",
                     "videos": [
-                      
+                       {
+                        "video_name": "धरती की शान",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 20",
+                        "textbook_name": "धरती की शान",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 20.pdf"
                       }
                     ]
@@ -13013,14 +13249,18 @@
                   {
                     "month_name": "Ch - 21",
                     "videos": [
-                      
+                       {
+                        "video_name": "क्रांतिकारी शेखर का बचपन",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 21",
+                        "textbook_name": "क्रांतिकारी शेखर का बचपन",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 21.pdf"
                       }
                     ]
@@ -13028,14 +13268,18 @@
                   {
                     "month_name": "Ch - 22",
                     "videos": [
-                      
+                       {
+                        "video_name": "वीरों का कैसा हो वसंत",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 22",
+                        "textbook_name": "वीरों का कैसा हो वसंत",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 22.pdf"
                       }
                     ]
@@ -13043,14 +13287,18 @@
                   {
                     "month_name": "Ch - 23",
                     "videos": [
-                      
+                       {
+                        "video_name": "जब मैंने पहली पुस्तक खरीदी",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 23",
+                        "textbook_name": "जब मैंने पहली पुस्तक खरीदी",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 23.pdf"
                       }
                     ]
@@ -13058,14 +13306,18 @@
                   {
                     "month_name": "Ch - 24",
                     "videos": [
-                      
+                       {
+                        "video_name": "दोहे.",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HMeU6otM_k8"
+                      }
                     ],
                     "material": [
                      
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 24",
+                        "textbook_name": "दोहे.",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 hindi ch 24.pdf"
                       }
                     ]
