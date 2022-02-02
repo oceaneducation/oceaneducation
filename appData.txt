@@ -1271,12 +1271,12 @@
                     {
                       "video_name": "પાઠ : 6 : તું મારો ગુણક, હું તારો અવયવ   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/IGHf9t3NA7Y"
                     },
                     {
                       "video_name": "પાઠ : 7 : તમે પેટર્ન(ભાત) જોઈ શકો છો?   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/RPylVRE_kB4"
                     },
                     {
                       "video_name": "પાઠ : 8 : નકશા – આલેખન   ",
@@ -1457,12 +1457,12 @@
                     {
                       "video_name": "પાઠ : 16 : સ્વચ્છતા આપણું કામ ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/WSzUaetIXIg"
                     },
                      {
                       "video_name":"પાઠ : 17 : દીવાલ ઓળંગી લીધી ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/TlA3nZcWP-I"
                     },
                     {
                       "video_name":"પાઠ : 18 : હવે અમે ક્યાં જઈએ?",
