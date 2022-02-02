@@ -14500,37 +14500,47 @@
                        {
                         "video_name": "પૃષ્ઠફળ અને ઘનફળ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/AH66cNDUFpE "
+                        "video_link": "https://youtu.be/w4VqbQwSUMw"
                       },
                       {
-                        "video_name": "પૃષ્ઠફળ અને ઘનફળ",
+                        "video_name": "પૃષ્ઠફળ અને ઘનફળ સ્વાધ્યાય 13.1 Q. 1,2",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/AH66cNDUFpE "
+                        "video_link": "https://youtu.be/R8n7fM7xD5c "
                       },
                       {
-                        "video_name": "પૃષ્ઠફળ અને ઘનફળ",
+                        "video_name": "પૃષ્ઠફળ અને ઘનફળ સ્વાધ્યાય 13.1 Q.3,4",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/AH66cNDUFpE "
+                        "video_link": "https://youtu.be/gPObZZdR2YI"
                       },
                       {
-                        "video_name": "પૃષ્ઠફળ અને ઘનફળ",
+                        "video_name": "પૃષ્ઠફળ અને ઘનફળ સ્વાધ્યાય 13.1 Q.7",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/AH66cNDUFpE "
+                        "video_link": "https://youtu.be/G9nwO5yC9Z0 "
                       },
                       {
-                        "video_name": "પૃષ્ઠફળ અને ઘનફળ",
+                        "video_name": "પૃષ્ઠફળ અને ઘનફળ સ્વાધ્યાય 13.1 Q.8,9",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/AH66cNDUFpE "
+                        "video_link": "https://youtu.be/gQTaXS59WR4"
                       },
                       {
-                        "video_name": "પૃષ્ઠફળ અને ઘનફળ",
+                        "video_name": "પૃષ્ઠફળ અને ઘનફળ સ્વાધ્યાય 13.2 Q.1,2",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/AH66cNDUFpE "
+                        "video_link": "https://youtu.be/KNDAhCATsZ0"
                       },
                       {
-                        "video_name": "પૃષ્ઠફળ અને ઘનફળ",
+                        "video_name": "પૃષ્ઠફળ અને ઘનફળ સ્વાધ્યાય 13.2 Q.3",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/AH66cNDUFpE "
+                        "video_link": "https://youtu.be/wYv2rIUrkHs"
+                      },
+                      {
+                        "video_name": "પૃષ્ઠફળ અને ઘનફળ સ્વાધ્યાય 13.2 Q.4,5",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/mU8mMd4GnNo "
+                      },
+                      {
+                        "video_name": "પૃષ્ઠફળ અને ઘનફળ સ્વાધ્યાય 13.2 Q.6",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/xQbKCnaFDms"
                       },
                       {
                         "video_name": "પૃષ્ઠફળ અને ઘનફળ",
