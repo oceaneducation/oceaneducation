@@ -1467,7 +1467,7 @@
                     {
                       "video_name":"પાઠ : 18 : હવે અમે ક્યાં જઈએ?",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/cPcmLwNSB44"
                     },
                      {
                       "video_name": "પાઠ : 19 : બીજ કહે છે ખેડૂતની વાર્તા",
@@ -3362,7 +3362,7 @@
                      {
                       "video_name": "પાઠ : 13 : ગતિ અને સમય ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/ZaXY-tvz_MY"
                     },
                      {
                       "video_name":"પાઠ : 14 : વિધુતપ્રવાહ અને તેની અસરો",
@@ -3382,7 +3382,7 @@
                      {
                       "video_name": "પાઠ : 17 : જંગલો: આપણી જીવાદોરી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/IHz_EV-R7O4"
                     },
                      {
                       "video_name": "પાઠ : 18 : દૂષિત પાણીની વાર્તા",
