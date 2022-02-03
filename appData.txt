@@ -94,19 +94,19 @@
                     },
                     {
                       "material_name": "પાઠ : 7 : એક છલાંગે દરિયો કૂદો       ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/.swa std 3 ch 7 gujrati swa adhyayan pothi.pdf"
                     },
                     {
                       "material_name":"પાઠ : 8 : કીડી હતી કે હાથી હશે!",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/.swa std 3 gujarati ch.8 swadhyaanpothi.pdf"
                     },
                     {
                       "material_name":"પાઠ : 9 : રંગબેરંગી મસાલિયું ",    
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/.swa std 3 gujarati ch.9 swadhyaanpothi.pdf"
                     },
                     {
                       "material_name":"પાઠ : 10 : ચાલો સૌને રમત મુબારક", 
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/.swa std 3 gujarati ch.10 swadhyaanpothi.pdf"
                     }
                   ],
                   "textbook": [
@@ -222,7 +222,7 @@
                     },
                     {
                       "material_name":"પાઠ : 9 : કેટલા વખત?",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/.swa std 3 maths ch 9 સ્વ અધ્યયનપોથી.pdf"
                     },
                     {
                       "material_name": "પાઠ : 10 : ભાત(પેટર્ન)ની રમત",   
@@ -453,11 +453,11 @@
                     },
                      {
                       "material_name": "પાઠ : 19 : આપણાં સાથી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/.swa std 3 aaspass ch.19 swadhyanpothi.pdf"
                     },
                      {
                       "material_name": "પાઠ : 20 : કેટલા રે કેટલા",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/.swa std 3 aaspass ch.20 swadhyanpothi.pdf"
                     },
                     {
                       "material_name": "પાઠ : 21 : પાણી બચાવીએ",
@@ -473,7 +473,7 @@
                     },
                     {
                       "material_name": "પાઠ : 24 : જીવનનું જાળું",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/.swa std 3 પર્યાવરણ ch ૨૪ સ્વ અધ્યયન પોથી.pdf"
                     },
                     {
                       "material_name":"પાઠ : 25 : મારો તાલુકો ",
