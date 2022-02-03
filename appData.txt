@@ -2107,19 +2107,19 @@
                     },
                      {
                       "material_name": "પાઠ : 11 : બીજગણિત ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/.swa std 6 maths ch 11 સ્વ અધ્યયનપોથી.pdf"
                     },
                      {
                       "material_name": "પાઠ : 12 : ગુણોતર અને પ્રમાણ ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/.swa std 6 maths ch 12 સ્વ અધ્યયનપોથી.pdf"
                     },
                     {
                       "material_name": "પાઠ : 13 : સંમિતિ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/.swa std 6 maths ch 13 સ્વ અધ્યયનપોથી.pdf"
                     },
                     {
                       "material_name":"પાઠ : 14 : પ્રાયોગિક ભૂમિતિ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/.swa std 6 maths ch 14 સ્વ અધ્યયનપોથી.pdf"
                     }
                   ],
                   "textbook": [
