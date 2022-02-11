@@ -4,12 +4,12 @@
       "medium": "youtube",
       "channels": [
         {
-          "name": "Youtube1",
-          "link": "https://youtu.be/Ga64onF9J0c"
+          "name": "ocean coaching classes",
+          "link": "https://youtube.com/c/OceanCoachingClasses"
         },
         {
-          "name": "Youtube2",
-          "link": "https://youtu.be/Ga64onF9J0c"
+          "name": "maths stories",
+          "link": "https://youtube.com/channel/UCsFrDvZie0DomNvoWWP5Mnw"
         },
         {
           "name": "Youtube3",
