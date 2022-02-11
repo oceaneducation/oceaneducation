@@ -5,11 +5,11 @@
       "channels": [
         {
           "name": "ocean coaching classes",
-          "link": ""
+          "link": "https://youtube.com/c/OceanCoachingClasses"
         },
         {
           "name": "maths stories",
-          "link": ""
+          "link": "https://youtube.com/channel/UCsFrDvZie0DomNvoWWP5Mnw"
         },
         {
           "name": "Youtube3",
