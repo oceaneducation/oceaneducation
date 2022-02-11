@@ -159,32 +159,32 @@
                     {
                       "video_name": "પાઠ : 9 : કેટલા વખત?",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": " https://youtu.be/rRmqavKQTWI  "
                     },
                     {
                       "video_name": "પાઠ : 10 : ભાત(પેટર્ન)ની રમત",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/9u6c9YXKp3k"
                     },
                     {
                       "video_name": "પાઠ : 11 : જગ અને મગ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": " https://youtu.be/KdD8D2LI20M"
                     },
                     {
                       "video_name": "પાઠ : 12 : આપણે ભાગ પાડી શકીશું?",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/I_Huy-u0g6A"
                     },
                     {
                       "video_name": "પાઠ : 13 : સ્માર્ટ ચાર્ટ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/Yp866de40eQ"
                     },
                     {
                       "video_name": "પાઠ : 14 : રૂપિયા-પૈસા ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/36jlCPMuaG8"
                     }
                   ],
                   "material": [
