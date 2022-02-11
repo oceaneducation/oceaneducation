@@ -5557,27 +5557,102 @@
                   "month_name": "ગુજરાતી",
                   "videos": [
                     {
-                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૧",
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૧ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                       {
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૧ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                       {
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૧ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                       {
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૧ વિભાગ-D",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f8nxI-cepZs"
                     },
                      {
-                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૨",
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૨ વિભાગ-A",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f8nxI-cepZs"
                     },
                      {
-                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૩",
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૨ વિભાગ-B",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f8nxI-cepZs"
                     },
                      {
-                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૪",
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૨ વિભાગ-C",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f8nxI-cepZs"
                     },
                      {
-                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૫",
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૨ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૩ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૩ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૩ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૩ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૪ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૪ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૪ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૪ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૫ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૫ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૫ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૫ વિભાગ-D",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f8nxI-cepZs"
                     }
