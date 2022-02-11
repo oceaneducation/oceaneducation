@@ -2649,32 +2649,32 @@
                     {
                       "video_name": "પાઠ : 1 : પૂર્ણાક સંખ્યાઓ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/eoFfBN5qTCM"
                     },
                        {
                       "video_name": "પાઠ : 2 : અપૂર્ણાક અને દ્શાંશ સંખ્યાઓ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/EF6WLwj9Lf8"
                     },
                     {
                       "video_name": "પાઠ : 3 માહિતીનું નિયમન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/Ed3fNyH8_TY"
                     },
                     {
                       "video_name": "પાઠ : 4 : સાદા સમીકરણ   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/CL3W2ZLcXro"
                     },
                     {
                       "video_name": "પાઠ : 5 : રેખા અને ખૂણાઓ      ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/PKkoCJNpkCE"
                     },
                     {
                       "video_name":"પાઠ : 6 : ત્રિકોણ અને તેના ગુણધર્મો    ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/88G6bzp0YIY"
                     },
                      {
                       "video_name":"પાઠ : 7 : ત્રિકોણની એકરૂપતા  ",  
@@ -3271,17 +3271,17 @@
                      {
                       "video_name": "પાઠ : 4 : ઉષ્મા ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": " https://youtu.be/BXjbP9iYhT8"
                     },
                      {
                       "video_name": "પાઠ : 5 : ઍસિડ, બેઇઝ અને ક્ષાર",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": " https://youtu.be/yXTLf5AtphM      "
                     },
                      {
                       "video_name": "પાઠ : 6 : ભૌતિક અને રસાયણિક ફેરફારો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/r2CemVEFBmc"
                     },
                      {
                       "video_name": "પાઠ : 7 : હવામાન, આબોહવા અને આબોહવાની સાથે પ્રાણીઓનું અનુકૂલન",
@@ -3311,37 +3311,37 @@
                      {
                       "video_name": "પાઠ : 12 : વનસ્પતિમાંપ્રજનન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": " https://youtu.be/YXzMXJrz-uA "
                     },
                      {
                       "video_name": "પાઠ : 13 : ગતિ અને સમય ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/ZaXY-tvz_MY"
+                      "video_link": "https://youtu.be/ZaXY-tvz_MY    "
                     },
                      {
                       "video_name":"પાઠ : 14 : વિધુતપ્રવાહ અને તેની અસરો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/XETJ6suBB3w"
+                      "video_link": " https://youtu.be/XETJ6suBB3w  "
                     },
                     {
                       "video_name": "પાઠ : 15 : પ્રકાશ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/_y2fKern3cY"
+                      "video_link": " https://youtu.be/_y2fKern3cY  "
                     },
                     {
                       "video_name":"પાઠ : 16 : પાણી: એક અમૂલ્ય સ્ત્રોત",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/Tp7TUuXLuiQ  "
                     },
                      {
                       "video_name": "પાઠ : 17 : જંગલો: આપણી જીવાદોરી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/IHz_EV-R7O4"
+                      "video_link": " https://youtu.be/IHz_EV-R7O4 "
                     },
                      {
                       "video_name": "પાઠ : 18 : દૂષિત પાણીની વાર્તા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/yYTB0x3nz50"
+                      "video_link": " https://youtu.be/yYTB0x3nz50"
                     }
                   ],
                   "material": [
