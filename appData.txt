@@ -3864,8 +3864,8 @@
                          {
                       "video_name": "પાઠ : 22 : કિસ્સા – ટુચકા ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": " https://youtu.be/sxnL7F_BMQM  
-"
+                      "video_link": " https://youtu.be/sxnL7F_BMQM " 
+
                     }
                   ],
                   "material": [
