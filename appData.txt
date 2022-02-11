@@ -144,7 +144,7 @@
                     {
                       "video_name": "પાઠ : 6 : આપ-લે ની ગમ્મત  ", 
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link":  "https://youtu.be/e8zPaGLr6bw  ",                    
+                      "video_link":   "https://youtu.be/e8zPaGLr6bw"
                     },
                     {
                       "video_name": "પાઠ : 7 : સમય વહી જાય છે ",  
