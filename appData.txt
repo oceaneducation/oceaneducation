@@ -1105,7 +1105,7 @@
                     {
                       "video_name": "પાઠ : 11 : હિંડોળો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": " https://youtu.be/k1jT06vX5-g"
                     },
                     {
                       "video_name": "પાઠ : 12 : અપંગનાં ઓજસ   ",
@@ -1120,7 +1120,7 @@
                     {
                       "video_name": "પાઠ : 14 : ઊડે રે ગુલાલ  ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/wGUU3pgHkSg"
+                      "video_link": " https://youtu.be/wGUU3pgHkSg"
                     },
                     {
                       "video_name": "પાઠ : 15 : સુભાષિતો ",
@@ -1220,7 +1220,7 @@
                     {
                       "video_name": "પાઠ : 5 : તે સરખું દેખાય છે?   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/pAn8lHfNCCM"
+                      "video_link": " https://youtu.be/pAn8lHfNCCM"
                     },
                     {
                       "video_name": "પાઠ : 6 : તું મારો ગુણક, હું તારો અવયવ   ",
@@ -1245,27 +1245,27 @@
                     {
                       "video_name":"પાઠ : 10 : દસમો અને સો મો ભાગ   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/nWVN9MnKaVc"
                     },
                     {
                       "video_name": "પાઠ : 11 : ક્ષેત્રફળ અને પરિમિતિ",   
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": " https://youtu.be/Iq1ZTzA_3QA"
                     },
                     {
                       "video_name": "પાઠ : 12 : સ્માર્ટ ચાર્ટ્સ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/SzYSRnd5Eds"
                     },
                     {
                       "video_name": "પાઠ : 13 : ગુણાકાર અને ભાગાકારની રીતો ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/ePKx8dyMRk8"
                     },
                     {
                       "video_name": "પાઠ : 14 : કેટલું મોટું? કેટલું ભારે?",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/v31nW0XdykQ"
                     }
                   ],
                   "material": [
