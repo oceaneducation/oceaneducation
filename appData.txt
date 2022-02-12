@@ -4342,15 +4342,15 @@
                     },
                        {
                       "material_name": "પાઠ :  6 : દહન અને જ્યોત",
-                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 8 sci ch 6 સ્વઅધ્યયન પોથી (1).pdf"
                     },
                           {
                       "material_name": "પાઠ :  7 : વનસ્પતિઓ અને પ્રાણીઓનું સંરક્ષણ", 
-                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 8 sci ch 7 સ્વઅધ્યયન પોથી.pdf"
                     },
                      {
                       "material_name": "પાઠ : 8 : કોષ-રચના અને કાર્યો",
-                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 8 વિજ્ઞાન ch 8 સ્વઅધ્યયન પોથી.pdf"
                     },
                           {
                       "material_name": "પાઠ : 9 : પ્રાણીઓમાં પ્રજનન",
@@ -4370,23 +4370,23 @@
                     },
                           {
                       "material_name":"પાઠ :  13 : ધ્વનિ",
-                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 8 science ch.13 swaadhyanpothi.pdf"
                     },
                        {
                       "material_name": "પાઠ :  14 : વિદ્યુતપ્રવાહની રસાયણિક અસરો",
-                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 8 science ch.14 swaadhyanpothi.pdf"
                     },
                           {
                       "material_name": "પાઠ :  15 : કેટલીક કુદરતી ઘટનાઓ",
-                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 8 sci ch 15 સ્વઅધ્યયન પોથી.pdf"
                     },
                     {
                       "material_name": "પાઠ :  16 : પ્રકાશ ",
-                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 8 વિજ્ઞાન ch 16 સ્વઅધ્યયન પોથી.pdf"
                     },
                           {
                       "material_name": "પાઠ :  17 : તારાઓ અને સૂર્યમંડળ",
-                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 8 sci ch 17 સ્વઅધ્યયન પોથી.pdf"
                     },
                       {
                       "material_name": "પાઠ :  18 : હવા અને પાણીનું દૂષણ",
