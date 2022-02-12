@@ -583,7 +583,7 @@
                     },
                     {
                       "material_name": "પાઠ : 10 : રંગેસંગે કામ કરો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/.swa std 4 ch 10 gujarati swa adhdhdyan pothi.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 4 ch 10 gujarati swa adhdhdyan pothi.pdf"
                     }
                   ],
                   "textbook": [
