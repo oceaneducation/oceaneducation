@@ -6049,7 +6049,7 @@
                       "video_name": "વિજ્ઞાન પ્રશ્નપત્ર-૫ વિભાગ-D",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f8nxI-cepZs"
-                    },
+                    }
                   ],
                   "material": [
                     {
