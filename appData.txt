@@ -5777,7 +5777,7 @@
                       "video_name": "ગણિત પ્રશ્નપત્ર-૫",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f8nxI-cepZs"
-                    },                    
+                    }                   
                   ],
                   "material": [
                     {
