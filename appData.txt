@@ -1536,11 +1536,11 @@
                     },
                     {
                       "material_name": "પાઠ : 22 : ફરી ઉપાડ્યા",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 5 ch 22 aaspas swa adhyayanpothi.pdf"
                     },
                     {
                       "material_name": "પાઠ : 23 : અમે ગુજરાતી.. ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 5 ch 23 aaspas swa adhyayan.pdf"
                     }
                   ],
                   "textbook": [
