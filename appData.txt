@@ -3359,19 +3359,19 @@
                     },
                     {
                       "material_name":"પાઠ : 4 : ઉષ્મા ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 7 ch 4 science swa adhyayan pothi.pdf"
                     },
                      {
                       "material_name":"પાઠ : 5 : ઍસિડ, બેઇઝ અને ક્ષાર",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 7 science ch 5 swa adhyayan pothi.pdf"
                     },
                     {
                       "material_name": "પાઠ : 6 : ભૌતિક અને રસાયણિક ફેરફારો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 7 science ch 6 swaddhyayanpothi.pdf"
                     },
                     {
                       "material_name": "પાઠ : 7 : હવામાન, આબોહવા અને આબોહવાની સાથે પ્રાણીઓનું અનુકૂલન",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 7 વિજ્ઞાન ch 7 સ્વઅધ્યયન પોથી.pdf"
                     },
                     {
                       "material_name": "પાઠ : 8 : પવન, વાવાઝોડું અને ચક્રવાત",
