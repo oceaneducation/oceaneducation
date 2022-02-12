@@ -938,23 +938,23 @@
                     },
                     {
                       "material_name": "પાઠ : 21 : જગત મારા ઘરમાં  ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 4 aaspass ch. 21 swadhyaypothi.pdf"
                     },
                     {
                       "material_name": "પાઠ : 22 : પટોળાં",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 4 aaspass ch. 22 swadhyaypothi.pdf"
                     },
                     {
                       "material_name":"પાઠ : 23 : દેશ-પરદેશ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 4 aaspass ch. 23 swadhyaypothi.pdf"
                     },
                     {
                       "material_name":"પાઠ : 24 : મસાલેદાર કોયડા ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 4 aaspass ch. 24 swadhyanpothi.pdf"
                     },
                     {
                       "material_name":"પાઠ : 25 : મારો જિલ્લો ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 4 aaspass ch. 25 swadhyaypothi.pdf"
                     }
                   ],
                   "textbook": [
