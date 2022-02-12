@@ -616,52 +616,52 @@
                     {
                       "video_name": "પાઠ : 5 : દુનિયા જોવાનો રસ્તો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": " https://youtu.be/tesu4VjVbmw"
                     },
                     {
                       "video_name": "પાઠ : 6 : ભંગાર વેચનાર",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/ZnpE18MLY0M"
                     },
                     {
                       "video_name": "પાઠ : 7 : જગ અને મગ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": " https://youtu.be/RdOfWqYt1Ds"
                     },
                     {
                       "video_name": "પાઠ : 8 : ગાડું અને પૈડાં",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "  https://youtu.be/UyVHB09pYXA "
                     },
                     {
                       "video_name": "પાઠ : 9 : અડધું અને પા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": " https://youtu.be/0ZpCLQOKxOI     "
                     },
                     {
                       "video_name": "પાઠ : 10 : પેટર્નની રમત",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": " https://youtu.be/QyxA0RLhe00"
                     },
                     {
                       "video_name": "પાઠ : 11 : ઘડિયા અને ભાગાકાર   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": " https://youtu.be/oDSa2kYaUYE"
                     },
                     {
                       "video_name": "પાઠ : 12 : કેટલું ભારે? કેટલું હલકું?",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": " https://youtu.be/tQDj9fJgAT8"
                     },
                     {
                       "video_name": "પાઠ : 13 : ખેતર અને તેની ફરતે વાડ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": " https://youtu.be/FDUFGwWrK6g"
                     },
                     {
                       "video_name": "પાઠ : 14 : સ્માર્ટ ચાર્ટ ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": " https://youtu.be/cTuz3anKZss"
                     }
                   ],
                   "material": [
@@ -5724,7 +5724,7 @@
                     },
                      {
                       "material_name": "ગુજરાતી પ્રશ્નપત્ર-૫ વિભાગ-A",
-                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 guj paper 5 sec A.pdf"
                     },
                      {
                       "material_name": "ગુજરાતી પ્રશ્નપત્ર-૫ વિભાગ-B",
