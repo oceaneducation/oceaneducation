@@ -3726,23 +3726,23 @@
                     },
                       {
                       "material_name": "પાઠ : 11 : માપન",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
                     },
                       {
                       "material_name": "પાઠ : 12 : ઘાત અને ઘાતાંક",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 8 maths ch 12 સ્વ અધ્યયનપોથી.pdf"
                     },
                        {
                       "material_name": "પાઠ : 13 : સમપ્રમાણ અને વ્યસ્ત પ્રમાણ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 8 maths ch 13 સ્વ અધ્યયનપોથી.pdf"
                     },
                       {
                       "material_name": "પાઠ : 14 : અવયવીકરણ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 8 maths ch 14 સ્વ અધ્યયનપોથી.pdf"
                     },
                       {
                       "material_name": "પાઠ : 15 : આલેખનો પરિચય ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 8 maths ch 15 સ્વ અધ્યયનપોથી.pdf"
                     },
                       {
                       "material_name": "પાઠ : 16 : સંખ્યા સાથે રમત",
