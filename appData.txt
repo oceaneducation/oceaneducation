@@ -594,72 +594,72 @@
                   "month_name": "ગણિત ",
                   "videos": [
                     {
-                      "video_name": "ગણિત ",
+                      "video_name": "પાઠ : 1 : ઈંટોની ઇમારત   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f8nxI-cepZs"
                     },
                      {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 2 : લાંબું અને ટૂંકું",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f8nxI-cepZs"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 3 : ભોપાલનો પ્રવાસ   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f8nxI-cepZs"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 4 : ટીક – ટીક – ટીક   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f8nxI-cepZs"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 5 : દુનિયા જોવાનો રસ્તો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f8nxI-cepZs"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 6 : ભંગાર વેચનાર",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f8nxI-cepZs"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 7 : જગ અને મગ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f8nxI-cepZs"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 8 : ગાડું અને પૈડાં",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f8nxI-cepZs"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 9 : અડધું અને પા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f8nxI-cepZs"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 10 : પેટર્નની રમત",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f8nxI-cepZs"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 11 : ઘડિયા અને ભાગાકાર   ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f8nxI-cepZs"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 12 : કેટલું ભારે? કેટલું હલકું?",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f8nxI-cepZs"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 13 : ખેતર અને તેની ફરતે વાડ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f8nxI-cepZs"
                     },
                     {
-                      "video_name": "ગુજરાતી",
+                      "video_name": "પાઠ : 14 : સ્માર્ટ ચાર્ટ ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f8nxI-cepZs"
                     }
