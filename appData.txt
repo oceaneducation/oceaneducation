@@ -2426,11 +2426,11 @@
                     },
                     {
                       "material_name": "પાઠ : 6 આપણી આસપાસ થતાં ફેરફારો    ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 6 વિજ્ઞાન ch 6 સ્વઅધ્યયન પોથી.pdf"
                     },
                     {
                       "material_name": "પાઠ : 7 : વનસ્પતિની જાણકારી મેળવીએ   ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 6 વિજ્ઞાન ch 7 સ્વઅધ્યયન પોથી (1).pdf"
                     },
                     {
                       "material_name": "પાઠ : 8 : શરીરનું હલનચલન     ",
@@ -2462,11 +2462,11 @@
                     },
                     {
                       "material_name": "પાઠ : 15 : આપણી આસપાસ ની હવા",    
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 6 sci ch 15 સ્વઅધ્યયન પોથી.pdf"
                     },
                     {
                       "material_name": "પાઠ : 16 : કચરાનો સંગ્રહ અને કચરાનો નિકાલ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 6 science ch 16 swa adhdyayanpothi.pdf"
                     }
                   ],
                   "textbook": [
