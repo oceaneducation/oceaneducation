@@ -5660,15 +5660,15 @@
                   "material": [
                     {
                       "material_name": "ગુજરાતી પ્રશ્નપત્ર-૧ વિભાગ-A",
-                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 guj paper 1 sec A.pdf"
                     },
                      {
                       "material_name": "ગુજરાતી પ્રશ્નપત્ર-૧ વિભાગ-B",
-                      "material_link":" https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link":" https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 guj paper 1 sec B.pdf"
                     },
                      {
                       "material_name": "ગુજરાતી પ્રશ્નપત્ર-૧ વિભાગ-C",
-                      "material_link":" https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link":" https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 guj paper 1 sec C.pdf"
                     },
                      {
                       "material_name": "ગુજરાતી પ્રશ્નપત્ર-૧ વિભાગ-D",
