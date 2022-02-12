@@ -5542,12 +5542,12 @@
       ]
     },
     {
-      "homedata_name": "ગાલા અસાઈનમેન્ટ - 2022 સોલ્યુસન ",
+      "homedata_name": "ગાલા અસાઈનમેન્ટ",
       "homedata_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
       "direct_sub_cat": false,
       "sub_data": [
         {
-          "sub_data_name": "ગાલા અસાઈનમેન્ટ - 2022 સોલ્યુસન ",
+          "sub_data_name": "ગાલા અસાઈનમેન્ટ",
           "standard_data": [
             {
               "standard_name": "ધોરણ  10",
@@ -5659,7 +5659,83 @@
                   ],
                   "material": [
                     {
-                      "material_name": "Gujarati",
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૧ વિભાગ-A",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૧ વિભાગ-B",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૧ વિભાગ-C",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૧ વિભાગ-D",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૨ વિભાગ-A",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૨ વિભાગ-B",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૨ વિભાગ-C",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૨ વિભાગ-D",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૩ વિભાગ-A",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૩ વિભાગ-B",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૩ વિભાગ-C",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૩ વિભાગ-D",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૪ વિભાગ-A",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૪ વિભાગ-B",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૪ વિભાગ-C",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૪ વિભાગ-D",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૫ વિભાગ-A",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૫ વિભાગ-B",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૫ વિભાગ-C",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૫ વિભાગ-D",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ],
