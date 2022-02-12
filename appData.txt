@@ -3375,7 +3375,7 @@
                     },
                     {
                       "material_name": "પાઠ : 8 : પવન, વાવાઝોડું અને ચક્રવાત",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 7 વિજ્ઞાન ch 8 સ્વઅધ્યયન પોથી (1).pdf"
                     },
                     {
                       "material_name": "પાઠ : 9 : ભૂમિ",
