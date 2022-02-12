@@ -66,7 +66,7 @@
                       "video_link": "https://youtu.be/XBtAg2KxLMg"
                     }
                   ],
-                  "material": [
+                  "pdf": [
                    
                     {
                       "material_name":"પાઠ : 1 : વાંદરાને વાંચતાં ન આવડે   ",
