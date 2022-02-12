@@ -5660,83 +5660,83 @@
                   "material": [
                     {
                       "material_name": "ગુજરાતી પ્રશ્નપત્ર-૧ વિભાગ-A",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગુજરાતી પ્રશ્નપત્ર-૧ વિભાગ-B",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link":" https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગુજરાતી પ્રશ્નપત્ર-૧ વિભાગ-C",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link":" https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગુજરાતી પ્રશ્નપત્ર-૧ વિભાગ-D",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગુજરાતી પ્રશ્નપત્ર-૨ વિભાગ-A",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગુજરાતી પ્રશ્નપત્ર-૨ વિભાગ-B",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link":" https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગુજરાતી પ્રશ્નપત્ર-૨ વિભાગ-C",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગુજરાતી પ્રશ્નપત્ર-૨ વિભાગ-D",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગુજરાતી પ્રશ્નપત્ર-૩ વિભાગ-A",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગુજરાતી પ્રશ્નપત્ર-૩ વિભાગ-B",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગુજરાતી પ્રશ્નપત્ર-૩ વિભાગ-C",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગુજરાતી પ્રશ્નપત્ર-૩ વિભાગ-D",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગુજરાતી પ્રશ્નપત્ર-૪ વિભાગ-A",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગુજરાતી પ્રશ્નપત્ર-૪ વિભાગ-B",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગુજરાતી પ્રશ્નપત્ર-૪ વિભાગ-C",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગુજરાતી પ્રશ્નપત્ર-૪ વિભાગ-D",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગુજરાતી પ્રશ્નપત્ર-૫ વિભાગ-A",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગુજરાતી પ્રશ્નપત્ર-૫ વિભાગ-B",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગુજરાતી પ્રશ્નપત્ર-૫ વિભાગ-C",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગુજરાતી પ્રશ્નપત્ર-૫ વિભાગ-D",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     }
                   ],
                   "textbook": [
@@ -5857,83 +5857,83 @@
                   "material": [
                     {
                       "material_name": "ગણિત પ્રશ્નપત્ર-૧ વિભાગ-A",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગણિત પ્રશ્નપત્ર-૧ વિભાગ-B",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગણિત પ્રશ્નપત્ર-૧ વિભાગ-C",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગણિત પ્રશ્નપત્ર-૧ વિભાગ-D",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગણિત પ્રશ્નપત્ર-૨ વિભાગ-A",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગણિત પ્રશ્નપત્ર-૨ વિભાગ-B",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગણિત પ્રશ્નપત્ર-૨ વિભાગ-C",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગણિત પ્રશ્નપત્ર-૨ વિભાગ-D",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગણિત પ્રશ્નપત્ર-૩ વિભાગ-A",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગણિત પ્રશ્નપત્ર-૩ વિભાગ-B",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગણિત પ્રશ્નપત્ર-૩ વિભાગ-C",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગણિત પ્રશ્નપત્ર-૩ વિભાગ-D",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગણિત પ્રશ્નપત્ર-૪ વિભાગ-A",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગણિત પ્રશ્નપત્ર-૪ વિભાગ-B",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગણિત પ્રશ્નપત્ર-૪ વિભાગ-C",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગણિત પ્રશ્નપત્ર-૪ વિભાગ-D",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગણિત પ્રશ્નપત્ર-૫ વિભાગ-A",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગણિત પ્રશ્નપત્ર-૫ વિભાગ-B",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગણિત પ્રશ્નપત્ર-૫ વિભાગ-C",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "ગણિત પ્રશ્નપત્ર-૫ વિભાગ-D",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     }
                   ],
                   "textbook": [
@@ -6054,83 +6054,83 @@
                   "material": [
                     {
                       "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૧ વિભાગ-A",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name":"વિજ્ઞાન પ્રશ્નપત્ર-૧ વિભાગ-B",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૧ વિભાગ-C",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૧ વિભાગ-D",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૨ વિભાગ-A",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૨ વિભાગ-B",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૨ વિભાગ-C",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૨ વિભાગ-D",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૩ વિભાગ-A",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૩ વિભાગ-B",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૩ વિભાગ-C",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૩ વિભાગ-D",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૪ વિભાગ-A",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૪ વિભાગ-B",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૪ વિભાગ-C",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૪ વિભાગ-D",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૫ વિભાગ-A",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૫ વિભાગ-B",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૫ વિભાગ-C",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                      {
                       "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૫ વિભાગ-D",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                   ],
                   "textbook": [
