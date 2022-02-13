@@ -16439,13 +16439,13 @@
                       }
                     ],
                     "material": [
-                     
+                          {
+                        "material_name":  "यद्भविष्यो विनश्यति  ",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/STD- 10 SANSKRUT CH-2.pdf"
+                      }
                     ],
                     "textbook": [
-                      {
-                        "textbook_name":  "यद्भविष्यो विनश्यति  ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 2.pdf"
-                      }
+                     
                     ]
                   },
                   {
