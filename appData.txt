@@ -66,15 +66,15 @@
                       "video_link": "https://youtu.be/XBtAg2KxLMg"
                     }
                   ],
-                  "pdf": [
+                  "material": [
                    
                     {
-                      "pdf_name":"પાઠ : 1 : વાંદરાને વાંચતાં ન આવડે   ",
-                      "pdf_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 KALRAV CH 3.pdf"
+                      "material_name":"પાઠ : 1 : વાંદરાને વાંચતાં ન આવડે   ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 KALRAV CH 3.pdf"
                     },
                      {
-                      "pdf_name": "પાઠ : 2 : પોટલાં ટપકે ટપ્પ     ",
-                      "pdf_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/swa std 3 gujarati ch.2 swadhyaanpothi.pdf"
+                      "material_name": "પાઠ : 2 : પોટલાં ટપકે ટપ્પ     ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/swa std 3 gujarati ch.2 swadhyaanpothi.pdf"
                     },
                     {
                       "pdf_name":"પાઠ : 3 : હું પતંગિયું મારા પિલ્લુનું   ",
