@@ -16449,7 +16449,10 @@
                       }
                     ],
                     "textbook": [
-                     
+                      {
+                        "textbook_name":  "यद्भविष्यो विनश्यति  ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/2.pdf"
+                      }
                     ]
                   },
                   {
@@ -16467,7 +16470,7 @@
                     "textbook": [
                       {
                         "textbook_name": "स्वस्थवृत्तं समाचर",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 3.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/3.pdf"
                       }
                     ]
                   },
@@ -16486,7 +16489,7 @@
                     "textbook": [
                       {
                         "textbook_name": "जनार्दनस्य पश्चिमः",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 4.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/4.pdf"
                       }
                     ]
                   },
@@ -16505,7 +16508,7 @@
                     "textbook": [
                       {
                         "textbook_name":  "गुणवती कन्या",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 5.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/5.pdf"
                       }
                     ]
                   },
@@ -16524,7 +16527,7 @@
                     "textbook": [
                       {
                         "textbook_name": "काष्ठखण्डः ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 6.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/6.pdf"
                       }
                     ]
                   },
@@ -16543,7 +16546,7 @@
                     "textbook": [
                       {
                         "textbook_name": "सुभाषितकुसुमानि ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 7.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/7.pdf"
                       }
                     ]
                   },
@@ -16562,7 +16565,7 @@
                     "textbook": [
                       {
                         "textbook_name":   "साक्षिभूतः मनुष्यः ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 8.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/8.pdf"
                       }
                     ]
                   },
@@ -16581,7 +16584,7 @@
                     "textbook": [
                       {
                         "textbook_name": "चक्षुष्मान् अन्ध एव",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 9.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/9.pdf"
                       }
                     ]
                   },
@@ -16600,7 +16603,7 @@
                     "textbook": [
                       {
                         "textbook_name":  "त्वमेका भवानि   ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 10.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/10.pdf"
                       }
                     ]
                   },
@@ -16619,7 +16622,7 @@
                     "textbook": [
                       {
                         "textbook_name":  "यस्य जननं तस्य मरणम् ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 11.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/11.pdf"
                       }
                     ]
                   },
@@ -16638,7 +16641,7 @@
                     "textbook": [
                       {
                         "textbook_name": "कलिकालसर्वज्ञो हेमचन्द्राचार्यः ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 12.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/12.pdf"
                       }
                     ]
                   },
@@ -16657,7 +16660,7 @@
                     "textbook": [
                       {
                         "textbook_name": "गीतामृतम्",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 13.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/13.pdf"
                       }
                     ]
                   },
@@ -16676,7 +16679,7 @@
                     "textbook": [
                       {
                         "textbook_name":  "क इदं दुष्करं कुर्यात्  ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 14.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/14.pdf"
                       }
                     ]
                   },
@@ -16695,7 +16698,7 @@
                     "textbook": [
                       {
                         "textbook_name": "जयः पराजयो वा ।", 
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 15.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/15.pdf"
                       }
                     ]
                   },
@@ -16714,7 +16717,7 @@
                     "textbook": [
                       {
                         "textbook_name":"अद्भुतं युद्धम् ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 16.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/16.pdf"
                       }
                     ]
                   },
@@ -16733,7 +16736,7 @@
                     "textbook": [
                       {
                         "textbook_name": "स्वाभाविकं सादृश्यम्",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 17.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/17.pdf"
                       }
                     ]
                   },
@@ -16752,7 +16755,7 @@
                     "textbook": [
                       {
                         "textbook_name": "मुक्तानि मुक्तकानि ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 18.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/18.pdf"
                       }
                     ]
                   },
@@ -16771,7 +16774,7 @@
                     "textbook": [
                       {
                         "textbook_name":  "सत्यं मयूरः ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 19.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/19.pdf"
                       }
                     ]
                   },
@@ -16790,7 +16793,7 @@
                     "textbook": [
                       {
                         "textbook_name":  "तथैव तिष्ठति",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 20.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/20.pdf"
                       }
                     ]
                   }
