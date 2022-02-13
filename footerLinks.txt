@@ -12,7 +12,7 @@
           "link": "https://www.youtube.com/channel/UCsFrDvZie0DomNvoWWP5Mnw"
         },
         {
-          "name": "Youtube3",
+          "name": "jk education",
           "link": "https://www.youtube.com/channel/UCgCtkbfYyBFgdlkLNxGf9Dw"
         }
       ]
