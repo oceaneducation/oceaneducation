@@ -2749,39 +2749,39 @@
                     },
                     {
                       "material_name": "પાઠ : 7 : ત્રિકોણની એકરૂપતા ",   
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 7 maths ch 7 સ્વ-અધ્યયનપોથી.pdf"
                     },
                     {
                       "material_name":"પાઠ : 8 : રાશિઓની તુલના      ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 7 maths ch 8 સ્વ-અધ્યયનપોથી.pdf"
                     },
                     {
                       "material_name": "પાઠ : 9 : સંમેય સંખ્યાઓ    ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 7 maths ch 9 સ્વ-અધ્યયનપોથી.pdf"
                     },
                     {
                       "material_name": "પાઠ : 10 : પ્રાયોગિક ભૂમિતિ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 7 maths ch 10 સ્વ-અધ્યયનપોથી.pdf"
                     },
                     {
                       "material_name": "પાઠ : 11 : પરિમિતિ અને ક્ષેત્રફળ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 7 maths ch 11 સ્વ-અધ્યયનપોથી.pdf"
                     },
                     {
                       "material_name": "પાઠ : 12 : બીજગણિતીય પદાવલિ ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 7 maths ch 12 સ્વ-અધ્યયનપોથી.pdf"
                     },
                     {
                       "material_name":"પાઠ : 13 : ઘાત અને ઘાતાંક",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 7 maths ch 13 સ્વ-અધ્યયનપોથી.pdf"
                     },
                      {
                       "material_name": "પાઠ : 14 : સંમિતિ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 7 maths ch 14 સ્વ-અધ્યયનપોથી.pdf"
                     },
                      {
                       "material_name": "પાઠ : 15 : ઘન આકારોની પ્રત્યક્ષીકરણ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 7 maths ch 15 સ્વ-અધ્યયનપોથી.pdf"
                     }
                   ],
                   "textbook": [
