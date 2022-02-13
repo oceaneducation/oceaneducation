@@ -16421,10 +16421,10 @@
                       }
                     ],
                     "material": [
-                     {
-                        "material_name": "सं वदध्वम् ",
-                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/STD- 10 SANSKRUT CH-1.pdf"
-                      } 
+                    {
+                      "material_name": "પાઠ : 2 : પોટલાં ટપકે ટપ્પ     ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/STD- 10 SANSKRUT CH-1.pdf"
+                    }
                     ],
                     "textbook": [
                        {
