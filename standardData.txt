@@ -16423,7 +16423,7 @@
                     "material": [
                     {
                       "material_name": "પાઠ : 2 : પોટલાં ટપકે ટપ્પ     ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/STD- 10 SANSKRUT CH-1.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/swa std 3 gujarati ch.2 swadhyaanpothi.pdf"
                     }
                     ],
                     "textbook": [
