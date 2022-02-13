@@ -16422,8 +16422,8 @@
                     ],
                     "material": [
                      {
-                        "textbook_name": "सं वदध्वम् ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/STD- 10 SANSKRUT CH-1.pdf"
+                        "material_name": "सं वदध्वम् ",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/STD- 10 SANSKRUT CH-1.pdf"
                       } 
                     ],
                     "textbook": [
