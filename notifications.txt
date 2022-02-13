@@ -1,18 +1,13 @@
 {
   "notifications": [
     {
-      "title": "First notification",
+      "title": "ધો.૩ થી ૮ના દરેક વિષયનું સ્વ અધ્યયનપોથી સોલ્યુશન",
       "desc": "This is for notifications",
       "link": "https://www.orimi.com/pdf-test.pdf"
     },
     {
-      "title": "Second notification",
+      "title": "ગાલા અસાઈનમેન્ટ ૨૦૨૨",
       "desc": "This is for notifications",
-      "link": "https://www.orimi.com/pdf-test.pdf"
-    },
-    {
-      "title": "Standard 12 Material HELLO",
-      "desc": "Standard 12 Material arrive",
       "link": "https://www.orimi.com/pdf-test.pdf"
     }
   ]
