@@ -567,12 +567,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "સંખ્યાઓ (part 1)",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 11.pdf"
-                      },
-                      {
-                        "textbook_name": "સંખ્યાઓ (part 2)",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 11.pdf"
+                        "textbook_name": "સંખ્યાઓ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-1 Ganit ch 11.pdf"
                       }
                     ]
                   },
