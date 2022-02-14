@@ -160,7 +160,7 @@
                       {
                         "video_name": "શાળા તત્પરતા 2",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": " https://youtu.be/kEbL8zEAthk  "
+                        "video_link": "https://youtu.be/kEbL8zEAthk"
                       }
 
                     ],
