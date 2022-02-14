@@ -5704,11 +5704,11 @@
                     },
                      {
                       "material_name": "ગુજરાતી પ્રશ્નપત્ર-૩ વિભાગ-D",
-                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 guj papper 3 section D.pdf"
                     },
                      {
                       "material_name": "ગુજરાતી પ્રશ્નપત્ર-૪ વિભાગ-A",
-                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 guj papper 4 section A.pdf"
                     },
                      {
                       "material_name": "ગુજરાતી પ્રશ્નપત્ર-૪ વિભાગ-B",
@@ -6473,23 +6473,23 @@
                   "material": [
                     {
                       "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૧ વિભાગ-A",
-                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 samajik vigyan paper 1 sec A.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.k paper 1 sec A.pdf"
                     },
                      {
                       "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૧ વિભાગ-B",
-                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.k paper 1 sec B.pdf"
                     },
                      {
                       "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૧ વિભાગ-C",
-                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.s. paper 1 sec C.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.k paper 1 sec C.pdf"
                     },
                      {
                       "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૧ વિભાગ-D",
-                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.s. paper 1 sec D.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.k paper 1 sec D.pdf"
                     },
                     {
                       "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૧ વિભાગ-E",
-                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 samajik vigyan paper 1 sec A.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.k paper 1 sec E.pdf"
                     },
                      {
                       "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૨ વિભાગ-A",
@@ -6497,7 +6497,7 @@
                     },
                      {
                       "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૨ વિભાગ-B",
-                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.s. paper 2 sec B.pdf"
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
                     },
                      {
                       "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૨ વિભાગ-C",
