@@ -3106,12 +3106,8 @@
 
                     ],
                     "textbook": [
-                      {
-                        "textbook_name": "રિયાની મુસાફરી ( part 1 )",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 Environment CH6.pdf"
-                      },
                        {
-                        "textbook_name": "રિયાની મુસાફરી ( part 2 )",
+                        "textbook_name": "રિયાની મુસાફરી",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 Environment CH6.pdf"
                       }
                     ]
@@ -3135,11 +3131,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "રિયાની ટ્રેન મોડી પડી ( part 1 )",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 Environment CH7.pdf"
-                      },
-                      {
-                        "textbook_name": "રિયાની ટ્રેન મોડી પડી ( part  )",
+                        "textbook_name": "રિયાની ટ્રેન મોડી પડી",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 Environment CH7.pdf"
                       }
                     ]
@@ -3163,11 +3155,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "રિયા પહોચી મામાને ઘેર ( part 1 )",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 Environment CH8.pdf"
-                      },
-                      {
-                        "textbook_name": "રિયા પહોચી મામાને ઘેર ( part 2 )",
+                        "textbook_name": "રિયા પહોચી મામાને ઘેર",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 Environment CH8.pdf"
                       }
                     ]
@@ -3229,11 +3217,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "વાડીમાં ( part 1 )",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 Environment CH11.pdf"
-                      },
-                      {
-                        "textbook_name": "વાડીમાં ( part 2 )",
+                        "textbook_name": "વાડીમાં",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 Environment CH11.pdf"
                       }
                     ]
@@ -3375,7 +3359,7 @@
                     "month_name": "Ch - 19",
                     "videos": [
                       {
-                        "video_name": "સાથે જામીએી",
+                        "video_name": "સાથે જામીએ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/xulFpi9JcyE"
                       }
@@ -3393,14 +3377,18 @@
                   {
                     "month_name": "Ch - 20",
                     "videos": [
-
+ {
+                        "video_name": "ખોરાક અને મજા",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/xulFpi9JcyE"
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 20",
+                        "textbook_name": "ખોરાક અને મજા",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 Environment CH20.pdf"
                       }
                     ]
@@ -3408,14 +3396,18 @@
                   {
                     "month_name": "Ch - 21",
                     "videos": [
-
+ {
+                        "video_name": "જગત મારા ઘરમાં",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/xulFpi9JcyE"
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 21",
+                        "textbook_name": "જગત મારા ઘરમાં",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 Environment CH21.pdf"
                       }
                     ]
@@ -3423,14 +3415,18 @@
                   {
                     "month_name": "Ch - 22",
                     "videos": [
-
+ {
+                        "video_name": "પટોળાં",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/xulFpi9JcyE"
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                        {
-                        "textbook_name": "Ch - 22",
+                        "textbook_name": "પટોળાં",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 Environment CH22.pdf"
                       }
                     ]
@@ -3438,14 +3434,18 @@
                   {
                     "month_name": "Ch - 23",
                     "videos": [
-
+ {
+                        "video_name": "દેશ-પરદેશ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/xulFpi9JcyE"
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                        {
-                        "textbook_name": "Ch - 23",
+                        "textbook_name": "દેશ-પરદેશ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 Environment CH23.pdf"
                       }
                     ]
@@ -3453,14 +3453,18 @@
                   {
                     "month_name": "Ch - 24",
                     "videos": [
-
+ {
+                        "video_name": "મસાલેદાર કોયડા",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/xulFpi9JcyE"
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                        {
-                        "textbook_name": "Ch - 24",
+                        "textbook_name": "મસાલેદાર કોયડા",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 Environment CH24.pdf"
                       }
                     ]
@@ -3468,14 +3472,18 @@
                   {
                     "month_name": "Ch - 25",
                     "videos": [
-
+ {
+                        "video_name": "મારો જિલ્લો",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/xulFpi9JcyE"
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 25",
+                        "textbook_name": "મારો જિલ્લો",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 Environment CH25.pdf"
                       }
                     ]
