@@ -22,7 +22,10 @@
                       }
                     ],
                     "material": [
-
+                    {
+                        "material_name": "ચણા-વટાણા... જ્લ્લેબી!",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 KALAKALIYO CH 4.pdf"
+                      }
                     ],
                     "textbook": [
                       {
