@@ -395,7 +395,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "textbook1",
+                        "textbook_name": "સરવાળા",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 3.pdf"
                       }
                     ]
@@ -438,11 +438,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "દસથી વીસ સુધીની સંખ્યા(part 1)",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 5.pdf"
-                      },
-                      {
-                        "textbook_name": "દસથી વીસ સુધીની સંખ્યા(part 2)",
+                        "textbook_name": "દસથી વીસ સુધીની સંખ્યા",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 5.pdf"
                       }
                     ]
@@ -483,13 +479,9 @@
                     "material": [
 
                     ],
-                    "textbook": [
-                      {
-                        "textbook_name": "માપન (part 1)",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 7.pdf"
-                      },
-                      {
-                        "textbook_name": "માપન (part 2)",
+                    "textbook": [                      
+                    {
+                        "textbook_name": "માપન",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 7.pdf"
                       }
                     ]
@@ -513,11 +505,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "એકવીસથી પચાસ સુધીની સંખ્યા (part 1)",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 8.pdf"
-                      },
-                      {
-                        "textbook_name": "એકવીસથી પચાસ સુધીની સંખ્યા (part 2)",
+                        "textbook_name": "એકવીસથી પચાસ સુધીની સંખ્યા",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 8.pdf"
                       }
                     ]
