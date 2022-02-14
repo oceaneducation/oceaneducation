@@ -2722,11 +2722,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "સંખ્યાની ગમ્મત ભાગ 1",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 MATHS CH2.pdf"
-                      },
-                      {
-                        "textbook_name": "સંખ્યાની ગમ્મત ભાગ 2",
+                        "textbook_name": "સંખ્યાની ગમ્મત",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 MATHS CH2.pdf"
                       }
                     ]
@@ -2750,11 +2746,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "આપો અને લો ભાગ-૧ સરવાળા",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 MATHS CH3.pdf"
-                      },
-                      {
-                        "textbook_name": "આપો અને લો ભાગ 2 બાદબાકી",
+                        "textbook_name": "આપો અને લો",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 MATHS CH3.pdf"
                       }
                     ]
@@ -2816,11 +2808,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "આપ લે ની ગમ્મત ભાગ 1",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 MATHS CH6.pdf"
-                      },
-                      {
-                        "textbook_name": "આપ લે ની ગમ્મત ભાગ 2",
+                        "textbook_name": "આપ લે ની ગમ્મત",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 MATHS CH6.pdf"
                       }
                     ]
@@ -2844,11 +2832,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "સમય વહી જાય છે. ભાગ 1",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 MATHS CH7.pdf"
-                      },
-                      {
-                        "textbook_name": "સમય વહી જાય છે. ભાગ 2",
+                        "textbook_name": "સમય વહી જાય છે.",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 MATHS CH7.pdf"
                       }
                     ]
@@ -2891,11 +2875,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "કેટલા વખત ભાગ 1",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 MATHS CH9.pdf"
-                      },
-                      {
-                        "textbook_name": "કેટલા વખત ભાગ 2",
+                        "textbook_name": "કેટલા વખત",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 MATHS CH9.pdf"
                       }
                     ]
@@ -2906,7 +2886,7 @@
                       {
                         "video_name": "ભાત(પેટર્ન) ની રમત",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Ga64onF9J0c"
+                        "video_link": "https://youtu.be/ExCBNZtZR7o"
                       }
                     ],
                     "material": [
@@ -2922,14 +2902,18 @@
                   {
                     "month_name": "Ch - 11",
                     "videos": [
-
+ {
+                        "video_name": "જગ અને મગ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                       {
-                        "textbook_name": " જગ અને મગ",
+                        "textbook_name": "જગ અને મગ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 MATHS CH11.pdf"
                       }
                     ]
@@ -2937,7 +2921,11 @@
                   {
                     "month_name": "Ch - 12",
                     "videos": [
-
+ {
+                        "video_name": "આપણે ભાગ પાડી શકીશું ?",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
                     ],
                     "material": [
 
@@ -2952,7 +2940,11 @@
                   {
                     "month_name": "Ch - 13",
                     "videos": [
-
+ {
+                        "video_name": "સ્માર્ટ ચાર્ટ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
                     ],
                     "material": [
 
@@ -2967,7 +2959,11 @@
                   {
                     "month_name": "Ch - 14",
                     "videos": [
-
+ {
+                        "video_name": "રૂપિયા પૈસા",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
                     ],
                     "material": [
 
