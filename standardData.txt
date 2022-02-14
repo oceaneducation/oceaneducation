@@ -9,7 +9,7 @@
             "sub_data_name": "ધોરણ 1",
             "standard_data": [
               {
-                "standard_name": "kalakaliyo ",
+                "standard_name": "કલકલિયો",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -130,7 +130,7 @@
                 ]
               },
               {
-                "standard_name": "kalarav",
+                "standard_name": "કલરવ",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -340,7 +340,7 @@
                 ]
               },
               {
-                "standard_name": "maths",
+                "standard_name": "ગણિત",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -613,7 +613,7 @@
                 ]
               },
               {
-                "standard_name": "Hindi",
+                "standard_name": "હિન્દી",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -960,7 +960,7 @@
             "sub_data_name": "ધોરણ 2",
             "standard_data": [
               {
-                "standard_name": "Maths",
+                "standard_name": "ગણિત",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -1308,7 +1308,7 @@
                 ]
               },
               {
-                "standard_name": "bulbul",
+                "standard_name": "બુલબુલ",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -1447,7 +1447,7 @@
                 ]
               },
               {
-                "standard_name": "kallol",
+                "standard_name": "કલ્લોલ",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -1732,7 +1732,7 @@
                 ]
               },
               {
-                "standard_name": "Hindi",
+                "standard_name": "હિન્દી",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -1974,7 +1974,7 @@
             "sub_data_name": "ધોરણ 3",
             "standard_data": [
               {
-                "standard_name": "Environment ",
+                "standard_name": "પર્યાવરણ",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -2455,7 +2455,7 @@
                 ]
               },
               {
-                "standard_name": "kalshor",
+                "standard_name": "કલશોર",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -2681,7 +2681,7 @@
                 ]
               },
               {
-                "standard_name": "maths",
+                "standard_name": "ગણિત",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -2990,7 +2990,7 @@
             "sub_data_name": "ધોરણ 4",
             "standard_data": [
               {
-                "standard_name": "environment ",
+                "standard_name": "પર્યાવરણ ",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -3491,7 +3491,7 @@
                 ]
               },
               {
-                "standard_name": "hindi",
+                "standard_name": "હિન્દી",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -3682,7 +3682,7 @@
                 ]
               },
               {
-                "standard_name": "English Second Language",
+                "standard_name": "અંગ્રેજી",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -3778,7 +3778,7 @@
                 ]
               },
               {
-                "standard_name": "Maths",
+                "standard_name": "ગણિત",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -4079,7 +4079,7 @@
                 ]
               },
               {
-                "standard_name": "patrango",
+                "standard_name": "પતરંગો",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -4217,7 +4217,7 @@
             "sub_data_name": "ધોરણ 5",
             "standard_data": [
               {
-                "standard_name": "environment ",
+                "standard_name": "પર્યાવરણ ",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -4733,7 +4733,7 @@
                 ]
               },
               {
-                "standard_name": "English litiig",
+                "standard_name": "અંગ્રેજી littel step",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -4814,7 +4814,7 @@
                 ]
               },
               {
-                "standard_name": "gujrati",
+                "standard_name": "ગુજરાતી",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -5174,7 +5174,7 @@
                 ]
               },
               {
-                "standard_name": "hindi",
+                "standard_name": "હિન્દી",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -5635,7 +5635,7 @@
                 ]
               },
               {
-                "standard_name": "English",
+                "standard_name": "અંગ્રેજી",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -6314,7 +6314,7 @@
                 ]
               },
               {
-                "standard_name": "Hindi સેમેસ્ટર - 1",
+                "standard_name": "હિન્દી સેમેસ્ટર - 1",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -6504,7 +6504,7 @@
                 ]
               },
               {
-                "standard_name": "Hindi સેમેસ્ટર - 2",
+                "standard_name": "હિન્દી સેમેસ્ટર - 2",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -6660,7 +6660,7 @@
                 ]
               },
               {
-                "standard_name": "Gujarati સેમેસ્ટર - 1",
+                "standard_name": "ગુજરાતી સેમેસ્ટર - 1",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -6875,7 +6875,7 @@
                 ]
               },
               {
-                "standard_name": "Gujarati સેમેસ્ટર - 2",
+                "standard_name": "ગુજરાતી સેમેસ્ટર - 2",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -7084,7 +7084,7 @@
                 ]
               },
               {
-                "standard_name": "English Sem - 1",
+                "standard_name": "અંગ્રેજી Sem - 1",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -7150,7 +7150,7 @@
                 ]
               },
               {
-                "standard_name": "English Sem - 2",
+                "standard_name": "અંગ્રેજી Sem - 2",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -8933,7 +8933,7 @@
                  ]
                },
                {
-                "standard_name": "Maths",
+                "standard_name": "ગણિત",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -11950,7 +11950,7 @@
             "sub_data_name": "ધોરણ 9",
             "standard_data": [
               {
-                "standard_name": "English",
+                "standard_name": "અંગ્રેજી",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -12241,7 +12241,7 @@
                 ]
               },
               {
-                "standard_name": "Gujarati",
+                "standard_name": "ગુજરાતી",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -12703,7 +12703,7 @@
                 ]
               },
               {
-                "standard_name": "hindi",
+                "standard_name": "હિન્દી",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -13165,7 +13165,7 @@
                 ]
               },
               {
-                "standard_name": "Maths",
+                "standard_name": "ગણિત",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -13456,7 +13456,7 @@
                 ]
               },
               {
-                "standard_name": "Science",
+                "standard_name": "વિજ્ઞાન",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -13687,7 +13687,7 @@
                 ]
               },
               {
-                "standard_name": "Gujarati",
+                "standard_name": "સમાજ",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -13993,7 +13993,7 @@
                 ]
               },
               {
-                "standard_name": "Sanskrit",
+                "standard_name": "સંસ્કૃત",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
