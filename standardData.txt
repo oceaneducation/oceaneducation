@@ -3286,7 +3286,7 @@
                     "month_name": "Ch - 15",
                     "videos": [
                       {
-                        "video_name": "મબજારથી ઘર સુધીા",
+                        "video_name": "બજારથી ઘર સુધી",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/-pSVem61Yto"
                       }
@@ -3362,7 +3362,7 @@
                     "month_name": "Ch - 19",
                     "videos": [
                       {
-                        "video_name": "સાથે જામીએ",
+                        "video_name": "સાથે જમીએ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/xulFpi9JcyE"
                       }
@@ -3372,7 +3372,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "સાથે જામીએ",
+                        "textbook_name": "સાથે જમીએ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 Environment CH19.pdf"
                       }
                     ]
@@ -3383,7 +3383,7 @@
  {
                         "video_name": "ખોરાક અને મજા",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/xulFpi9JcyE"
+                        "video_link": ""
                       }
                     ],
                     "material": [
@@ -3402,7 +3402,7 @@
  {
                         "video_name": "જગત મારા ઘરમાં",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/xulFpi9JcyE"
+                        "video_link": ""
                       }
                     ],
                     "material": [
@@ -3421,7 +3421,7 @@
  {
                         "video_name": "પટોળાં",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/xulFpi9JcyE"
+                        "video_link": ""
                       }
                     ],
                     "material": [
@@ -3440,7 +3440,7 @@
  {
                         "video_name": "દેશ-પરદેશ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/xulFpi9JcyE"
+                        "video_link": ""
                       }
                     ],
                     "material": [
@@ -3459,7 +3459,7 @@
  {
                         "video_name": "મસાલેદાર કોયડા",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/xulFpi9JcyE"
+                        "video_link": ""
                       }
                     ],
                     "material": [
@@ -3478,7 +3478,7 @@
  {
                         "video_name": "મારો જિલ્લો",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/xulFpi9JcyE"
+                        "video_link": ""
                       }
                     ],
                     "material": [
