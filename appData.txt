@@ -6340,6 +6340,248 @@
                       "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ]
+                },
+                 {
+                  "month_name": "સંસ્કૃત ",
+                  "videos": [
+                    {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૧ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": " https://youtu.be/0dFy1NDsYzA"
+                    },
+                       {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૧ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "  https://youtu.be/XzWR_KAP8fU"
+                    },
+                       {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૧ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "  https://youtu.be/sTRQzOwF6sU"
+                    },
+                       {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૧ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "  https://youtu.be/OpxldzC3aJs"
+                    },
+                     {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૧ વિભાગ-E",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": " https://youtu.be/0dFy1NDsYzA"
+                    },
+                      {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૨ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": " https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૨ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": " https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૨ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": " https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "સમાજ પ્રશ્નપત્ર-૨ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": " https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૨ વિભાગ-E",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": " https://youtu.be/f8nxI-cepZs"
+                    },
+                      {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૩ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": " https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૩ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": " https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૩ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": " https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૩ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": " https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૩ વિભાગ-E",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": " https://youtu.be/f8nxI-cepZs"
+                    },
+                      {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૪ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": " https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૪ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": " https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૪ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": " https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૪ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": " https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૪ વિભાગ-E",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": " https://youtu.be/f8nxI-cepZs"
+                    },
+                      {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૫ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": " https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૫ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": " https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "સંસ્કૃત પ્રશ્નપત્ર-૫ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": " https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "સંસ્કૃત પ્રશ્નપત્ર-૫ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": " https://youtu.be/f8nxI-cepZs"
+                    }
+                    {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૫ વિભાગ-E",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": " https://youtu.be/f8nxI-cepZs"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૧ વિભાગ-A",
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 samajik vigyan paper 1 sec A.pdf"
+                    },
+                     {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૧ વિભાગ-B",
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૧ વિભાગ-C",
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.s. paper 1 sec C.pdf"
+                    },
+                     {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૧ વિભાગ-D",
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.s. paper 1 sec D.pdf"
+                    },
+                    {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૧ વિભાગ-E",
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 samajik vigyan paper 1 sec A.pdf"
+                    },
+                     {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૨ વિભાગ-A",
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૨ વિભાગ-B",
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.s. paper 2 sec B.pdf"
+                    },
+                     {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૨ વિભાગ-C",
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૨ વિભાગ-D",
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                    {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૨ વિભાગ-E",
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૩ વિભાગ-A",
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૩ વિભાગ-B",
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૩ વિભાગ-C",
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૩ વિભાગ-D",
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                      {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૩ વિભાગ-E",
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-4 વિભાગ-A",
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૪ વિભાગ-B",
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૪ વિભાગ-C",
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૪ વિભાગ-D",
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૪ વિભાગ-E",
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૫ વિભાગ-A",
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૫ વિભાગ-B",
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૫ વિભાગ-C",
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૫ વિભાગ-D",
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                    {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૫ વિભાગ-E",
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
                 }
               ]
             }
