@@ -181,7 +181,7 @@
                       {
                         "video_name": "અજબ જેવી વાત છે",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/qnBJaVqPsPQ"
+                        "video_link":  "https://youtu.be/qnBJaVqPsPQ"
                       }
                     ],
                     "material": [
