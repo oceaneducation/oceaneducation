@@ -1545,11 +1545,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "part – 1 મારે તો બસ રમવું છે",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 KALLOL CH5.pdf"
-                      },
-                      {
-                        "textbook_name": "part – 2 મારે તો બસ રમવું છે",
+                        "textbook_name": "મારે તો બસ રમવું છે",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 KALLOL CH5.pdf"
                       }
                     ]
@@ -1592,11 +1588,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "part -1 આમ પણ હોય",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 KALLOL CH7.pdf"
-                      },
-                      {
-                        "textbook_name": "part -2 આમ પણ હોય",
+                        "textbook_name": "આમ પણ હોય",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 KALLOL CH7.pdf"
                       }
                     ]
@@ -1620,11 +1612,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "part-1 સોય, સંચો અને સાબુ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 KALLOL CH8.pdf"
-                      },
-                      {
-                        "textbook_name": "part-2 સોય, સંચો અને સાબુ",
+                        "textbook_name": "સોય, સંચો અને સાબુ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 KALLOL CH8.pdf"
                       }
                     ]
@@ -1648,11 +1636,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "part-1 આપણે સૌ તોફાની",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 KALLOL CH9.pdf"
-                      },
-                      {
-                        "textbook_name": "part-2 આપણે સૌ તોફાની",
+                        "textbook_name": "આપણે સૌ તોફાની",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 KALLOL CH9.pdf"
                       }
                     ]
@@ -1676,11 +1660,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "part -1 કામ કરીએ કલક કલક",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 KALLOL CH10.pdf"
-                      },
-                      {
-                        "textbook_name": "part -2 કામ કરીએ કલક કલક",
+                        "textbook_name": "કામ કરીએ કલક કલક",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 KALLOL CH10.pdf"
                       }
                     ]
