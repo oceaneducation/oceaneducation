@@ -3691,7 +3691,16 @@
                   {
                     "month_name": "Ch - 1",
                     "videos": [
-
+  {
+                        "video_name": "get up dance",   
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/vsQztA0R5fI"
+                      },
+                        {
+                        "video_name": "get up dance",   
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/vsQztA0R5fI"
+                      }
                     ],
                     "material": [
 
@@ -3706,7 +3715,16 @@
                   {
                     "month_name": "Ch - 2",
                     "videos": [
-
+  {
+                        "video_name": things around us",  
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/vsQztA0R5fI"
+                      },
+                        {
+                        "video_name": "things around us",  
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/vsQztA0R5fI"
+                      }
                     ],
                     "material": [
 
@@ -3721,7 +3739,16 @@
                   {
                     "month_name": "Ch - 3",
                     "videos": [
-
+  {
+                        "video_name": "my family",     
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/vsQztA0R5fI"
+                      },
+                        {
+                        "video_name": "my family",     
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/vsQztA0R5fI"
+                      }
                     ],
                     "material": [
 
@@ -3736,7 +3763,16 @@
                   {
                     "month_name": "Ch - 4",
                     "videos": [
-
+  {
+                        "video_name": "our helpers",  
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/vsQztA0R5fI"
+                      },
+                        {
+                        "video_name": "our helpers",  
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/vsQztA0R5fI"
+                      }
                     ],
                     "material": [
 
@@ -3751,7 +3787,16 @@
                   {
                     "month_name": "Ch - 5",
                     "videos": [
-
+  {
+                        "video_name": "here we are dancing",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/vsQztA0R5fI"
+                      },
+                        {
+                        "video_name": "here we are dancing",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/vsQztA0R5fI"
+                      }
                     ],
                     "material": [
 
@@ -3766,7 +3811,16 @@
                   {
                     "month_name": "Ch - 6",
                     "videos": [
-
+  {
+                        "video_name": "kuku is calling",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/vsQztA0R5fI"
+                      },
+                        {
+                        "video_name": "kuku is calling",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/vsQztA0R5fI"
+                      }
                     ],
                     "material": [
 
