@@ -123,7 +123,7 @@
                     "textbook": [
                       {
                         "textbook_name": "પૈડું ચાલે ચક્કર ચક્કર ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/Std-1 Kalkaliyo CH 6.pdf"
                       }
                     ]
                   }
