@@ -632,7 +632,7 @@
                     "textbook": [
  {
                         "textbook_name": "હિન્દી વર્ણમાળા પરિચય1",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 13.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
 
                     ]
@@ -653,7 +653,7 @@
                     "textbook": [
  {
                         "textbook_name": "હિન્દી મૂળાક્ષર ક અને ખ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 13.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
 
                     ]
@@ -674,7 +674,7 @@
                     "textbook": [
  {
                         "textbook_name": "હિન્દી મૂળાક્ષર ગ અને ઘ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 13.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
 
 
@@ -696,7 +696,7 @@
                     "textbook": [
  {
                         "textbook_name": "હિન્દી મૂળાક્ષર ચ અને છ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 13.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
 
 
@@ -718,7 +718,7 @@
                     "textbook": [
  {
                         "textbook_name": "હિન્દી મૂળાક્ષર જ અને ઝ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 13.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
 
 
@@ -740,7 +740,7 @@
                     "textbook": [
  {
                         "textbook_name": "હિન્દી મૂળાક્ષર ટ અને ઠ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 13.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
 
 
@@ -762,7 +762,7 @@
                     "textbook": [
  {
                         "textbook_name": "હિન્દી મૂળાક્ષર ડ અને ઢ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 13.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
 
 
@@ -784,7 +784,7 @@
                     "textbook": [
  {
                         "textbook_name": "હિન્દી મૂળાક્ષર થ અને દ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 13.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
 
 
@@ -806,7 +806,7 @@
                     "textbook": [
  {
                         "textbook_name": "હિન્દી મૂળાક્ષર ફ,બ અને ભ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 13.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
 
 
@@ -828,7 +828,7 @@
                     "textbook": [
  {
                         "textbook_name": "હિન્દી મૂળાક્ષર મ,ય અને ર",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 13.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
 
 
@@ -850,7 +850,7 @@
                     "textbook": [
  {
                         "textbook_name": "હિન્દી મૂળાક્ષર લ, વ અને શ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 13.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
 
 
@@ -872,7 +872,7 @@
                     "textbook": [
  {
                         "textbook_name": "હિન્દી ગિનતી ૧ થી ૧૦",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 13.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
 
 
@@ -894,7 +894,7 @@
                     "textbook": [
  {
                         "textbook_name": "હિન્દી ગિનતી ૧૧ થી ૨૦",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 13.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
 
 
@@ -916,7 +916,7 @@
                     "textbook": [
  {
                         "textbook_name": "હિન્દી પુનરાવર્તન-૧",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 13.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
 
 
@@ -938,7 +938,7 @@
                     "textbook": [
  {
                         "textbook_name": "હિન્દી પુનરાવર્તન-૨",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 MATHS CH 13.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
 
 
