@@ -109,10 +109,10 @@
 
                   },
                    {
-                    "month_name": "Ch - 1",
+                    "month_name": "Ch - 6",
                     "videos": [
  {
-                        "video_name": "મ્યાઉં મ્યાઉં.... કા કા કા…",
+                        "video_name": "પૈડું ચાલે ચક્કર ચક્કર ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/b5TpqCAW55E"
                       }
@@ -122,7 +122,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "મ્યાઉં મ્યાઉં.... કા કા કા…",
+                        "textbook_name": "પૈડું ચાલે ચક્કર ચક્કર ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
                     ]
