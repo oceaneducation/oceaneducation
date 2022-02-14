@@ -2230,7 +2230,7 @@
                       {
                         "video_name": "આપણો ખોરાક",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/URF3uV0U6jE"
+                        "video_link": "https://youtu.be/Jeq_eG5EHNg"
                       }
                     ],
                     "material": [
