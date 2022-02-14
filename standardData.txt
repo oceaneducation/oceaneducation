@@ -149,7 +149,7 @@
                     "textbook": [
                       {
                         "textbook_name": "શાળા તત્પરતા1 ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 KALRAV CH 1.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/Std-1 Kalrav Gujarati ch 1"
                       }
 
                     ]
@@ -170,7 +170,7 @@
                     "textbook": [
                       {
                         "textbook_name": "શાળા તત્પરતા 2",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 KALRAV CH 2.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/Std-1 Kalrav Gujarati ch 2"
                       }
 
                     ]
@@ -190,7 +190,7 @@
                     "textbook": [
                       {
                         "textbook_name": "અજબ જેવી વાત છે",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 KALRAV CH 3.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/Std-1 Kalrav Gujarati ch 3"
                       }
                     ]
                   },
@@ -209,7 +209,7 @@
                     "textbook": [
                       {
                         "textbook_name": "આવ રે વરસાદ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 KALRAV CH 4.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/Std-1 Kalrav Gujarati ch 4"
                       }
                     ]
                   },
@@ -232,12 +232,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "અમે સૌ (part :1)",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 KALRAV CH 5.pdf"
-                      },
-                      {
-                        "textbook_name": "અમે સૌ (part :2)",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 KALRAV CH 5.pdf"
+                        "textbook_name": "અમે સૌ ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/Std-1 Kalrav Gujarati CH 5"
                       }
                     ]
                   },
@@ -256,7 +252,7 @@
                     "textbook": [
                       {
                         "textbook_name": "મજા પડે, મજા પડે",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 KALRAV CH 6.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/Std-1 Kalrav Gujarati CH 6"
                       }
                     ]
                   },
@@ -296,13 +292,9 @@
                     "material": [
 
                     ],
-                    "textbook": [
+                    "textbook": [       
                       {
-                        "textbook_name": "હું તો મોટો થઈશ (part :1)",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 KALRAV CH 8.pdf"
-                      },
-                      {
-                        "textbook_name": "હું તો મોટો થઈશ (part :2)",
+                        "textbook_name": "હું તો મોટો થઈશ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 KALRAV CH 8.pdf"
                       }
                     ]
