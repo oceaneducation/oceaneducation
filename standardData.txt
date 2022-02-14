@@ -1138,12 +1138,7 @@
                     "month_name": "Ch - 10",
                     "videos": [
                       {
-                        "video_name": "part-1 અમારા અંકો ઉમેરો",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/si8u_bPtwDs"
-                      },
-                      {
-                        "video_name": "part-2 અમારા અંકો ઉમેરો",
+                        "video_name": "અમારા અંકો ઉમેરો",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/6jsHGSbYzQw"
                       }
@@ -1200,11 +1195,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "part-1 આપો અને લો",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 MATHS CH12.pdf"
-                      },
-                      {
-                        "textbook_name": "part-2 આપો અને લો",
+                        "textbook_name":  "આપો અને લો",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 MATHS CH12.pdf"
                       }
                     ]
@@ -1231,14 +1222,18 @@
                   {
                     "month_name": "Ch - 14",
                     "videos": [
-
+  {
+                        "video_name": "સૌથી લાંબું ડગલું",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/NzJgc0hRz9o"
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "પક્ષીઓ આવે, પક્ષીઓ જાય",
+                        "textbook_name": "સૌથી લાંબું ડગલું",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 MATHS CH14.pdf"
                       }
                     ]
@@ -1246,7 +1241,11 @@
                   {
                     "month_name": "Ch - 15",
                     "videos": [
-
+  {
+                        "video_name": "કેટલી ચોટલીઓ છે?",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/NzJgc0hRz9o"
+                      }
                     ],
                     "material": [
 
@@ -1315,14 +1314,18 @@
                   {
                     "month_name": "Ch - 1",
                     "videos": [
-
+ {
+                        "video_name": "ટાયર ફાટયું ફ્ટાક",  
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/9KGkJ5fdWC8"
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 1",
+                        "textbook_name":  "ટાયર ફાટયું ફ્ટાક",  
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 BULBUL CH1.pdf"
                       }
                     ]
@@ -1330,14 +1333,18 @@
                   {
                     "month_name": "Ch - 2",
                     "videos": [
-
+ {
+                        "video_name":  "વાંદરા માથે ફુગ્ગાનો ટોપો",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/9KGkJ5fdWC8"
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 2",
+                        "textbook_name": "વાંદરા માથે ફુગ્ગાનો ટોપો",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 BULBUL CH2.pdf"
                       }
                     ]
@@ -1345,14 +1352,18 @@
                   {
                     "month_name": "Ch - 3",
                     "videos": [
-
+ {
+                        "video_name": "ચકલીની ચાંચમાં ચમચી",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/9KGkJ5fdWC8"
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 3",
+                        "textbook_name": "ચકલીની ચાંચમાં ચમચી",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 BULBUL CH3.pdf"
                       }
                     ]
@@ -1360,14 +1371,18 @@
                   {
                     "month_name": "Ch - 4",
                     "videos": [
-
+ {
+                        "video_name": "ગિલી ગિલી છૂ...",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/9KGkJ5fdWC8"
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 4",
+                        "textbook_name": "ગિલી ગિલી છૂ...",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 BULBUL CH4.pdf"
                       }
                     ]
@@ -1375,14 +1390,18 @@
                   {
                     "month_name": "Ch - 5",
                     "videos": [
-
+ {
+                        "video_name": "રિમઝિમ... રિમઝિમ...",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/9KGkJ5fdWC8"
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 5",
+                        "textbook_name": "રિમઝિમ... રિમઝિમ...",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 BULBUL CH5.pdf"
                       }
                     ]
@@ -1390,14 +1409,18 @@
                   {
                     "month_name": "Ch - 6",
                     "videos": [
-
+ {
+                        "video_name": "વાઘની ટૂંકી રિસેસ…",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/9KGkJ5fdWC8"
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 6",
+                        "textbook_name": "વાઘની ટૂંકી રિસેસ…",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 BULBUL CH6.pdf"
                       }
                     ]
@@ -1405,14 +1428,18 @@
                   {
                     "month_name": "Ch - 7",
                     "videos": [
-
+ {
+                        "video_name": "વન સાદ કરે છે", 
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/9KGkJ5fdWC8"
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 7",
+                        "textbook_name": "વન સાદ કરે છે", 
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 2 BULBUL CH7.pdf"
                       }
                     ]
