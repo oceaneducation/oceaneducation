@@ -3692,14 +3692,14 @@
                     "month_name": "Ch - 1",
                     "videos": [
   {
-                        "video_name": "get up dance",   
+                        "video_name": "get up dance (part-1)",   
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/vsQztA0R5fI"
+                        "video_link": "https://youtu.be/k2EbC_g_6HE"
                       },
                         {
-                        "video_name": "get up dance",   
+                        "video_name": "get up dance (part-2)",   
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/vsQztA0R5fI"
+                        "video_link": "https://youtu.be/0DXX_dhFm38"
                       }
                     ],
                     "material": [
@@ -3716,14 +3716,14 @@
                     "month_name": "Ch - 2",
                     "videos": [
   {
-                        "video_name": things around us",  
+                        "video_name": things around us (part-1)",  
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/vsQztA0R5fI"
+                        "video_link": "https://youtu.be/ZpsdQzpM888"
                       },
                         {
-                        "video_name": "things around us",  
+                        "video_name": "things around us (part-2)",  
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/vsQztA0R5fI"
+                        "video_link": "https://youtu.be/xCtH5YUD6qw"
                       }
                     ],
                     "material": [
@@ -3740,14 +3740,14 @@
                     "month_name": "Ch - 3",
                     "videos": [
   {
-                        "video_name": "my family",     
+                        "video_name": "my family (part-1)",     
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/vsQztA0R5fI"
+                        "video_link": "https://youtu.be/FYeHweWJ0jo"
                       },
                         {
-                        "video_name": "my family",     
+                        "video_name": "my family (part-2)",     
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/vsQztA0R5fI"
+                        "video_link": "https://youtu.be/NJxUXekgebQ"
                       }
                     ],
                     "material": [
@@ -3764,14 +3764,14 @@
                     "month_name": "Ch - 4",
                     "videos": [
   {
-                        "video_name": "our helpers",  
+                        "video_name": "our helpers (part-1)",  
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/vsQztA0R5fI"
+                        "video_link": "https://youtu.be/nvugBmclnI8"
                       },
                         {
-                        "video_name": "our helpers",  
+                        "video_name": "our helpers (part-2)",  
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/vsQztA0R5fI"
+                        "video_link": "https://youtu.be/xHG0CRht2SY"
                       }
                     ],
                     "material": [
@@ -3788,14 +3788,14 @@
                     "month_name": "Ch - 5",
                     "videos": [
   {
-                        "video_name": "here we are dancing",
+                        "video_name": "here we are dancing (part-1)",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/vsQztA0R5fI"
+                        "video_link": "https://youtu.be/TogkSn_L9sM"
                       },
                         {
-                        "video_name": "here we are dancing",
+                        "video_name": "here we are dancing (part-2)",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/vsQztA0R5fI"
+                        "video_link": "https://youtu.be/JIjYAcF2zRM"
                       }
                     ],
                     "material": [
@@ -3812,14 +3812,14 @@
                     "month_name": "Ch - 6",
                     "videos": [
   {
-                        "video_name": "kuku is calling",
+                        "video_name": "kuku is calling (part-1)",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/vsQztA0R5fI"
+                        "video_link": "https://youtu.be/GxPvs4uPzhk"
                       },
                         {
-                        "video_name": "kuku is calling",
+                        "video_name": "kuku is calling (part-2)",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/vsQztA0R5fI"
+                        "video_link": "https://youtu.be/WtIakek-VsM"
                       }
                     ],
                     "material": [
