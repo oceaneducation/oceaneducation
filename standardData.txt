@@ -2461,14 +2461,18 @@
                   {
                     "month_name": "Ch - 1",
                     "videos": [
-
+ {
+                        "video_name": "વાંદરાને વાંચતાં ન આવડે",   
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/jFKjniiKVdU"
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                        {
-                        "textbook_name": "Ch - 1",
+                        "textbook_name": "વાંદરાને વાંચતાં ન આવડે",   
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 KALSHOR CH1.pdf"
                       }
                     ]
@@ -2476,14 +2480,18 @@
                   {
                     "month_name": "Ch - 2",
                     "videos": [
-
+ {
+                        "video_name": "પોટલાં ટપકે ટપ્પ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/MDsYKyb7Bbs"
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                        {
-                        "textbook_name": "Ch - 2",
+                        "textbook_name": "પોટલાં ટપકે ટપ્પ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 KALSHOR CH2.pdf"
                       }
                     ]
@@ -2491,14 +2499,18 @@
                   {
                     "month_name": "Ch - 3",
                     "videos": [
-
+ {
+                        "video_name": "હું પતંગિયું મારા પિલ્લુનું",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/MRJbt_oZe2M"
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                        {
-                        "textbook_name": "Ch - 3",
+                        "textbook_name": "હું પતંગિયું મારા પિલ્લુનું",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 KALSHOR CH3.pdf"
                       }
                     ]
@@ -2506,14 +2518,18 @@
                   {
                     "month_name": "Ch - 4",
                     "videos": [
-
+ {
+                        "video_name": "સસલા ની પાછળ કુતરો",   
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/AIWxdSTOi4w"
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 4",
+                        "textbook_name": "સસલા ની પાછળ કુતરો",   
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 KALSHOR CH4.pdf"
                       }
                     ]
@@ -2521,14 +2537,23 @@
                   {
                     "month_name": "Ch - 5",
                     "videos": [
-
+ {
+                        "video_name": "કોરો કાચબો ભીનો ચાંદો-part-1",   
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/Hn1B63f47o8"
+                      },
+                       {
+                        "video_name": "કોરો કાચબો ભીનો ચાંદો part-2",   
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/U6w-n5oT7Po"
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 5",
+                        "textbook_name": "કોરો કાચબો ભીનો ચાંદો",   
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 KALSHOR CH5.pdf"
                       }
                     ]
@@ -2536,14 +2561,23 @@
                   {
                     "month_name": "Ch - 6",
                     "videos": [
-
+ {
+                        "video_name": "બતક અને અથવા પણ હંસ part-1",    
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/ZRehtjA4UyI"
+                      },
+                      {
+                        "video_name": "બતક અને અથવા પણ હંસ part-2",    
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/gcb92bTLing"
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                        {
-                        "textbook_name": "Ch - 6",
+                        "textbook_name": "બતક અને અથવા પણ હંસ",    
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 KALSHOR CH6.pdf"
                       }
                     ]
@@ -2551,14 +2585,28 @@
                   {
                     "month_name": "Ch - 7",
                     "videos": [
-
+ {
+                        "video_name": "એક છલાંગે દરિયો કૂદો part-1",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/81ydDMWToYY"
+                      },
+                      {
+                        "video_name": "એક છલાંગે દરિયો કૂદો part-2",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/gWzO4w-8jnU"
+                      },
+                      {
+                        "video_name": "એક છલાંગે દરિયો કૂદો part-3",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/awFmO6ma0-E"
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                        {
-                        "textbook_name": "Ch - 7",
+                        "textbook_name": "એક છલાંગે દરિયો કૂદો",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 KALSHOR CH7.pdf"
                       }
                     ]
@@ -2566,14 +2614,23 @@
                   {
                     "month_name": "Ch - 8",
                     "videos": [
-
+ {
+                        "video_name": "કીડી હતી કે હાથી હશે! part-1",        
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/9sUMAb2SYOA"
+                      },
+                       {
+                        "video_name": "કીડી હતી કે હાથી હશે! part-2",        
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/rwGHVSbU9j0"
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                        {
-                        "textbook_name": "Ch - 8",
+                        "textbook_name": "કીડી હતી કે હાથી હશે!",        
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 KALSHOR CH8.pdf"
                       }
                     ]
@@ -2581,14 +2638,23 @@
                   {
                     "month_name": "Ch - 9",
                     "videos": [
-
+ {
+                        "video_name": "રંગબેરંગી મસાલિયું part-1",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/dFJiazISd-Q"
+                      },
+                       {
+                        "video_name": "રંગબેરંગી મસાલિયું part-2",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/Sp7_cWinICU"
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                        {
-                        "textbook_name": "Ch - 9",
+                        "textbook_name": "રંગબેરંગી મસાલિયું",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 KALSHOR CH9.pdf"
                       }
                     ]
@@ -2596,14 +2662,18 @@
                   {
                     "month_name": "Ch - 10",
                     "videos": [
-
+ {
+                        "video_name": "ચાલો સૌને રમત મુબારક", 
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                        {
-                        "textbook_name": "Ch - 10",
+                        "textbook_name": "ચાલો સૌને રમત મુબારક", 
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 3 KALSHOR CH10.pdf"
                       }
                     ]
