@@ -566,12 +566,12 @@
                       {
                         "video_name": "સંખ્યાઓ (part 1)",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/GlkPK71p6h8"
+                        "video_link":  "https://youtu.be/FHWIplsNeAw"
                       },
                       {
                         "video_name": "સંખ્યાઓ (part 2)",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/FHWIplsNeAw"
+                        "video_link":  "https://youtu.be/GlkPK71p6h8"
                       }
                     ],
                     "material": [
