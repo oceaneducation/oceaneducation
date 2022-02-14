@@ -139,7 +139,7 @@
                       {
                         "video_name": "શાળા તત્પરતા 1",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/b5TpqCAW55E"
+                        "video_link": "https://youtu.be/b5TpqCAW55E "
                       }
 
                     ],
@@ -160,7 +160,7 @@
                       {
                         "video_name": "શાળા તત્પરતા 2",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/kEbL8zEAthk"
+                        "video_link": " https://youtu.be/kEbL8zEAthk  "
                       }
 
                     ],
@@ -181,7 +181,7 @@
                       {
                         "video_name": "અજબ જેવી વાત છે",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/qnBJaVqPsPQ"
+                        "video_link": " https://youtu.be/qnBJaVqPsPQ "
                       }
                     ],
                     "material": [
@@ -200,7 +200,7 @@
                       {
                         "video_name": "આવ રે વરસાદ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/k2vKuzI5KKc"
+                        "video_link": " https://youtu.be/k2vKuzI5KKc "
                       }
                     ],
                     "material": [
@@ -219,12 +219,12 @@
                       {
                         "video_name": "અમે સૌ (part :1)",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/7oClVbke8eE"
+                        "video_link": " https://youtu.be/7oClVbke8eE "
                       },
                       {
                         "video_name": "અમે સૌ (part :2)",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/qXK3x0RPA1A"
+                        "video_link": " https://youtu.be/qXK3x0RPA1A "
                       }
                     ],
                     "material": [
@@ -243,7 +243,7 @@
                       {
                         "video_name": "મજા પડે, મજા પડે",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/4woIug4XfrM"
+                        "video_link": " https://youtu.be/4woIug4XfrM "
                       }
                     ],
                     "material": [
@@ -262,7 +262,7 @@
                       {
                         "video_name": "ચપટી વાગી",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/wC1P-HY8h8U "
+                        "video_link": " https://youtu.be/wC1P-HY8h8U  "
                       }
                     ],
                     "material": [
@@ -281,12 +281,12 @@
                       {
                         "video_name": "હું તો મોટો થઈશ (part :1)",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/DytjXWlGZmY"
+                        "video_link": " https://youtu.be/DytjXWlGZmY "
                       },
                       {
                         "video_name": "હું તો મોટો થઈશ (part :2)",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/iZEp-wj9CoU"
+                        "video_link": "https://youtu.be/iZEp-wj9CoU "
                       }
                     ],
                     "material": [
