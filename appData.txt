@@ -3531,15 +3531,15 @@
                     },
                      {
                       "material_name": "પાઠ :  4. મધ્યયુગીન સ્થાપત્યો, શહેરો, વેપારી અને કારીગરો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 7 s.s ch 4 સ્વ-અધ્યયનપોથી.pdf"
                     },
                      {
                       "material_name":"પાઠ :  5. આદિવાસી, વિચરતી જાતિ અને સ્થાનિક સમુદાય",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 7 s.s ch 5.pdf"
                     },
                     {
                       "material_name":"પાઠ :  6. ભક્તિયુગ : ધાર્મિક સમુદાયો અને વિચારકો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 7 s.s ch 6.pdf"
                     },
                     {
                       "material_name":"પાઠ :  7. પ્રાદેશિક સંસ્કૃતિનું ઘડતર",
@@ -3559,31 +3559,31 @@
                     },
                     {
                       "material_name":"પાઠ :  11. વાતાવરણની સજીવો પર અસરો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
                     },
                     {
                       "material_name":"પાઠ :  12. આપત્તિ અને વ્યવસ્થાપન",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 7 s.s ch 12 સ્વ અધ્યયન પોથી.pdf"
                     },
                     {
                       "material_name":"પાઠ :  13.સંસાધનોનું જતન અને સંરક્ષણ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 7 s.s. ch 13 સ્વ અધ્યયન પોથી.pdf"
                     },
                      {
                       "material_name": "પાઠ :  14. લોકશાહીમાં સમાનતા",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 7 s.s ch 14 સ્વ અધ્યયન પોથી.pdf"
                     },
                     {
                       "material_name": "પાઠ :  15. રાજ્ય સરકાર",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 7 s.s. ch 15 સ્વ અધ્યયન પોથી.pdf"
                     },
                     {
                       "material_name": "પાઠ :  16. જાતિગત ભિન્ન્તા",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 7 s.s. ch 16 સ્વ અધ્યયન પોથી.pdf"
                     },
                     {
                       "material_name": "પાઠ :  17. સંચાર માધ્યમ અને જાહેરાત",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 7 s.s. ch 17.pdf"
                     },
                     {
                       "material_name": "પાઠ :  18. બજાર",
