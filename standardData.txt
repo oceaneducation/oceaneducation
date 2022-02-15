@@ -3914,11 +3914,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "ટીક ટીક ટીક (પાર્ટ : 1)",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 MATHS CH4.pdf"
-                      },
-                      {
-                        "textbook_name": "ટીક ટીક ટીક (પાર્ટ : 2)",
+                        "textbook_name": "ટીક ટીક ટીક",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 MATHS CH4.pdf"
                       }
                     ]
@@ -3961,11 +3957,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "ભંગાર વેચનાર (પાર્ટ : 1)",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 MATHS CH6.pdf"
-                      },
-                      {
-                        "textbook_name": "ભંગાર વેચનાર (પાર્ટ : 2)",
+                        "textbook_name": "ભંગાર વેચનાર",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 MATHS CH6.pdf"
                       }
                     ]
@@ -3989,11 +3981,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "જગ અને મગ (પાર્ટ :1)",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 MATHS CH7.pdf"
-                      },
-                      {
-                        "textbook_name": "જગ અને મગ (પાર્ટ :2)",
+                        "textbook_name": "જગ અને મગ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 MATHS CH7.pdf"
                       }
                     ]
@@ -4017,11 +4005,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "ગાડું અને પૈડું (પાર્ટ :1)",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 MATHS CH8.pdf"
-                      },
-                      {
-                        "textbook_name": "ગાડું અને પૈડું (પાર્ટ :2)",
+                        "textbook_name": "ગાડું અને પૈડું",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 MATHS CH8.pdf"
                       }
                     ]
@@ -4045,11 +4029,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "અડધું અને પા  (પાર્ટ  :1)",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 MATHS CH9.pdf"
-                      },
-                      {
-                        "textbook_name": "અડધું અને પા  (પાર્ટ  :2)",
+                        "textbook_name": "અડધું અને પા",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 MATHS CH9.pdf"
                       }
                     ]
@@ -4076,14 +4056,18 @@
                   {
                     "month_name": "Ch - 11",
                     "videos": [
-
+ {
+                        "video_name": "ઘડિયા અને ભાવનગર ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                       {
-                        "textbook_name": " ઘડિયા અને ભાવનગર ",
+                        "textbook_name": "ઘડિયા અને ભાવનગર ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 MATHS CH11.pdf"
                       }
                     ]
@@ -4091,7 +4075,11 @@
                   {
                     "month_name": "Ch - 12",
                     "videos": [
-
+ {
+                        "video_name": "કેટલું ભારે ? કેટલું હલકું ?",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
                     ],
                     "material": [
 
@@ -4106,7 +4094,11 @@
                   {
                     "month_name": "Ch - 13",
                     "videos": [
-
+ {
+                        "video_name": "ખેતર અને તેની ફરતે વાડ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
                     ],
                     "material": [
 
@@ -4121,7 +4113,11 @@
                   {
                     "month_name": "Ch - 14",
                     "videos": [
-
+ {
+                        "video_name": "સ્માર્ટ ચાર્ટ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
                     ],
                     "material": [
 
