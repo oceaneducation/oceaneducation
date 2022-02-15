@@ -6909,7 +6909,7 @@
                     "textbook": [
                       {
                         "textbook_name": " मम अंगनी",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 SANSKRUT sem 1 CH -1.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 SANSKRUT sem 2 CH -1.pdf"
                       }
                     ]
                   },
@@ -6931,7 +6931,7 @@
                     "textbook": [
                       {
                         "textbook_name": "दक्षिणपादम",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 SANSKRUT sem 1 CH -2.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 SANSKRUT sem 2 CH -2.pdf"
                       }
                     ]
                   },
@@ -6953,7 +6953,7 @@
                     "textbook": [
                       {
                         "textbook_name": "करोमी",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 SANSKRUT sem 1 CH -3.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 SANSKRUT sem 2 CH -3.pdf"
                       }
                     ]
                   },
@@ -6975,7 +6975,7 @@
                     "textbook": [
                       {
                         "textbook_name": "प्रहेलिका",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 SANSKRUT sem 1 CH -4.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 SANSKRUT sem 2 CH -4.pdf"
                       }
                     ]
                   },
@@ -6997,7 +6997,7 @@
                     "textbook": [
                       {
                         "textbook_name": "पुनरावर्तनम्  1",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 SANSKRUT sem 1 CH -4.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
                     ]
                   },
@@ -7019,7 +7019,7 @@
                     "textbook": [
                       {
                         "textbook_name": "मम विध्यालय",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 SANSKRUT sem 1 CH -5.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 SANSKRUT sem 2 CH -5.pdf"
                       }
                     ]
                   },
@@ -7042,7 +7042,7 @@
                     "textbook": [
                       {
                         "textbook_name": "भवतु भारतम",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 SANSKRUT sem 1 CH -6.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 SANSKRUT sem 2 CH -6.pdf"
                       }
                     ]
                   },
@@ -7064,7 +7064,7 @@
                     "textbook": [
                       {
                         "textbook_name": "सुभाषितानी",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 SANSKRUT sem 1 CH -7.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 SANSKRUT sem 2 CH -7.pdf"
                       }
                     ]
                   },
@@ -7086,7 +7086,7 @@
                     "textbook": [
                       {
                         "textbook_name": "जन्मदिनोत्सव:",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 SANSKRUT sem 1 CH -8.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 SANSKRUT sem 2 CH -8.pdf"
                       }
                     ]
                   },
@@ -7108,7 +7108,7 @@
                     "textbook": [
                       {
                         "textbook_name": "सूक्तय:",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 SANSKRUT sem 1 CH -9.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 SANSKRUT sem 2 CH -9.pdf"
                       }
                     ]
                   },
