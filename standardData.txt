@@ -3442,7 +3442,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "રોજ નિશાળે જઈએ",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -3455,17 +3458,20 @@
                     "month_name": "Ch - 2",
                     "videos": [
                       {
-                        "video_name": "કાનથી કાની",
+                        "video_name": "કાનથી નાક",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/KGLWukmpEJ0"
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "કાનથી નાક",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "કાનથી કાની",
+                        "textbook_name": "કાનથી નાક",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 Environment CH2.pdf"
                       }
                     ]
@@ -3474,17 +3480,20 @@
                     "month_name": "Ch - 3",
                     "videos": [
                       {
-                        "video_name": "નંદુ સાથે એક દિવસી",
+                        "video_name": "નંદુ સાથે એક દિવસ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/sIspThgmoqg "
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "નંદુ સાથે એક દિવસ",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "નંદુ સાથે એક દિવસી",
+                        "textbook_name": "નંદુ સાથે એક દિવસ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 Environment CH3.pdf"
                       }
                     ]
@@ -3499,7 +3508,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "અમૃતાની વાર્તા",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -3512,17 +3524,20 @@
                     "month_name": "Ch - 5",
                     "videos": [
                       {
-                        "video_name": "અનીતા અને મધમાખીઓા",
+                        "video_name": "અનીતા અને મધમાખીઓ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/GYmHUz9Bi-g"
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "અનીતા અને મધમાખીઓ",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "અનીતા અને મધમાખીઓા",
+                        "textbook_name": "અનીતા અને મધમાખીઓ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 Environment CH5.pdf"
                       }
                     ]
@@ -3542,7 +3557,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "રિયાની મુસાફરી",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                        {
@@ -3566,7 +3584,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "રિયાની ટ્રેન મોડી પડી",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -3590,7 +3611,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "રિયા પહોચી મામાને ઘેર",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -3609,7 +3633,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "બદલાતા કૂટુંબો",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -3628,7 +3655,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "કબડ્ડી.....કબડ્ડી........",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -3652,7 +3682,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "વાડીમાં",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -3671,7 +3704,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "બદલાતો સમય",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -3690,7 +3726,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "નદીની સફર",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -3709,7 +3748,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "રાજુનું ખેતર",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -3728,7 +3770,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "બજારથી ઘર સુધી",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -3747,7 +3792,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "કામનો મહિનો",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -3766,7 +3814,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "તેજલ અમદાવાદમાં",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -3785,11 +3836,14 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "ગામ-ગામના પાણી",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "ગામ-ગામના પાણીા",
+                        "textbook_name": "ગામ-ગામના પાણી",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 Environment CH18.pdf"
                       }
                     ]
@@ -3804,7 +3858,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "સાથે જમીએ",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -3823,7 +3880,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "ખોરાક અને મજા",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -3842,7 +3902,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "જગત મારા ઘરમાં",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -3861,7 +3924,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "પટોળાં",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                        {
@@ -3880,7 +3946,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "દેશ-પરદેશ",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                        {
@@ -3899,7 +3968,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "મસાલેદાર કોયડા",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                        {
@@ -3918,7 +3990,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "મારો જિલ્લો",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -3943,7 +4018,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "नई राह",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -3962,7 +4040,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "बढ़ते कदम",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -3981,7 +4062,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "गिनती ( १ से २० )",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -4000,7 +4084,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "अपने बारेमे",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -4020,7 +4107,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "धम्मक धम्मक आता हाथी",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -4039,7 +4129,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "टपका का डर",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -4058,7 +4151,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "झुला",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -4077,7 +4173,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "चतुर चूहा",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -4096,7 +4195,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "पुनरावर्तन 1",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
 
@@ -4112,7 +4214,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "पुनरावर्तन 2",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
 
@@ -4139,11 +4244,14 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "get up dance",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 1",
+                        "textbook_name": "get up dance",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 English_Second Language CH1.pdf"
                       }
                     ]
@@ -4163,11 +4271,14 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "things around us", 
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                        {
-                        "textbook_name": "Ch - 2",
+                        "textbook_name": "things around us", 
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 English_Second Language CH2.pdf"
                       }
                     ]
@@ -4187,11 +4298,14 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "my family",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                        {
-                        "textbook_name": "Ch - 3",
+                        "textbook_name": "my family",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 English_Second Language CH3.pdf"
                       }
                     ]
@@ -4211,11 +4325,14 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "our helpers",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 4",
+                        "textbook_name": "our helpers",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 English_Second Language CH4.pdf"
                       }
                     ]
@@ -4235,11 +4352,14 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "here we are dancing",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                        {
-                        "textbook_name": "Ch - 5",
+                        "textbook_name": "here we are dancing",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 English_Second Language CH5.pdf"
                       }
                     ]
@@ -4259,11 +4379,14 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "kuku is calling",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                        {
-                        "textbook_name": "Ch - 6",
+                        "textbook_name": "kuku is calling",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 English_Second Language CH6.pdf"
                       }
                     ]
@@ -4284,7 +4407,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "ઈંટોની ઈમારત",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -4303,7 +4429,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "લાંબુ અને ટૂંકું",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -4322,7 +4451,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "ભોપાલનો પ્રવાસ",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -4346,7 +4478,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "ટીક ટીક ટીક",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -4365,7 +4500,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "દુનિયા જોવાનો રસ્તો",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -4389,7 +4527,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "ભંગાર વેચનાર",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -4413,7 +4554,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "જગ અને મગ",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -4437,7 +4581,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "ગાડું અને પૈડું",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -4461,7 +4608,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "અડધું અને પા",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -4480,7 +4630,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "પેટર્નની રમત",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -4499,7 +4652,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "ઘડિયા અને ભાવનગર ",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -4518,7 +4674,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "કેટલું ભારે ? કેટલું હલકું ?",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -4537,7 +4696,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "ખેતર અને તેની ફરતે વાડ",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -4556,7 +4718,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "સ્માર્ટ ચાર્ટ",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -4581,7 +4746,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "તમે શું ખાશો?",  
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -4600,7 +4768,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "ચાંદો પાણીમાં કોરોકટ્ટ!",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                      {
@@ -4619,7 +4790,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "ખારા દરિયામાં મારી હોડી",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                      {
@@ -4638,7 +4812,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "પાઠશાળામાં અમે પતરંગો",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                      {
@@ -4657,7 +4834,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "ખીણમાં તારા : સાપુતારા",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                      {
@@ -4676,7 +4856,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "તમનેય ચંદ્રક મળે", 
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
@@ -4695,7 +4878,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "આ પાઠનું નામ આવડે છે?",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                      {
@@ -4714,7 +4900,10 @@
                       }
                     ],
                     "material": [
-
+{
+                        "material_name": "ઘર ઘર કી કહાની",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
                     ],
                     "textbook": [
                       {
