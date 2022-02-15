@@ -4138,14 +4138,18 @@
                   {
                     "month_name": "Ch - 1",
                     "videos": [
-
+ {
+                        "video_name": "તમે શું ખાશો?",  
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 1",
+                        "textbook_name": "તમે શું ખાશો?",  
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 Patrango CH1.pdf"
                       }
                     ]
@@ -4153,14 +4157,18 @@
                   {
                     "month_name": "Ch - 2",
                     "videos": [
-
+ {
+                        "video_name": "ચાંદો પાણીમાં કોરોકટ્ટ!",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                      {
-                        "textbook_name": "Ch - 2",
+                        "textbook_name": "ચાંદો પાણીમાં કોરોકટ્ટ!",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 Patrango CH2.pdf"
                       }
                     ]
@@ -4168,14 +4176,18 @@
                   {
                     "month_name": "Ch - 3",
                     "videos": [
-
+ {
+                        "video_name": "ખારા દરિયામાં મારી હોડી",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                      {
-                        "textbook_name": "Ch - 3",
+                        "textbook_name": "ખારા દરિયામાં મારી હોડી",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 Patrango CH3.pdf"
                       }
                     ]
@@ -4183,14 +4195,18 @@
                   {
                     "month_name": "Ch - 4",
                     "videos": [
-
+ {
+                        "video_name": "પાઠશાળામાં અમે પતરંગો", 
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                      {
-                        "textbook_name": "Ch - 5",
+                        "textbook_name": "પાઠશાળામાં અમે પતરંગો", 
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 Patrango CH5.pdf"
                       }
                     ]
@@ -4198,14 +4214,18 @@
                   {
                     "month_name": "Ch - 5",
                     "videos": [
-
+ {
+                        "video_name": "ખીણમાં તારા : સાપુતારા", 
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                      {
-                        "textbook_name": "Ch - 5",
+                        "textbook_name": "ખીણમાં તારા : સાપુતારા", 
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 Patrango CH5.pdf"
                       }
                     ]
@@ -4213,14 +4233,18 @@
                   {
                     "month_name": "Ch - 6",
                     "videos": [
-
+ {
+                        "video_name": "તમનેય ચંદ્રક મળે", 
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 6",
+                        "textbook_name": "તમનેય ચંદ્રક મળે", 
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 Patrango CH6.pdf"
                       }
                     ]
@@ -4228,14 +4252,18 @@
                   {
                     "month_name": "Ch - 7",
                     "videos": [
-
+ {
+                        "video_name": "આ પાઠનું નામ આવડે છે?",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                      {
-                        "textbook_name": "Ch - 7",
+                        "textbook_name": "આ પાઠનું નામ આવડે છે?",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 Patrango CH7.pdf"
                       }
                     ]
@@ -4243,14 +4271,18 @@
                   {
                     "month_name": "Ch - 8",
                     "videos": [
-
+ {
+                        "video_name": "ઘર ઘર કી કહાની",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 8",
+                        "textbook_name": "ઘર ઘર કી કહાની",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-4 Patrango CH8.pdf"
                       }
                     ]
@@ -4330,11 +4362,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "સ્વાદથી પાચન સુધી ( part 1)",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-5 Environment CH3.pdf"
-                      },
-                      {
-                        "textbook_name": "સ્વાદથી પાચન સુધી ( part 2)",
+                        "textbook_name": "સ્વાદથી પાચન સુધી",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-5 Environment CH3.pdf"
                       }
                     ]
@@ -4377,11 +4405,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "બીજ, બીજ, બીજ ( part 1 )",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-5 Environment CH5.pdf"
-                      },
-                      {
-                        "textbook_name": "બીજ, બીજ, બીજ ( part 2 )",
+                        "textbook_name": "બીજ, બીજ, બીજ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-5 Environment CH5.pdf"
                       }
                     ]
@@ -4424,11 +4448,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "પાણી સાથેના પ્રયોગો ( પાર્ટ 1 )",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-5 Environment CH7.pdf"
-                      },
-                      {
-                        "textbook_name": "પાણી સાથેના પ્રયોગો ( પાર્ટ 2 )",
+                        "textbook_name": "પાણી સાથેના પ્રયોગો",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-5 Environment CH7.pdf"
                       }
                     ]
@@ -4458,7 +4478,7 @@
                       {
                         "video_name": "ચઢીએ ઊંચા ચઢાણ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": " https://youtu.be/aoszdyb0JRQ"
+                        "video_link": "https://youtu.be/0af6-Jxk6yM"
                       }
                     ],
                     "material": [
@@ -4490,11 +4510,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "દીવાલોની કહાની ( પાર્ટ 1 )",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-5 Environment CH10.pdf"
-                      },
-                      {
-                        "textbook_name": "દીવાલોની કહાની ( પાર્ટ 2 )",
+                        "textbook_name": "દીવાલોની કહાની",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-5 Environment CH10.pdf"
                       }
                     ]
@@ -4518,11 +4534,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "સુનિતા અવકાશમાં (part 1)",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-5 Environment CH11.pdf"
-                      },
-                      {
-                        "textbook_name": "સુનિતા અવકાશમાં (part 2)",
+                        "textbook_name": "સુનિતા અવકાશમાં",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-5 Environment CH11.pdf"
                       }
                     ]
@@ -4546,11 +4558,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "જો આ ખૂટી જાય તો ? ( પાર્ટ 1 )",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-5 Environment CH12.pdf"
-                      },
-                      {
-                        "textbook_name": "જો આ ખૂટી જાય તો ? ( પાર્ટ 2 )",
+                        "textbook_name": "જો આ ખૂટી જાય તો ?",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-5 Environment CH12.pdf"
                       }
                     ]
@@ -4574,11 +4582,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "પહાડી રહેઠાણ ( પાર્ટ 1 )",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-5 Environment CH13.pdf"
-                      },
-                      {
-                        "textbook_name": "પહાડી રહેઠાણ ( પાર્ટ 2 )",
+                        "textbook_name": "પહાડી રહેઠાણ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-5 Environment CH13.pdf"
                       }
                     ]
@@ -4587,7 +4591,7 @@
                     "month_name": "Ch - 14",
                     "videos": [
                       {
-                        "video_name": "જ્યારે ધરતી ધ્રુજી ઉઠી ( પાર્ટ 1 )",
+                        "video_name": "જ્યારે ધરતી ધ્રુજી ઉઠી",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/e90V8hWPXCk"
                       }
@@ -4597,7 +4601,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "જ્યારે ધરતી ધ્રુજી ઉઠી ( પાર્ટ 1 )",
+                        "textbook_name": "જ્યારે ધરતી ધ્રુજી ઉઠી",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-5 Environment CH14.pdf"
                       }
                     ]
@@ -4621,11 +4625,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "ઠંડુ કે ગરમ ( પાર્ટ 1 )",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-5 Environment CH15.pdf"
-                      },
-                      {
-                        "textbook_name": "ઠંડુ કે ગરમ ( પાર્ટ 2 )",
+                        "textbook_name": "ઠંડુ કે ગરમ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-5 Environment CH15.pdf"
                       }
                     ]
@@ -4633,18 +4633,18 @@
                   {
                     "month_name": "Ch - 16",
                     "videos": [
-                      
+                      {
+                        "video_name": " સ્વચ્છતા આપણું કામ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/WSzUaetIXIg"
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                       {
-                        "textbook_name": " સ્વચ્છતા આપણું ઘર ( પાર્ટ 1)",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-5 Environment CH16.pdf"
-                      },
-                      {
-                        "textbook_name": " સ્વચ્છતા આપણું ઘર ( પાર્ટ 2)",
+                        "textbook_name": " સ્વચ્છતા આપણું કામ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-5 Environment CH16.pdf"
                       }
                     ]
@@ -4652,18 +4652,19 @@
                   {
                     "month_name": "Ch - 17",
                     "videos": [
-                     
+                     {
+                        "video_name": "દીવાલ ઓળંગી લીધી",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/TlA3nZcWP-I"
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
+                     
                       {
-                        "textbook_name": "દીવાલ ઓળંગી લીધી ( પાર્ટ 1 )",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-5 Environment CH17.pdf"
-                      },
-                      {
-                        "textbook_name": "દીવાલ ઓળંગી લીધી ( પાર્ટ 2 )",
+                        "textbook_name": "દીવાલ ઓળંગી લીધી",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-5 Environment CH17.pdf"
                       }
                     ]
@@ -4671,18 +4672,18 @@
                   {
                     "month_name": "Ch - 18",
                     "videos": [
-                     
+                     {
+                        "video_name": "હવે અમે ક્યાં જઈએ?",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/cPcmLwNSB44"
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "હવે અમે ક્યાં જઈએ? ( પાર્ટ 1)",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-5 Environment CH18.pdf"
-                      },
-                      {
-                        "textbook_name": "હવે અમે ક્યાં જઈએ? ( પાર્ટ 2)",
+                        "textbook_name": "હવે અમે ક્યાં જઈએ?",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-5 Environment CH18.pdf"
                       }
                     ]
@@ -4690,18 +4691,18 @@
                   {
                     "month_name": "Ch - 19",
                     "videos": [
-                     
+                     {
+                        "video_name": "બીજ કહે છે ખેડૂતની વાર્તા",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/KiaSzYxGTW8"
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "બીજ કહે છે ખેડૂતની વાર્તા  ( પાર્ટ 1 )",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-5 Environment CH19.pdf"
-                      },
-                      {
-                        "textbook_name": "બીજ કહે છે ખેડૂતની વાર્તા  ( પાર્ટ 2 )",
+                        "textbook_name": "બીજ કહે છે ખેડૂતની વાર્તા",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-5 Environment CH19.pdf"
                       }
                     ]
@@ -4709,18 +4710,18 @@
                   {
                     "month_name": "Ch - 20",
                     "videos": [
-                      
+                      {
+                        "video_name": "જંગલો કોના ?",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/uAfJp4E8iZg"
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "જંગલો કોના ? ( part 1 )",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-5 Environment CH20.pdf"
-                      },
-                      {
-                        "textbook_name": "જંગલો કોના ? ( part 2 )",
+                        "textbook_name": "જંગલો કોના ?",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-5 Environment CH20.pdf"
                       }
                     ]
@@ -4728,18 +4729,18 @@
                   {
                     "month_name": "Ch - 21",
                     "videos": [
-                      
+                      {
+                        "video_name": "જેવા પિતા તેવી દીકરી",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/EtJx5PRuUi0"
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "જેવા પિતા તેવી દીકરી ( પાર્ટ 1 )",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-5 Environment CH21.pdf"
-                      },
-                      {
-                        "textbook_name": "જેવા પિતા તેવી દીકરી ( પાર્ટ 2 )",
+                        "textbook_name": "જેવા પિતા તેવી દીકરી",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-5 Environment CH21.pdf"
                       }
                     ]
@@ -4747,18 +4748,18 @@
                   {
                     "month_name": "Ch - 22",
                     "videos": [
-                      
+                      {
+                        "video_name": "ફરી ઉપડ્યા",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/OUEuxCiFfu8"
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "ફરી ઉપડ્યા ( પાર્ટ 1 )",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-5 Environment CH22.pdf"
-                      },
-                      {
-                        "textbook_name": "ફરી ઉપડ્યા ( પાર્ટ 2 )",
+                        "textbook_name": "ફરી ઉપડ્યા",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-5 Environment CH22.pdf"
                       }
                     ]
@@ -4766,18 +4767,18 @@
                   {
                     "month_name": "Ch - 23",
                     "videos": [
-                      
+                      {
+                        "video_name": "અમે ગુજરાતી...",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/SgYblJLw3H4"
+                      }
                     ],
                     "material": [
 
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "અમે ગુજરાતી... ( પાર્ટ 1 )",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-5 Environment CH23.pdf"
-                      },
-                      {
-                        "textbook_name": "અમે ગુજરાતી... ( પાર્ટ 2 )",
+                        "textbook_name": "અમે ગુજરાતી...",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-5 Environment CH23.pdf"
                       }
                     ]
