@@ -10046,7 +10046,7 @@
                  ]
                },
                {
-                "standard_name": "સંસ્કૃત સેમેસ્ટર :- 1",
+                "standard_name": "સંસ્કૃત સેમેસ્ટર :- 1 ",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -10071,7 +10071,7 @@
                       {
                         "video_name": "चित्र पदानी 1 तः 3",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": " https://youtu.be/OV6oLIZKQLs"
+                        "video_link": "https://youtu.be/OV6oLIZKQLs"
                       }
                     ],
                     "material": [
@@ -10090,7 +10090,7 @@
                       {
                         "video_name": "मेघो वर्षती",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": " https://youtu.be/4eeMvd97bZQ"
+                        "video_link": "https://youtu.be/4eeMvd97bZQ"
                       }
                     ],
                     "material": [
@@ -10271,7 +10271,7 @@
                 ]
               },
               {
-                "standard_name": "સંસ્કૃત સેમેસ્ટર :- 2",
+                "standard_name": "સંસ્કૃત સેમેસ્ટર :- 2 ",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -10280,7 +10280,7 @@
                       {
                         "video_name": "प्रहेलिका",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": " https://youtu.be/Adw8Eq8p0qE"
+                        "video_link": "https://youtu.be/Adw8Eq8p0qE"
                       }
                     ],
                     "material": [
@@ -10289,7 +10289,7 @@
                     "textbook": [
                       {
                         "textbook_name": "प्रहेलिका",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SANSKRIT sem 2 CH - 1.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SANSKRIT sem 2 CH -1.pdf"
                       }
                     ]
                   },
@@ -10299,7 +10299,7 @@
                       {
                         "video_name": "वार्तालाप",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": " https://youtu.be/o4Pe9yJMZfA"
+                        "video_link": "https://youtu.be/o4Pe9yJMZfA"
                       }
                     ],
                     "material": [
@@ -10308,7 +10308,7 @@
                     "textbook": [
                       {
                         "textbook_name": "वार्तालाप",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SANSKRIT sem 2 CH - 1.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SANSKRIT sem 2 CH - 2.pdf"
                       }
                     ]
                   },
