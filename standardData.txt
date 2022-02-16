@@ -7527,8 +7527,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "રેલ્વેસ્ટેશન અભ્યાસ સ્વાધ્યાય",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ..sem 1 CH -1.pdf"
+                        "textbook_name": "રેલ્વેસ્ટેશન",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ.sem 1 CH -1.pdf"
                       }
                     ]
                   },
@@ -7536,7 +7536,7 @@
                     "month_name": "Ch - 2",
                     "videos": [
                       {
-                        "video_name": "હિન્દ માતાને સંબોધન અભ્યાસ સ્વાધ્યાય",
+                        "video_name": "હિન્દ માતાને સંબોધન",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/4fp9OAg3UEQ"
                       }
@@ -7546,8 +7546,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "હિન્દ માતાને સંબોધન અભ્યાસ સ્વાધ્યાય",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ..sem 1 CH -2.pdf"
+                        "textbook_name": "હિન્દ માતાને સંબોધન",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ. .sem 1 CH -2.pdf"
                       }
                     ]
                   },
@@ -7555,7 +7555,7 @@
                         "month_name": "Ch - 3",
                         "videos": [
                           {
-                            "video_name": "દ્રીદલ અભ્યાસ સ્વાધ્યાય",
+                            "video_name": "દ્રીદલ",
                             "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                             "video_link": "https://youtu.be/RbCJzq-SZUU"
                           }
@@ -7565,7 +7565,7 @@
                         ],
                         "textbook": [
                           {
-                            "textbook_name": "દ્રીદલ અભ્યાસ સ્વાધ્યાય",
+                            "textbook_name": "દ્રીદલ",
                             "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ..sem 1 CH -3.pdf"
                           }
                         ]
@@ -7574,7 +7574,7 @@
                     "month_name": "Ch - 4",
                     "videos": [
                       {
-                        "video_name": "રવિશંકર મહારાજ અભ્યાસ સ્વાધ્યાય",
+                        "video_name": "રવિશંકર મહારાજ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/fP9T-Yqw778"
                       }
@@ -7584,7 +7584,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "રવિશંકર મહારાજ અભ્યાસ સ્વાધ્યાય",
+                        "textbook_name": "રવિશંકર મહારાજ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ..sem 1 CH -4.pdf"
                       }
                     ]
@@ -7612,7 +7612,7 @@
                     "month_name": "Ch - 5",
                     "videos": [
                       {
-                        "video_name": "મહેનતની મોસમ અભ્યાસ સ્વાધ્યાય",
+                        "video_name": "મહેનતની મોસમ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/HycRK2KRWMo"
                       }
@@ -7622,7 +7622,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "મહેનતની મોસમ અભ્યાસ સ્વાધ્યાય",
+                        "textbook_name": "મહેનતની મોસમ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ..sem 1 CH -5.pdf"
                       }
                     ]
@@ -7631,7 +7631,7 @@
                     "month_name": "Ch - 6",
                     "videos": [
                       {
-                        "video_name": "લેખણ ઝાલી નો રહી અભ્યાસ સ્વાધ્યાય",
+                        "video_name": "લેખણ ઝાલી નો રહી",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/5oYh_cSfV2w"
                       }
@@ -7641,7 +7641,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "લેખણ ઝાલી નો રહી અભ્યાસ સ્વાધ્યાય",
+                        "textbook_name": "લેખણ ઝાલી નો રહી",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ..sem 1 CH -6.pdf"
                       }
                     ]
@@ -7650,7 +7650,7 @@
                     "month_name": "Ch - 7",
                     "videos": [
                       {
-                        "video_name": "પગલે-પગલે અભ્યાસ સ્વાધ્યાય",
+                        "video_name": "પગલે-પગલે",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/SWKMuAyXStc"
                       }
@@ -7660,7 +7660,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "પગલે-પગલે અભ્યાસ સ્વાધ્યાય",
+                        "textbook_name": "પગલે-પગલે",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ..sem 1 CH -7.pdf"
                       }
                     ]
@@ -7669,7 +7669,7 @@
                     "month_name": "Ch - 8",
                     "videos": [
                       {
-                        "video_name": "બિરબલની યુકતી અભ્યાસ સ્વાધ્યાય",
+                        "video_name": "બિરબલની યુક્તિ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/eO5R53p2NH0"
                       }
@@ -7679,7 +7679,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "બિરબલની યુકતી અભ્યાસ સ્વાધ્યાય",
+                        "textbook_name": "બિરબલની યુક્તિ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ..sem 1 CH -8.pdf"
                       }
                     ]
@@ -7688,7 +7688,7 @@
                     "month_name": "Ch - 9",
                     "videos": [
                       {
-                        "video_name": "પાદર અભ્યાસ સ્વાધ્યાય",
+                        "video_name": "પાદર",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/o4VwRhS2H38"
                       }
@@ -7698,7 +7698,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "પાદર અભ્યાસ સ્વાધ્યાય",
+                        "textbook_name": "પાદર",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ..sem 1 CH -9.pdf"
                       }
                     ]
