@@ -6973,8 +6973,388 @@
                   }
                 ]
               },
+               {
+                "standard_name": "સમાજ",
+                "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                "month_cat": [
+                  {
+                    "month_name": "Ch - 1",
+                    "videos": [
+                      {
+                        "video_name": "ચાલો, ઇતિહાસ જાણીએ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                     {
+                        "material_name": "ચાલો, ઇતિહાસ જાણીએ",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "ચાલો, ઇતિહાસ જાણીએ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 samaj CH -1.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 2",
+                    "videos": [
+                      {
+                        "video_name": "આદિમાનવથી સ્થાયી જીવનની સફર",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                     {
+                        "material_name": "આદિમાનવથી સ્થાયી જીવનની સફર",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name":"આદિમાનવથી સ્થાયી જીવનની સફર",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 samaj CH -2.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 3",
+                    "videos": [
+                      {
+                        "video_name": "પ્રાચીન નગરો અને ગ્રંથો",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                     {
+                        "material_name": "પ્રાચીન નગરો અને ગ્રંથો",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "પ્રાચીન નગરો અને ગ્રંથો",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 samaj CH -3.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 4",
+                    "videos": [
+                      {
+                        "video_name": "ભારતની પ્રારંભિક રાજ્યવ્યવસ્થા",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                     {
+                        "material_name": "ભારતની પ્રારંભિક રાજ્યવ્યવસ્થા",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "ભારતની પ્રારંભિક રાજ્યવ્યવસ્થા",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 samaj CH -4.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 5",
+                    "videos": [
+                      {
+                        "video_name": "શાંતિની શોધમાં : બુદ્ધ અને મહાવીર",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                     {
+                        "material_name": "શાંતિની શોધમાં : બુદ્ધ અને મહાવીર",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "શાંતિની શોધમાં : બુદ્ધ અને મહાવીર",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 samaj CH -5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 6",
+                    "videos": [
+                      {
+                        "video_name": "મૌર્યયુગ : ચંદ્રગુપ્ત અને સમ્રાટ અશોક",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                     {
+                        "material_name": "મૌર્યયુગ : ચંદ્રગુપ્ત અને સમ્રાટ અશોક",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ],
+                    "textbook": [
+                       {
+                        "textbook_name": "મૌર્યયુગ : ચંદ્રગુપ્ત અને સમ્રાટ અશોક",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 samaj CH -6.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 7",
+                    "videos": [
+                      {
+                        "video_name": "ગુપ્તયુગ અને અન્ય શાસકો",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                     {
+                        "material_name": "ગુપ્તયુગ અને અન્ય શાસકો",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "ગુપ્તયુગ અને અન્ય શાસકો",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 samaj CH -7.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 8",
+                    "videos": [
+                      {
+                        "video_name": "ભારતવર્ષની ભવ્યતા",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                     {
+                        "material_name": "ભારતવર્ષની ભવ્યતા",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "ભારતવર્ષની ભવ્યતા",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 samaj CH -8.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 9",
+                    "videos": [
+                      {
+                        "video_name": "આપણું ઘર : પૃથ્વી",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                     {
+                        "material_name": "આપણું ઘર : પૃથ્વી",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "આપણું ઘર : પૃથ્વી",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 samaj CH -9.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 10",
+                    "videos": [
+                      {
+                        "video_name": "પૃથ્વીનાં આવરણો",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                     {
+                        "material_name": "પૃથ્વીનાં આવરણો",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "પૃથ્વીનાં આવરણો",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 samaj CH -10.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 11",
+                    "videos": [
+                      {
+                        "video_name": "ભૂમિસ્વરૂપો",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                     {
+                        "material_name": "ભૂમિસ્વરૂપો",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "ભૂમિસ્વરૂપો",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 samaj CH -11.pdf"
+                      }
+                    ]
+                  },
+                   {
+                    "month_name": "Ch - 12",
+                    "videos": [
+                      {
+                        "video_name": "નકશો સમજીએ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                     {
+                        "material_name": "નકશો સમજીએ",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "નકશો સમજીએ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 samaj CH -12.pdf"
+                      }
+                    ]
+                  },
+                   {
+                    "month_name": "Ch - 13",
+                    "videos": [
+                      {
+                        "video_name": "ભારત : ભૂપૃષ્ઠ, આબોહવાવનસ્પતિ અને વન્યજીવન",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                     {
+                        "material_name": "ભારત : ભૂપૃષ્ઠ, આબોહવાવનસ્પતિ અને વન્યજીવન",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "ભારત : ભૂપૃષ્ઠ, આબોહવાવનસ્પતિ અને વન્યજીવન",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 samaj CH -13.pdf"
+                      }
+                    ]
+                  },
+                   {
+                    "month_name": "Ch - 14",
+                    "videos": [
+                      {
+                        "video_name": "વિવિધતામાં એકતા",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                     {
+                        "material_name": "વિવિધતામાં એકતા",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "વિવિધતામાં એકતા",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 samaj CH -14.pdf"
+                      }
+                    ]
+                  },
+                   {
+                    "month_name": "Ch - 15",
+                    "videos": [
+                      {
+                        "video_name": "સરકાર",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                     {
+                        "material_name": "સરકાર",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "સરકાર",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6samaj CH -15.pdf"
+                      }
+                    ]
+                  },
+                   {
+                    "month_name": "Ch - 16",
+                    "videos": [
+                      {
+                        "video_name": "સ્થાનિક સરકાર",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                     {
+                        "material_name": "સ્થાનિક સરકાર",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "સ્થાનિક સરકાર",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 samaj CH -16.pdf"
+                      }
+                    ]
+                  },
+                   {
+                    "month_name": "Ch - 17",
+                    "videos": [
+                      {
+                        "video_name": "જીવનનિર્વાહ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                     {
+                        "material_name": "જીવનનિર્વાહ", 
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "જીવનનિર્વાહ", 
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 samaj CH -17.pdf"
+                      }
+                    ]
+                  }
+                ]
+              },
               {
-                "standard_name": "સંસ્કૃત સેમેસ્ટર :- 1 ",
+                "standard_name": "સંસ્કૃત સેમેસ્ટર :- 1",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -7216,7 +7596,7 @@
                 ]
               },
               {
-                "standard_name": "સંસ્કૃત સેમેસ્ટર :- 2 ",
+                "standard_name": "સંસ્કૃત સેમેસ્ટર :- 2",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                  
@@ -7463,7 +7843,7 @@
                 ]
               },
               {
-                "standard_name": "હિન્દી સેમેસ્ટર - 1 ",
+                "standard_name": "હિન્દી સેમેસ્ટર - 1",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -7683,7 +8063,7 @@
                 ]
               },
               {
-                "standard_name": "હિન્દી સેમેસ્ટર - 2 ",
+                "standard_name": "હિન્દી સેમેસ્ટર - 2",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -7839,7 +8219,7 @@
                 ]
               },
               {
-                "standard_name": "ગુજરાતી સેમેસ્ટર - 1 ",
+                "standard_name": "ગુજરાતી સેમેસ્ટર - 1",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -8054,7 +8434,7 @@
                 ]
               },
               {
-                "standard_name": "ગુજરાતી સેમેસ્ટર - 2 ",
+                "standard_name": "ગુજરાતી સેમેસ્ટર - 2",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -8263,7 +8643,7 @@
                 ]
               },
               {
-                "standard_name": "અંગ્રેજી Sem - 1 ",
+                "standard_name": "અંગ્રેજી Sem - 1",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -8345,7 +8725,7 @@
                 ]
               },
               {
-                "standard_name": "અંગ્રેજી Sem - 2 ",
+                "standard_name": "અંગ્રેજી Sem - 2",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
