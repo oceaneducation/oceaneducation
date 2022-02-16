@@ -5869,27 +5869,27 @@
                     },
                      {
                       "material_name": "ગણિત પ્રશ્નપત્ર-૧ વિભાગ-B",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/ગણિત-બેઝિક પેપર-1 વિભાગ B.pdf"
                     },
                      {
                       "material_name": "ગણિત પ્રશ્નપત્ર-૧ વિભાગ-C",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/ગણિત-બેઝિક પેપર-1 વિભાગ C.pdf"
                     },
                      {
                       "material_name": "ગણિત પ્રશ્નપત્ર-૧ વિભાગ-D",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/ગણિત-બેઝિક પેપર-1 વિભાગ D.pdf"
                     },
                      {
                       "material_name": "ગણિત પ્રશ્નપત્ર-૨ વિભાગ-A",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/ગણિત-બેઝિક પેપર-2 વિભાગ A.pdf"
                     },
                      {
                       "material_name": "ગણિત પ્રશ્નપત્ર-૨ વિભાગ-B",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/ગણિત-બેઝિક પેપર-2 વિભાગ B.pdf"
                     },
                      {
                       "material_name": "ગણિત પ્રશ્નપત્ર-૨ વિભાગ-C",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/ગણિત-બેઝિક પેપર-2 વિભાગ C.pdf"
                     },
                      {
                       "material_name": "ગણિત પ્રશ્નપત્ર-૨ વિભાગ-D",
@@ -6078,15 +6078,15 @@
                     },
                      {
                       "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૨ વિભાગ-A",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 sci papper 2 section A.pdf"
                     },
                      {
                       "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૨ વિભાગ-B",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
                     },
                      {
                       "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૨ વિભાગ-C",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 science paper 2 sec C.pdf"
                     },
                      {
                       "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૨ વિભાગ-D",
@@ -6098,7 +6098,7 @@
                     },
                      {
                       "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૩ વિભાગ-B",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 sci papper 3 section B.pdf"
                     },
                      {
                       "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૩ વિભાગ-C",
@@ -6501,7 +6501,7 @@
                     },
                      {
                       "material_name":  "સંસ્કૃત પ્રશ્નપત્ર-૨ વિભાગ-A",
-                      "material_link":  "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link":  "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.k paper 2 sec A.pdf"
                     },
                      {
                       "material_name":  "સંસ્કૃત પ્રશ્નપત્ર-૨ વિભાગ-B",
