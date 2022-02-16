@@ -6654,7 +6654,7 @@
                       {
                         "video_name": "સંખ્યા પરિચય",  
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/j-2Lt-n5nRE"
+                        "video_link": ""
                       }
                     ],
                     "material": [
@@ -6666,7 +6666,7 @@
                     "textbook": [
                       {
                         "textbook_name": "સંખ્યા પરિચય",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 MATHS CH -1.pdf"
                       }
                     ]
                   },
@@ -6735,7 +6735,7 @@
                       {
                         "video_name": "ભૂમિતિના પાયાના ખ્યાલો", 
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/UoPxr2HaLM0"
+                        "video_link": ""
                       }
                     ],
                     "material": [
@@ -6757,7 +6757,7 @@
                       {
                         "video_name": "પાયાના આકારોની સમજૂતી", 
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/uayEwAY5COo"
+                        "video_link": ""
                       }
                     ],
                     "material": [
@@ -6779,7 +6779,7 @@
                       {
                         "video_name": "પૂર્ણાંક સંખ્યાઓ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/GZk5Luhcres"
+                        "video_link": ""
                       }
                     ],
                     "material": [
@@ -6801,7 +6801,7 @@
                       {
                         "video_name": "અપૂર્ણાંક સંખ્યાઓ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/AAoA94LF5nA"
+                        "video_link": ""
                       }
                     ],
                     "material": [
@@ -6823,7 +6823,7 @@
                       {
                         "video_name": "દશાંશ સંખ્યાઓ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/6GzGkg6QZnU"
+                        "video_link": ""
                       }
                     ],
                     "material": [
@@ -6845,7 +6845,7 @@
                       {
                         "video_name": "માહિતીનું નિયમન", 
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/X56c9sq9gEs"
+                        "video_link": ""
                       }
                     ],
                     "material": [
@@ -6867,7 +6867,7 @@
                       {
                         "video_name": "માપન",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/PV2Y4lis5zA"
+                        "video_link": ""
                       }
                     ],
                     "material": [
@@ -6889,7 +6889,7 @@
                       {
                         "video_name": "બીજગણિત",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/bKkUigbbCoY"
+                        "video_link": ""
                       }
                     ],
                     "material": [
@@ -6911,7 +6911,7 @@
                       {
                         "video_name": "ગુણોતર અને પ્રમાણ", 
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/bKkUigbbCoY"
+                        "video_link": ""
                       }
                     ],
                     "material": [
@@ -6933,7 +6933,7 @@
                       {
                         "video_name": "સંમિતિ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/bKkUigbbCoY"
+                        "video_link": ""
                       }
                     ],
                     "material": [
@@ -6955,7 +6955,7 @@
                       {
                         "video_name": "પ્રાયોગિક ભૂમિતિ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/bKkUigbbCoY"
+                        "video_link": ""
                       }
                     ],
                     "material": [
