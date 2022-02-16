@@ -9273,7 +9273,7 @@
                       {
                         "video_name": "મધ્યયુગીન સ્થાપત્યો, શહેરો, વેપારી અને કારીગરો",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": " https://youtu.be/3z6eXIO8DcA"
+                        "video_link": "https://youtu.be/3z6eXIO8DcA"
                       }
                     ],
                     "material": [
@@ -9292,7 +9292,7 @@
                       {
                         "video_name": "આદિવાસી ( અનુસૂચિત જનજાતિઓ )",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": " https://youtu.be/_hXw_Aot4UM"
+                        "video_link": "https://youtu.be/_hXw_Aot4UM"
                       }
                     ],
                     "material": [
@@ -9558,7 +9558,7 @@
                       {
                         "video_name": "બજાર",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": " https://youtu.be/la4n9oyCyIg"
+                        "video_link": "https://youtu.be/la4n9oyCyIg"
                       }
                     ],
                     "material": [
