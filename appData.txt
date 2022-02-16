@@ -2684,7 +2684,7 @@
                     {
                       "video_name":"પાઠ : 8 : રાશિઓની તુલના      ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/OZzO83wRay8"
                     },
                     {
                       "video_name": "પાઠ : 9 : સંમેય સંખ્યાઓ    ",
@@ -2704,7 +2704,7 @@
                     {
                       "video_name": "પાઠ : 12 : બીજગણિતીય પદાવલિ ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/-ta_5gaeEVU"
                     },
                     {
                       "video_name": "પાઠ : 13 : ઘાત અને ઘાતાંક",
@@ -2714,12 +2714,12 @@
                     {
                       "video_name": "પાઠ : 14 : સંમિતિ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/FZAHvn2NrK8"
                     },
                      {
                       "video_name": "પાઠ : 15 : ઘન આકારોની પ્રત્યક્ષીકરણ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/wBdoZvWArio"
                     }
                   ],
                   "material": [
