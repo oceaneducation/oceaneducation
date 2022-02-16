@@ -6698,7 +6698,7 @@
                     "textbook": [
                       {
                         "textbook_name": "પૂર્ણ સંખ્યાઓ",   
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 MATHS CH -2.pdf"
                       }
                     ]
                   },
@@ -6725,7 +6725,7 @@
                     "textbook": [
                       {
                         "textbook_name": "સંખ્યા અને રમત",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 MATHS CH -3.pdf"
                       }
                     ]
                   },
@@ -6747,7 +6747,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ભૂમિતિના પાયાના ખ્યાલો", 
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 MATHS CH -4.pdf"
                       }
                     ]
                   },
@@ -6769,7 +6769,7 @@
                     "textbook": [
                       {
                         "textbook_name": "પાયાના આકારોની સમજૂતી", 
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 MATHS CH -5.pdf"
                       }
                     ]
                   },
@@ -6791,7 +6791,7 @@
                     "textbook": [
                        {
                         "textbook_name": "પૂર્ણાંક સંખ્યાઓ", 
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 MATHS CH -6.pdf"
                       }
                     ]
                   },
@@ -6813,7 +6813,7 @@
                     "textbook": [
                       {
                         "textbook_name": "અપૂર્ણાંક સંખ્યાઓ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 MATHS CH -7.pdf"
                       }
                     ]
                   },
@@ -6835,7 +6835,7 @@
                     "textbook": [
                       {
                         "textbook_name": "દશાંશ સંખ્યાઓ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 MATHS CH -8.pdf"
                       }
                     ]
                   },
@@ -6857,7 +6857,7 @@
                     "textbook": [
                       {
                         "textbook_name": "માહિતીનું નિયમન",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 MATHS CH -9.pdf"
                       }
                     ]
                   },
@@ -6879,7 +6879,7 @@
                     "textbook": [
                       {
                         "textbook_name": "માપન",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 MATHS CH -10.pdf"
                       }
                     ]
                   },
@@ -6901,7 +6901,7 @@
                     "textbook": [
                       {
                         "textbook_name": "બીજગણિત",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 MATHS CH -11.pdf"
                       }
                     ]
                   },
@@ -6923,7 +6923,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ગુણોતર અને પ્રમાણ", 
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 MATHS CH -12.pdf"
                       }
                     ]
                   },
@@ -6945,7 +6945,7 @@
                     "textbook": [
                       {
                         "textbook_name": "સંમિતિ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 MATHS CH -13.pdf"
                       }
                     ]
                   },
@@ -6967,7 +6967,7 @@
                     "textbook": [
                       {
                         "textbook_name": "પ્રાયોગિક ભૂમિતિ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 MATHS CH 14.pdf"
                       }
                     ]
                   }
