@@ -6995,7 +6995,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ચાલો, ઇતિહાસ જાણીએ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 samaj CH -1.pdf"
+                        "textbook_link":  "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 samaj CH -1.pdf"
                       }
                     ]
                   },
