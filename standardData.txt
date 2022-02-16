@@ -9263,7 +9263,7 @@
                     "textbook": [
                       {
                         "textbook_name": "મુઘલ સામ્રાજ્ય",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-3.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj. CH-3.pdf"
                       }
                     ]
                   },
