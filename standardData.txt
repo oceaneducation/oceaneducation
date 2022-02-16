@@ -7177,7 +7177,7 @@
                     "textbook": [
                       {
                         "textbook_name": "एक जगत एक लोक",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 HINDI sem 1 CH -2.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 HINDI.sem 1 CH -2.pdf"
                       }
                     ]
                   },
