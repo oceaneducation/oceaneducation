@@ -9470,7 +9470,10 @@
                       
                     ],
                     "textbook": [
-                     
+                     {
+                        "textbook_name": "સંસાધનોનું  જતન અને સંરક્ષણ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 7 samaj CH 14.pdf"
+                      }
                     ]
                   },
                   {
@@ -9486,7 +9489,10 @@
                       
                     ],
                     "textbook": [
-                     
+                     {
+                        "textbook_name": "લોકશાહીમાં સમાનતા",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 7 samaj CH 15.pdf"
+                      }
                     ]
                   },
                   {
@@ -9502,7 +9508,10 @@
                       
                     ],
                     "textbook": [
-                      
+                      {
+                        "textbook_name": "રાજ્ય સરકાર",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 7samaj CH 16.pdf"
+                      }
                     ]
                   },
                   {
@@ -9518,7 +9527,10 @@
                       
                     ],
                     "textbook": [
-                      
+                      {
+                        "textbook_name": "જાતિગત ભિન્નતા",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 7 samaj CH 17.pdf"
+                      }
                     ]
                   },
                   {
@@ -9534,7 +9546,10 @@
                       
                     ],
                     "textbook": [
-                     
+                     {
+                        "textbook_name": "સંચાર માધ્યમો અને જાહેરાત",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 7 samaj CH 18.pdf"
+                      }
                     ]
                   },
                   {
@@ -9550,7 +9565,10 @@
                       
                     ],
                     "textbook": [
-                      
+                      {
+                        "textbook_name": "બજાર",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 7 samaj CH 19.pdf"
+                      }
                     ]
                   }
                 ]
