@@ -7199,7 +7199,7 @@
                     "textbook": [
                       {
                         "textbook_name": "समजदार नन्ही",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 HINDI sem 1 CH -3.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 HINDI. sem 1 CH -3.pdf"
                       }
                     ]
                   },
@@ -7221,7 +7221,7 @@
                     "textbook": [
                       {
                         "textbook_name": "गिन्ती ४१ से १००",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 HINDI sem 1 CH -4.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 HINDI. sem 1 CH -4.pdf"
                       }
                     ]
                   },
@@ -7262,7 +7262,7 @@
                     "textbook": [
                       {
                         "textbook_name": "धरती को महकाई",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 HINDI sem 1 CH -5.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 HINDI. sem 1 CH -5.pdf"
                       }
                     ]
                   },
@@ -7284,7 +7284,7 @@
                     "textbook": [
                       {
                         "textbook_name": "सुबह",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 HINDI sem 1 CH -6.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 HINDI. sem 1 CH -6.pdf"
                       }
                     ]
                   },
@@ -7306,7 +7306,7 @@
                     "textbook": [
                       {
                         "textbook_name": "बूझो तो जाने",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 HINDI sem 1 CH -7.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 HINDI. sem 1 CH -7.pdf"
                       }
                     ]
                   },
@@ -7328,7 +7328,7 @@
                     "textbook": [
                       {
                         "textbook_name": "राजा का हिस्सा",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 HINDI sem 1 CH -8.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 HINDI. sem 1 CH -8.pdf"
                       }
                     ]
                   },
