@@ -6974,7 +6974,7 @@
                 ]
               },
               {
-                "standard_name": "સંસ્કૃત સેમેસ્ટર :- 1",
+                "standard_name": "સંસ્કૃત સેમેસ્ટર :- 1 ",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -7216,7 +7216,7 @@
                 ]
               },
               {
-                "standard_name": "સંસ્કૃત સેમેસ્ટર :- 2",
+                "standard_name": "સંસ્કૃત સેમેસ્ટર :- 2 ",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                  
@@ -7463,7 +7463,7 @@
                 ]
               },
               {
-                "standard_name": "હિન્દી સેમેસ્ટર - 1",
+                "standard_name": "હિન્દી સેમેસ્ટર - 1 ",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -7683,7 +7683,7 @@
                 ]
               },
               {
-                "standard_name": "હિન્દી સેમેસ્ટર - 2",
+                "standard_name": "હિન્દી સેમેસ્ટર - 2 ",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -7839,7 +7839,7 @@
                 ]
               },
               {
-                "standard_name": "ગુજરાતી સેમેસ્ટર - 1",
+                "standard_name": "ગુજરાતી સેમેસ્ટર - 1 ",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -8054,7 +8054,7 @@
                 ]
               },
               {
-                "standard_name": "ગુજરાતી સેમેસ્ટર - 2",
+                "standard_name": "ગુજરાતી સેમેસ્ટર - 2 ",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -8263,7 +8263,7 @@
                 ]
               },
               {
-                "standard_name": "અંગ્રેજી Sem - 1",
+                "standard_name": "અંગ્રેજી Sem - 1 ",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
@@ -8345,7 +8345,7 @@
                 ]
               },
               {
-                "standard_name": "અંગ્રેજી Sem - 2",
+                "standard_name": "અંગ્રેજી Sem - 2 ",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
