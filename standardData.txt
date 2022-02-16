@@ -7947,7 +7947,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 1",
+                        "textbook_name": "where were you?",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 ENG. sem 1 CH -1.pdf"
                       }
                     ]
@@ -7962,7 +7962,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "CH - 2",
+                        "textbook_name": "two: Mo-chho",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 ENG. sem 1 CH -2.pdf"
                       }
                     ]
@@ -7977,8 +7977,8 @@
                         ],
                         "textbook": [
                           {
-                            "textbook_name": "CH -3",
-                            "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ. sem 2 CH -3.pdf"
+                            "textbook_name": "fought and won",
+                            "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 ENG. sem 1 CH -3.pdf"
                           }
                         ]
                       },
@@ -7992,7 +7992,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "CH -4",
+                        "textbook_name": "watch your watch",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 ENG. sem 1 CH -4.pdf"
                       }
                     ]
@@ -8013,7 +8013,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 1",
+                        "textbook_name": "taste of india",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 ENG. sem 2 CH -1.pdf"
                       }
                     ]
@@ -8028,7 +8028,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "CH - 2",
+                        "textbook_name": "a ship can walk",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 ENG. sem 2 CH -2.pdf"
                       }
                     ]
@@ -8043,8 +8043,8 @@
                         ],
                         "textbook": [
                           {
-                            "textbook_name": "CH -3",
-                            "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ. sem 2 CH -3.pdf"
+                            "textbook_name": "in future..",
+                            "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 ENG. sem 2 CH -3.pdf"
                           }
                         ]
                       },
@@ -8058,7 +8058,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "CH -4",
+                        "textbook_name": "will you wake up?",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 ENG. sem 2 CH -4.pdf"
                       }
                     ]
@@ -8073,7 +8073,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "CH -5",
+                        "textbook_name": "fifth of the sixth",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 ENG. sem 2 CH -5.pdf"
                       }
                     ]
