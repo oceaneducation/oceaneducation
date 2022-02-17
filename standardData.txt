@@ -11481,7 +11481,31 @@
                   {
                     "month_name": "Ch - 1",
                     "videos": [
-                     
+                     {
+                        "video_name": "પૂર્ણાક સંખ્યાઓ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/VSP87aYUTJk"
+                      },
+                      {
+                        "video_name": "પૂર્ણાક સંખ્યાઓ સ્વાધ્યાય 1.1",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/cnpGgUGgUss"
+                      },
+                      {
+                        "video_name": "પૂર્ણાક સંખ્યાઓ સ્વાધ્યાય 1.2",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/IAldkCgdMi8"
+                      },
+                      {
+                        "video_name": "પૂર્ણાક સંખ્યાઓ સ્વાધ્યાય 1.3",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/z685PS8Q0x4"
+                      },
+                      {
+                        "video_name": "પૂર્ણાક સંખ્યાઓ સ્વાધ્યાય 1.4",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/2yec-9ycY-A"
+                      }
                     ],
                     "material": [
                      
@@ -11496,7 +11520,46 @@
                   {
                     "month_name": "Ch - 2",
                     "videos": [
-                     
+                      {
+                        "video_name": "અપૂર્ણાક અને દ્શાંશ સંખ્યાઓ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/f8oxf9C3Chc"
+                      },
+                      {
+                        "video_name": "અપૂર્ણાક અને દ્શાંશ સંખ્યાઓ સ્વાધ્યાય 2.1",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/6NgGT_uRHJk"
+                      },
+                      {
+                        "video_name": "અપૂર્ણાક અને દ્શાંશ સંખ્યાઓ સ્વાધ્યાય 2.2",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/TixZCgedlTg"
+                      },
+                      {
+                        "video_name": "અપૂર્ણાક અને દ્શાંશ સંખ્યાઓ સ્વાધ્યાય 2.3",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/_6A3Baw49gM"
+                      },
+                      {
+                        "video_name": "અપૂર્ણાક અને દ્શાંશ સંખ્યાઓ સ્વાધ્યાય 2.4",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/pltZ7OQdHck"
+                      },
+                      {
+                        "video_name": "અપૂર્ણાક અને દ્શાંશ સંખ્યાઓ સ્વાધ્યાય 2.5",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/ldvqj3N_o-A"
+                      },
+                      {
+                        "video_name": "અપૂર્ણાક અને દ્શાંશ સંખ્યાઓ સ્વાધ્યાય 2.6",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/md1Lin7QnjA"
+                      },
+                      {
+                        "video_name": "અપૂર્ણાક અને દ્શાંશ સંખ્યાઓ સ્વાધ્યાય 2.7",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/aSmfYpqo82Y"
+                      }
                     ],
                     "material": [
                      
@@ -11511,7 +11574,26 @@
                   {
                     "month_name": "Ch - 3",
                     "videos": [
-                     
+                     {
+                        "video_name": "માહિતીનું નિયમન સ્વાધ્યાય 3.1",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/2tto8sJchyU"
+                      },
+                       {
+                        "video_name": "માહિતીનું નિયમન સ્વાધ્યાય 3.2",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/gcONDSaJmsg"
+                      },
+                       {
+                        "video_name": "માહિતીનું નિયમન સ્વાધ્યાય 3.3",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/WjUngbrm7KU"
+                      },
+                       {
+                        "video_name": "માહિતીનું નિયમન સ્વાધ્યાય 3.4",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/BCZ8SXCP8pI"
+                      }
                     ],
                     "material": [
                      
@@ -11522,11 +11604,30 @@
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 MATHS CH -3.pdf"
                       }
                     ]
-                  },
+                  }
                   {
                     "month_name": "Ch - 4",
                     "videos": [
-                     
+                      {
+                        "video_name": "સાદા સમીકરણ સ્વાધ્યાય 4.1",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/szYWSMa-MMU"
+                      },
+                      {
+                        "video_name": "સાદા સમીકરણ સ્વાધ્યાય 4.2",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/6ObAMWcJ95g"
+                      },
+                      {
+                        "video_name": "સાદા સમીકરણ સ્વાધ્યાય 4.3",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/Rl4zTuk1NIQ"
+                      },
+                      {
+                        "video_name": "સાદા સમીકરણ સ્વાધ્યાય 4.4",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/xPVvDtUVQ0o"
+                      }
                     ],
                     "material": [
                      
@@ -11541,7 +11642,16 @@
                   {
                     "month_name": "Ch - 5",
                     "videos": [
-                     
+                     {
+                        "video_name": "રેખા અને ખૂણાઓ સ્વાધ્યાય 5.1",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/ZP3SVP8Rg-E"
+                      },
+                       {
+                        "video_name": "રેખા અને ખૂણાઓ સ્વાધ્યાય 5.2",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/myzNinLUDn0"
+                      }
                     ],
                     "material": [
                      
@@ -11556,7 +11666,31 @@
                   {
                     "month_name": "Ch - 6",
                     "videos": [
-                     
+                      {
+                        "video_name": "ત્રિકોણ અને તેના ગુણધર્મો સ્વાધ્યાય 6.1",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/ejx5Hl8SaRM"
+                      },
+                        {
+                        "video_name": "ત્રિકોણ અને તેના ગુણધર્મો સ્વાધ્યાય 6.2",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/MuNGiGSRbrY"
+                      },
+                        {
+                        "video_name": "ત્રિકોણ અને તેના ગુણધર્મો સ્વાધ્યાય 6.3",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/aP7d8iO2EXw"
+                      },
+                        {
+                        "video_name": "ત્રિકોણ અને તેના ગુણધર્મો સ્વાધ્યાય 6.4",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/I7NiFZPXI9g"
+                      },
+                        {
+                        "video_name": "ત્રિકોણ અને તેના ગુણધર્મો સ્વાધ્યાય 6.5",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/DjJFDnq4uSA"
+                      }
                     ],
                     "material": [
                      
@@ -11571,7 +11705,16 @@
                   {
                     "month_name": "Ch - 7",
                     "videos": [
-                     
+                       {
+                        "video_name": "ત્રિકોણની એકરૂપતા સ્વાધ્યાય 7.1", 
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/IhHliCBQtFQ"
+                      },
+                       {
+                        "video_name": "ત્રિકોણની એકરૂપતા સ્વાધ્યાય 7.2", 
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/lTFacxysYSs"
+                      }
                     ],
                     "material": [
                      
@@ -11586,7 +11729,21 @@
                   {
                     "month_name": "Ch - 8",
                     "videos": [
-                     
+                      {
+                        "video_name": "રાશિઓની તુલના સ્વાધ્યાય 8.1",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/k5gdIyfoAC4"
+                      },
+                       {
+                        "video_name": "રાશિઓની તુલના સ્વાધ્યાય 8.2",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/RAWcHJ8pcdc"
+                      },
+                       {
+                        "video_name": "રાશિઓની તુલના સ્વાધ્યાય 8.3",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/GC2DL_wjT0Y"
+                      }
                     ],
                     "material": [
                      
@@ -11601,7 +11758,16 @@
                   {
                     "month_name": "Ch - 9",
                     "videos": [
-                     
+                      {
+                        "video_name": "સંમેય સંખ્યાઓ સ્વાધ્યાય 9.1",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/VTBjc3S3wg4"
+                      },
+                       {
+                        "video_name": "સંમેય સંખ્યાઓ સ્વાધ્યાય 9.2",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/ppkeMlbZZYw"
+                      }
                     ],
                     "material": [
                      
@@ -11616,7 +11782,11 @@
                   {
                     "month_name": "Ch - 10",
                     "videos": [
-                     
+                      {
+                        "video_name": "પ્રાયોગિક ભૂમિતિ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
                     ],
                     "material": [
                      
@@ -11631,7 +11801,11 @@
                   {
                     "month_name": "Ch - 11",
                     "videos": [
-                     
+                      {
+                        "video_name": "પરિમિતિ અને ક્ષેત્રફળ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
                     ],
                     "material": [
                      
@@ -11646,7 +11820,11 @@
                   {
                     "month_name": "Ch - 12",
                     "videos": [
-                     
+                     {
+                        "video_name": "બીજગણિતીય પદાવલિ ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
                     ],
                     "material": [
                      
@@ -11661,7 +11839,11 @@
                   {
                     "month_name": "Ch - 13",
                     "videos": [
-                     
+                      {
+                        "video_name": "ઘાત અને ઘાતાંક",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
                     ],
                     "material": [
                      
@@ -11676,7 +11858,11 @@
                   {
                     "month_name": "Ch - 14",
                     "videos": [
-                     
+                     {
+                        "video_name": "સંમિતિ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
                     ],
                     "material": [
                      
@@ -11691,7 +11877,11 @@
                   {
                     "month_name": "Ch - 15",
                     "videos": [
-                     
+                     {
+                        "video_name": "ઘન આકારોની પ્રત્યક્ષીકરણ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
                     ],
                     "material": [
                      
