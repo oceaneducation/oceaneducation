@@ -16516,7 +16516,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": આપત્તિ-વ્યવસ્થાપન
+                        "textbook_name": "આપત્તિ-વ્યવસ્થાપન",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 samaj ch 20.pdf"
                       }
                     ]
