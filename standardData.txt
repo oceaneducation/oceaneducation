@@ -9583,7 +9583,7 @@
                       {
                         "video_name": "વનસ્પતિમાં પોષણ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/nUAoITT_8IU"
+                        "video_link": "https://youtu.be/VsJ0sMPDE6Q"
                       }
                     ],
                     "material": [
@@ -9592,7 +9592,7 @@
                     "textbook": [
                       {
                         "textbook_name": "વનસ્પતિમાં પોષણ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-1.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SCINCE CH - 1.pdf"
                       }
                     ]
                   },
@@ -9602,7 +9602,7 @@
                       {
                         "video_name": "પ્રાણીઓમાં પોષણ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/3nipngd7KFI"
+                        "video_link": "https://youtu.be/kdDFhNE6oaI"
                       }
                     ],
                     "material": [
@@ -9611,7 +9611,7 @@
                     "textbook": [
                       {
                         "textbook_name": "પ્રાણીઓમાં પોષણ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-2.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SCINCE CH - 2.pdf"
                       }
                     ]
                   },
@@ -9621,7 +9621,7 @@
                       {
                         "video_name": "રેસાથી કાપડ સુધી",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/iE1SPI0zDCA"
+                        "video_link": "https://youtu.be/83JUtJKrAxs"
                       }
                     ],
                     "material": [
@@ -9630,7 +9630,7 @@
                     "textbook": [
                       {
                         "textbook_name": "રેસાથી કાપડ સુધી",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj. CH-3.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SCINCE CH - 3.pdf"
                       }
                     ]
                   },
@@ -9640,7 +9640,7 @@
                       {
                         "video_name": "ઉષ્મા",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/3z6eXIO8DcA"
+                        "video_link": "https://youtu.be/yC8FtZ4uiCU"
                       }
                     ],
                     "material": [
@@ -9649,7 +9649,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ઉષ્મા",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-4.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SCINCE CH - 4.pdf"
                       }
                     ]
                   },
@@ -9659,7 +9659,7 @@
                       {
                         "video_name": "ઍસિડ, બેઇઝ અને ક્ષાર",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/_hXw_Aot4UM"
+                        "video_link": "https://youtu.be/UQ9B7I4-XXM"
                       }
                     ],
                     "material": [
@@ -9668,7 +9668,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ઍસિડ, બેઇઝ અને ક્ષાર",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-5.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SCINCE CH - 5.pdf"
                       }
                     ]
                   },
@@ -9678,7 +9678,7 @@
                       {
                         "video_name": "ભૌતિક અને રસાયણિક ફેરફારો",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/5L3lMnZ8xqY"
+                        "video_link": "https://youtu.be/ijWlW20wG7o"
                       }
                     ],
                     "material": [
@@ -9687,7 +9687,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ભૌતિક અને રસાયણિક ફેરફારો",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-6.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SCINCE CH - 6.pdf"
                       }
                     ]
                   },
@@ -9697,7 +9697,7 @@
                       {
                         "video_name": "હવામાન, આબોહવા અને આબોહવાની સાથે પ્રાણીઓનું અનુકૂલન",    
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/xa03oNLImj8"
+                        "video_link": "https://youtu.be/IlsAh7_kam0"
                       }
                     ],
                     "material": [
@@ -9706,7 +9706,7 @@
                     "textbook": [
                       {
                         "textbook_name": "હવામાન, આબોહવા અને આબોહવાની સાથે પ્રાણીઓનું અનુકૂલન",    
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-7.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SCINCE CH - 7.pdf"
                       }
                     ]
                   },
@@ -9716,7 +9716,7 @@
                       {
                         "video_name": "પવન, વાવાઝોડું અને ચક્રવાત",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/kSnDW8Sp_To"
+                        "video_link": "https://youtu.be/nfv7HM9XFbk"
                       }
                     ],
                     "material": [
@@ -9725,7 +9725,7 @@
                     "textbook": [
                       {
                         "textbook_name": "પવન, વાવાઝોડું અને ચક્રવાત",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-8.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SCINCE CH - 8.pdf"
                       }
                     ]
                   },
@@ -9735,7 +9735,7 @@
                       {
                         "video_name": "ભૂમિ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/-7dt1Qlqzo0"
+                        "video_link": "https://youtu.be/0Fx76awmAQ8"
                       }
                     ],
                     "material": [
@@ -9744,7 +9744,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ભૂમિ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-9.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SCINCE CH - 9.pdf"
                       }
                     ]
                   },
@@ -9754,7 +9754,7 @@
                       {
                         "video_name": "સજીવોમાં શ્વસન",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/Fhoj8AwvYZk"
+                        "video_link": "https://youtu.be/WYtyzI8mr50"
                       }
                     ],
                     "material": [
@@ -9763,7 +9763,7 @@
                     "textbook": [
                       {
                         "textbook_name": "સજીવોમાં શ્વસન",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-10.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SCINCE CH - 10.pdf"
                       }
                     ]
                   },
@@ -9773,7 +9773,7 @@
                       {
                         "video_name": "પ્રાણીઓ અને વનસ્પતિઓમાં વહન",    
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/zFBCH0w9gSc"
+                        "video_link": "https://youtu.be/Mw0WqhgLLFQ"
                       }
                     ],
                     "material": [
@@ -9782,7 +9782,7 @@
                     "textbook": [
                       {
                         "textbook_name": "પ્રાણીઓ અને વનસ્પતિઓમાં વહન",    
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7samajCH-11.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SCINCE CH - 11.pdf"
                       }
                     ]
                   },
@@ -9792,7 +9792,7 @@
                       {
                         "video_name": "વનસ્પતિમાંપ્રજનન",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/4jxfw2sRE6Q"
+                        "video_link": "https://youtu.be/R7a4t93FZeU"
                       }
                     ],
                     "material": [
@@ -9801,7 +9801,7 @@
                     "textbook": [
                       {
                         "textbook_name": "વનસ્પતિમાંપ્રજનન",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-12.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SCINCE CH - 12.pdf"
                       }
                     ]
                   },
@@ -9811,7 +9811,7 @@
                       {
                         "video_name": "ગતિ અને સમય",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/CbzKCo7tRso"
+                        "video_link": "https://youtu.be/Swn6laAeYLM"
                       }
                     ],
                     "material": [
@@ -9820,7 +9820,7 @@
                     "textbook": [
                       {
                         "textbook_name": "ગતિ અને સમય",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-13.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SCINCE CH - 13.pdf"
                       }
                     ]
                   },
@@ -9830,7 +9830,7 @@
                       {
                         "video_name": "વિધુતપ્રવાહ અને તેની અસરો",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/6ERIFXU6QhE"
+                        "video_link": "https://youtu.be/-TObX6jMDmU"
                       }
                     ],
                     "material": [
@@ -9839,7 +9839,7 @@
                     "textbook": [
                      {
                         "textbook_name": "વિધુતપ્રવાહ અને તેની અસરો",     
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 7 samaj CH 14.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SCINCE CH - 14.pdf"
                       }
                     ]
                   },
@@ -9849,7 +9849,7 @@
                       {
                         "video_name": "પ્રકાશ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/7opRPwkfmRk"
+                        "video_link": "https://youtu.be/PbSt7uU7PE0"
                       }
                     ],
                     "material": [
@@ -9858,7 +9858,7 @@
                     "textbook": [
                      {
                         "textbook_name": "પ્રકાશ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 7 samaj CH 15.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SCINCE CH - 15.pdf"
                       }
                     ]
                   },
@@ -9868,7 +9868,7 @@
                       {
                         "video_name": "પાણી: એક અમૂલ્ય સ્ત્રોત",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/52-wSyAnCo8"
+                        "video_link": "https://youtu.be/PNSYnhO83lQ"
                       }
                     ],
                     "material": [
@@ -9877,7 +9877,7 @@
                     "textbook": [
                       {
                         "textbook_name": "પાણી: એક અમૂલ્ય સ્ત્રોત",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 7samaj CH 16.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SCINCE CH - 16.pdf"
                       }
                     ]
                   },
@@ -9887,7 +9887,7 @@
                       {
                         "video_name": "જંગલો: આપણી જીવાદોરી",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/AS2mIqoEfcs"
+                        "video_link": "https://youtu.be/gPivzlkGcks"
                       }
                     ],
                     "material": [
@@ -9896,7 +9896,7 @@
                     "textbook": [
                       {
                         "textbook_name": "જંગલો: આપણી જીવાદોરી",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 7 samaj CH 17.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SCINCE CH - 17.pdf"
                       }
                     ]
                   },
@@ -9906,7 +9906,7 @@
                       {
                         "video_name": "દૂષિત પાણીની વાર્તા",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/3RKvJBjmjg4"
+                        "video_link": "https://youtu.be/CPy3gNET8J8"
                       }
                     ],
                     "material": [
@@ -9915,26 +9915,7 @@
                     "textbook": [
                      {
                         "textbook_name": "દૂષિત પાણીની વાર્તા",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 7 samaj CH 18.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "month_name": "Ch - 19",
-                    "videos": [
-                      {
-                        "video_name": "બજાર",
-                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/la4n9oyCyIg"
-                      }
-                    ],
-                    "material": [
-                      
-                    ],
-                    "textbook": [
-                      {
-                        "textbook_name": "બજાર",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 7 samaj CH 19.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SCINCE CH - 18.pdf"
                       }
                     ]
                   }
