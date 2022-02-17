@@ -9573,6 +9573,373 @@
                   }
                 ]
               },
+                 {
+                "standard_name": "વિજ્ઞાન",
+                "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                "month_cat": [
+                  {
+                    "month_name": "Ch - 1",
+                    "videos": [
+                      {
+                        "video_name": "વનસ્પતિમાં પોષણ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/nUAoITT_8IU"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "વનસ્પતિમાં પોષણ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-1.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 2",
+                    "videos": [
+                      {
+                        "video_name": "પ્રાણીઓમાં પોષણ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/3nipngd7KFI"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "પ્રાણીઓમાં પોષણ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-2.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 3",
+                    "videos": [
+                      {
+                        "video_name": "રેસાથી કાપડ સુધી",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/iE1SPI0zDCA"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "રેસાથી કાપડ સુધી",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj. CH-3.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 4",
+                    "videos": [
+                      {
+                        "video_name": "ઉષ્મા",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/3z6eXIO8DcA"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "ઉષ્મા",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-4.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 5",
+                    "videos": [
+                      {
+                        "video_name": "ઍસિડ, બેઇઝ અને ક્ષાર",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/_hXw_Aot4UM"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "ઍસિડ, બેઇઝ અને ક્ષાર",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 6",
+                    "videos": [
+                      {
+                        "video_name": "ભૌતિક અને રસાયણિક ફેરફારો",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/5L3lMnZ8xqY"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "ભૌતિક અને રસાયણિક ફેરફારો",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-6.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 7",
+                    "videos": [
+                      {
+                        "video_name": "હવામાન, આબોહવા અને આબોહવાની સાથે પ્રાણીઓનું અનુકૂલન",    
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/xa03oNLImj8"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "હવામાન, આબોહવા અને આબોહવાની સાથે પ્રાણીઓનું અનુકૂલન",    
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-7.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 8",
+                    "videos": [
+                      {
+                        "video_name": "પવન, વાવાઝોડું અને ચક્રવાત",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/kSnDW8Sp_To"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "પવન, વાવાઝોડું અને ચક્રવાત",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-8.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 9",
+                    "videos": [
+                      {
+                        "video_name": "ભૂમિ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/-7dt1Qlqzo0"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "ભૂમિ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-9.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 10",
+                    "videos": [
+                      {
+                        "video_name": "સજીવોમાં શ્વસન",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/Fhoj8AwvYZk"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "સજીવોમાં શ્વસન",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-10.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 11",
+                    "videos": [
+                      {
+                        "video_name": "પ્રાણીઓ અને વનસ્પતિઓમાં વહન",    
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/zFBCH0w9gSc"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "પ્રાણીઓ અને વનસ્પતિઓમાં વહન",    
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7samajCH-11.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 12",
+                    "videos": [
+                      {
+                        "video_name": "વનસ્પતિમાંપ્રજનન",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/4jxfw2sRE6Q"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "વનસ્પતિમાંપ્રજનન",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-12.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 13",
+                    "videos": [
+                      {
+                        "video_name": "ગતિ અને સમય",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/CbzKCo7tRso"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "ગતિ અને સમય",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-13.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 14",
+                    "videos": [
+                      {
+                        "video_name": "વિધુતપ્રવાહ અને તેની અસરો",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/6ERIFXU6QhE"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                     {
+                        "textbook_name": "વિધુતપ્રવાહ અને તેની અસરો",     
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 7 samaj CH 14.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 15",
+                    "videos": [
+                      {
+                        "video_name": "પ્રકાશ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/7opRPwkfmRk"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                     {
+                        "textbook_name": "પ્રકાશ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 7 samaj CH 15.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 16",
+                    "videos": [
+                      {
+                        "video_name": "પાણી: એક અમૂલ્ય સ્ત્રોત",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/52-wSyAnCo8"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "પાણી: એક અમૂલ્ય સ્ત્રોત",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 7samaj CH 16.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 17",
+                    "videos": [
+                      {
+                        "video_name": "જંગલો: આપણી જીવાદોરી",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/AS2mIqoEfcs"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "જંગલો: આપણી જીવાદોરી",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 7 samaj CH 17.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 18",
+                    "videos": [
+                      {
+                        "video_name": "દૂષિત પાણીની વાર્તા",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/3RKvJBjmjg4"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                     {
+                        "textbook_name": "દૂષિત પાણીની વાર્તા",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 7 samaj CH 18.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 19",
+                    "videos": [
+                      {
+                        "video_name": "બજાર",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/la4n9oyCyIg"
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "બજાર",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 7 samaj CH 19.pdf"
+                      }
+                    ]
+                  }
+                ]
+              },
               {
                 "standard_name": "હિન્દી प्रथम सत्र ",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
