@@ -9921,6 +9921,216 @@
                   }
                 ]
               },
+                 {
+                "standard_name": "અંગ્રેજી સેમેસ્ટર-1 ",
+                "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                "month_cat": [
+                  {
+                    "month_name": "Ch - 1",
+                    "videos": [
+                      {
+                        "video_name": "vini’s smile",     
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                      {
+                        "material_name": "vini’s smile",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "vini’s smile",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 ENG. sem 1 CH -1.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 2",
+                    "videos": [
+                      {
+                        "video_name": "how many did you?",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+{
+                        "material_name": "how many did you?",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "how many did you?",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 ENG. sem 1 CH -2.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 3",
+                    "videos": [
+                      {
+                        "video_name": "yes, I will",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+{
+                        "material_name": "yes, I will",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "yes, I will",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 ENG. sem 1 CH -3.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 4",
+                    "videos": [
+                      {
+                        "video_name": "longer, shorter, bigger",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+{
+                        "material_name": "longer, shorter, bigger",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "longer, shorter, bigger",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 ENG. sem 1 CH -4.pdf"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "standard_name": "અંગ્રેજી સેમેસ્ટર-2 ",
+                "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                "month_cat": [
+                  {
+                    "month_name": "Ch - 1",
+                    "videos": [
+                      {
+                        "video_name": "am I lost?",   
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                      {
+                        "material_name": "am I lost?",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "am I lost?",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 ENG. sem 2 CH -1.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 2",
+                    "videos": [
+                      {
+                        "video_name": "step by step",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+{
+                        "material_name": "step by step",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "step by step",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 ENG. sem 2 CH -2.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 3",
+                    "videos": [
+                      {
+                        "video_name": "today comes everyday",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+{
+                        "material_name": "today comes everyday",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "today comes everyday",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 ENG. sem 2 CH -3.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 4",
+                    "videos": [
+                      {
+                        "video_name": "Q of yes no yes no",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+{
+                        "material_name": "Q of yes no yes no",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Q of yes no yes no",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 ENG. sem 2 CH -4.pdf"
+                      }
+                    ]
+                  }
+                ]
+              },
+               {
+                    "month_name": "Ch - 5",
+                    "videos": [
+                      {
+                        "video_name": "me too!",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                      {
+                        "material_name": "me too!",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "me too!",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 ENG. sem 2 CH -5.pdf"
+                      }
+                    ]
+                  },
               {
                 "standard_name": "હિન્દી प्रथम सत्र ",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
