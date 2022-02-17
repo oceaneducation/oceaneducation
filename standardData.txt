@@ -10106,10 +10106,8 @@
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 ENG. sem 2 CH -4.pdf"
                       }
                     ]
-                  }
-                ]
-              },
-               {
+                  },
+                   {
                     "month_name": "Ch - 5",
                     "videos": [
                       {
@@ -10119,7 +10117,7 @@
                       }
                     ],
                     "material": [
-                      {
+{
                         "material_name": "me too!",
                         "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
@@ -10130,7 +10128,9 @@
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 ENG. sem 2 CH -5.pdf"
                       }
                     ]
-                  },
+                  }
+                ]
+              },
               {
                 "standard_name": "હિન્દી प्रथम सत्र ",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
