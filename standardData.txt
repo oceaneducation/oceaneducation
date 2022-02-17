@@ -14157,6 +14157,316 @@
                     ]
                   }
                 ]
+              },
+               {
+                "standard_name": "ગણિત",
+                "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                "month_cat": [
+                  {
+                    "month_name": "Ch - 1",
+                    "videos": [
+                      {
+                        "video_name": "સંમેય સંખ્યાઓ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "સંમેય સંખ્યાઓ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 maths ch 1.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 2",
+                    "videos": [
+                      {
+                        "video_name": "એક ચલ સુરેખ સમીકરણ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "એક ચલ સુરેખ સમીકરણ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 maths ch 2.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 3",
+                    "videos": [
+                      {
+                        "video_name": "ચતુષ્કોણની સમજ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "ચતુષ્કોણની સમજ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 maths ch 3.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 4",
+                    "videos": [
+                      {
+                        "video_name": "પ્રાયોગિક ભૂમિતિ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "પ્રાયોગિક ભૂમિતિ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 maths ch 4.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 5",
+                    "videos": [
+                      {
+                        "video_name": "માહિતીનું નિયમન ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "માહિતીનું નિયમન ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 maths ch 5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 6",
+                    "videos": [
+                      {
+                        "video_name": "વર્ગ અને વર્ગમૂળ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "વર્ગ અને વર્ગમૂળ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 maths ch 6.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 7",
+                    "videos": [
+                      {
+                        "video_name": "ઘન અને ઘનમૂળ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "ઘન અને ઘનમૂળ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 maths ch 7.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 8",
+                    "videos": [
+                      {
+                        "video_name": "રાશિઓની તુલના",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "રાશિઓની તુલના",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 maths ch 8.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 9",
+                    "videos": [
+                      {
+                        "video_name": "બૈજિક પદાવલીઓ અને નિત્યસમ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "બૈજિક પદાવલીઓ અને નિત્યસમ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 maths ch 9.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 10",
+                    "videos": [
+                      {
+                        "video_name": "ઘનાકારોનું પ્રત્યક્ષીકરણ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "ઘનાકારોનું પ્રત્યક્ષીકરણ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 maths ch 10.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 11",
+                    "videos": [
+                      {
+                        "video_name": "માપન",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "માપન",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 12",
+                    "videos": [
+                      {
+                        "video_name": "ઘાત અને ઘાતાંક",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "ઘાત અને ઘાતાંક",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 13",
+                    "videos": [
+                      {
+                        "video_name": "સમપ્રમાણ અને વ્યસ્ત પ્રમાણ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "સમપ્રમાણ અને વ્યસ્ત પ્રમાણ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 14",
+                    "videos": [
+                      {
+                        "video_name": "અવયવીકરણ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "અવયવીકરણ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 15",
+                    "videos": [
+                      {
+                        "video_name": "આલેખનો પરિચય ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "આલેખનો પરિચય ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 16",
+                    "videos": [
+                      {
+                        "video_name": "સંખ્યા સાથે રમત",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                      
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "સંખ્યા સાથે રમત",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ]
+                  }
+                ]
               }
             ]
           }
