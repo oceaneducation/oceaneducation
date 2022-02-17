@@ -8220,7 +8220,7 @@
                       {
                         "video_name": "दयालु शिकारी",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": " https://youtu.be/oaQmEsevUmY"
+                        "video_link": "https://youtu.be/oaQmEsevUmY"
                       }
                     ],
                     "material": [
@@ -8242,7 +8242,7 @@
                       {
                         "video_name": "एक जगत एक लोक",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/oaQmEsevUmY"
+                        "video_link": "https://youtu.be/LIxphML27tU"
                       }
                     ],
                     "material": [
@@ -8349,7 +8349,7 @@
                       {
                         "video_name": "सुबह",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": " https://youtu.be/da_wA7gAWyQ"
+                        "video_link": "https://youtu.be/da_wA7gAWyQ"
                       }
                     ],
                     "material": [
@@ -8371,7 +8371,7 @@
                       {
                         "video_name": "बूझो तो जाने ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": " https://youtu.be/COpyz9Km-H8"
+                        "video_link": "https://youtu.be/COpyz9Km-H8"
                       }
                     ],
                     "material": [
@@ -8786,7 +8786,7 @@
                       {
                         "video_name": "પુનરાવર્તન 2",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": " https://youtu.be/3AlHIi-8_A8"
+                        "video_link": "https://youtu.be/3AlHIi-8_A8"
                       }
                     ],
                     "material": [
@@ -8941,7 +8941,7 @@
                       {
                         "video_name": "માતૃ હદય",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": " https://youtu.be/tv5Rcrb4zQE"
+                        "video_link": "https://youtu.be/tv5Rcrb4zQE"
                       }
                     ],
                     "material": [
