@@ -4868,75 +4868,120 @@
           "sub_data_name": "એકમ  કસોટી ",
           "standard_data": [
             {
+              "standard_name": "ધોરણ 3",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "18 ફેબ્રુઆરી 2022",
+                  "videos": [
+                    {
+                      "video_name": "ગણિત",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "ગુજરાતી",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "આસપાસ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "ગણિત",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "આસપાસ",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "ગણિત",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "ગુજરાતી",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "આસપાસ",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
               "standard_name": "ધોરણ 4",
               "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
               "month_cat": [
                 {
-                  "month_name": "જુલાઈ 2021",
+                  "month_name": "18 ફેબ્રુઆરી 2022",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "ગુજરાતી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f8nxI-cepZs"
                     },
                     {
-                      "video_name": "Geography",
+                      "video_name": "ગણિત",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "આસપાસ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "હિન્દી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f8nxI-cepZs"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "Account",
+                      "material_name": "ગુજરાતી",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "BA",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ],
-                  "textbook": [
-                    {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ]
-                },
-                {
-                  "month_name": "ઓગસ્ટ 2021",
-                  "videos": [
-                    {
-                      "video_name": "Psycology",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
-                    }
-                  ],
-                  "material": [
-                    {
-                      "material_name": "Account",
+                      "material_name": "ગણિત",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "BA",
+                      "material_name": "આસપાસ",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "હિન્દી",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
+                      "textbook_name": "ગુજરાતી",
                       "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "textbook_name": "textbook2",
+                      "textbook_name": "ગણિત",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "આસપાસ",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "હિન્દી",
                       "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ]
@@ -4944,75 +4989,79 @@
               ]
             },
             {
-              "standard_name": "ધોરણ  3",
+              "standard_name": "ધોરણ 5",
               "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
               "month_cat": [
                 {
-                  "month_name": "જુલાઈ 2021",
+                  "month_name": "18 ફેબ્રુઆરી 2022",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "ગુજરાતી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f8nxI-cepZs"
                     },
                     {
-                      "video_name": "Geography",
+                      "video_name": "ગણિત",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "આસપાસ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "હિન્દી",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "અંગ્રેજી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f8nxI-cepZs"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "Account",
+                      "material_name": "ગુજરાતી",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "BA",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ],
-                  "textbook": [
-                    {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ]
-                },
-                {
-                  "month_name": "ઓગસ્ટ 2021",
-                  "videos": [
-                    {
-                      "video_name": "Psycology",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
-                    }
-                  ],
-                  "material": [
-                    {
-                      "material_name": "Account",
+                      "material_name": "ગણિત",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
-                    {
-                      "material_name": "BA",
+                     {
+                      "material_name": "આસપાસ",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "હિન્દી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "અંગ્રેજી",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
+                      "textbook_name": "ગુજરાતી",
                       "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "textbook_name": "textbook2",
+                      "textbook_name": "ગણિત",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "આસપાસ",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "હિન્દી",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "અંગ્રેજી",
                       "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ]
@@ -5020,151 +5069,265 @@
               ]
             },
             {
-              "standard_name": "ધોરણ  2",
+              "standard_name": "ધોરણ 6",
               "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
               "month_cat": [
                 {
-                  "month_name": "જુલાઈ 2021",
+                  "month_name": "18 ફેબ્રુઆરી 2022",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "ગુજરાતી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f8nxI-cepZs"
                     },
                     {
-                      "video_name": "Geography",
+                      "video_name": "ગણિત",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "હિન્દી",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "અંગ્રેજી",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "વિજ્ઞાન",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "સમાજ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f8nxI-cepZs"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "Account",
+                      "material_name": "ગુજરાતી",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "BA",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ],
-                  "textbook": [
-                    {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ]
-                },
-                {
-                  "month_name": "ઓગસ્ટ 2021",
-                  "videos": [
-                    {
-                      "video_name": "Psycology",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
-                    }
-                  ],
-                  "material": [
-                    {
-                      "material_name": "Account",
+                      "material_name": "ગણિત",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "BA",
+                      "material_name": "હિન્દી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "અંગ્રેજી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "વિજ્ઞાન",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "સમાજ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
+                      "textbook_name": "ગુજરાતી",
                       "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "textbook_name": "textbook2",
+                      "textbook_name": "ગણિત",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "હિન્દી",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "અંગ્રેજી",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "વિજ્ઞાન",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "સમાજ",
                       "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ]
                 }
               ]
             },
-            {
-              "standard_name": "ધોરણ  1",
+             {
+              "standard_name": "ધોરણ 7",
               "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
               "month_cat": [
                 {
-                  "month_name": "જુલાઈ 2021",
+                  "month_name": "18 ફેબ્રુઆરી 2022",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "ગણિત",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f8nxI-cepZs"
                     },
                     {
-                      "video_name": "Geography",
+                      "video_name": "ગુજરાતી",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "હિન્દી",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "અંગ્રેજી",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "વિજ્ઞાન",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "સમાજ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f8nxI-cepZs"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "Account",
+                      "material_name": "ગણિત",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "BA",
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "હિન્દી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "અંગ્રેજી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "વિજ્ઞાન",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "સમાજ",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
+                      "textbook_name": "ગણિત",
                       "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "textbook_name": "textbook2",
+                      "textbook_name": "ગુજરાતી",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "textbook_name": "હિન્દી",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "textbook_name": "અંગ્રેજી",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "textbook_name": "વિજ્ઞાન",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "textbook_name": "સમાજ",
                       "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ]
-                },
+                }
+              ]
+            },
+             {
+              "standard_name": "ધોરણ 8",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
                 {
-                  "month_name": "ઓગસ્ટ 2021",
+                  "month_name": "18 ફેબ્રુઆરી 2022",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "ગણિત",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f8nxI-cepZs"
                     },
                     {
-                      "video_name": "Geography",
+                      "video_name": "ગુજરાતી",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "હિન્દી",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "અંગ્રેજી",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "વિજ્ઞાન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f8nxI-cepZs"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "Account",
+                      "material_name": "ગણિત",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "material_name": "BA",
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "હિન્દી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "અંગ્રેજી",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "વિજ્ઞાન",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "textbook1",
+                      "textbook_name": "ગણિત",
                       "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "textbook_name": "textbook2",
+                      "textbook_name": "ગુજરાતી",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "હિન્દી",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "અંગ્રેજી",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "વિજ્ઞાન",
                       "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ]
