@@ -11604,7 +11604,7 @@
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 MATHS CH -3.pdf"
                       }
                     ]
-                  }
+                  },
                   {
                     "month_name": "Ch - 4",
                     "videos": [
