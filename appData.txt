@@ -5808,7 +5808,7 @@
                      {
                       "video_name": "વિજ્ઞાન પ્રશ્નપત્ર-૨ વિભાગ-B",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/jIDPWNyhjyc"
                     },
                      {
                       "video_name": "વિજ્ઞાન પ્રશ્નપત્ર-૨ વિભાગ-C",
@@ -6015,7 +6015,7 @@
                     {
                       "video_name": "સમાજ પ્રશ્નપત્ર-૨ વિભાગ-D",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/ZEC3527XzLo"
                     },
                       {
                       "video_name": "સમાજ પ્રશ્નપત્ર-૩ વિભાગ-A",
