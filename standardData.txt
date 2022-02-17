@@ -9205,7 +9205,6 @@
           {
             "sub_data_name": "ધોરણ 7",
             "standard_data": [
-             
               {
                 "standard_name": "સમાજ",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
@@ -13234,8 +13233,218 @@
                   }
                 ]
               },
+               {
+                "standard_name": "અંગ્રેજી સેમેસ્ટર-1 ",
+                "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                "month_cat": [
+                  {
+                    "month_name": "Ch - 1",
+                    "videos": [
+                      {
+                        "video_name": "Q for Question",     
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                      {
+                        "material_name": "Q for Question", 
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "Q for Question", 
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 1 eng ch 1.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 2",
+                    "videos": [
+                      {
+                        "video_name": "LMBB: Learn more be brighter",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+{
+                        "material_name": "LMBB: Learn more be brighter",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "LMBB: Learn more be brighter",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 1 eng ch 2.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 3",
+                    "videos": [
+                      {
+                        "video_name": "what were you doing?",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+{
+                        "material_name": "what were you doing?",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "what were you doing?",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 1 eng ch 3.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 4",
+                    "videos": [
+                      {
+                        "video_name": "sun-tour",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+{
+                        "material_name": "sun-tour",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "sun-tour",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 1 eng ch 4.pdf"
+                      }
+                    ]
+                  }
+                ]
+              },
               {
-                "standard_name": "સામાજીક વિજ્ઞાન",
+                "standard_name": "અંગ્રેજી સેમેસ્ટર-2 ",
+                "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                "month_cat": [
+                  {
+                    "month_name": "Ch - 1",
+                    "videos": [
+                      {
+                        "video_name": "I will be that ",   
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+                      {
+                        "material_name": "I will be that ",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "I will be that ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 2 eng ch 1.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 2",
+                    "videos": [
+                      {
+                        "video_name": "you love English, don’t you?",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+{
+                        "material_name": "you love English, don’t you?",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "you love English, don’t you?",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 2 eng ch 2.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 3",
+                    "videos": [
+                      {
+                        "video_name": "ah! Oh! Ouch!...",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+{
+                        "material_name": "ah! Oh! Ouch!...",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "ah! Oh! Ouch!...",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 2 eng ch 3.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 4",
+                    "videos": [
+                      {
+                        "video_name": "tell me why?",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+{
+                        "material_name": "tell me why?",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "tell me why?",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 2 eng ch 4.pdf"
+                      }
+                    ]
+                  },
+                   {
+                    "month_name": "Ch - 5",
+                    "videos": [
+                      {
+                        "video_name": "English plus",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
+                    ],
+                    "material": [
+{
+                        "material_name": "English plus",
+                        "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "English plus",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 2 eng ch 5.pdf"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "standard_name": "સામાજીક વિજ્ઞાન ",
                 "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
                 "month_cat": [
                   {
