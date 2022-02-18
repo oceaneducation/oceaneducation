@@ -19212,7 +19212,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 2",
+                        "textbook_name": "ધંધાકીય સેવાઓ-1",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 BA CH 2.pdf"
                       }
                     ]
@@ -19227,7 +19227,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 3",
+                        "textbook_name": "ધંધાકીય સેવાઓ-2",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 BA CH 3.pdf"
                       }
                     ]
@@ -19242,7 +19242,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 4",
+                        "textbook_name": "માહિતી સંચાર, ઈ-કૉમર્સ અને આઉટસોર્સિંગ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 BA CH 4.pdf"
                       }
                     ]
@@ -19257,7 +19257,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 5",
+                        "textbook_name": "ધંધાકીય વ્યવસ્થાનાં સ્વરૂપો-1",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 BA CH 5.pdf"
                       }
                     ]
@@ -19272,7 +19272,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 6",
+                        "textbook_name": "ધંધાકીય વ્યવસ્થાનાં સ્વરૂપો-2",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 BA CH 6.pdf"
                       }
                     ]
@@ -19287,7 +19287,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 7",
+                        "textbook_name": "જાહેરક્ષેત્ર, ખાનગીક્ષેત્ર અને વૈશ્વિક સાહસો",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 BA CH 7.pdf"
                       }
                     ]
@@ -19302,7 +19302,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 8",
+                        "textbook_name": "ધંધાકીય મૂડીનાં પ્રાપ્તિસ્થાનો",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 BA CH 8.pdf"
                       }
                     ]
@@ -19317,7 +19317,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 9",
+                        "textbook_name": "આંતરિક વેપાર",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 BA CH 9.pdf"
                       }
                     ]
@@ -19332,7 +19332,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 10",
+                        "textbook_name": "આંતરરાષ્ટ્રીય વેપાર",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 BA CH 10.pdf"
                       }
                     ]
@@ -19347,7 +19347,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 11",
+                        "textbook_name": "ધંધાની સામાજિક જવાબદારી",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 BA CH 11.pdf"
                       }
                     ]
@@ -19368,7 +19368,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 1",
+                        "textbook_name": "THE JOURNEY OF MY LIFE: FROM EARTH TO EVEREST, THE WILD SAVIOUR",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 11 ENG. CH -1.pdf"
                       }
                     ]
@@ -19383,7 +19383,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 2",
+                        "textbook_name": "AUTOFAB TECHNOLOGY (2)A PALANPUR YOUTH REINVENTS THE HUMBLE WATCH (3)THE SECRET OF THE MACHINES (POEM)",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 11 ENG. CH -2.pdf"
                       }
                     ]
@@ -19398,7 +19398,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 3",
+                        "textbook_name": "FEMALES FOR FORESTRY (2)WOODMAN, SPARE THAT TREE (POEM)",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 11 ENG. CH -3.pdf"
                       }
                     ]
@@ -19413,7 +19413,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 4",
+                        "textbook_name": "MIND, BODY, MEDICINE (2)YOG FOR HEALTH",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 11 ENG. CH -4.pdf"
                       }
                     ]
@@ -19428,7 +19428,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 5",
+                        "textbook_name": "PEPPER, THE PHANTOM PET",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 11 ENG. CH -5.pdf"
                       }
                     ]
@@ -19443,7 +19443,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 6",
+                        "textbook_name": "THE BLUE CROSS (2)SUSPECT IDENTIFICATION (3)DATING TECHNOLOGY",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 11 ENG. CH -6.pdf"
                       }
                     ]
@@ -19458,7 +19458,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 7",
+                        "textbook_name": "HOW DOES IT SMELL? (2)FIRST AID",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 11 ENG. CH -7.pdf"
                       }
                     ]
@@ -19473,7 +19473,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 8",
+                        "textbook_name": "GETTING READY (2)AN INTERVIEW WITH THE CAREER COUNSELLOR (3)POST-COUNSELING DISCUSSION",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 11 ENG. CH -8.pdf"
                       }
                     ]
@@ -19488,7 +19488,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 9",
+                        "textbook_name": "WATER: AN ELIXIR OF LIFE…………………(POEM) (2)DRIP IRRIGATION",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 11 ENG. CH -9.pdf"
                       }
                     ]
@@ -19503,7 +19503,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 10",
+                        "textbook_name": "MAGNIFICENT MARY (2)INDIA’S SHOOTING SENSATION: LAJJA GOSWAMI (3)CONFESSIONS OF A BORN SPECTATOR(POEM)",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 11 ENG. CH -10.pdf"
                       }
                     ]
