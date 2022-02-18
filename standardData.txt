@@ -14168,7 +14168,17 @@
                       {
                         "video_name": "સંમેય સંખ્યાઓ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/GurAK198x3Y"
+                      },
+                       {
+                        "video_name": "સંમેય સંખ્યાઓ સ્વાધ્યાય 1.1",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/bkrNAKCcqfk"
+                      },
+                       {
+                        "video_name": "સંમેય સંખ્યાઓ સ્વાધ્યાય 1.2",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/gMPcGMFYNWA"
                       }
                     ],
                     "material": [
@@ -14185,9 +14195,24 @@
                     "month_name": "Ch - 2",
                     "videos": [
                       {
-                        "video_name": "એક ચલ સુરેખ સમીકરણ",
+                        "video_name": "એક ચલ સુરેખ સમીકરણ સ્વાધ્યાય 2.1",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/vY6w4M-vgcc"
+                      },
+                       {
+                        "video_name": "એક ચલ સુરેખ સમીકરણ સ્વાધ્યાય 2.2",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/fniO78fTUO0"
+                      },
+                       {
+                        "video_name": "એક ચલ સુરેખ સમીકરણ સ્વાધ્યાય 2.3",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/49uPSD8eVJU"
+                      },
+                       {
+                        "video_name": "એક ચલ સુરેખ સમીકરણ સ્વાધ્યાય 2.4",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/47XHA49i7RY"
                       }
                     ],
                     "material": [
@@ -14206,7 +14231,17 @@
                       {
                         "video_name": "ચતુષ્કોણની સમજ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/6yEN7E_efFs"
+                      },
+                       {
+                        "video_name": "ચતુષ્કોણની સમજ સ્વાધ્યાય 3.1",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/IrwgRKUSa_g"
+                      },
+                       {
+                        "video_name": "ચતુષ્કોણની સમજ સ્વાધ્યાય 3.2",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/91Lf2cO-dhU"
                       }
                     ],
                     "material": [
