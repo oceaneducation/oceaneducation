@@ -31,32 +31,32 @@
                       "video_link": "https://youtu.be/yrm5JchEvI8"
                     },
                     {
-                      "video_name":   " પાઠ : 4 : સસલા ની પાછળ કુતરો   ",
+                      "video_name":   "પાઠ : 4 : સસલા ની પાછળ કુતરો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/YYK7WMrM0bs"
                     },
                     {
-                      "video_name":   "પાઠ : 5 : કોરો કાચબો ભીનો ચાંદો   ",
+                      "video_name":   "પાઠ : 5 : કોરો કાચબો ભીનો ચાંદો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/5IPS0SgyiiA"
                     },
                     {
-                      "video_name": "પાઠ : 6 : બતક અને અથવા પણ હંસ    ",
+                      "video_name": "પાઠ : 6 : બતક અને અથવા પણ હંસ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/xTqTfi2e3z4"
                     },
                     {
-                      "video_name": "પાઠ : 7 : એક છલાંગે દરિયો કૂદો       ",
+                      "video_name": "પાઠ : 7 : એક છલાંગે દરિયો કૂદો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/mJbV0pNSfxk      "
+                      "video_link": "https://youtu.be/mJbV0pNSfxk"
                     },
                     {
-                      "video_name": "પાઠ : 8 : કીડી હતી કે હાથી હશે!        ",
+                      "video_name": "પાઠ : 8 : કીડી હતી કે હાથી હશે!",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": " https://youtu.be/kZNxvlg4OHc"
                     },
                     {
-                      "video_name": "પાઠ : 9 : રંગબેરંગી મસાલિયું     ",
+                      "video_name": "પાઠ : 9 : રંગબેરંગી મસાલિયું",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": " https://youtu.be/IF9dVDtMkN8"
                     },
@@ -69,31 +69,31 @@
                   "material": [
                    
                     {
-                      "material_name":"પાઠ : 1 : વાંદરાને વાંચતાં ન આવડે   ",
+                      "material_name":"પાઠ : 1 : વાંદરાને વાંચતાં ન આવડે",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 1 KALRAV CH 3.pdf"
                     },
                      {
-                      "material_name": "પાઠ : 2 : પોટલાં ટપકે ટપ્પ     ",
+                      "material_name": "પાઠ : 2 : પોટલાં ટપકે ટપ્પ",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/swa std 3 gujarati ch.2 swadhyaanpothi.pdf"
                     },
                     {
-                      "material_name":"પાઠ : 3 : હું પતંગિયું મારા પિલ્લુનું   ",
+                      "material_name":"પાઠ : 3 : હું પતંગિયું મારા પિલ્લુનું",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/swa std 3 gujrati ch.3 swadhyaynpothi.pdf"
                     },
                     {
-                      "material_name":"પાઠ : 4 : સસલા ની પાછળ કુતરો   ",
+                      "material_name":"પાઠ : 4 : સસલા ની પાછળ કુતરો",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/swa std 3 gujarati ch.4 swaadhyanpothi.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 5 : કોરો કાચબો ભીનો ચાંદો   ",
+                      "material_name": "પાઠ : 5 : કોરો કાચબો ભીનો ચાંદો",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/swa std 3 gujarati ch.5 swadhyaynpothi.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 6 : બતક અને અથવા પણ હંસ    ",
+                      "material_name": "પાઠ : 6 : બતક અને અથવા પણ હંસ",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/-swa std 3 ch 6 gujarati swa adhdhyanapothi.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 7 : એક છલાંગે દરિયો કૂદો       ",
+                      "material_name": "પાઠ : 7 : એક છલાંગે દરિયો કૂદો",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/.swa std 3 ch 7 gujrati swa adhyayan pothi.pdf"
                     },
                     {
