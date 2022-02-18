@@ -16948,7 +16948,8 @@
                     "month_name": "Ch - 2",
                     "videos": [
                        {
-                        "video_name":  "બહુપદીઓ  ભાગ-૧              ",        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_name":  "બહુપદીઓ  ભાગ-૧",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/Z9S-Y96PkQA "
                       },
                        {
@@ -19197,7 +19198,7 @@
                     "textbook": [
                       {
                         "textbook_name": "Ch - 1",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 BA CH 1.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdfs/STD 11 BA CH 1.pdf"
                       }
                     ]
                   },
