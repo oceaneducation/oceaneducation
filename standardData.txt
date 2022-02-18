@@ -17975,9 +17975,14 @@
                     "month_name": "Ch - 1",
                     "videos": [
                        {
-                        "video_name": "રાસાયણિક પ્રક્રિયાઓ અને સમીકરણો",
+                        "video_name": "રાસાયણિક પ્રક્રિયાઓ અને સમીકરણો ભાગ-1",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/27wwgvSboyQ "
+                        "video_link": "https://youtu.be/pfGPJaWz_jw"
+                      },
+                      {
+                        "video_name": "રાસાયણિક પ્રક્રિયાઓ અને સમીકરણો ભાગ-2",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/HfrMYaGOE0U"
                       }
                     ],
                     "material": [
@@ -17994,9 +17999,14 @@
                     "month_name": "Ch - 2",
                     "videos": [
                        {
-                        "video_name":  "ઍસિડ, બેઇઝ અને ક્ષાર",
+                        "video_name":  "ઍસિડ, બેઇઝ અને ક્ષાર ભાગ-1 ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/kmctDewUtTM "
+                        "video_link": "https://youtu.be/3Ia8q_weLEA"
+                      },
+                      {
+                        "video_name":  "ઍસિડ, બેઇઝ અને ક્ષાર ભાગ-2",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/bVnMGm_p310"
                       }
                     ],
                     "material": [
@@ -18013,9 +18023,14 @@
                     "month_name": "Ch - 3",
                     "videos": [
                        {
-                        "video_name":  "ધાતુઓ અને અધાતુઓ",
+                        "video_name":  "ધાતુઓ અને અધાતુઓ ભાગ-1",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/IiyvySXozGg "
+                        "video_link": "https://youtu.be/Qd2P6Xaolc0"
+                      },
+                      {
+                        "video_name":  "ધાતુઓ અને અધાતુઓ ભાગ-2",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/c7eP0HqccFY"
                       }
                     ],
                     "material": [
