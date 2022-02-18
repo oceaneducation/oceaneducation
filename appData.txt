@@ -101,7 +101,7 @@
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/.swa std 3 gujarati ch.8 swadhyaanpothi.pdf"
                     },
                     {
-                      "material_name":"પાઠ : 9 : રંગબેરંગી મસાલિયું ",    
+                      "material_name":"પાઠ : 9 : રંગબેરંગી મસાલિયું",    
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/.swa std 3 gujarati ch.9 swadhyaanpothi.pdf"
                     },
                     {
@@ -122,32 +122,32 @@
                       "video_link": "https://youtu.be/-TYwvD4lLXs"
                     },
                     {
-                      "video_name": "પાઠ : 2 : સંખ્યાની ગમ્મત ", 
+                      "video_name": "પાઠ : 2 : સંખ્યાની ગમ્મત", 
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/UJqrnCebhHU"
                     },
                      {
-                      "video_name": "પાઠ : 3 : આપો અને લો   ",
+                      "video_name": "પાઠ : 3 : આપો અને લો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/LRryoLQBeCA"
                     },
                     {
-                      "video_name": "પાઠ : 4 : લાંબું અને ટૂંકું  ",  
+                      "video_name": "પાઠ : 4 : લાંબું અને ટૂંકું",  
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/rU_wCP5tgg4"
                     },
                     {
-                      "video_name": "પાઠ : 5 : આકાર અને ભાત   ", 
+                      "video_name": "પાઠ : 5 : આકાર અને ભાત", 
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/zuw3wTZUi4A"
                     },
                     {
-                      "video_name": "પાઠ : 6 : આપ-લે ની ગમ્મત  ", 
+                      "video_name": "પાઠ : 6 : આપ-લે ની ગમ્મત", 
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link":   "https://youtu.be/e8zPaGLr6bw"
                     },
                     {
-                      "video_name": "પાઠ : 7 : સમય વહી જાય છે ",  
+                      "video_name": "પાઠ : 7 : સમય વહી જાય છે",  
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Ex1bBIGMc84"
                     },
@@ -182,42 +182,42 @@
                       "video_link": "https://youtu.be/Yp866de40eQ"
                     },
                     {
-                      "video_name": "પાઠ : 14 : રૂપિયા-પૈસા ",
+                      "video_name": "પાઠ : 14 : રૂપિયા-પૈસા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/36jlCPMuaG8"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "પાઠ : 1 : ક્યાંથી જોવું  ",
+                      "material_name": "પાઠ : 1 : ક્યાંથી જોવું",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/-swa std 3 maths ch 1 સ્વ અધ્યયનપોથી.pdf"
                     },
                      {
-                      "material_name": "પાઠ : 2 : સંખ્યાની ગમ્મત  ",
+                      "material_name": "પાઠ : 2 : સંખ્યાની ગમ્મત",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/-swa std 3 maths ch 2 સ્વ અધ્યયનપોથી.pdf"
                     },
                      {
-                      "material_name": "પાઠ : 3 : આપો અને લો    ",
+                      "material_name": "પાઠ : 3 : આપો અને લો",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/.swa std 3 maths ch 3 સ્વ અધ્યયનપોથી.pdf"
                     },
                     {
-                      "material_name":"પાઠ : 4 : લાંબું અને ટૂંકું    ",
+                      "material_name":"પાઠ : 4 : લાંબું અને ટૂંકું",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/'swa std 3 maths ch 4 સ્વ અધ્યયનપોથી.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 5 : આકાર અને ભાત    ",
+                      "material_name": "પાઠ : 5 : આકાર અને ભાત",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/'swa std 3 maths ch 5 સ્વ અધ્યયનપોથી (1).pdf"
                     },
                     {
-                      "material_name":"પાઠ : 6 : આપ-લેની ગમ્મત   ",
+                      "material_name":"પાઠ : 6 : આપ-લેની ગમ્મત",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/'swa std 3 maths ch 6 સ્વ અધ્યયનપોથી.pdf"
                     },
                     {
-                      "material_name":"પાઠ : 7 : સમય વહી જાય છે   ",
+                      "material_name":"પાઠ : 7 : સમય વહી જાય છે",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     },
                     {
-                      "material_name": "પાઠ : 8 : વધુ ભારે કોણ?   ",   
+                      "material_name": "પાઠ : 8 : વધુ ભારે કોણ?",   
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 3 maths ch 8 સ્વ અધ્યયનપોથી'.pdf"
                     },
                     {
@@ -241,7 +241,7 @@
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 3 maths ch 13 સ્વ અધ્યયનપોથી.pdf"
                     },
                     {
-                      "material_name": "પાઠ : 14 : રૂપિયા-પૈસા ",
+                      "material_name": "પાઠ : 14 : રૂપિયા-પૈસા",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 3 maths ch 14 સ્વ અધ્યયનપોથી.pdf"
                     }
                   ],
@@ -258,12 +258,12 @@
                       "video_link": "https://youtu.be/73Z-ws4rLHw"
                     },
                     {
-                      "video_name":"પાઠ : 2 : વનપરી   ",
+                      "video_name":"પાઠ : 2 : વનપરી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/51G5alU9fyc"
                     },
                     {
-                      "video_name": "પાઠ : 3 : પાણી જ પાણી !    ",
+                      "video_name": "પાઠ : 3 : પાણી જ પાણી !",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": " https://youtu.be/EkOwSXhpBvE   "
                     },
@@ -4904,7 +4904,7 @@
                   "textbook": [
                   {
                         "textbook_name": "હિન્દી",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/PAT GM Hindi 4 18.2.22.pdf"
+                        "textbook_link":"https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/PAT GM Hindi 4 18.2.22.pdf"
                       }
                   ]
                 }
