@@ -6983,7 +6983,7 @@
                       {
                         "video_name": "ચાલો, ઇતિહાસ જાણીએ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/nNbpmhfivMM"
                       }
                     ],
                     "material": [
@@ -7005,7 +7005,7 @@
                       {
                         "video_name": "આદિમાનવથી સ્થાયી જીવનની સફર",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/ZxqEvdoWhnI"
                       }
                     ],
                     "material": [
@@ -7027,7 +7027,7 @@
                       {
                         "video_name": "પ્રાચીન નગરો અને ગ્રંથો",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/pYADJHI-iQ4"
                       }
                     ],
                     "material": [
@@ -7049,7 +7049,7 @@
                       {
                         "video_name": "ભારતની પ્રારંભિક રાજ્યવ્યવસ્થા",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/ujj-CSxoYoo"
                       }
                     ],
                     "material": [
@@ -7071,7 +7071,7 @@
                       {
                         "video_name": "શાંતિની શોધમાં : બુદ્ધ અને મહાવીર",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/e3pV_VFDeck"
                       }
                     ],
                     "material": [
@@ -7093,7 +7093,7 @@
                       {
                         "video_name": "મૌર્યયુગ : ચંદ્રગુપ્ત અને સમ્રાટ અશોક",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/JS6JIynKDDg"
                       }
                     ],
                     "material": [
@@ -7115,7 +7115,7 @@
                       {
                         "video_name": "ગુપ્તયુગ અને અન્ય શાસકો",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/wLiFr5Bl7PY"
                       }
                     ],
                     "material": [
@@ -7137,7 +7137,7 @@
                       {
                         "video_name": "ભારતવર્ષની ભવ્યતા",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/RF9R2RYxGOo"
                       }
                     ],
                     "material": [
@@ -7159,7 +7159,7 @@
                       {
                         "video_name": "આપણું ઘર : પૃથ્વી",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/wnfr4_hK-L8"
                       }
                     ],
                     "material": [
@@ -7181,7 +7181,7 @@
                       {
                         "video_name": "પૃથ્વીનાં આવરણો",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/i3_vjQafBJ0"
                       }
                     ],
                     "material": [
@@ -7203,7 +7203,7 @@
                       {
                         "video_name": "ભૂમિસ્વરૂપો",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/608telcdJJk"
                       }
                     ],
                     "material": [
@@ -7225,7 +7225,7 @@
                       {
                         "video_name": "નકશો સમજીએ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/aWGXd1ioJ9U"
                       }
                     ],
                     "material": [
@@ -7247,7 +7247,7 @@
                       {
                         "video_name": "ભારત : ભૂપૃષ્ઠ, આબોહવાવનસ્પતિ અને વન્યજીવન",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/1HJAE5RypqY"
                       }
                     ],
                     "material": [
@@ -7269,7 +7269,7 @@
                       {
                         "video_name": "વિવિધતામાં એકતા",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/ympM5khND4M"
                       }
                     ],
                     "material": [
@@ -7291,7 +7291,7 @@
                       {
                         "video_name": "સરકાર",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/b2uBJhnGL1U"
                       }
                     ],
                     "material": [
@@ -7313,7 +7313,7 @@
                       {
                         "video_name": "સ્થાનિક સરકાર",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/EbiLBZTFFWU"
                       }
                     ],
                     "material": [
@@ -7335,7 +7335,7 @@
                       {
                         "video_name": "જીવનનિર્વાહ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/ByYF6crTZ7g"
                       }
                     ],
                     "material": [
@@ -19524,7 +19524,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 1",
+                        "textbook_name": "હિસાબીપદ્ધતિ અને તેના પારિભાષિક શબ્દો",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 account part 1 CH 1.pdf"
                       }
                     ]
@@ -19539,7 +19539,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 2",
+                        "textbook_name": "વ્યવહારોની દ્વિ-અસર અને ખાતાના પ્રકાર",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 account part 1 CH 2.pdf"
                       }
                     ]
@@ -19554,7 +19554,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 3",
+                        "textbook_name": "વસ્તુઓ અને સેવાઓ કર : પરિચય",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 account part 1 CH 3.pdf"
                       }
                     ]
@@ -19569,7 +19569,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 4",
+                        "textbook_name": "આમનોંધ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 account part 1 CH 4.pdf"
                       }
                     ]
@@ -19584,7 +19584,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 5",
+                        "textbook_name": "હિસાબી સમીકરણ અને ધંધાના વ્યવહારો",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 account part 1 CH 5.pdf"
                       }
                     ]
@@ -19599,7 +19599,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 6",
+                        "textbook_name": "પેટાનોંધો",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 account part 1 CH 6.pdf"
                       }
                     ]
@@ -19614,7 +19614,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 7",
+                        "textbook_name": "રોકડમેળ અને તેના પ્રકારો",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 account part 1 CH 7.pdf"
                       }
                     ]
@@ -19629,7 +19629,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 8",
+                        "textbook_name": "ખાસ આમનોંધ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 account part 1 CH 8.pdf"
                       }
                     ]
@@ -19644,7 +19644,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 9",
+                        "textbook_name": "ખાતાવહી–ખતવણી",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 account part 1 CH 9.pdf"
                       }
                     ]
@@ -19659,7 +19659,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 10",
+                        "textbook_name": "કાચું સરવૈયું",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 account part 1 CH 10.pdf"
                       }
                     ]
@@ -19674,7 +19674,7 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 11",
+                        "textbook_name": "બૅન્ક સિલકમેળ",
                         "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 account part 1 CH 11.pdf"
                       }
                     ]
