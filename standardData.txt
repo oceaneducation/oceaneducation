@@ -15392,8 +15392,7 @@
                        {
                         "video_name": "सूरदास के पद",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": "https://youtu.be/c9cqxWkFo_c
-"
+                       "video_link": "https://youtu.be/c9cqxWkFo_c"
                       }
                     ],
                     "material": [
@@ -16030,7 +16029,7 @@
                     "month_name": "Ch - 1",
                     "videos": [
                       {
-                        "video_name": ""આપણી આસપાસમાં દ્રવ્ય",
+                        "video_name": "આપણી આસપાસમાં દ્રવ્ય",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                         "video_link": "https://youtu.be/Tsl5D7BSuCI"
                       }
@@ -16320,7 +16319,11 @@
                   {
                     "month_name": "Ch - 1",
                     "videos": [
-                      
+                      {
+                        "video_name": "ભારતમાં બ્રિટિશ સત્તાનો ઉદય",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/S5KhLdz68qY"
+                      }
                     ],
                     "material": [
                      
@@ -16335,7 +16338,11 @@
                   {
                     "month_name": "Ch - 2",
                     "videos": [
-                      
+                      {
+                        "video_name": "પ્રથમ વિશ્વયુદ્ધ અને રશિયન ક્રાંતિ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/yc7cds8mOu4"
+                      }
                     ],
                     "material": [
                      
@@ -16350,7 +16357,11 @@
                   {
                     "month_name": "Ch - 3",
                     "videos": [
-                      
+                      {
+                        "video_name": "નૂતન વિશ્વ તરફ પ્રયાણ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/aF64IBrVH3k"
+                      }
                     ],
                     "material": [
                      
@@ -16365,7 +16376,11 @@
                   {
                     "month_name": "Ch - 4",
                     "videos": [
-                      
+                      {
+                        "video_name": "ભારતની રાષ્ટ્રીય ચળવળો",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/g3nQErcV9t4"
+                      }
                     ],
                     "material": [
                      
@@ -16380,7 +16395,11 @@
                   {
                     "month_name": "Ch - 5",
                     "videos": [
-                      
+                      {
+                        "video_name": "ભારત : આઝાદી તરફ પ્રયાણ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/9GWqCJWnss8"
+                      }
                     ],
                     "material": [
                      
@@ -16395,7 +16414,11 @@
                   {
                     "month_name": "Ch - 6",
                     "videos": [
-                      
+                      {
+                        "video_name": "1945 પછીનું વિશ્વ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/oUeJ3LXsJJM"
+                      }
                     ],
                     "material": [
                      
@@ -16410,7 +16433,11 @@
                   {
                     "month_name": "Ch - 7",
                     "videos": [
-                      
+                      {
+                        "video_name": "સ્વાતંત્ર્યોત્તર ભારત",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/K_ddZ_Fbjwo"
+                      }
                     ],
                     "material": [
                      
@@ -16425,7 +16452,11 @@
                   {
                     "month_name": "Ch - 8",
                     "videos": [
-                      
+                      {
+                        "video_name": "ભારતના રાજ્યબંધારણનું ઘડતર અને લક્ષણો",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/efgzhNpQkT4"
+                      }
                     ],
                     "material": [
                      
@@ -16440,7 +16471,11 @@
                   {
                     "month_name": "Ch - 9",
                     "videos": [
-                      
+                      {
+                        "video_name": "મૂળભૂત હકો, મૂળભૂત ફરજો અને રાજ્યનીતિના માર્ગદર્શક સિદ્ધાંતો",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/DTiIYoDekFI"
+                      }
                     ],
                     "material": [
                      
@@ -16455,7 +16490,11 @@
                   {
                     "month_name": "Ch - 10",
                     "videos": [
-                      
+                      {
+                        "video_name": "સરકારનાં અંગો",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/8HkgLG-UG7U"
+                      }
                     ],
                     "material": [
                      
@@ -16470,7 +16509,11 @@
                   {
                     "month_name": "Ch - 11",
                     "videos": [
-                      
+                      {
+                        "video_name": "ભારતનું ન્યાયતંત્ર",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/ugw7YmZMKrg"
+                      }
                     ],
                     "material": [
                      
@@ -16485,7 +16528,11 @@
                   {
                     "month_name": "Ch - 12",
                     "videos": [
-                      
+                      {
+                        "video_name": "ભારતીય લોકશાહી",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/8Kz3V51-q6U"
+                      }
                     ],
                     "material": [
                      
@@ -16500,7 +16547,11 @@
                   {
                     "month_name": "Ch - 13",
                     "videos": [
-                      
+                      {
+                        "video_name": "ભારત : સ્થાન, ભૂસ્તરીય રચના અને ભૂપૃષ્ઠ - 1",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/YK0WqkHOSD0"
+                      }
                     ],
                     "material": [
                      
@@ -16515,7 +16566,11 @@
                   {
                     "month_name": "Ch - 14",
                     "videos": [
-                      
+                      {
+                        "video_name": "ભારત : સ્થાન, ભૂસ્તરીય રચના અને ભૂપૃષ્ઠ - II",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": ""
+                      }
                     ],
                     "material": [
                      
@@ -16530,7 +16585,11 @@
                   {
                     "month_name": "Ch - 15",
                     "videos": [
-                      
+                      {
+                        "video_name": "જળ-પરિવાહ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/bCm9RyhVkhw"
+                      }
                     ],
                     "material": [
                      
@@ -16545,7 +16604,11 @@
                   {
                     "month_name": "Ch - 16",
                     "videos": [
-                      
+                      {
+                        "video_name": "આબોહવા",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/u961DwA0EZI"
+                      }
                     ],
                     "material": [
                      
@@ -16560,7 +16623,11 @@
                   {
                     "month_name": "Ch - 17",
                     "videos": [
-                      
+                      {
+                        "video_name": "કુદરતી વનસ્પતિ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/svMw7-5Ywpg"
+                      }
                     ],
                     "material": [
                      
@@ -16575,7 +16642,11 @@
                   {
                     "month_name": "Ch - 18",
                     "videos": [
-                      
+                      {
+                        "video_name": "વન્યજીવન",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/sdbDL57KEjY"
+                      }
                     ],
                     "material": [
                      
@@ -16590,7 +16661,11 @@
                   {
                     "month_name": "Ch - 19",
                     "videos": [
-                      
+                      {
+                        "video_name": "ભારત : લોકજીવન",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/bcLs8J6HR3A"
+                      }
                     ],
                     "material": [
                      
@@ -16605,7 +16680,11 @@
                   {
                     "month_name": "Ch - 20",
                     "videos": [
-                      
+                      {
+                        "video_name": "આપત્તિ-વ્યવસ્થાપન",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/AodDICAHepE"
+                      }
                     ],
                     "material": [
                      
