@@ -4326,19 +4326,19 @@
                     },
                        {
                       "material_name": "પાઠ : 2 : સૂક્ષ્મજીવો : મિત્ર અને શત્રુ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/AllPDF2/swa std 8 sci ch 2 સ્વઅધ્યયન પોથી.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 8 sci ch 2 સ્વઅધ્યયન પોથી.pdf"
                     },
                           {
                       "material_name": "પાઠ : 3 : સંશ્લેશિત(કૃત્રિમ) રેસાઓ અને પ્લાસ્ટિક",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/AllPDF2/swa std 8 sci ch 3 સ્વઅધ્યયન પોથી.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 8 sci ch 3 સ્વઅધ્યયન પોથી.pdf"
                     },
                     {
                       "material_name": "પાઠ : 4 : પદાર્થો : ધાતુ અને અધાતુ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/AllPDF2/swa std 8 sci ch 4 સ્વઅધ્યયન પોથી.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 8 sci ch 4 સ્વઅધ્યયન પોથી.pdf"
                     },
                           {
                       "material_name": "પાઠ : 5 : કોલસો અને પેટ્રોલિયમ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/AllPDF2/swa std 8 sci ch 5 સ્વઅધ્યયન પોથી.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 8 sci ch 5 સ્વઅધ્યયન પોથી.pdf"
                     },
                        {
                       "material_name": "પાઠ :  6 : દહન અને જ્યોત",
@@ -4358,11 +4358,11 @@
                     },
                        {
                       "material_name": "પાઠ : 10 : તરુણાવસ્થા તરફ ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/AllPDF2/swa std 8 sci ch 10 સ્વઅધ્યયન પોથી.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 8 sci ch 10 સ્વઅધ્યયન પોથી.pdf"
                     },
                           {
                       "material_name": "પાઠ :  11 : બળ અને દબાણ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/AllPDF2/swa std 8 sci ch 11 સ્વઅધ્યયન પોથી.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 8 sci ch 11 સ્વઅધ્યયન પોથી.pdf"
                     },
                     {
                       "material_name":"પાઠ :  12 : ઘર્ષણ",
