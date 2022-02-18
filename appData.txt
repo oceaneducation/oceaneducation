@@ -4322,7 +4322,7 @@
                   "material": [
                           {
                       "material_name":"પાઠ : 1 : પાક ઉત્પાદન અને વ્યવસ્થાપન",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/AllPDF2/swa std 8 sci ch 1 સ્વઅધ્યયન પોથી.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 8 sci ch 1 સ્વઅધ્યયન પોથી.pdf"
                     },
                        {
                       "material_name": "પાઠ : 2 : સૂક્ષ્મજીવો : મિત્ર અને શત્રુ",
