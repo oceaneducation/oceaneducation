@@ -4904,7 +4904,7 @@
                   "textbook": [
                   {
                         "textbook_name": "હિન્દી",
-                        "textbook_link":"https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/PAT GM Hindi 4 18.2.22.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/PAT GM Hindi 4 18.2.22.pdf"
                       }
                   ]
                 }
@@ -4947,7 +4947,7 @@
                   "textbook": [
                    {
                         "textbook_name": "અંગ્રેજી",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/PAT GM Eng 6 18.2.22.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/PAT GM Eng 6 18.2.22.pdf"
                       }
                   ]
                 }
@@ -4975,7 +4975,7 @@
                   "textbook": [
                    {
                         "textbook_name": "ગણિત",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/PAT GM Maths 7 18.2.22.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/PAT GM Maths 7 18.2.22.pdf"
                       }
                   ]
                 }
@@ -5003,7 +5003,7 @@
                   "textbook": [
                    {
                         "textbook_name": "હિન્દી",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/PAT GM Hindi 8 18.2.22.pdf"
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/PAT GM Hindi 8 18.2.22.pdf"
                       }
                   ]
                 }
