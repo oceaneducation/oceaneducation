@@ -5813,12 +5813,12 @@
                      {
                       "video_name": "ગણિત પ્રશ્નપત્ર-૨ વિભાગ-C",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/sQ80J_CmBWo"
                     },
                      {
                       "video_name": "ગણિત પ્રશ્નપત્ર-૨ વિભાગ-D",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/ftQoEfwGVH4"
                     },
                      {
                       "video_name": "ગણિત પ્રશ્નપત્ર-૩ વિભાગ-A",
@@ -6060,12 +6060,12 @@
                        {
                       "video_name": "વિજ્ઞાન પ્રશ્નપત્ર-૫ વિભાગ-A",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/gbrdJIc_Ktg"
                     },
                       {
                       "video_name": "વિજ્ઞાન પ્રશ્નપત્ર-૫ વિભાગ-B",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/dww2XT86YKw"
                     },
                       {
                       "video_name": "વિજ્ઞાન પ્રશ્નપત્ર-૫ વિભાગ-C",
@@ -6666,12 +6666,12 @@
                       {
                       "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૩ વિભાગ-A",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/R2EcVPQRtfg"
                     },
                     {
                       "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૩ વિભાગ-B",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/LWVFYn033zw"
                     },
                     {
                       "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૩ વિભાગ-C",
