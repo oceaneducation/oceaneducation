@@ -19197,8 +19197,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "Ch - 1",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdfs/STD 11 BA CH 1.pdf"
+                        "textbook_name": "ધંધાનું સ્વરૂપ, હેતુ અને કાર્યક્ષેત્ર",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 BA CH 1.pdf"
                       }
                     ]
                   },
