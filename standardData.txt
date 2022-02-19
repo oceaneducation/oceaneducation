@@ -20686,7 +20686,7 @@
                        {
                         "video_name": "અર્થશાસ્ત્ર : વિષય-પ્રવેશ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/AGiW4FGuF9E"
                       }
                     ],
                     "material": [
@@ -20705,7 +20705,7 @@
                        {
                         "video_name": "મૂળભૂત ખ્યાલો અને સંકલ્પનાઓ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/SAbf2gW91C4"
                       }
                     ],
                     "material": [
@@ -20724,7 +20724,7 @@
                        {
                         "video_name": "માંગ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/b61k_wH-PlI"
                       }
                     ],
                     "material": [
@@ -20743,7 +20743,7 @@
                        {
                         "video_name": "પુરવઠો",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/rHzWhEbT4vY"
                       }
                     ],
                     "material": [
@@ -20762,7 +20762,7 @@
                        {
                         "video_name": "આવક અને ખર્ચના ખ્યાલો",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/RqWoSE2MKwI"
                       }
                     ],
                     "material": [
@@ -20781,7 +20781,7 @@
                        {
                         "video_name": "બજાર",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/9Qv8-FYY5uY"
                       }
                     ],
                     "material": [
@@ -20800,7 +20800,7 @@
                        {
                         "video_name": "ભારતીય અર્થતંત્ર",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/ZhWy2LcG548"
                       }
                     ],
                     "material": [
