@@ -20184,9 +20184,9 @@
                     "month_name": "Ch - 1",
                     "videos": [
                        {
-                        "video_name": "જાગને જાદવા",
+                        "video_name": "નાવિક વળતો બોલિયો",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/8Pu6ALZonaw"
                       }
                     ],
                     "material": [
@@ -20194,8 +20194,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "જાગને જાદવા",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 GUJ CH -1.pdf"
+                        "textbook_name": "નાવિક વળતો બોલિયો",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
                     ]
                   },
@@ -20203,9 +20203,9 @@
                     "month_name": "Ch - 2",
                     "videos": [
                        {
-                        "video_name":   "ખરી મા",
+                        "video_name": "પોસ્ટ ઑફિસ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/sMcdg7Tbd9M"
                       }
                     ],
                     "material": [
@@ -20213,8 +20213,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "ખરી મા",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 GUJ CH 2.pdf"
+                        "textbook_name":  "પોસ્ટ ઑફિસ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
                     ]
                   },
@@ -20222,9 +20222,9 @@
                     "month_name": "Ch - 3",
                     "videos": [
                        {
-                        "video_name": "સુદામાચરિત્ર",
+                        "video_name": "એમ ઉગાર્યો ચંદ્રહાસ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": " https://youtu.be/cMM_25nx9_U"
                       }
                     ],
                     "material": [
@@ -20232,8 +20232,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "સુદામાચરિત્ર",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 GUJ CH 3.pdf"
+                        "textbook_name": "એમ ઉગાર્યો ચંદ્રહાસ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
                     ]
                   },
@@ -20241,9 +20241,9 @@
                     "month_name": "Ch - 4",
                     "videos": [
                        {
-                        "video_name": "મારા રાહબર : અહેમદ જલાલુદીન",
+                        "video_name": "અમૃતા",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/89FFSHh1vBw"
                       }
                     ],
                     "material": [
@@ -20251,8 +20251,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "મારા રાહબર : અહેમદ જલાલુદીન",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 GUJ CH 4.pdf"
+                        "textbook_name": "અમૃતા",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
                     ]
                   },
@@ -20260,9 +20260,9 @@
                     "month_name": "Ch - 5",
                     "videos": [
                        {
-                        "video_name": "પિતાની સેવા",
+                        "video_name": "છપ્પા / ઉખાણાં",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/ZPE0k7E6Nbk"
                       }
                     ],
                     "material": [
@@ -20270,8 +20270,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "પિતાની સેવા",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 GUJ CH 5.pdf"
+                        "textbook_name": "છપ્પા / ઉખાણાં",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
                     ]
                   },
@@ -20279,9 +20279,9 @@
                     "month_name": "Ch - 6",
                     "videos": [
                        {
-                        "video_name": "આંટી",
+                        "video_name": "સુંદરીની શોધ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/Z3iLFVx0jVo"
                       }
                     ],
                     "material": [
@@ -20289,8 +20289,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "આંટી",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 GUJ CH 6.pdf"
+                        "textbook_name": "સુંદરીની શોધ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
                     ]
                   },
@@ -20298,9 +20298,9 @@
                     "month_name": "Ch - 7",
                     "videos": [
                        {
-                        "video_name": "ગવતરી",
+                        "video_name":  "વનમાં ચાંદલિયો ઊગ્યો",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/6HIKA7eI4Sc"
                       }
                     ],
                     "material": [
@@ -20308,8 +20308,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "ગવતરી",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 GUJ CH 7.pdf"
+                        "textbook_name":  "વનમાં ચાંદલિયો ઊગ્યો",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
                     ]
                   },
@@ -20317,9 +20317,9 @@
                     "month_name": "Ch - 8",
                     "videos": [
                        {
-                        "video_name": "પુસ્તક : દિલોજાન દોસ્ત",
+                        "video_name": "બુરાઈના દ્વાર પર",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/WWPN6cGI1OI"
                       }
                     ],
                     "material": [
@@ -20327,8 +20327,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "પુસ્તક : દિલોજાન દોસ્ત",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 GUJ CH 8.pdf"
+                        "textbook_name": "બુરાઈના દ્વાર પર",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
                     ]
                   },
@@ -20336,9 +20336,9 @@
                     "month_name": "Ch - 9",
                     "videos": [
                        {
-                        "video_name": "હરિનાં દર્શન",
+                        "video_name":  "ચક્રવાક મિથુન",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/QJq88LkfWfE"
                       }
                     ],
                     "material": [
@@ -20346,8 +20346,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "હરિનાં દર્શન",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 GUJ CH 9.pdf"
+                        "textbook_name":  "ચક્રવાક મિથુન",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
                     ]
                   },
@@ -20355,9 +20355,9 @@
                     "month_name": "Ch - 10",
                     "videos": [
                        {
-                        "video_name": "બે લઘુકથાઓ",
+                        "video_name": "જીભ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/Rsm_2QYJfPE"
                       }
                     ],
                     "material": [
@@ -20365,8 +20365,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "બે લઘુકથાઓ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 GUJ CH 10.pdf"
+                        "textbook_name": "જીભ", 
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
                     ]
                   },
@@ -20374,9 +20374,9 @@
                     "month_name": "Ch - 11",
                     "videos": [
                        {
-                        "video_name": "ભવિષ્યવેત્તા",
+                        "video_name": "સીમ અને ખેતર",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/UDhQBaGW8_M"
                       }
                     ],
                     "material": [
@@ -20384,8 +20384,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "ભવિષ્યવેત્તા",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 GUJ CH 11.pdf"
+                        "textbook_name": "સીમ અને ખેતર",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
                     ]
                   },
@@ -20393,9 +20393,9 @@
                     "month_name": "Ch - 12",
                     "videos": [
                        {
-                        "video_name": "કર્ણ-કુંતી સંવાદ",
+                        "video_name": "પ્રસંગ દીપ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/byp5OkUvyCE"
                       }
                     ],
                     "material": [
@@ -20403,8 +20403,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "કર્ણ-કુંતી સંવાદ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 GUJ CH 12.pdf"
+                        "textbook_name": "પ્રસંગ દીપ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
                     ]
                   },
@@ -20412,9 +20412,9 @@
                     "month_name": "Ch - 13",
                     "videos": [
                        {
-                        "video_name": "પૂજારી તું પાછો જા !",
+                        "video_name": "પરાજય ની જીત",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/fNiT4o21p_4"
                       }
                     ],
                     "material": [
@@ -20422,8 +20422,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "પૂજારી તું પાછો જા !",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 GUJ CH 13.pdf"
+                        "textbook_name": "પરાજય ની જીત",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
                     ]
                   },
@@ -20431,9 +20431,9 @@
                     "month_name": "Ch - 14",
                     "videos": [
                        {
-                        "video_name": "દાદાજી",
+                        "video_name": "વાત એક શાપની",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/qnDi44G8sdY"
                       }
                     ],
                     "material": [
@@ -20441,8 +20441,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "દાદાજી",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 GUJ CH 14.pdf"
+                        "textbook_name": "વાત એક શાપની",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
                     ]
                   },
@@ -20450,9 +20450,9 @@
                     "month_name": "Ch - 15",
                     "videos": [
                        {
-                        "video_name": "એક જ દે ચિનગારી",
+                        "video_name": "મારા ફળીના ઝાડાવા બે",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/LXqOl16YJRE"
                       }
                     ],
                     "material": [
@@ -20460,8 +20460,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "એક જ દે ચિનગારી",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 GUJ CH 15.pdf"
+                        "textbook_name": "મારા ફળીના ઝાડાવા બે",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
                     ]
                   },
@@ -20469,9 +20469,9 @@
                     "month_name": "Ch - 16",
                     "videos": [
                        {
-                        "video_name": "મૌન એ જ વીરતા",
+                        "video_name":  "તપસ્વી સારસ્વત",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/tTqsVUEvbG0"
                       }
                     ],
                     "material": [
@@ -20479,8 +20479,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "મૌન એ જ વીરતા",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 GUJ CH 16.pdf"
+                        "textbook_name": "તપસ્વી સારસ્વત",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
                     ]
                   },
@@ -20488,9 +20488,9 @@
                     "month_name": "Ch - 17",
                     "videos": [
                        {
-                        "video_name": "મારું ઘર",
+                        "video_name": "ભજન કરે તે જીતે",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/Ns1e4BL5H60"
                       }
                     ],
                     "material": [
@@ -20498,8 +20498,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "મારું ઘર",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 GUJ CH 17.pdf"
+                        "textbook_name": "ભજન કરે તે જીતે",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
                     ]
                   },
@@ -20507,9 +20507,9 @@
                     "month_name": "Ch - 18",
                     "videos": [
                        {
-                        "video_name": "અણદો",
+                        "video_name": "હુકમ, માલિક",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/1mWVpcP5Imo"
                       }
                     ],
                     "material": [
@@ -20517,8 +20517,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "અણદો",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 GUJ CH 18.pdf"
+                        "textbook_name": "હુકમ, માલિક",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
                     ]
                   },
@@ -20526,9 +20526,9 @@
                     "month_name": "Ch - 19",
                     "videos": [
                        {
-                        "video_name": "રસ્તા વસંતના",
+                        "video_name": "કાવ્યદ્ર્યી",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/bu19WlbjfXc"
                       }
                     ],
                     "material": [
@@ -20536,8 +20536,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "રસ્તા વસંતના",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 GUJ CH 19.pdf"
+                        "textbook_name": "કાવ્યદ્ર્યી",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
                     ]
                   },
@@ -20545,9 +20545,9 @@
                     "month_name": "Ch - 20",
                     "videos": [
                        {
-                        "video_name": "દિલાવરી",
+                        "video_name": "સ્ટેચ્યું રમવાની મજા",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/plXaexrp2GM"
                       }
                     ],
                     "material": [
@@ -20555,8 +20555,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "દિલાવરી",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 GUJ CH 20.pdf"
+                        "textbook_name": "સ્ટેચ્યું રમવાની મજા",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
                     ]
                   },
@@ -20564,9 +20564,9 @@
                     "month_name": "Ch - 21",
                     "videos": [
                        {
-                        "video_name": "વિસામો",
+                        "video_name":  "ભગવાન નો ભાગ",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/dFwItzeJkjQ"
                       }
                     ],
                     "material": [
@@ -20574,8 +20574,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "વિસામો",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 GUJ CH 21.pdf"
+                        "textbook_name":  "ભગવાન નો ભાગ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
                     ]
                   },
@@ -20583,9 +20583,9 @@
                     "month_name": "Ch - 22",
                     "videos": [
                        {
-                        "video_name": "મચ્ચ-પિચ્છ",
+                        "video_name":  "જમાના પ્રમાણે",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/tQx2nvmo1e0"
                       }
                     ],
                     "material": [
@@ -20593,8 +20593,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "મચ્ચ-પિચ્છ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 GUJ CH 22.pdf"
+                        "textbook_name":  "જમાના પ્રમાણે",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
                     ]
                   },
@@ -20602,9 +20602,9 @@
                     "month_name": "Ch - 23",
                     "videos": [
                        {
-                        "video_name": "સહવાસ",
+                        "video_name": "સહી નહી",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/nwQ37SLWBf0"
                       }
                     ],
                     "material": [
@@ -20612,8 +20612,8 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "સહવાસ",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 GUJ CH 23.pdf"
+                        "textbook_name": "સહી નહી",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
                     ]
                   },
@@ -20621,9 +20621,9 @@
                     "month_name": "Ch - 24",
                     "videos": [
                        {
-                        "video_name": "કેટલી જમીન જોઈએ ?",
+                        "video_name":  "રેફરન્સ  બૂક",
                         "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                        "video_link": ""
+                        "video_link": "https://youtu.be/nbyPxy3Vx2Q"
                       }
                     ],
                     "material": [
@@ -20631,8 +20631,46 @@
                     ],
                     "textbook": [
                       {
-                        "textbook_name": "કેટલી જમીન જોઈએ ?",
-                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 GUJ CH 24.pdf"
+                        "textbook_name":  "રેફરન્સ  બૂક",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 25",
+                    "videos": [
+                       {
+                        "video_name": "દુહા, મુક્તક, હાઇકુ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/H7UDgQJIr9w"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name":  "દુહા, મુક્તક, હાઇકુ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      }
+                    ]
+                  },
+                  {
+                    "month_name": "Ch - 26",
+                    "videos": [
+                       {
+                        "video_name":  "બે દ્રષ્ટાંત કથાઓ",
+                        "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                        "video_link": "https://youtu.be/OOhESDYXWCM"
+                      }
+                    ],
+                    "material": [
+                     
+                    ],
+                    "textbook": [
+                      {
+                        "textbook_name": "બે દ્રષ્ટાંત કથાઓ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                       }
                     ]
                   }
