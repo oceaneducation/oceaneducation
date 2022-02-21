@@ -1,6 +1,6 @@
 {
       "homedata_name": "સ્વ અધ્યયન પોથી  ",
-      "homedata_image": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/images/i 2.png",
+      "homedata_image": "",
       "direct_sub_cat": false,
       "sub_data": [
         {
