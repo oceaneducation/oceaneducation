@@ -70,7 +70,7 @@
                    
                     {
                       "material_name":"પાઠ : 1 : વાંદરાને વાંચતાં ન આવડે",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 3 guj ch 1 સ્વ અધ્યયનપોથી.pdf"
                     },
                      {
                       "material_name": "પાઠ : 2 : પોટલાં ટપકે ટપ્પ",
