@@ -1,0 +1,148 @@
+{
+      "homedata_name": "એકમ  કસોટી ",
+      "homedata_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+      "direct_sub_cat": false,
+      "sub_data": [
+        {
+          "sub_data_name": "એકમ  કસોટી ",
+          "standard_data": [
+            {
+              "standard_name": "ધોરણ 3",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "ફેબ્રુઆરી 2022",
+                  "videos": [],
+                  "material": [],
+                  "textbook": []
+                }
+              ]
+            },
+            {
+              "standard_name": "ધોરણ 4",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "18 ફેબ્રુઆરી 2022",
+                  "videos": [
+                    {
+                      "video_name": "હિન્દી",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/l9dvdf3aXuA"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "હિન્દી",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 4 Hindi એકમ કસોટી.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "હિન્દી",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/PAT GM Hindi 4 18.2.22.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "ધોરણ 5",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "ફેબ્રુઆરી 2022",
+                  "videos": [],
+                  "material": [],
+                  "textbook": []
+                }
+              ]
+            },
+            {
+              "standard_name": "ધોરણ 6",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "18 ફેબ્રુઆરી 2022",
+                  "videos": [
+                    {
+                      "video_name": "અંગ્રેજી",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/QtAnP3WTOtg"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "અંગ્રેજી",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 6 English એકમ કસોટી.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "અંગ્રેજી",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/PAT GM Eng 6 18.2.22.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "ધોરણ 7",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "18 ફેબ્રુઆરી 2022",
+                  "videos": [
+                    {
+                      "video_name": "ગણિત",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/nRUhIhbELi4"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "ગણિત",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 7 ગણિત એકમ કસોટી.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "ગણિત",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/PAT GM Maths 7 18.2.22.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "ધોરણ 8",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "18 ફેબ્રુઆરી 2022",
+                  "videos": [
+                    {
+                      "video_name": "હિન્દી",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Rc_kMdLm-8U"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "હિન્દી",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 8 Hindi એકમ કસોટી.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "હિન્દી",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/PAT GM Hindi 8 18.2.22.pdf"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
