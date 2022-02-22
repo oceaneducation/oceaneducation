@@ -6061,12 +6061,12 @@
                      {
                       "video_name": "વિજ્ઞાન પ્રશ્નપત્ર-૪ વિભાગ-B",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/2xYEgT-qcLQ"
                     },
                      {
                       "video_name": "વિજ્ઞાન પ્રશ્નપત્ર-૪ વિભાગ-C",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/UPLZVmu3Yzo"
                     },
                      {
                       "video_name": "વિજ્ઞાન પ્રશ્નપત્ર-૪ વિભાગ-D",
@@ -6091,7 +6091,7 @@
                       {
                       "video_name": "વિજ્ઞાન પ્રશ્નપત્ર-૫ વિભાગ-D",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/005bOQ-K1Z4"
                     }
                   ],
                   "material": [
