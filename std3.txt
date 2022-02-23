@@ -578,7 +578,7 @@
                   "material": [
                     {
                       "material_name": "વાંદરાને વાંચતાં ન આવડે",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std3/std 3 guj ch 1.pdf"
                     }
                   ],
                   "textbook": [
@@ -600,7 +600,7 @@
                   "material": [
                     {
                       "material_name": "પોટલાં ટપકે ટપ્પ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std3/std 3 guj ch 2.pdf"
                     }
                   ],
                   "textbook": [
@@ -622,7 +622,7 @@
                   "material": [
                     {
                       "material_name": "હું પતંગિયું મારા પિલ્લુનું",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std3/std 3 guj ch 3.pdf"
                     }
                   ],
                   "textbook": [
@@ -644,7 +644,7 @@
                   "material": [
                     {
                       "material_name": "સસલા ની પાછળ કુતરો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std3/std 3 guj ch 4.pdf"
                     }
                   ],
                   "textbook": [
@@ -670,8 +670,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "કોરો કાચબો ભીનો ચાંદો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "કોરો કાચબો ભીનો ચાંદો-part-1",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std3/std 3 guj ch 5 part 1.pdf"
+                    },
+                    {
+                      "material_name": "કોરો કાચબો ભીનો ચાંદો part-2",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std3/std 3 guj ch 5 part 2.pdf"
                     }
                   ],
                   "textbook": [
@@ -697,8 +701,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "બતક અને અથવા પણ હંસ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "બતક અને અથવા પણ હંસ part-1",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std3/std 3 guj ch 6 part 1.pdf"
+                    },
+                     {
+                      "material_name": "બતક અને અથવા પણ હંસ part-2",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std3/std 3 guj ch 6 part 2.pdf"
                     }
                   ],
                   "textbook": [
@@ -729,8 +737,16 @@
                   ],
                   "material": [
                     {
-                      "material_name": "એક છલાંગે દરિયો કૂદો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "એક છલાંગે દરિયો કૂદો part-1",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std3/std 3 guj ch 7 part 1.pdf"
+                    },
+                    {
+                      "material_name": "એક છલાંગે દરિયો કૂદો part-2",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std3/std 3 guj ch 7 part 2.pdf"
+                    },
+                    {
+                      "material_name": "એક છલાંગે દરિયો કૂદો part-3",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std3/std 3 guj ch 7 part 3.pdf"
                     }
                   ],
                   "textbook": [
@@ -756,8 +772,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "કીડી હતી કે હાથી હશે!",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "કીડી હતી કે હાથી હશે! part-1",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std3/std 3 guj ch 8 part 1.pdf"
+                    },
+                    {
+                      "material_name": "કીડી હતી કે હાથી હશે! part-2",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std3/std 3 guj ch 8 part 2.pdf"
                     }
                   ],
                   "textbook": [
@@ -783,8 +803,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "રંગબેરંગી મસાલિયું",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "રંગબેરંગી મસાલિયું part-1",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std3/std 3 guj ch 9 part 1.pdf"
+                    },
+                     {
+                      "material_name": "રંગબેરંગી મસાલિયું part-2",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std3/std 3 guj ch 9 part 2.pdf"
                     }
                   ],
                   "textbook": [
@@ -805,8 +829,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "ચાલો સૌને રમત મુબારક",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ચાલો સૌને રમત મુબારક(part-1)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std3/std 3 guj ch 10 part 1.pdf"
+                    },
+                     {
+                      "material_name": "ચાલો સૌને રમત મુબારક(part-2)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std3/std 3 guj ch 10 part 2.pdf"
                     }
                   ],
                   "textbook": [
