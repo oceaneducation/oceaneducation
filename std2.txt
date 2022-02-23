@@ -927,7 +927,7 @@
                   "textbook": [
                     {
                       "material_name": "વર્ણમાળા પરિચય",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/"
                     }
                   ]
                 },
@@ -943,7 +943,7 @@
                   "material": [
                     {
                       "material_name": "સ્વર અક્ષર અ અને આ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 hindi સ્વર अ, आ.pdf"
                     }
                   ],
                   "textbook": []
@@ -960,7 +960,7 @@
                   "material": [
                     {
                       "material_name": "સ્વર અક્ષર ઇ અને ઈ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 hindi સ્વર इ, ई.pdf"
                     }
                   ],
                   "textbook": []
@@ -977,7 +977,7 @@
                   "material": [
                     {
                       "material_name": "સ્વર અક્ષર ઉ,ઊ અને ઋ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 hindi સ્વર उ, ऊ, ऋ.pdf"
                     }
                   ],
                   "textbook": []
@@ -994,7 +994,7 @@
                   "material": [
                     {
                       "material_name": "ફૂલ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 hindi ફૂલ ના નામ.pdf"
                     }
                   ],
                   "textbook": []
@@ -1011,7 +1011,7 @@
                   "material": [
                     {
                       "material_name": "ગિનતી ૨૧ થી ૫૦",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/२१ થી ५० ગિનતી.pdf"
                     }
                   ],
                   "textbook": []
@@ -1028,7 +1028,7 @@
                   "material": [
                     {
                       "material_name": "સ્વર અક્ષર એ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 hindi સ્વર ए.pdf"
                     }
                   ],
                   "textbook": []
@@ -1045,7 +1045,7 @@
                   "material": [
                     {
                       "material_name": "સ્વર અક્ષર ઐ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 hindi સ્વર ऐ.pdf"
                     }
                   ],
                   "textbook": []
@@ -1062,7 +1062,7 @@
                   "material": [
                     {
                       "material_name": "સ્વર અક્ષર ઓ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 hindi સ્વર ओ.pdf"
                     }
                   ],
                   "textbook": []
@@ -1079,7 +1079,7 @@
                   "material": [
                     {
                       "material_name": "સ્વર અક્ષર ઔ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 hindi સ્વર औ.pdf"
                     }
                   ],
                   "textbook": []
@@ -1096,7 +1096,7 @@
                   "material": [
                     {
                       "material_name": "સ્વર અક્ષર અં અને અઃ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 hindi સ્વર अं,अः.pdf"
                     }
                   ],
                   "textbook": []
@@ -1113,7 +1113,7 @@
                   "material": [
                     {
                       "material_name": "શાકભાજી અને ફળ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 hindi सब्जी फल.pdf"
                     }
                   ],
                   "textbook": []
@@ -1130,7 +1130,7 @@
                   "material": [
                     {
                       "material_name": "પક્ષી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 hindi પક્ષી અને રંગ.pdf"
                     }
                   ],
                   "textbook": []
@@ -1147,7 +1147,7 @@
                   "material": [
                     {
                       "material_name": "પુનરાવર્તન ૧",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 હિન્દી પુનરાવર્તન ૧ (अ,आ,इ).pdf"
                     }
                   ],
                   "textbook": []
