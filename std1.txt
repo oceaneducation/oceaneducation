@@ -752,7 +752,7 @@
                   "material": [
                     {
                       "material_name": "હિન્દી મૂળાક્ષર ગ અને ઘ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std 1 hindi ग घ.pdf"
                     }
                   ],
                   "textbook": [
