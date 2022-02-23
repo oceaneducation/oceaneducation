@@ -22,7 +22,7 @@
                   "material": [
                     {
                       "material_name": "શું લાંબુ છે? શું ગોળ છે?",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/"
                     }
                   ],
                   "textbook": [
@@ -44,7 +44,7 @@
                   "material": [
                     {
                       "material_name": "જૂથમાં ગણવું",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/"
                     }
                   ],
                   "textbook": [
@@ -66,7 +66,7 @@
                   "material": [
                     {
                       "material_name": "તમે કેટલું ઊંચકી શકો?",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 maths ch 3.pdf"
                     }
                   ],
                   "textbook": [
@@ -88,7 +88,7 @@
                   "material": [
                     {
                       "material_name": "દસ-દસની ગણતરી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 maths ch 4.pdf"
                     }
                   ],
                   "textbook": [
@@ -110,7 +110,7 @@
                   "material": [
                     {
                       "material_name": "પૅટર્ન",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 maths ch 5.pdf"
                     }
                   ],
                   "textbook": [
@@ -132,7 +132,7 @@
                   "material": [
                     {
                       "material_name": "પગની છાપ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 maths ch 6.pdf"
                     }
                   ],
                   "textbook": [
@@ -154,7 +154,7 @@
                   "material": [
                     {
                       "material_name": "જગ અને મગ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 maths ch 7.pdf"
                     }
                   ],
                   "textbook": [
@@ -176,7 +176,7 @@
                   "material": [
                     {
                       "material_name": "દશક અને એકમ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 maths ch 8.pdf"
                     }
                   ],
                   "textbook": [
@@ -198,7 +198,7 @@
                   "material": [
                     {
                       "material_name": "મારો મજાનો દિવસ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 maths ch 9.pdf"
                     }
                   ],
                   "textbook": [
@@ -224,8 +224,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "અમારા અંકો ઉમેરો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "અમારા અંકો ઉમેરો (PART-1)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 maths ch 10 ભાગ 1.pdf"
+                    },
+                     {
+                      "material_name": "અમારા અંકો ઉમેરો (PART-2)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 maths ch 10 ભાગ 2.pdf"
                     }
                   ],
                   "textbook": [
@@ -247,7 +251,7 @@
                   "material": [
                     {
                       "material_name": "લીટીઓ જ લીટીઓ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 maths પાઠ ૧૧.pdf"
                     }
                   ],
                   "textbook": [
@@ -273,8 +277,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "આપો અને લો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "part-1 આપો અને લો",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 maths ch 12 (ભાગ 1 ).pdf"
+                    },
+                      {
+                      "material_name": "part-2 આપો અને લો",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 maths ch 12 (ભાગ 2).pdf"
                     }
                   ],
                   "textbook": [
@@ -296,7 +304,7 @@
                   "material": [
                     {
                       "material_name": "સૌથી લાંબું ડગલું",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 maths ch 13 (ભાગ 1).pdf"
                     }
                   ],
                   "textbook": [
@@ -318,7 +326,7 @@
                   "material": [
                     {
                       "material_name": "પક્ષીઓ આવે, પક્ષીઓ જાય",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/"
                     }
                   ],
                   "textbook": [
@@ -340,7 +348,7 @@
                   "material": [
                     {
                       "material_name": "કેટલી ચોટલીઓ છે?",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/"
                     }
                   ],
                   "textbook": [
@@ -362,7 +370,7 @@
                   "material": [
                     {
                       "material_name": "પુનરાવર્તન – 1",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 maths પુનરાવર્તન ૧ ( 1 to 3).pdf"
                     }
                   ],
                   "textbook": []
@@ -379,7 +387,7 @@
                   "material": [
                     {
                       "material_name": "પુનરાવર્તન – 2",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 maths પુનરાવર્તન ૨ (4 to 6).pdf"
                     }
                   ],
                   "textbook": []
@@ -396,7 +404,7 @@
                   "material": [
                     {
                       "material_name": "પુનરાવર્તન – 3",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 ગણિત પુનરાવર્તન 3( પાઠ - ૭ થી ૯).pdf"
                     }
                   ],
                   "textbook": []
