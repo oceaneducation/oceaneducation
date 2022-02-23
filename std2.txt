@@ -579,7 +579,7 @@
                   "material": [
                     {
                       "material_name": "શરણાઈ, ઢોલક અને રંગ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/"
                     }
                   ],
                   "textbook": [
@@ -601,7 +601,7 @@
                   "material": [
                     {
                       "material_name": "દાદા ખોવાયા છે",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/"
                     }
                   ],
                   "textbook": [
@@ -623,7 +623,7 @@
                   "material": [
                     {
                       "material_name": "આટલા બધા રમકડાં! ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 guj ch 3.pdf"
                     }
                   ],
                   "textbook": [
@@ -645,7 +645,7 @@
                   "material": [
                     {
                       "material_name": "જંગલ બુક",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 guj ch 4.pdf"
                     }
                   ],
                   "textbook": [
@@ -671,8 +671,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "મારે તો બસ રમવું છે",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "part – 1 મારે તો બસ રમવું છે",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 guj ch 5 (1).pdf"
+                    },
+                    {
+                      "material_name": "part – 2 મારે તો બસ રમવું છે",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 guj ch 5 (2).pdf"
                     }
                   ],
                   "textbook": [
@@ -694,7 +698,7 @@
                   "material": [
                     {
                       "material_name": "પર્વતનો મુરબ્બો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 guj ch 6.pdf"
                     }
                   ],
                   "textbook": [
@@ -720,8 +724,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "આમ પણ હોય",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "part -1 આમ પણ હોય",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 guj ch 7 (1).pdf"
+                    },
+                    {
+                      "material_name": "part -2 આમ પણ હોય",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 guj ch 7 (2).pdf"
                     }
                   ],
                   "textbook": [
@@ -747,8 +755,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "સોય, સંચો અને સાબુ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "part-1 સોય, સંચો અને સાબુ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 guj ch 8 (1).pdf"
+                    },
+                     {
+                      "material_name": "part-2 સોય, સંચો અને સાબુ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 guj ch 8 (2).pdf"
                     }
                   ],
                   "textbook": [
@@ -774,8 +786,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "આપણે સૌ તોફાની",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "part-1 આપણે સૌ તોફાની",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 gujarati ch 9 (ભાગ - 1).pdf"
+                    },
+                    {
+                      "material_name": "part-2 આપણે સૌ તોફાની",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 gujarati ch 9 (ભાગ - 2).pdf"
                     }
                   ],
                   "textbook": [
@@ -801,8 +817,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "કામ કરીએ કલક કલક",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "part -1 કામ કરીએ કલક કલક",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 guj પાઠ ૧૦ (ભાગ ૧).pdf"
+                    },
+                     {
+                      "material_name": "part -2 કામ કરીએ કલક કલક",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 guj પાઠ ૧૦ (ભાગ ૨).pdf"
                     }
                   ],
                   "textbook": [
@@ -824,7 +844,7 @@
                   "material": [
                     {
                       "material_name": "પુનરાવર્તન -1",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 ગુજરાતી પુનરાવર્તન ૧( પાઠ -૧ થી ૩).pdf"
                     }
                   ],
                   "textbook": []
@@ -841,7 +861,7 @@
                   "material": [
                     {
                       "material_name": "પુનરાવર્તન -2",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 ગુજરાતી પુનરાવર્તન ૨( પાઠ - ૪ થી ૬).pdf"
                     }
                   ],
                   "textbook": []
@@ -858,7 +878,7 @@
                   "material": [
                     {
                       "material_name": "પુનરાવર્તન -3",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 ગુજરાતી પુનરાવર્તન ૩( પાઠ - ૭ અને ૮).pdf"
                     }
                   ],
                   "textbook": []
@@ -875,7 +895,7 @@
                   "material": [
                     {
                       "material_name": "પુનરાવર્તન -4",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std2/std 2 ગુજરાતી પુનરાવર્તન ૪ ( પાઠ - ૯ અને ૧૦).pdf"
                     }
                   ],
                   "textbook": []
