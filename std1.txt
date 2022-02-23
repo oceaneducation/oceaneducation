@@ -21,8 +21,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "પાઠ : 2 : પોટલાં ટપકે ટપ્પ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/swa std 3 gujarati ch.2 swadhyaanpothi.pdf"
+                      "material_name": "મ્યાઉં મ્યાઉં.... કા કા કા…",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     }
                   ],
                   "textbook": [
@@ -729,7 +729,7 @@
                   ],
                   "material": [
                      {
-                      "material_name": "પાઠ : 2 : પોટલાં ટપકે ટપ્પ",
+                      "material_name": "હિન્દી મૂળાક્ષર ક અને ખ",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std 1 hindi क ख.pdf"
                     }
                   ],
