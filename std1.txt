@@ -440,7 +440,7 @@
                   "material": [
                     {
                       "material_name": "સરવાળા",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/"
                     }
                   ],
                   "textbook": [
@@ -462,7 +462,7 @@
                   "material": [
                     {
                       "material_name": "બાદબાકી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std 1 ગણિત પાઠ ૪.pdf"
                     }
                   ],
                   "textbook": [
@@ -488,8 +488,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "દસથી વીસ સુધીની સંખ્યા",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "દસથી વીસ સુધીની સંખ્યા(part 1)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std 1 ગણિત પાઠ ૫ ભાગ - ૧.pdf"
+                    },
+                      {
+                      "material_name": "દસથી વીસ સુધીની સંખ્યા(part 2)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std 1 ગણિત પાઠ ૫ ભાગ - ૨.pdf"
                     }
                   ],
                   "textbook": [
@@ -511,7 +515,7 @@
                   "material": [
                     {
                       "material_name": "સમય",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std 1 ગણિત પાઠ ૬.pdf"
                     }
                   ],
                   "textbook": [
@@ -537,8 +541,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "માપન",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "માપન (part 1)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std 1 ગણિત પાઠ ૭ ભાગ - ૧.pdf"
+                    },
+                     {
+                      "material_name": "માપન (part 2)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std 1 ગણિત પાઠ ૭ ભાગ - ૨.pdf"
                     }
                   ],
                   "textbook": [
@@ -564,8 +572,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "એકવીસથી પચાસ સુધીની સંખ્યા",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "એકવીસથી પચાસ સુધીની સંખ્યા (part 1)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std 1 ગણિત પાઠ ૮ ભાગ ૧.pdf"
+                    },
+                     {
+                      "material_name": "એકવીસથી પચાસ સુધીની સંખ્યા (part 2)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std 1 ગણિત પાઠ ૮ ભાગ ૨.pdf"
                     }
                   ],
                   "textbook": [
@@ -587,7 +599,7 @@
                   "material": [
                     {
                       "material_name": "માહિતીની ઉપયોગ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std 1 ગણિત પાઠ ૯.pdf"
                     }
                   ],
                   "textbook": [
@@ -609,7 +621,7 @@
                   "material": [
                     {
                       "material_name": "પેટર્ન",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std 1 maths ch 10.pdf"
                     }
                   ],
                   "textbook": [
@@ -635,8 +647,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "સંખ્યાઓ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "સંખ્યાઓ (part 1)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std 1 maths ch 11 (bhag 1).pdf"
+                    },
+                     {
+                      "material_name": "સંખ્યાઓ (part 2)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/"
                     }
                   ],
                   "textbook": [
@@ -658,7 +674,7 @@
                   "material": [
                     {
                       "material_name": "નાણું",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/"
                     }
                   ],
                   "textbook": [
@@ -680,7 +696,7 @@
                   "material": [
                     {
                       "material_name": "કેટલા ?",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std 1 maths ch 13.pdf"
                     }
                   ],
                   "textbook": [
