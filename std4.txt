@@ -602,7 +602,7 @@
                   "material": [
                     {
                       "material_name": "नई राह",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/std 4 hindi ch 1 sem 2.pdf"
                     }
                   ],
                   "textbook": [
@@ -624,7 +624,7 @@
                   "material": [
                     {
                       "material_name": "बढ़ते कदम",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/std 4 hindi ch 2 sem 2.pdf"
                     }
                   ],
                   "textbook": [
@@ -646,7 +646,7 @@
                   "material": [
                     {
                       "material_name": "गिनती ( १ से २० )",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/std 4 hindi ch 3 sem 2.pdf"
                     }
                   ],
                   "textbook": [
@@ -668,7 +668,7 @@
                   "material": [
                     {
                       "material_name": "अपने बारेमे",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/std 4 hindi ch 4 sem 2.pdf"
                     }
                   ],
                   "textbook": [
@@ -690,7 +690,7 @@
                   "material": [
                     {
                       "material_name": "धम्मक धम्मक आता हाथी",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/std 4 hindi ch 5 sem 2.pdf"
                     }
                   ],
                   "textbook": [
@@ -712,7 +712,7 @@
                   "material": [
                     {
                       "material_name": "टपका का डर",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/std 4 hindi ch 6 sem 2.pdf"
                     }
                   ],
                   "textbook": [
@@ -734,7 +734,7 @@
                   "material": [
                     {
                       "material_name": "झुला",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/std 4 hindi ch 7 sem 2.pdf"
                     }
                   ],
                   "textbook": [
@@ -756,7 +756,7 @@
                   "material": [
                     {
                       "material_name": "चतुर चूहा",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/std 4 hindi ch 8 sem 2.pdf"
                     }
                   ],
                   "textbook": [
@@ -778,7 +778,7 @@
                   "material": [
                     {
                       "material_name": "पुनरावर्तन 1",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/std 4 hindi punravartan 1.pdf"
                     }
                   ],
                   "textbook": []
@@ -795,7 +795,7 @@
                   "material": [
                     {
                       "material_name": "पुनरावर्तन 2",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/std 4 hindi punravartan 2.pdf"
                     }
                   ],
                   "textbook": []
