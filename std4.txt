@@ -822,8 +822,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "get up dance",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "get up dance (part-1)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/std 4 eng unit 1 part 1.pdf"
+                    },
+                    {
+                      "material_name": "get up dance (part-2)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/std 4 eng unit 1 part 2.pdf"
                     }
                   ],
                   "textbook": [
@@ -849,8 +853,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "things around us",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "things around us (part-1)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/std 4 eng unit 2 part 1.pdf"
+                    },
+                    {
+                      "material_name": "things around us (part-2)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/std 4 eng unit 2 part 2.pdf"
                     }
                   ],
                   "textbook": [
@@ -876,8 +884,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "my family",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "my family (part-1)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/std 4 eng unit 3 part 1.pdf"
+                    },
+                     {
+                      "material_name": "my family (part-2)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/std 4 eng unit 3 part 2.pdf"
                     }
                   ],
                   "textbook": [
@@ -903,8 +915,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "our helpers",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "our helpers (part-1)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/std 4 eng unit 4 part 1.pdf"
+                    },
+                    {
+                      "material_name": "our helpers (part-2)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/std 4 eng unit 4 part 2.pdf"
                     }
                   ],
                   "textbook": [
@@ -930,8 +946,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "here we are dancing",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "here we are dancing (part-1)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/std 4 eng unit 5 part 1.pdf"
+                    },
+                      {
+                      "material_name": "here we are dancing (part-2)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/std 4 eng unit 5 part 2.pdf"
                     }
                   ],
                   "textbook": [
@@ -957,8 +977,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "kuku is calling",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "kuku is calling (part-1)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/std 4 eng unit 6 part 1.pdf"
+                    },
+                     {
+                      "material_name": "kuku is calling (part-2)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/std 4 eng unit 6 part 2.pdf"
                     }
                   ],
                   "textbook": [
