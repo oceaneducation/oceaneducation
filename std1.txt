@@ -160,7 +160,7 @@
                   "material": [
                     {
                       "material_name": "શાળા તત્પરતા1 ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/Std-1 Kalrav Gujarati ch 1"
                     }
                   ],
                   "textbook": [
