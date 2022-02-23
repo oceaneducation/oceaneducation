@@ -159,7 +159,7 @@
                   ],
                   "material": [
                     {
-                      "material_name": "પાઠ : 2 : પોટલાં ટપકે ટપ્પ",
+                      "material_name": "શાળા તત્પરતા 1",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/Std-1 Kalrav Gujarati ch 1"
                     }
                   ],
@@ -182,7 +182,7 @@
                   "material": [
                     {
                       "material_name": "શાળા તત્પરતા 2",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/"
                     }
                   ],
                   "textbook": [
@@ -204,7 +204,7 @@
                   "material": [
                     {
                       "material_name": "અજબ જેવી વાત છે",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std 1 Gujarati પાઠ ૩.pdf"
                     }
                   ],
                   "textbook": [
@@ -226,7 +226,7 @@
                   "material": [
                     {
                       "material_name": "આવ રે વરસાદ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std 1 Gujarati પાઠ ૪.pdf"
                     }
                   ],
                   "textbook": [
@@ -252,8 +252,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "અમે સૌ ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "અમે સૌ (part :1)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std 1 Gujarati પાઠ ૫ ભાગ- ૧.pdf"
+                    },
+                      {
+                      "material_name": "અમે સૌ (part :2)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std 1 Gujarati પાઠ ૫ ભાગ- ૨.pdf"
                     }
                   ],
                   "textbook": [
@@ -275,7 +279,7 @@
                   "material": [
                     {
                       "material_name": "મજા પડે, મજા પડે",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std 1 gujrati પાઠ 6.pdf"
                     }
                   ],
                   "textbook": [
@@ -297,7 +301,7 @@
                   "material": [
                     {
                       "material_name": "ચપટી વાગી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std 1 gujrati પાઠ 6.pdf"
                     }
                   ],
                   "textbook": [
@@ -323,8 +327,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "હું તો મોટો થઈશ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "હું તો મોટો થઈશ (part :1)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std 1 gujrati ch 8 (ભાગ 1).pdf"
+                    },
+                    {
+                      "material_name": "હું તો મોટો થઈશ (part :2)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std 1 gujrati ch 8 (ભાગ 2).pdf"
                     }
                   ],
                   "textbook": [
@@ -346,7 +354,7 @@
                   "material": [
                     {
                       "material_name": "પોપટે ખાધી પાકી કેરી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std 1 gujarati પાઠ ૯.pdf"
                     }
                   ],
                   "textbook": [
@@ -367,8 +375,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "વડ દાદા",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "વડ દાદા (part :1)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std 1 gujarati ch 10 (bhag 1).pdf"
+                    },
+                     {
+                      "material_name": "વડ દાદા (part :2)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std 1 gujarati ch 10 (bhag 2).pdf"
                     }
                   ],
                   "textbook": [
