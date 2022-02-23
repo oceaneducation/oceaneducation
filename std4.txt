@@ -1010,7 +1010,7 @@
                   "material": [
                     {
                       "material_name": "ઈંટોની ઈમારત",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/STD 4 maths CH 1 ઇંટોની ઇમારત.pdf"
                     }
                   ],
                   "textbook": [
@@ -1032,7 +1032,7 @@
                   "material": [
                     {
                       "material_name": "લાંબુ અને ટૂંકું",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/STD 4 maths CH 2 લાંબુ અને ટૂંકું [Autosaved].pdf"
                     }
                   ],
                   "textbook": [
@@ -1054,7 +1054,7 @@
                   "material": [
                     {
                       "material_name": "ભોપાલનો પ્રવાસ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/STD 4 maths CH 3 ભોપાલનો પ્રવાસ.pdf"
                     }
                   ],
                   "textbook": [
@@ -1080,8 +1080,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "ટીક ટીક ટીક",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ટીક ટીક ટીક (પાર્ટ : 1)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/STD 4 maths CH 4 ટીક ટીક ( ભાગ 1).pdf"
+                    },
+                     {
+                      "material_name": "ટીક ટીક ટીક (પાર્ટ : 2)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/STD 4 maths CH 4 ટીક ટીક ( ભાગ 2).pdf"
                     }
                   ],
                   "textbook": [
@@ -1103,7 +1107,7 @@
                   "material": [
                     {
                       "material_name": "દુનિયા જોવાનો રસ્તો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/STD 4 maths CH 5 દુનિયા જોવાનો રસ્તો.pdf"
                     }
                   ],
                   "textbook": [
@@ -1129,8 +1133,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "ભંગાર વેચનાર",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ભંગાર વેચનાર (પાર્ટ : 1)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/STD 4 maths CH 6 ભંગાર વેચનાર ( ભાગ 1 ).pdf"
+                    },
+                    {
+                      "material_name": "ભંગાર વેચનાર (પાર્ટ : 2)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/STD 4 maths CH 6 ભંગાર વેચનાર ( ભાગ 2 ).pdf"
                     }
                   ],
                   "textbook": [
@@ -1156,8 +1164,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "જગ અને મગ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "જગ અને મગ (પાર્ટ :1)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/std 4 maths ch 7 જગ અને મગ (ભાગ 1).pdf"
+                    },
+                     {
+                      "material_name": "જગ અને મગ (પાર્ટ :2)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/std 4 maths ch 7 જગ અને મગ (ભાગ 2).pdf"
                     }
                   ],
                   "textbook": [
@@ -1183,8 +1195,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "ગાડું અને પૈડું",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ગાડું અને પૈડું (પાર્ટ :1)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/std 4 maths ch 8 part 1.pdf"
+                    },
+                    {
+                      "material_name": "ગાડું અને પૈડું (પાર્ટ :2)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/std 4 maths ch 8 part 2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1210,8 +1226,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "અડધું અને પા",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "અડધું અને પા  (પાર્ટ  :1)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/std 4 maths ch 9 part 1.pdf"
+                    },
+                     {
+                      "material_name": "અડધું અને પા  (પાર્ટ  :2)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/std 4 maths ch 9 part 2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1233,7 +1253,7 @@
                   "material": [
                     {
                       "material_name": "પેટર્નની રમત",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/std 4 maths ch 10.pdf"
                     }
                   ],
                   "textbook": [
@@ -1255,7 +1275,7 @@
                   "material": [
                     {
                       "material_name": "ઘડિયા અને ભાવનગર ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/"
                     }
                   ],
                   "textbook": [
@@ -1277,7 +1297,7 @@
                   "material": [
                     {
                       "material_name": "કેટલું ભારે ? કેટલું હલકું ?",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/"
                     }
                   ],
                   "textbook": [
@@ -1299,7 +1319,7 @@
                   "material": [
                     {
                       "material_name": "ખેતર અને તેની ફરતે વાડ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/"
                     }
                   ],
                   "textbook": [
@@ -1321,7 +1341,7 @@
                   "material": [
                     {
                       "material_name": "સ્માર્ટ ચાર્ટ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std4/"
                     }
                   ],
                   "textbook": [
