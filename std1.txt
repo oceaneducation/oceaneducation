@@ -802,7 +802,7 @@
                   "material": [
                     {
                       "material_name": "હિન્દી મૂળાક્ષર ચ અને છ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std-1-hindi -च-छ.pdf"
                     }
                   ],
                   "textbook": [
@@ -824,7 +824,7 @@
                   "material": [
                     {
                       "material_name": "હિન્દી મૂળાક્ષર જ અને ઝ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std-1-hindi-ज-झ.pdf"
                     }
                   ],
                   "textbook": [
@@ -846,7 +846,7 @@
                   "material": [
                     {
                       "material_name": "હિન્દી મૂળાક્ષર ટ અને ઠ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std-1-hindi-ट-ठ.pdf"
                     }
                   ],
                   "textbook": [
@@ -868,7 +868,7 @@
                   "material": [
                     {
                       "material_name": "હિન્દી મૂળાક્ષર ડ અને ઢ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std-1-hindi-ड,-ढ.pdf"
                     }
                   ],
                   "textbook": [
@@ -890,7 +890,7 @@
                   "material": [
                     {
                       "material_name": "હિન્દી મૂળાક્ષર થ અને દ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std-1-hindi-थ-द.pdf"
                     }
                   ],
                   "textbook": [
@@ -912,7 +912,7 @@
                   "material": [
                     {
                       "material_name": "હિન્દી મૂળાક્ષર ફ,બ અને ભ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/"
                     }
                   ],
                   "textbook": [
@@ -934,7 +934,7 @@
                   "material": [
                     {
                       "material_name": "હિન્દી મૂળાક્ષર મ,ય અને ર",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/"
                     }
                   ],
                   "textbook": [
@@ -956,7 +956,7 @@
                   "material": [
                     {
                       "material_name": "હિન્દી મૂળાક્ષર લ, વ અને શ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/"
                     }
                   ],
                   "textbook": [
@@ -978,7 +978,7 @@
                   "material": [
                     {
                       "material_name": "હિન્દી ગિનતી ૧ થી ૧૦",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/"
                     }
                   ],
                   "textbook": [
@@ -1000,7 +1000,7 @@
                   "material": [
                     {
                       "material_name": "હિન્દી ગિનતી ૧૧ થી ૨૦",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/"
                     }
                   ],
                   "textbook": [
@@ -1022,7 +1022,7 @@
                   "material": [
                     {
                       "material_name": "હિન્દી પુનરાવર્તન-૧",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/"
                     }
                   ],
                   "textbook": [
@@ -1044,7 +1044,7 @@
                   "material": [
                     {
                       "material_name": "હિન્દી પુનરાવર્તન-૨",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/"
                     }
                   ],
                   "textbook": [
