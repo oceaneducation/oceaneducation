@@ -758,7 +758,7 @@
                   "material": [
                      {
                       "material_name": "હિન્દી મૂળાક્ષર ક અને ખ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std 1 hindi क ख.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std-1-hindi-.pdf"
                     }
                   ],
                   "textbook": [
