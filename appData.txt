@@ -4350,7 +4350,7 @@
                     },
                      {
                       "material_name": "પાઠ : 8 : કોષ-રચના અને કાર્યો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 8 વિજ્ઞાન ch 8 સ્વઅધ્યયન પોથી.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa-std-8-વિજ્ઞાન-ch-8-સ્વઅધ્યયન-પોથી.pdf"
                     },
                           {
                       "material_name": "પાઠ : 9 : પ્રાણીઓમાં પ્રજનન",
@@ -4382,7 +4382,7 @@
                     },
                     {
                       "material_name": "પાઠ :  16 : પ્રકાશ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 8 વિજ્ઞાન ch 16 સ્વઅધ્યયન પોથી.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa-std-8-વિજ્ઞાન-ch-16-સ્વઅધ્યયન-પોથી.pdf"
                     },
                           {
                       "material_name": "પાઠ :  17 : તારાઓ અને સૂર્યમંડળ",
