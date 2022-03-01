@@ -1489,11 +1489,11 @@
                   "material": [
                     {
                       "material_name": "what is in this unit (part 1 )",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/std-5-eng-unit-1-part-1.pdf"
                     },
                     {
                       "material_name": "what is in this unit (part 2 )",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/std-5-eng-unit-1-part-2.pdf"
                     }
                   ],
                   "textbook": [
