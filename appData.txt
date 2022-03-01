@@ -213,8 +213,8 @@
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/'swa std 3 maths ch 6 સ્વ અધ્યયનપોથી.pdf"
                     },
                     {
-                      "material_name":"પાઠ : 7 : સમય વહી જાય છે",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-3-maths-ch-7-સ્વઅધ્યયનપોથી.pdf"
+                      "material_name": "પાઠ : 7 : સમય વહી જાય છે",
+                      "material_link":  "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-3-maths-ch-7-સ્વઅધ્યયનપોથી.pdf"
                     },
                     {
                       "material_name": "પાઠ : 8 : વધુ ભારે કોણ?",   
