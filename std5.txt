@@ -22,7 +22,7 @@
                   "material": [
                     {
                       "material_name": "મજાની ઈન્દ્રિયો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/std-5-evs-ch-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -44,7 +44,7 @@
                   "material": [
                     {
                       "material_name": "સાપ અને મદારી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/std-5-evs-ch-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -71,7 +71,7 @@
                   "material": [
                     {
                       "material_name": "સ્વાદથી પાચન સુધી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/std-5-evs-ch-3.pdf"
                     }
                   ],
                   "textbook": [
@@ -93,7 +93,7 @@
                   "material": [
                     {
                       "material_name": "કેરીઓ બારે માસ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/std-5-evs-ch-4.pdf"
                     }
                   ],
                   "textbook": [
@@ -120,7 +120,7 @@
                   "material": [
                     {
                       "material_name": "બીજ, બીજ, બીજ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/std-5-evs-ch-5.pdf"
                     }
                   ],
                   "textbook": [
@@ -142,7 +142,7 @@
                   "material": [
                     {
                       "material_name": "જળ એ જીવન",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/std-5-evs-ch-6.pdf"
                     }
                   ],
                   "textbook": [
@@ -168,8 +168,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "પાણી સાથેના પ્રયોગો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "પાણી સાથેના પ્રયોગો ( પાર્ટ 1 )",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/"
+                    },
+                     {
+                      "material_name": "પાણી સાથેના પ્રયોગો ( પાર્ટ 2 )",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/std-5-evs-ch-7-part-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -191,7 +195,7 @@
                   "material": [
                     {
                       "material_name": "મચ્છર : રોગો અને સારવાર",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/std-5-evs-ch-8.pdf"
                     }
                   ],
                   "textbook": [
@@ -213,7 +217,7 @@
                   "material": [
                     {
                       "material_name": "ચઢીએ ઊંચા ચઢાણ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/std-5-evs-ch-9.pdf"
                     }
                   ],
                   "textbook": [
@@ -240,7 +244,7 @@
                   "material": [
                     {
                       "material_name": "દીવાલોની કહાની",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/std-5-evs-ch-10.pdf"
                     }
                   ],
                   "textbook": [
@@ -266,8 +270,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "સુનિતા અવકાશમાં",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "સુનિતા અવકાશમાં (part 1)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/"
+                    },
+                     {
+                      "material_name": "સુનિતા અવકાશમાં (part 2)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/std-5-evs-ch-11-part-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -293,8 +301,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "જો આ ખૂટી જાય તો ?",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "જો આ ખૂટી જાય તો ? ( પાર્ટ 1 )",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/std-5-evs-ch-12-part-1.pdf"
+                    },
+                    {
+                      "material_name": "જો આ ખૂટી જાય તો ? ( પાર્ટ 2 )",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/std-5-evs-ch-12-part-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -321,7 +333,7 @@
                   "material": [
                     {
                       "material_name": "પહાડી રહેઠાણ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/std-5-evs-ch-13-part-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -343,7 +355,7 @@
                   "material": [
                     {
                       "material_name": "જ્યારે ધરતી ધ્રુજી ઉઠી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/std-5-evs-ch-14.pdf"
                     }
                   ],
                   "textbook": [
@@ -370,7 +382,7 @@
                   "material": [
                     {
                       "material_name": "ઠંડુ કે ગરમ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/std-5-evs-ch-15.pdf"
                     }
                   ],
                   "textbook": [
@@ -392,7 +404,7 @@
                   "material": [
                     {
                       "material_name": " સ્વચ્છતા આપણું કામ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/std-5-evs-ch-16.pdf"
                     }
                   ],
                   "textbook": [
@@ -414,7 +426,7 @@
                   "material": [
                     {
                       "material_name": "દીવાલ ઓળંગી લીધી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/"
                     }
                   ],
                   "textbook": [
