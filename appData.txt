@@ -413,7 +413,7 @@
                     },
                     {
                       "material_name": "પાઠ : 9 : આવ રે વરસાદ   ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-3-evs-ch-9-સ્વઅધ્યયનપોથી.pdf"
                     },
                     {
                       "material_name": "પાઠ : 10 : રસોડાની વાત",
@@ -858,15 +858,15 @@
                   "material": [
                     {
                       "material_name":"પાઠ : 1 : રોજ નિશાળે જઈએ  ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
                     },
                      {
                       "material_name": "પાઠ : 2 : કાનથી નાક   ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 4 evs ch 2 સ્વ-અધ્યયનપોથી.pdf"
                     },
                     {
                       "material_name": "પાઠ : 3 : નંદુ સાથે એક દિવસ   ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 4 evs ch 3 સ્વ-અધ્યયનપોથી.pdf"
                     },
                      {
                       "material_name": "પાઠ : 4 : અમૃતાની વાર્તા  ",
@@ -2434,7 +2434,7 @@
                     },
                     {
                       "material_name": "પાઠ : 8 : શરીરનું હલનચલન     ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-6-sci-ch-8-સ્વઅધ્યયનપોથી.pdf"
                     },
                     {
                       "material_name": "પાઠ : 9 : સજીવો – લક્ષણો અને નિવાસસ્થાન    ",
@@ -2908,27 +2908,27 @@
                     },
                      {
                       "material_name": "પાઠ : 3 : પરીક્ષા    ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-7-guj-ch-3-સ્વઅધ્યયનપોથી.pdf"
                     },
                      {
                       "material_name": "પાઠ : 4 : બે ખાનાનો પરિગ્રહ   ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-7-guj-ch-4-સ્વઅધ્યયનપોથી.pdf"
                     },
                     {
                       "material_name":"પાઠ : 5 : રાનમાં     ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-7-guj-ch-5-સ્વઅધ્યયનપોથી.pdf"
                     },
                      {
                       "material_name": "પાઠ : 6 : ભીખુ      ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-7-guj-ch-6-સ્વઅધ્યયનપોથી.pdf"
                     },
                     {
                       "material_name": "પાઠ : 7 : જીવનપાથેય  ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-7-guj-ch-7-સ્વઅધ્યયનપોથી.pdf"
                     },
                     {
                       "material_name": "પાઠ : 8 : માલમ હલેસા માર   ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-7-guj-ch-8-સ્વઅધ્યયનપોથી.pdf"
                     },
                     {
                       "material_name": "પાઠ : 9 : બાનો વાડો    ",
