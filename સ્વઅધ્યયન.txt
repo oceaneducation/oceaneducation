@@ -258,7 +258,7 @@
                 {
                   "video_name": "પાઠ : 3 : પાણી જ પાણી !",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/EkOwSXhpBvE   "
+                  "video_link": "https://youtu.be/EkOwSXhpBvE"
                 },
                 {
                   "video_name": "પાઠ : 4 : છોટુનું ઘર   ",
@@ -278,32 +278,32 @@
                 {
                   "video_name": "પાઠ : 7 : અનોખો સંવાદ   ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/ifdXTQlwqkE "
+                  "video_link": "https://youtu.be/ifdXTQlwqkE"
                 },
                 {
                   "video_name": "પાઠ : 8 : ફરરર...   ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/mey3zNOStrY "
+                  "video_link": "https://youtu.be/mey3zNOStrY"
                 },
                 {
                   "video_name": "પાઠ : 9 : આવ રે વરસાદ   ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/013VatBFrfw   "
+                  "video_link": "https://youtu.be/013VatBFrfw"
                 },
                 {
                   "video_name": "પાઠ : 10 : રસોડાની વાત   ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/DJJoXD6sP7E   "
+                  "video_link": "https://youtu.be/DJJoXD6sP7E"
                 },
                 {
                   "video_name": "પાઠ : 11 : આપણાં વાહનો",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/NybNF5vpies   "
+                  "video_link": "https://youtu.be/NybNF5vpies"
                 },
                 {
                   "video_name": "પાઠ : 12 : આપણાં કામ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/bsdJ4fUpLQM "
+                  "video_link": "https://youtu.be/bsdJ4fUpLQM"
                 },
                 {
                   "video_name": "પાઠ : 13 : આપણી લાગણીઓની ભાગીદારી !  ",
@@ -323,17 +323,17 @@
                 {
                   "video_name": "પાઠ : 16 : મારું ઘર     ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/nVyfPmFI0B0"
+                  "video_link": "https://youtu.be/nVyfPmFI0B0"
                 },
                 {
                   "video_name": "પાઠ : 17 : પત્રનો પ્રવાસ   ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/Sf96YBHEojQ "
+                  "video_link": "https://youtu.be/Sf96YBHEojQ"
                 },
                 {
                   "video_name": "પાઠ : 18 : રમતાં-રમતાં  ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/JHr3yn3DqVw"
+                  "video_link": "https://youtu.be/JHr3yn3DqVw"
                 },
                 {
                   "video_name": "પાઠ : 19 : આપણાં સાથી",
@@ -348,12 +348,12 @@
                 {
                   "video_name": "પાઠ : 21 : પાણી બચાવીએ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/mgUk5ukt9ys"
+                  "video_link": "https://youtu.be/mgUk5ukt9ys"
                 },
                 {
                   "video_name": "પાઠ : 22 : ડાબું-જમણું",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/22aRDZV-l2I"
+                  "video_link": "https://youtu.be/22aRDZV-l2I"
                 },
                 {
                   "video_name": "પાઠ : 23 : સુંદર કપડાં",
@@ -363,7 +363,7 @@
                 {
                   "video_name": "પાઠ : 24 : જીવનનું જાળું",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/pDQITUWefIk"
+                  "video_link": "https://youtu.be/pDQITUWefIk"
                 },
                 {
                   "video_name": "પાઠ : 25 : મારો તાલુકો ",
@@ -532,7 +532,7 @@
                 {
                   "video_name": "પાઠ : 10 : રંગેસંગે કામ કરો",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/G98hHjgjAbo"
+                  "video_link": "https://youtu.be/G98hHjgjAbo"
                 }
               ],
               "material": [
@@ -605,7 +605,7 @@
                 {
                   "video_name": "પાઠ : 5 : દુનિયા જોવાનો રસ્તો",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/tesu4VjVbmw"
+                  "video_link": "https://youtu.be/tesu4VjVbmw"
                 },
                 {
                   "video_name": "પાઠ : 6 : ભંગાર વેચનાર",
@@ -615,42 +615,42 @@
                 {
                   "video_name": "પાઠ : 7 : જગ અને મગ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/RdOfWqYt1Ds"
+                  "video_link": "https://youtu.be/RdOfWqYt1Ds"
                 },
                 {
                   "video_name": "પાઠ : 8 : ગાડું અને પૈડાં",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": "  https://youtu.be/UyVHB09pYXA "
+                  "video_link": "https://youtu.be/UyVHB09pYXA"
                 },
                 {
                   "video_name": "પાઠ : 9 : અડધું અને પા",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/0ZpCLQOKxOI     "
+                  "video_link": "https://youtu.be/0ZpCLQOKxOI"
                 },
                 {
                   "video_name": "પાઠ : 10 : પેટર્નની રમત",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/QyxA0RLhe00"
+                  "video_link": "https://youtu.be/QyxA0RLhe00"
                 },
                 {
                   "video_name": "પાઠ : 11 : ઘડિયા અને ભાગાકાર   ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/oDSa2kYaUYE"
+                  "video_link": "https://youtu.be/oDSa2kYaUYE"
                 },
                 {
                   "video_name": "પાઠ : 12 : કેટલું ભારે? કેટલું હલકું?",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/tQDj9fJgAT8"
+                  "video_link": "https://youtu.be/tQDj9fJgAT8"
                 },
                 {
                   "video_name": "પાઠ : 13 : ખેતર અને તેની ફરતે વાડ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/FDUFGwWrK6g"
+                  "video_link": "https://youtu.be/FDUFGwWrK6g"
                 },
                 {
                   "video_name": "પાઠ : 14 : સ્માર્ટ ચાર્ટ ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/cTuz3anKZss"
+                  "video_link":  "https://youtu.be/cTuz3anKZss"
                 }
               ],
               "material": [
@@ -759,17 +759,17 @@
                 {
                   "video_name": "પાઠ : 9 : બદલાતાં કુટુંબો",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/k4C2lTepOv4    "
+                  "video_link": "https://youtu.be/k4C2lTepOv4"
                 },
                 {
                   "video_name": "પાઠ : 10 : કબડ્ડી... કબડ્ડી... કબડ્ડી…   ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/2dRFECmT34Q"
+                  "video_link": "https://youtu.be/2dRFECmT34Q"
                 },
                 {
                   "video_name": "પાઠ : 11 : વાડીમાં   ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/VHxwkST9cUA "
+                  "video_link": "https://youtu.be/VHxwkST9cUA"
                 },
                 {
                   "video_name": "પાઠ : 12 : બદલાતો સમય   ",
@@ -779,12 +779,12 @@
                 {
                   "video_name": "પાઠ : 13 : નદીની સફર   ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/OQTo6REjJ2Y"
+                  "video_link": "https://youtu.be/OQTo6REjJ2Y"
                 },
                 {
                   "video_name": "પાઠ : 14 : રાજુનું ખેતર ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/ntcQI8XImdg "
+                  "video_link": "https://youtu.be/ntcQI8XImdg"
                 },
                 {
                   "video_name": "પાઠ : 15 : બજારથી ઘર સુધી",
@@ -804,27 +804,27 @@
                 {
                   "video_name": "પાઠ : 18 : ગામ-ગામનાં પાણી",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/htXNZr9OjlM"
+                  "video_link": "https://youtu.be/htXNZr9OjlM"
                 },
                 {
                   "video_name": "પાઠ : 19 : સાથે જમીએ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/LJqhX1Eynrc"
+                  "video_link": "https://youtu.be/LJqhX1Eynrc"
                 },
                 {
                   "video_name": "પાઠ : 20 : ખોરાક અને મજા ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/WZ3BI47pG90"
+                  "video_link": "https://youtu.be/WZ3BI47pG90"
                 },
                 {
                   "video_name": "પાઠ : 21 : જગત મારા ઘરમાં  ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/FEX4nI8Nai0"
+                  "video_link": "https://youtu.be/FEX4nI8Nai0"
                 },
                 {
                   "video_name": "પાઠ : 22 : પટોળાં ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/YLRCOdRkilA"
+                  "video_link": "https://youtu.be/YLRCOdRkilA"
                 },
                 {
                   "video_name": "પાઠ : 23 : દેશ-પરદેશ",
@@ -834,7 +834,7 @@
                 {
                   "video_name": "પાઠ : 24 : મસાલેદાર કોયડા ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/TXELq7bbfog"
+                  "video_link": "https://youtu.be/TXELq7bbfog"
                 },
                 {
                   "video_name": "પાઠ : 25 : મારો જિલ્લો ",
@@ -1201,7 +1201,7 @@
                 {
                   "video_name": "પાઠ : 5 : તે સરખું દેખાય છે?   ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/pAn8lHfNCCM"
+                  "video_link": "https://youtu.be/pAn8lHfNCCM"
                 },
                 {
                   "video_name": "પાઠ : 6 : તું મારો ગુણક, હું તારો અવયવ   ",
@@ -1231,7 +1231,7 @@
                 {
                   "video_name": "પાઠ : 11 : ક્ષેત્રફળ અને પરિમિતિ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/Iq1ZTzA_3QA"
+                  "video_link": "https://youtu.be/Iq1ZTzA_3QA"
                 },
                 {
                   "video_name": "પાઠ : 12 : સ્માર્ટ ચાર્ટ્સ",
@@ -1405,27 +1405,27 @@
                 {
                   "video_name": "પાઠ : 19 : બીજ કહે છે ખેડૂતની વાર્તા",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/KiaSzYxGTW8"
+                  "video_link": "https://youtu.be/KiaSzYxGTW8"
                 },
                 {
                   "video_name": "પાઠ : 20 : જંગલો કોના?",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/uAfJp4E8iZg"
+                  "video_link": "https://youtu.be/uAfJp4E8iZg"
                 },
                 {
                   "video_name": "પાઠ : 21 : જેવા પિતા એવી દીકરી ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/EtJx5PRuUi0"
+                  "video_link": "https://youtu.be/EtJx5PRuUi0"
                 },
                 {
                   "video_name": "પાઠ : 22 : ફરી ઉપાડ્યા",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/OUEuxCiFfu8"
+                  "video_link": "https://youtu.be/OUEuxCiFfu8"
                 },
                 {
                   "video_name": "પાઠ : 23 : અમે ગુજરાતી.. ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/SgYblJLw3H4"
+                  "video_link": "https://youtu.be/SgYblJLw3H4"
                 }
               ],
               "material": [
@@ -1955,7 +1955,7 @@
                 {
                   "video_name": "પાઠ : 8 : દશાંશ સંખ્યાઓ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/XxiKmq0CivM"
+                  "video_link": "https://youtu.be/XxiKmq0CivM"
                 },
                 {
                   "video_name": "પાઠ : 9 : માહિતીનું નિયમન ",
@@ -1970,7 +1970,7 @@
                 {
                   "video_name": "પાઠ : 11 : બીજગણિત ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/Ltml9DAOHYg"
+                  "video_link": "https://youtu.be/Ltml9DAOHYg"
                 },
                 {
                   "video_name": "પાઠ : 12 : ગુણોતર અને પ્રમાણ ",
@@ -2311,12 +2311,12 @@
                 {
                   "video_name": "પાઠ : 6 આપણી આસપાસ થતાં ફેરફારો",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/Coq6bNUk7es   "
+                  "video_link": "https://youtu.be/Coq6bNUk7es"
                 },
                 {
                   "video_name": "પાઠ : 7 : વનસ્પતિની જાણકારી મેળવીએ   ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/zTtYHOKYRoY  "
+                  "video_link": "https://youtu.be/zTtYHOKYRoY"
                 },
                 {
                   "video_name": "પાઠ : 8 : શરીરનું હલનચલન     ",
@@ -2326,7 +2326,7 @@
                 {
                   "video_name": "પાઠ : 9 : સજીવો – લક્ષણો અને નિવાસસ્થાન  ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/iL-hDGA1xkY"
+                  "video_link": "https://youtu.be/iL-hDGA1xkY"
                 },
                 {
                   "video_name": "પાઠ : 10 : ગતિ અને અંતરનું માપન ",
@@ -2356,7 +2356,7 @@
                 {
                   "video_name": "પાઠ : 15 : આપણી આસપાસ ની હવા  ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/cpyCtXHB1L4 "
+                  "video_link": "https://youtu.be/cpyCtXHB1L4"
                 },
                 {
                   "video_name": "પાઠ : 16 ; કચરાનો સંગ્રહ અને કચરાનો નિકાલ    ",
@@ -2488,7 +2488,7 @@
                 {
                   "video_name": "પાઠ : 11. - ભૂમિસ્વરૂપો",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": "https://youtu.be/f8nxI-cepZs"
+                  "video_link": "https://youtu.be/Rx3Ke8w_bJ0"
                 },
                 {
                   "video_name": "પાઠ : 12. - નકશો સમજીએ",
@@ -3219,12 +3219,12 @@
                 {
                   "video_name": "પાઠ : 4 : ઉષ્મા ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/BXjbP9iYhT8"
+                  "video_link": "https://youtu.be/BXjbP9iYhT8"
                 },
                 {
                   "video_name": "પાઠ : 5 : ઍસિડ, બેઇઝ અને ક્ષાર",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/yXTLf5AtphM      "
+                  "video_link": "https://youtu.be/yXTLf5AtphM"
                 },
                 {
                   "video_name": "પાઠ : 6 : ભૌતિક અને રસાયણિક ફેરફારો",
@@ -3259,37 +3259,37 @@
                 {
                   "video_name": "પાઠ : 12 : વનસ્પતિમાંપ્રજનન",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/YXzMXJrz-uA "
+                  "video_link": "https://youtu.be/YXzMXJrz-uA"
                 },
                 {
                   "video_name": "પાઠ : 13 : ગતિ અને સમય ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": "https://youtu.be/ZaXY-tvz_MY    "
+                  "video_link": "https://youtu.be/ZaXY-tvz_MY"
                 },
                 {
                   "video_name": "પાઠ : 14 : વિધુતપ્રવાહ અને તેની અસરો",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/XETJ6suBB3w  "
+                  "video_link": "https://youtu.be/XETJ6suBB3w"
                 },
                 {
                   "video_name": "પાઠ : 15 : પ્રકાશ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/_y2fKern3cY  "
+                  "video_link": "https://youtu.be/_y2fKern3cY"
                 },
                 {
                   "video_name": "પાઠ : 16 : પાણી: એક અમૂલ્ય સ્ત્રોત",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": "https://youtu.be/Tp7TUuXLuiQ  "
+                  "video_link": "https://youtu.be/Tp7TUuXLuiQ"
                 },
                 {
                   "video_name": "પાઠ : 17 : જંગલો: આપણી જીવાદોરી",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/IHz_EV-R7O4 "
+                  "video_link": "https://youtu.be/IHz_EV-R7O4"
                 },
                 {
                   "video_name": "પાઠ : 18 : દૂષિત પાણીની વાર્તા",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/yYTB0x3nz50"
+                  "video_link": "https://youtu.be/yYTB0x3nz50"
                 }
               ],
               "material": [
@@ -3560,12 +3560,12 @@
                 {
                   "video_name": "પાઠ : 3 : ચતુષ્કોણની સમજ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/mcRDK7DD6do"
+                  "video_link": "https://youtu.be/mcRDK7DD6do"
                 },
                 {
                   "video_name": "પાઠ : 4 : પ્રાયોગિક ભૂમિતિ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/f8nxI-cepZs"
+                  "video_link": ""
                 },
                 {
                   "video_name": "પાઠ : 5 : માહિતીનું નિયમન ",
@@ -3585,12 +3585,12 @@
                 {
                   "video_name": "પાઠ : 8 : જથ્થાની સરખામણી",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/1RxspX5zKPs"
+                  "video_link": "https://youtu.be/1RxspX5zKPs"
                 },
                 {
                   "video_name": "પાઠ : 9 : બૈજિક પદાવલીઓ અને નિત્યસમ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/VSGH9h4Yonc"
+                  "video_link": "https://youtu.be/VSGH9h4Yonc"
                 },
                 {
                   "video_name": "પાઠ : 10 : ઘનાકારોનું પ્રત્યક્ષીકરણ",
@@ -3600,7 +3600,7 @@
                 {
                   "video_name": "પાઠ : 11 : માપન",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": "https://youtu.be/f8nxI-cepZs"
+                  "video_link": ""
                 },
                 {
                   "video_name": "પાઠ : 12 : ઘાત અને ઘાતાંક",
@@ -3625,7 +3625,7 @@
                 {
                   "video_name": "પાઠ : 16 : સંખ્યા સાથે રમત",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": "https://youtu.be/f8nxI-cepZs"
+                  "video_link": ""
                 }
               ],
               "material": [
@@ -3767,7 +3767,7 @@
                 {
                   "video_name": "પાઠ : 14 : સાકરનો શોધનારો",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/EIa-a7Ief5E"
+                  "video_link": "https://youtu.be/EIa-a7Ief5E"
                 },
                 {
                   "video_name": "પાઠ : 15 : અખંડ ભારતના શિલ્પી",
@@ -3792,7 +3792,7 @@
                 {
                   "video_name": "પાઠ : 19 : સાંઢ નાથ્યો",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/K2W_ZlDvnLQ"
+                  "video_link": "https://youtu.be/K2W_ZlDvnLQ"
                 },
                 {
                   "video_name": "પાઠ : 20 : બહેનનો પત્ર",
@@ -3802,12 +3802,12 @@
                 {
                   "video_name": "પાઠ : 21 : ક્માડે ચીતર્યા મેં...",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/UYijlpo0xLU"
+                  "video_link": "https://youtu.be/UYijlpo0xLU"
                 },
                 {
                   "video_name": "પાઠ : 22 : કિસ્સા – ટુચકા ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/sxnL7F_BMQM "
+                  "video_link": "https://youtu.be/sxnL7F_BMQM"
                 }
               ],
               "material": [
@@ -4192,7 +4192,7 @@
                 {
                   "video_name": "પાઠ :  6 : દહન અને જ્યોત",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/Mvic-qV2JoU"
+                  "video_link": "https://youtu.be/Mvic-qV2JoU"
                 },
                 {
                   "video_name": "પાઠ :  7 : વનસ્પતિઓ અને પ્રાણીઓનું સંરક્ષણ",
@@ -4227,7 +4227,7 @@
                 {
                   "video_name": "પાઠ :  13 : ધ્વનિ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/8Yl3N0u7vdQ"
+                  "video_link": "https://youtu.be/8Yl3N0u7vdQ"
                 },
                 {
                   "video_name": "પાઠ :  14 : વિદ્યુતપ્રવાહની રસાયણિક અસરો",
@@ -4237,7 +4237,7 @@
                 {
                   "video_name": "પાઠ :  15 : કેટલીક કુદરતી ઘટનાઓ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/OchyUYOvyyU"
+                  "video_link": "https://youtu.be/OchyUYOvyyU"
                 },
                 {
                   "video_name": "પાઠ :  16 : પ્રકાશ ",
@@ -4247,7 +4247,7 @@
                 {
                   "video_name": "પાઠ :  17 : તારાઓ અને સૂર્યમંડળ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": " https://youtu.be/fiBFDGmCNz4"
+                  "video_link": "https://youtu.be/fiBFDGmCNz4"
                 },
                 {
                   "video_name": "પાઠ :  18 : હવા અને પાણીનું દૂષણ",
