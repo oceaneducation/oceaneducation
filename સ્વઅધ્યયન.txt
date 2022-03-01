@@ -3,7 +3,7 @@
     {
       "homedata_name": "સ્વ અધ્યયન પોથી",
       "homedata_image": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/images/i 2.png",
-      "direct_sub_cat": false,
+      "direct_sub_cat": true,
       "sub_data": [
         {
           "sub_data_name": "સ્વ અધ્યયન પોથી",
