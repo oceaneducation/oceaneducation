@@ -3519,11 +3519,11 @@
                   "material": [
                     {
                       "material_name": "પાઠ :  1. રાજપૂતયુગ : નવા શાસકો અને રાજ્યો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-7-s.s-ch-1-સ્વઅધ્યયનપોથી.pdf"
                     },
                        {
                       "material_name":"પાઠ :  2. દિલ્લી સલ્તનત",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-7-s.s-ch-2-સ્વઅધ્યયનપોથી.pdf"
                     },
                     {
                       "material_name": "પાઠ :  3. મુઘલ સામ્રાજ્ય",
@@ -3559,7 +3559,7 @@
                     },
                     {
                       "material_name":"પાઠ :  11. વાતાવરણની સજીવો પર અસરો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-7-s.s-ch-11-સ્વઅધ્યયનપોથી.pdf"
                     },
                     {
                       "material_name":"પાઠ :  12. આપત્તિ અને વ્યવસ્થાપન",
@@ -3698,7 +3698,7 @@
                     },
                       {
                       "material_name": "પાઠ : 4 : પ્રાયોગિક ભૂમિતિ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
                     },
                        {
                       "material_name": "પાઠ : 5 : માહિતીનું નિયમન ",
@@ -3726,7 +3726,7 @@
                     },
                       {
                       "material_name": "પાઠ : 11 : માપન",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-8-maths-ch-11-સ્વ-અધ્યયનપોથી..pdf"
                     },
                       {
                       "material_name": "પાઠ : 12 : ઘાત અને ઘાતાંક",
@@ -4404,6 +4404,2593 @@
         }
       ]
     },
+    {
+      "homedata_name": "બાલભવન",
+      "homedata_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+      "direct_sub_cat": true,
+      "sub_data": [
+        {
+          "sub_data_name": "બાલભવન",
+          "standard_data": [
+            {
+              "standard_name": "બાલભવન",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "બાલભવન",
+                  "videos": [
+                    {
+                      "video_name": "૧ થી ૫ સુધીની સંખ્યા",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/eeEqwHkgqrI"
+                    },
+                     {
+                      "video_name": "૬ થી ૧૦ સુધીની સંખ્યા",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/z2Uw11TAF_4"
+                    },
+                     {
+                      "video_name": "૧૧ થી ૧૫ સુધીની સંખ્યા",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ywt_CJu9ZHE"
+                    },
+                     {
+                      "video_name": "૧૬ થી ૨૦ સુધીની સંખ્યા",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/z2Uw11TAF_4"
+                    },
+                    {
+                      "video_name": "ફળોના નામ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/uBFbRTYO9Hg"
+                    },
+                    {
+                      "video_name": "શાકભાજીના નામ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/wtvbinEndPY"
+                    },
+                    {
+                      "video_name": "પક્ષીના નામ અને અવાજો",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/V3qqWfCT7cA"
+                    },
+                    {
+                      "video_name": "આકારોના નામ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/5XFa01OYfkg"
+                    },
+                    {
+                      "video_name": "રંગોના નામ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/EcoH7M1WZRI"
+                    },
+                    {
+                      "video_name": "શરીરના અંગો",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/eNQSDs6vxjQ"
+                    },
+                    {
+                      "video_name": "પાલતુ પ્રાણીના નામ અને અવાજો",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/7sBIWnrAkdw"
+                    },
+                    {
+                      "video_name": "જંગલી પ્રાણીના નામ અને અવાજો",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/CbYwf69uLKQ"
+                    },
+                    {
+                      "video_name": "મહિનાના નામ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/tLu2CUWDqFA"
+                    },
+                    {
+                      "video_name": "વારના નામ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/4hZRTaP5OJc"
+                    },
+                    {
+                      "video_name": "ગુજરાતી કક્કો",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f41HI3GjdaQ"
+                    },
+                    {
+                      "video_name": "ગુજરાતી અંક",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/7LPScaoEKK4"
+                    },
+                    {
+                      "video_name": "1 to 5 numbers",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Ofdr_Nlph-M"
+                    },
+                    {
+                      "video_name": "6 to 10 numbers",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/BMz5BOjk1d4"
+                    },
+                    {
+                      "video_name": "A to E alphabats",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/qs6WbQhSAA8"
+                    },
+                    {
+                      "video_name": "F to J alphabats",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/ZpQv73aMGj4"
+                    },
+                    {
+                      "video_name": "K to O alphabats",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/NxnIBNflkfI"
+                    },
+                    {
+                      "video_name": "P to T alphabats",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/c9cwcQY9_eM"
+                    },
+                    
+                    {
+                      "video_name": "U to Z alphabats",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/80dDaKuZm9Q"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "homedata_name": "નિદાન કસોટી",
+      "homedata_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+      "direct_sub_cat": false,
+      "sub_data": [
+        {
+          "sub_data_name": "નિદાન કસોટી",
+          "standard_data": [
+            {
+              "standard_name": "ધોરણ 12",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "જુલાઈ 2021",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "ઓગસ્ટ 2021",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "ધોરણ  11",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "જુલાઈ 2021",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "ઓગસ્ટ 2021",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "ધોરણ  10",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "જુલાઈ 2021",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "ઓગસ્ટ 2021",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "ધોરણ  9",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "જુલાઈ 2021",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "ઓગસ્ટ 2021",
+                  "videos": [
+                    {
+                      "video_name": "Psycology",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "Geography",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "homedata_name": "એકમ  કસોટી ",
+      "homedata_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+      "direct_sub_cat": false,
+      "sub_data": [
+        {
+          "sub_data_name": "એકમ  કસોટી ",
+          "standard_data": [
+            {
+              "standard_name": "ધોરણ 3",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "25 ફેબ્રુઆરી 2022",
+                  "videos": [
+                      {
+                      "video_name": "આસપાસ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                     {
+                      "material_name": "આસપાસ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                    }
+                  ],
+                  "textbook": [
+                     {
+                        "textbook_name": "આસપાસ",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "ધોરણ 4",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "18 ફેબ્રુઆરી 2022",
+                  "videos": [
+                    {
+                      "video_name": "હિન્દી",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/l9dvdf3aXuA"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "હિન્દી",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 4 Hindi એકમ કસોટી.pdf"
+                    }
+                  ],
+                  "textbook": [
+                  {
+                        "textbook_name": "હિન્દી",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/PAT GM Hindi 4 18.2.22.pdf"
+                      }
+                  ]
+                },
+                  {
+                  "month_name": "25 ફેબ્રુઆરી 2022",
+                  "videos": [
+                    {
+                      "video_name": "ગુજરાતી",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                    }
+                  ],
+                  "textbook": [
+                  {
+                        "textbook_name":"ગુજરાતી",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "ધોરણ 5",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "25 ફેબ્રુઆરી 2022",
+                  "videos": [
+                      {
+                      "video_name": "અંગ્રેજી",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "અંગ્રેજી",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                    }
+                  ],
+                  "textbook": [
+                     {
+                        "textbook_name": "અંગ્રેજી",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "ધોરણ 6",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "18 ફેબ્રુઆરી 2022",
+                  "videos": [
+                    {
+                      "video_name": "અંગ્રેજી",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/QtAnP3WTOtg"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "અંગ્રેજી",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 6 English એકમ કસોટી.pdf"
+                    }
+                  ],
+                  "textbook": [
+                   {
+                        "textbook_name": "અંગ્રેજી",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/PAT GM Eng 6 18.2.22.pdf"
+                      }
+                  ]
+                },
+                {
+                  "month_name": "25 ફેબ્રુઆરી 2022",
+                  "videos": [
+                    {
+                      "video_name": "ગણિત",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "ગણિત",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                    }
+                  ],
+                  "textbook": [
+                  {
+                        "textbook_name": "ગણિત",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      }
+                  ]
+                }
+              ]
+            },
+             {
+              "standard_name": "ધોરણ 7",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "18 ફેબ્રુઆરી 2022",
+                  "videos": [
+                    {
+                      "video_name": "ગણિત",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/nRUhIhbELi4"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "ગણિત",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 7 ગણિત એકમ કસોટી.pdf"
+                    }
+                  ],
+                  "textbook": [
+                   {
+                        "textbook_name": "ગણિત",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/PAT GM Maths 7 18.2.22.pdf"
+                      }
+                  ]
+                },
+                     {
+                  "month_name": "25 ફેબ્રુઆરી 2022",
+                  "videos": [
+                    {
+                      "video_name": "હિન્દી",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "હિન્દી",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                    }
+                  ],
+                  "textbook": [
+                   {
+                        "textbook_name": "હિન્દી",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      }
+                  ]
+                }
+              ]
+            },
+             {
+              "standard_name": "ધોરણ 8",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "18 ફેબ્રુઆરી 2022",
+                  "videos": [
+                     {
+                      "video_name": "હિન્દી",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Rc_kMdLm-8U"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "હિન્દી",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 8 Hindi એકમ કસોટી.pdf"
+                    }
+                  ],
+                  "textbook": [
+                   {
+                        "textbook_name": "હિન્દી",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/PAT GM Hindi 8 18.2.22.pdf"
+                      }
+                  ]
+                },
+                 {
+                  "month_name": "25 ફેબ્રુઆરી 2022",
+                  "videos": [
+                     {
+                      "video_name": "ગુજરાતી",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                    }
+                  ],
+                  "textbook": [
+                   {
+                        "textbook_name": "ગુજરાતી",
+                        "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/"
+                      }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "homedata_name": "પ્રથમ પરીક્ષા ઓક્ટોબર 2021 ",
+      "homedata_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+      "direct_sub_cat": false,
+      "sub_data": [
+        {
+          "sub_data_name": "પ્રથમ પરીક્ષા ઓક્ટોબર 2021 ",
+          "standard_data": [
+            {
+              "standard_name": "ધોરણ 9",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "સમાજ",
+                  "videos": [
+                    {
+                      "video_name": "સમાજ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "સમાજ",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "વિજ્ઞાન ",
+                  "videos": [
+                    {
+                      "video_name": "વિજ્ઞાન ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "વિજ્ઞાન ",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "સંસ્કૃત",
+                  "videos": [
+                    {
+                      "video_name": "સંસ્કૃત",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "સંસ્કૃત",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "ધોરણ  12 કોમર્સ ",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "Account",
+                  "videos": [
+                    {
+                      "video_name": "account",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Account",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "BA",
+                  "videos": [
+                    {
+                      "video_name": "BA",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Eco",
+                  "videos": [
+                    {
+                      "video_name": "Eco",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Eco",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "ધોરણ  11 કોમર્સ ",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "English",
+                  "videos": [
+                    {
+                      "video_name": "English",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "English",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "BA",
+                  "videos": [
+                    {
+                      "video_name": "BA",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "BA",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "stat",
+                  "videos": [
+                    {
+                      "video_name": "stat",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "stat",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "ધોરણ  10",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "Gujarati",
+                  "videos": [
+                    {
+                      "video_name": "Gujarati",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "Gujarati",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "ગણિત ",
+                  "videos": [
+                    {
+                      "video_name": "ગણિત ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "ગણિત ",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "વિજ્ઞાન ",
+                  "videos": [
+                    {
+                      "video_name": "વિજ્ઞાન ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "વિજ્ઞાન ",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "સમાજ ",
+                  "videos": [
+                    {
+                      "video_name": "સમાજ ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "સમાજ ",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "homedata_name": "ગાલા અસાઈનમેન્ટ  ",
+      "homedata_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+      "direct_sub_cat": false,
+      "sub_data": [
+        {
+          "sub_data_name": "ગાલા અસાઈનમેન્ટ  ",
+          "standard_data": [
+            {
+              "standard_name": "ધોરણ  10",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "ગુજરાતી",
+                  "videos": [
+                    {
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૧ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/of6fsRE6Y3w"
+                    },
+                       {
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૧ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/8ey0d5V1DEw"
+                    },
+                       {
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૧ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/0cAGKMZmrnU"
+                    },
+                       {
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૧ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/iWOSX0RJhJc"
+                    },
+                     {
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૨ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/a9xk8gFTbCc"
+                    },
+                     {
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૨ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/xST7FwWfh00"
+                    },
+                     {
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૨ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/O8Qc9Q-6ztk"
+                    },
+                     {
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૨ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/uDXyA-CT_Yo"
+                    },
+                     {
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૩ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/sOCYhFJJMG0"
+                    },
+                     {
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૩ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/MWbvhGvSfZc"
+                    },
+                     {
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૩ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/4TBb7uE2Pjg"
+                    },
+                     {
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૩ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/5aoe3rx4fZc"
+                    },
+                     {
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૪ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/ZaBsTFkoOZo"
+                    },
+                    {
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૪ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": " https://youtu.be/rN01xUkUK30"
+                    },
+                    {
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૪ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": " https://youtu.be/I-pY3MDbexc"
+                    },
+                    {
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૪ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/7pFkAOG7wxQ"
+                    },
+                     {
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૫ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": " https://youtu.be/mP37EUOtsAA"
+                    },
+                     {
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૫ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/bDNKGbf8z9k"
+                    },
+                     {
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૫ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/xKd23tyt46U"
+                    },
+                     {
+                      "video_name": "ગુજરાતી પ્રશ્નપત્ર-૫ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/KJk7BrlTOHg"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૧ વિભાગ-A",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 guj paper 1 sec A.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૧ વિભાગ-B",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 guj paper 1 sec B.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૧ વિભાગ-C",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 guj paper 1 sec C.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૧ વિભાગ-D",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 guj papper 1 sec D.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૨ વિભાગ-A",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 guj paper 2 section A.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૨ વિભાગ-B",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 guj paper 2 sec B.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૨ વિભાગ-C",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 guj paper 2 sec C.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૨ વિભાગ-D",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 guj paper 2 sec D.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૩ વિભાગ-A",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 guj paper 3 sec A.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૩ વિભાગ-B",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 guj paper 3 sec B.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૩ વિભાગ-C",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 guj paper 3 sec C.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૩ વિભાગ-D",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 guj papper 3 section D.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૪ વિભાગ-A",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 guj papper 4 section A.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૪ વિભાગ-B",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 guj papper 4 section B.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૪ વિભાગ-C",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 guj papper 4 section C.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૪ વિભાગ-D",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 guj papper 4 section D.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૫ વિભાગ-A",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 guj paper 5 sec A.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૫ વિભાગ-B",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 guj paper 5 sec B.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૫ વિભાગ-C",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 guj paper 5 sec C.pdf"
+                    },
+                     {
+                      "material_name": "ગુજરાતી પ્રશ્નપત્ર-૫ વિભાગ-D",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 guj paper 5 sec D.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "ગણિત (બેઝિક) ",
+                  "videos": [
+                    {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૧ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/BSVPPEsYBpI"
+                    },   
+                       {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૧ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/jKiyjowslJ8"
+                    },  
+                       {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૧ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/95-LtM3cRBo"
+                    },  
+                       {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૧ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/N4NDnyfz6fw"
+                    },  
+                     {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૨ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૨ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૨ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૨ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૩ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/YdhsKc3dPPw"
+                    },
+                     {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૩ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/RBBfpjtZPLU"
+                    },
+                     {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૩ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/ENc_fYuM2Qc"
+                    },
+                     {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૩ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/SzuAbvps08Q"
+                    },
+                     {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૪ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૪ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૪ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૪ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૫ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },                   
+                     {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૫ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },                   
+                     {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૫ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },                   
+                     {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૫ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    }                  
+                  ],
+                  "material": [
+                    {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૧ વિભાગ-A",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/ગણિત-બેઝિક પેપર-1 વિભાગ A.pdf"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૧ વિભાગ-B",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/ગણિત-બેઝિક પેપર-1 વિભાગ B.pdf"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૧ વિભાગ-C",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/ગણિત-બેઝિક પેપર-1 વિભાગ C.pdf"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૧ વિભાગ-D",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/ગણિત-બેઝિક પેપર-1 વિભાગ D.pdf"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૨ વિભાગ-A",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/ગણિત-બેઝિક પેપર-2 વિભાગ A.pdf"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૨ વિભાગ-B",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/ગણિત-બેઝિક પેપર-2 વિભાગ B.pdf"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૨ વિભાગ-C",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/ગણિત-બેઝિક પેપર-2 વિભાગ C.pdf"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૨ વિભાગ-D",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૩ વિભાગ-A",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૩ વિભાગ-B",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૩ વિભાગ-C",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૩ વિભાગ-D",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૪ વિભાગ-A",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૪ વિભાગ-B",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૪ વિભાગ-C",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૪ વિભાગ-D",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૫ વિભાગ-A",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૫ વિભાગ-B",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૫ વિભાગ-C",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૫ વિભાગ-D",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                 {
+                  "month_name": "ગણિત (સ્ટાન્ડર્ડ) ",
+                  "videos": [
+                    {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૧ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    },   
+                       {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૧ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    },  
+                       {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૧ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    },  
+                       {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૧ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    },  
+                     {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૨ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/vpY4F4UodEY"
+                    },
+                     {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૨ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/2b940wywkhs"
+                    },
+                     {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૨ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/sQ80J_CmBWo"
+                    },
+                     {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૨ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/ftQoEfwGVH4"
+                    },
+                     {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૩ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૩ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૩ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૩ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૪ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૪ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૪ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૪ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૫ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },                   
+                     {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૫ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },                   
+                     {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૫ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },                   
+                     {
+                      "video_name": "ગણિત પ્રશ્નપત્ર-૫ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    }                  
+                  ],
+                  "material": [
+                    {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૧ વિભાગ-A",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૧ વિભાગ-B",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૧ વિભાગ-C",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૧ વિભાગ-D",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૨ વિભાગ-A",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૨ વિભાગ-B",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૨ વિભાગ-C",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૨ વિભાગ-D",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૩ વિભાગ-A",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૩ વિભાગ-B",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૩ વિભાગ-C",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૩ વિભાગ-D",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૪ વિભાગ-A",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૪ વિભાગ-B",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૪ વિભાગ-C",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૪ વિભાગ-D",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૫ વિભાગ-A",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૫ વિભાગ-B",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૫ વિભાગ-C",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "ગણિત પ્રશ્નપત્ર-૫ વિભાગ-D",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "વિજ્ઞાન ",
+                  "videos": [
+                    {
+                      "video_name": "વિજ્ઞાન પ્રશ્નપત્ર-૧ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/JCgOnO2i52A"
+                    },
+                     {
+                      "video_name": "વિજ્ઞાન પ્રશ્નપત્ર-૧ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/cdZbIeHKRtM"
+                    },
+                     {
+                      "video_name": "વિજ્ઞાન પ્રશ્નપત્ર-૧ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/1IFv-ZwaxUM"
+                    },
+                     {
+                      "video_name": "વિજ્ઞાન પ્રશ્નપત્ર-૧ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                       {
+                      "video_name": "વિજ્ઞાન પ્રશ્નપત્ર-૨ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/FzI9Iq3u2x0"
+                    },
+                     {
+                      "video_name": "વિજ્ઞાન પ્રશ્નપત્ર-૨ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "વિજ્ઞાન પ્રશ્નપત્ર-૨ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/2BVgwmiwaK0"
+                    },
+                     {
+                      "video_name": "વિજ્ઞાન પ્રશ્નપત્ર-૨ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/JGwsTp4QAj0"
+                    },
+                       {
+                      "video_name": "વિજ્ઞાન પ્રશ્નપત્ર-૩ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/dAznc3CxLa0"
+                    },
+                    {
+                      "video_name": "વિજ્ઞાન પ્રશ્નપત્ર-૩ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "વિજ્ઞાન પ્રશ્નપત્ર-૩ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/7fIh4enps2c"
+                    },
+                    {
+                      "video_name": "વિજ્ઞાન પ્રશ્નપત્ર-૩ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/ux6XvcU_Few"
+                    },
+                       {
+                      "video_name": "વિજ્ઞાન પ્રશ્નપત્ર-૪ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/0kZt_TRPp2o"
+                    },
+                     {
+                      "video_name": "વિજ્ઞાન પ્રશ્નપત્ર-૪ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/2xYEgT-qcLQ"
+                    },
+                     {
+                      "video_name": "વિજ્ઞાન પ્રશ્નપત્ર-૪ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/UPLZVmu3Yzo"
+                    },
+                     {
+                      "video_name": "વિજ્ઞાન પ્રશ્નપત્ર-૪ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                       {
+                      "video_name": "વિજ્ઞાન પ્રશ્નપત્ર-૫ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/gbrdJIc_Ktg"
+                    },
+                      {
+                      "video_name": "વિજ્ઞાન પ્રશ્નપત્ર-૫ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/dww2XT86YKw"
+                    },
+                      {
+                      "video_name": "વિજ્ઞાન પ્રશ્નપત્ર-૫ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                      {
+                      "video_name": "વિજ્ઞાન પ્રશ્નપત્ર-૫ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/005bOQ-K1Z4"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૧ વિભાગ-A",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 science paper 1 sec A.pdf"
+                    },
+                     {
+                      "material_name":"વિજ્ઞાન પ્રશ્નપત્ર-૧ વિભાગ-B",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 science paper 1 sec B.pdf"
+                    },
+                     {
+                      "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૧ વિભાગ-C",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 sci paper 1 sec C.pdf"
+                    },
+                     {
+                      "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૧ વિભાગ-D",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 વિજ્ઞાન પ્રશ્નપત્ર 1 વિભાગ D.pdf"
+                    },
+                     {
+                      "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૨ વિભાગ-A",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 sci papper 2 section A.pdf"
+                    },
+                     {
+                      "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૨ વિભાગ-B",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 sci papper 2 section B.pdf"
+                    },
+                     {
+                      "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૨ વિભાગ-C",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 science paper 2 sec C.pdf"
+                    },
+                     {
+                      "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૨ વિભાગ-D",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 વિજ્ઞાન પ્રશ્નપત્ર 2 વિભાગ D.pdf"
+                    },
+                     {
+                      "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૩ વિભાગ-A",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 sci papper 3 section A.pdf"
+                    },
+                     {
+                      "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૩ વિભાગ-B",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 sci papper 3 section B.pdf"
+                    },
+                     {
+                      "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૩ વિભાગ-C",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/STD 10 વિજ્ઞાન પ્રશ્નપત્ર 3 વિભાગ c.pdf"
+                    },
+                     {
+                      "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૩ વિભાગ-D",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/STD 10 વિજ્ઞાન પ્રશ્નપત્ર 3 વિભાગ D.pdf"
+                    },
+                     {
+                      "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૪ વિભાગ-A",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 science paper 4 sec A.pdf"
+                    },
+                     {
+                      "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૪ વિભાગ-B",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 વિજ્ઞાન પ્રશ્નપત્ર 4 વિભાગ B.pdf"
+                    },
+                     {
+                      "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૪ વિભાગ-C",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 sci papper 4 section C.pdf"
+                    },
+                     {
+                      "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૪ વિભાગ-D",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 sci papper 4 section D.pdf"
+                    },
+                     {
+                      "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૫ વિભાગ-A",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 science paper 5 sec A.pdf"
+                    },
+                     {
+                      "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૫ વિભાગ-B",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 sci papper 5 section B.pdf"
+                    },
+                     {
+                      "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૫ વિભાગ-C",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                    },
+                     {
+                      "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૫ વિભાગ-D",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 વિજ્ઞાન પ્રશ્નપત્ર 5 વિભાગ D.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "સમાજ ",
+                  "videos": [
+                    {
+                      "video_name": "સમાજ પ્રશ્નપત્ર-૧ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/0dFy1NDsYzA"
+                    },
+                       {
+                      "video_name": "સમાજ પ્રશ્નપત્ર-૧ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/XzWR_KAP8fU"
+                    },
+                       {
+                      "video_name": "સમાજ પ્રશ્નપત્ર-૧ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/sTRQzOwF6sU"
+                    },
+                       {
+                      "video_name": "સમાજ પ્રશ્નપત્ર-૧ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/OpxldzC3aJs"
+                    },
+                      {
+                      "video_name": "સમાજ પ્રશ્નપત્ર-૨ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "સમાજ પ્રશ્નપત્ર-૨ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/dq5Bt8yGcjM"
+                    },
+                    {
+                      "video_name": "સમાજ પ્રશ્નપત્ર-૨ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/lqf8LctsjUk"
+                    },
+                    {
+                      "video_name": "સમાજ પ્રશ્નપત્ર-૨ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                      {
+                      "video_name": "સમાજ પ્રશ્નપત્ર-૩ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "સમાજ પ્રશ્નપત્ર-૩ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "સમાજ પ્રશ્નપત્ર-૩ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/lbbgHOaE-1M"
+                    },
+                    {
+                      "video_name": "સમાજ પ્રશ્નપત્ર-૩ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/rr3lXe5e_eE"
+                    },
+                      {
+                      "video_name": "સમાજ પ્રશ્નપત્ર-૪ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "સમાજ પ્રશ્નપત્ર-૪ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": " https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "સમાજ પ્રશ્નપત્ર-૪ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "સમાજ પ્રશ્નપત્ર-૪ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },                   
+                      {
+                      "video_name": "સમાજ પ્રશ્નપત્ર-૫ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "સમાજ પ્રશ્નપત્ર-૫ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name":"સમાજ પ્રશ્નપત્ર-૫ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name":"સમાજ પ્રશ્નપત્ર-૫ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "સમાજ પ્રશ્નપત્ર-૧ વિભાગ-A",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 samajik vigyan paper 1 sec A.pdf"
+                    },
+                     {
+                      "material_name": "સમાજ પ્રશ્નપત્ર-૧ વિભાગ-B",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "સમાજ પ્રશ્નપત્ર-૧ વિભાગ-C",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.s. paper 1 sec C.pdf"
+                    },
+                     {
+                      "material_name": "સમાજ પ્રશ્નપત્ર-૧ વિભાગ-D",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.s. paper 1 sec D.pdf"
+                    },
+                     {
+                      "material_name": "સમાજ પ્રશ્નપત્ર-૨ વિભાગ-A",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "સમાજ પ્રશ્નપત્ર-૨ વિભાગ-B",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.s. paper 2 sec B.pdf"
+                    },
+                     {
+                      "material_name": "સમાજ પ્રશ્નપત્ર-૨ વિભાગ-C",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.s. paper 2 sec C.pdf"
+                    },
+                     {
+                      "material_name": "સમાજ પ્રશ્નપત્ર-૨ વિભાગ-D",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.s. paper 2 sec D.pdf"
+                    },
+                     {
+                      "material_name": "સમાજ પ્રશ્નપત્ર-૩ વિભાગ-A",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.s paper 3 sec A.pdf"
+                    },
+                     {
+                      "material_name": "સમાજ પ્રશ્નપત્ર-૩ વિભાગ-B",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.s paper 3 sec B.pdf"
+                    },
+                     {
+                      "material_name": "સમાજ પ્રશ્નપત્ર-૩ વિભાગ-C",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.s paper 3 sec c.pdf"
+                    },
+                     {
+                      "material_name": "સમાજ પ્રશ્નપત્ર-૩ વિભાગ-D",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.s paper 3 sec D.pdf"
+                    },
+                     {
+                      "material_name": "સમાજ પ્રશ્નપત્ર-4 વિભાગ-A",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "સમાજ પ્રશ્નપત્ર-૪ વિભાગ-B",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "સમાજ પ્રશ્નપત્ર-૪ વિભાગ-C",
+                      "material_link": " https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "સમાજ પ્રશ્નપત્ર-૪ વિભાગ-D",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.s paper 4 sec D.pdf"
+                    },
+                     {
+                      "material_name": "સમાજ પ્રશ્નપત્ર-૫ વિભાગ-A",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.s. paper 5 sec A.pdf"
+                    },
+                     {
+                      "material_name": "સમાજ પ્રશ્નપત્ર-૫ વિભાગ-B",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.s paper 5 sec B.pdf"
+                    },
+                     {
+                      "material_name": "સમાજ પ્રશ્નપત્ર-૫ વિભાગ-C",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    },
+                     {
+                      "material_name": "સમાજ પ્રશ્નપત્ર-૫ વિભાગ-D",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.s paper 5 sec D.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                 {
+                  "month_name": "અંગ્રેજી",
+                  "videos": [
+                    {
+                      "video_name": "અંગ્રેજી પ્રશ્નપત્ર-૧ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/VUSmIsTGc_0"
+                    },
+                       {
+                      "video_name": "અંગ્રેજી પ્રશ્નપત્ર-૧ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/aRkKG2xrx9I"
+                    },
+                       {
+                      "video_name": "અંગ્રેજી પ્રશ્નપત્ર-૧ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Fbg65r47S_4"
+                    },
+                       {
+                      "video_name": "અંગ્રેજી પ્રશ્નપત્ર-૧ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/KjvHMMzsiho"
+                    },
+                     {
+                      "video_name": "અંગ્રેજી પ્રશ્નપત્ર-૧ વિભાગ-E",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    },
+                      {
+                      "video_name": "અંગ્રેજી પ્રશ્નપત્ર-૨ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    },
+                    {
+                      "video_name": "અંગ્રેજી પ્રશ્નપત્ર-૨ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "અંગ્રેજી પ્રશ્નપત્ર-૨ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "અંગ્રેજી પ્રશ્નપત્ર-૨ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "અંગ્રેજી પ્રશ્નપત્ર-૨ વિભાગ-E",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                      {
+                      "video_name": "અંગ્રેજી પ્રશ્નપત્ર-૩ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "અંગ્રેજી પ્રશ્નપત્ર-૩ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "અંગ્રેજી પ્રશ્નપત્ર-૩ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                    {
+                      "video_name": "અંગ્રેજી પ્રશ્નપત્ર-૩ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "અંગ્રેજી પ્રશ્નપત્ર-૩ વિભાગ-E",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                      {
+                      "video_name": "અંગ્રેજી પ્રશ્નપત્ર-૪ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "અંગ્રેજી પ્રશ્નપત્ર-૪ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "અંગ્રેજી પ્રશ્નપત્ર-૪ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                     {
+                      "video_name": "અંગ્રેજી પ્રશ્નપત્ર-૪ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/4VEomL6quFw"
+                    },
+                     {
+                      "video_name": "અંગ્રેજી પ્રશ્નપત્ર-૪ વિભાગ-E",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                    },
+                      {
+                      "video_name": "અંગ્રેજી પ્રશ્નપત્ર-૫ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/uvMjdCZPdac"
+                    },
+                    {
+                      "video_name": "અંગ્રેજી પ્રશ્નપત્ર-૫ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/J2s-hLV8BVY"
+                    },
+                    {
+                      "video_name": "અંગ્રેજી પ્રશ્નપત્ર-૫ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/yfUJH-FVUYk"
+                    },
+                    {
+                      "video_name": "અંગ્રેજી પ્રશ્નપત્ર-૫ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/nfWPJQFH54c"
+                    },
+                    {
+                      "video_name": "અંગ્રેજી પ્રશ્નપત્ર-૫ વિભાગ-E",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/bYdUSltOtMM"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name":  "અંગ્રેજી પ્રશ્નપત્ર-૧ વિભાગ-A",
+                      "material_link":  "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 english paper 1 sec A.pdf"
+                    },
+                     {
+                      "material_name":  "અંગ્રેજી પ્રશ્નપત્ર-૧ વિભાગ-B",
+                      "material_link":  "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 english paper 1 sec B.pdf"
+                    },
+                     {
+                      "material_name":  "અંગ્રેજી પ્રશ્નપત્ર-૧ વિભાગ-C",
+                      "material_link":  "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 english paper 1 sec C.pdf"
+                    },
+                     {
+                      "material_name":  "અંગ્રેજી પ્રશ્નપત્ર-૧ વિભાગ-D",
+                      "material_link":  "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 english paper 1 sec D.pdf"
+                    },
+                    {
+                      "material_name":  "અંગ્રેજી પ્રશ્નપત્ર-૧ વિભાગ-E",
+                      "material_link":  "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 english paper 1 sec E.pdf"
+                    },
+                     {
+                      "material_name":  "અંગ્રેજી પ્રશ્નપત્ર-૨ વિભાગ-A",
+                      "material_link":  "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 english papper 2 section A.pdf"
+                    },
+                     {
+                      "material_name":  "અંગ્રેજી પ્રશ્નપત્ર-૨ વિભાગ-B",
+                      "material_link":  "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 english papper 2 section B.pdf"
+                    },
+                     {
+                      "material_name": "અંગ્રેજી પ્રશ્નપત્ર-૨ વિભાગ-C",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 english papper 2 section C.pdf"
+                    },
+                     {
+                      "material_name": "અંગ્રેજી પ્રશ્નપત્ર-૨ વિભાગ-D",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 english papper 2 section D.pdf"
+                    },
+                    {
+                      "material_name": "અંગ્રેજી પ્રશ્નપત્ર-૨ વિભાગ-E",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 english papper 2 section E.pdf"
+                    },
+                     {
+                      "material_name": "અંગ્રેજી પ્રશ્નપત્ર-૩ વિભાગ-A",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 english paper 3 sec A.pdf"
+                    },
+                     {
+                      "material_name": "અંગ્રેજી પ્રશ્નપત્ર-૩ વિભાગ-B",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 અંગ્રેજી પ્રશ્નપત્ર 3 વિભાગ B.pdf"
+                    },
+                     {
+                      "material_name": "અંગ્રેજી પ્રશ્નપત્ર-૩ વિભાગ-C",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 અંગ્રેજી પ્રશ્નપત્ર 3 વિભાગ C.pdf"
+                    },
+                     {
+                      "material_name": "અંગ્રેજી પ્રશ્નપત્ર-૩ વિભાગ-D",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 અંગ્રેજી પ્રશ્નપત્ર 3 વિભાગ D.pdf"
+                    },
+                      {
+                      "material_name": "અંગ્રેજી પ્રશ્નપત્ર-૩ વિભાગ-E",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 અંગ્રેજી પ્રશ્નપત્ર 3 વિભાગ E.pdf"
+                    },
+                     {
+                      "material_name": "અંગ્રેજી પ્રશ્નપત્ર-4 વિભાગ-A",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 અંગ્રેજી પ્રશ્નપત્ર 4 વિભાગ A.pdf"
+                    },
+                     {
+                      "material_name": "અંગ્રેજી પ્રશ્નપત્ર-૪ વિભાગ-B",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 અંગ્રેજી પ્રશ્નપત્ર 4 વિભાગ B.pdf"
+                    },
+                     {
+                      "material_name": "અંગ્રેજી પ્રશ્નપત્ર-૪ વિભાગ-C",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 અંગ્રેજી પ્રશ્નપત્ર 4 વિભાગ C.pdf"
+                    },
+                     {
+                      "material_name": "અંગ્રેજી પ્રશ્નપત્ર-૪ વિભાગ-D",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 અંગ્રેજી પ્રશ્નપત્ર 4 વિભાગ D.pdf"
+                    },
+                     {
+                      "material_name": "અંગ્રેજી પ્રશ્નપત્ર-૪ વિભાગ-E",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 અંગ્રેજી પ્રશ્નપત્ર 4 વિભાગ E.pdf"
+                    },
+                     {
+                      "material_name": "અંગ્રેજી પ્રશ્નપત્ર-૫ વિભાગ-A",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 અંગ્રેજી પ્રશ્નપત્ર 5 વિભાગ A.pdf"
+                    },
+                     {
+                      "material_name": "અંગ્રેજી પ્રશ્નપત્ર-૫ વિભાગ-B",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 અંગ્રેજી પ્રશ્નપત્ર 5 વિભાગ B.pdf"
+                    },
+                     {
+                      "material_name": "અંગ્રેજી પ્રશ્નપત્ર-૫ વિભાગ-C",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 અંગ્રેજી પ્રશ્નપત્ર 5 વિભાગ C.pdf"
+                    },
+                     {
+                      "material_name": "અંગ્રેજી પ્રશ્નપત્ર-૫ વિભાગ-D",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 અંગ્રેજી પ્રશ્નપત્ર 5 વિભાગ D.pdf"
+                    },
+                    {
+                      "material_name": "અંગ્રેજી પ્રશ્નપત્ર-૫ વિભાગ-E",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/STD 10 ENGLISH પ્રશ્નપત્ર 5 વિભાગ E.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                },
+                 {
+                  "month_name": "સંસ્કૃત ",
+                  "videos": [
+                    {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૧ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/f5EhuIIDH3g"
+                    },
+                       {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૧ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/pwbbygAA4PU"
+                    },
+                       {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૧ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/7W92x0yUAxE"
+                    },
+                       {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૧ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/pmrEg575tqI"
+                    },
+                     {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૧ વિભાગ-E",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/7vYdx7ay80Q"
+                    },
+                      {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૨ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/mbL4141aviI"
+                    },
+                    {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૨ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/qOLJNF1ZUNE"
+                    },
+                    {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૨ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/_eTdjJW5KmY"
+                    },
+                    {
+                      "video_name": "સંસ્કૃત પ્રશ્નપત્ર-૨ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/kWbQH9hCE6o"
+                    },
+                     {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૨ વિભાગ-E",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/aCbLUAG4A3c"
+                    },
+                      {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૩ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/R2EcVPQRtfg"
+                    },
+                    {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૩ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/LWVFYn033zw"
+                    },
+                    {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૩ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/YMFKxELBCjc"
+                    },
+                    {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૩ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/LZ6I5rCT31k"
+                    },
+                     {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૩ વિભાગ-E",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/BxpUuuf-iAw"
+                    },
+                      {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૪ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/8w7qAgIshTY"
+                    },
+                     {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૪ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/q-DBm0Prg70"
+                    },
+                     {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૪ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/1fkqmsENnCs"
+                    },
+                     {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૪ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/drGdoyHAPYw"
+                    },
+                     {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૪ વિભાગ-E",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/nFjKW2mggac"
+                    },
+                      {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૫ વિભાગ-A",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/mMav4x9FqW4"
+                    },
+                    {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૫ વિભાગ-B",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/kLjVcwZA2mU"
+                    },
+                    {
+                      "video_name": "સંસ્કૃત પ્રશ્નપત્ર-૫ વિભાગ-C",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/ToTz-tQkHOU"
+                    },
+                    {
+                      "video_name": "સંસ્કૃત પ્રશ્નપત્ર-૫ વિભાગ-D",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/6b1c3sjQ5tk"
+                    },
+                    {
+                      "video_name": "સંસ્કૃત  પ્રશ્નપત્ર-૫ વિભાગ-E",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/P9iFwA2t2FY"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name":  "સંસ્કૃત પ્રશ્નપત્ર-૧ વિભાગ-A",
+                      "material_link":  "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.k paper 1 sec A.pdf"
+                    },
+                     {
+                      "material_name":  "સંસ્કૃત પ્રશ્નપત્ર-૧ વિભાગ-B",
+                      "material_link":  "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.k paper 1 sec B.pdf"
+                    },
+                     {
+                      "material_name":  "સંસ્કૃત પ્રશ્નપત્ર-૧ વિભાગ-C",
+                      "material_link":  "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.k paper 1 sec C.pdf"
+                    },
+                     {
+                      "material_name":  "સંસ્કૃત પ્રશ્નપત્ર-૧ વિભાગ-D",
+                      "material_link":  "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.k paper 1 sec D.pdf"
+                    },
+                    {
+                      "material_name":  "સંસ્કૃત પ્રશ્નપત્ર-૧ વિભાગ-E",
+                      "material_link":  "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.k paper 1 sec E.pdf"
+                    },
+                     {
+                      "material_name":  "સંસ્કૃત પ્રશ્નપત્ર-૨ વિભાગ-A",
+                      "material_link":  "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.k paper 2 sec A.pdf"
+                    },
+                     {
+                      "material_name":  "સંસ્કૃત પ્રશ્નપત્ર-૨ વિભાગ-B",
+                      "material_link":  "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.k paper 2 sec B.pdf"
+                    },
+                     {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૨ વિભાગ-C",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.k paper 2 sec C.pdf"
+                    },
+                     {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૨ વિભાગ-D",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.k paper 2 sec D.pdf"
+                    },
+                    {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૨ વિભાગ-E",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.k paper 2 sec E.pdf"
+                    },
+                     {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૩ વિભાગ-A",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/STD 10 sanskrit paper 3 section A.pdf"
+                    },
+                     {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૩ વિભાગ-B",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 sanskrut paper 3 sec B.pdf"
+                    },
+                     {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૩ વિભાગ-C",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 sanskrut paper 3 sec c.pdf"
+                    },
+                     {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૩ વિભાગ-D",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 sanskrut paper 3 sec D.pdf"
+                    },
+                      {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૩ વિભાગ-E",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 sanskrut paper 3 sec E.pdf"
+                    },
+                     {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-4 વિભાગ-A",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 sanskrit papper 4 section A.pdf"
+                    },
+                     {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૪ વિભાગ-B",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/STD 10 sanskrit paper 4 section B.pdf"
+                    },
+                     {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૪ વિભાગ-C",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 sanskrit paper 4 section C.pdf"
+                    },
+                     {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૪ વિભાગ-D",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.k paper 4 sec D.pdf"
+                    },
+                     {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૪ વિભાગ-E",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 sanskrut paper 4 sec E.pdf"
+                    },
+                     {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૫ વિભાગ-A",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.k paper 5 sec A.pdf"
+                    },
+                     {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૫ વિભાગ-B",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.k paper 5 sec B.pdf"
+                    },
+                     {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૫ વિભાગ-C",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.k paper 5 sec C.pdf"
+                    },
+                     {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૫ વિભાગ-D",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.k paper 5 sec D.pdf"
+                    },
+                    {
+                      "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૫ વિભાગ-E",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.k paper 5 sec E.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "textbook1",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "textbook_name": "textbook2",
+                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
     {
       "homedata_name": "બાલભવન",
       "homedata_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
