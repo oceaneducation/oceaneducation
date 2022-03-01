@@ -662,7 +662,7 @@
                     {
                       "material_name": "ભાગ અને પૂર્ણ (PART-2)", 
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/std-5-maths-ch-4-part-2.pdf"
-                    },
+                    }
                   ],
                   "textbook": [
                     {
@@ -715,7 +715,7 @@
                      {
                       "material_name":  "તું મારો ગુણક, હું તારો અવયવ (PART-2)", 
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/std-5-maths-ch-6-part-2.pdf"
-                    },
+                    }
                   ],
                   "textbook": [
                     {
