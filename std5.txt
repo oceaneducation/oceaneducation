@@ -586,7 +586,7 @@
                   "material": [
                     {
                       "material_name": "રાષ્ટ્રીય ફળ – કેરી",  
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/std-5-maths-ch-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -608,7 +608,7 @@
                   "material": [
                     {
                       "material_name": "આકાર અને ખૂણા",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/std-5-maths-ch-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -630,7 +630,7 @@
                   "material": [
                     {
                       "material_name": "કેટલા ચોરસ?",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/std-5-maths-ch-3.pdf"
                     }
                   ],
                   "textbook": [
@@ -656,9 +656,13 @@
                   ],
                   "material": [
                     {
-                      "material_name": "ભાગ અને પૂર્ણ",    
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/"
-                    }
+                      "material_name": "ભાગ અને પૂર્ણ (PART-1)",   
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/std-5-maths-ch-4-part-1.pdf"
+                    },
+                    {
+                      "material_name": "ભાગ અને પૂર્ણ (PART-2)", 
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/std-5-maths-ch-4-part-2.pdf"
+                    },
                   ],
                   "textbook": [
                     {
@@ -679,7 +683,7 @@
                   "material": [
                     {
                       "material_name": "તે સરખું દેખાય છે?",   
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/std-5-maths-ch-5.pdf"
                     }
                   ],
                   "textbook": [
@@ -705,9 +709,13 @@
                   ],
                   "material": [
                     {
-                      "material_name":  "તું મારો ગુણક, હું તારો અવયવ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/"
-                    }
+                      "material_name":  "તું મારો ગુણક, હું તારો અવયવ (PART-1)", 
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/std-5-maths-ch-6-part-1.pdf"
+                    },
+                     {
+                      "material_name":  "તું મારો ગુણક, હું તારો અવયવ (PART-2)", 
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/std-5-maths-ch-6-part-2.pdf"
+                    },
                   ],
                   "textbook": [
                     {
@@ -728,7 +736,7 @@
                   "material": [
                     {
                       "material_name": "તમે પેટર્ન(ભાત) જોઈ શકો છો?",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/std-5-maths-ch-7.pdf"
                     }
                   ],
                   "textbook": [
@@ -754,8 +762,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "નકશા – આલેખન",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/"
+                      "material_name": "નકશા – આલેખન(PART-1)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/std-5-maths-ch-8-part-1.pdf"
+                    },
+                      {
+                      "material_name": "નકશા – આલેખન(PART-2)",   
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/std-5-maths-ch-8-part-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -777,7 +789,7 @@
                   "material": [
                     {
                       "material_name": "ખોખા અને રેખાચિત્ર",   
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/std-5-maths-ch-9.pdf"
                     }
                   ],
                   "textbook": [
@@ -803,8 +815,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "દસમો અને સો મો ભાગ",   
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/"
+                      "material_name": "દસમો અને સો મો ભાગ ( પાર્ટ 1 )",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/std-5-maths-ch-10-part-1.pdf"
+                    },
+                     {
+                      "material_name": "દસમો અને સો મો ભાગ ( પાર્ટ 2 )",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std5/std-5-maths-ch-10-part-2.pdf"
                     }
                   ],
                   "textbook": [
