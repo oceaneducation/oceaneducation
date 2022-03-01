@@ -3519,11 +3519,11 @@
                   "material": [
                     {
                       "material_name": "પાઠ :  1. રાજપૂતયુગ : નવા શાસકો અને રાજ્યો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-7-s.s-ch-1-સ્વઅધ્યયનપોથી.pdf"
                     },
                        {
                       "material_name":"પાઠ :  2. દિલ્લી સલ્તનત",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-7-s.s-ch-2-સ્વઅધ્યયનપોથી.pdf"
                     },
                     {
                       "material_name": "પાઠ :  3. મુઘલ સામ્રાજ્ય",
@@ -3559,7 +3559,7 @@
                     },
                     {
                       "material_name":"પાઠ :  11. વાતાવરણની સજીવો પર અસરો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-7-s.s-ch-11-સ્વઅધ્યયનપોથી.pdf"
                     },
                     {
                       "material_name":"પાઠ :  12. આપત્તિ અને વ્યવસ્થાપન",
@@ -3698,7 +3698,7 @@
                     },
                       {
                       "material_name": "પાઠ : 4 : પ્રાયોગિક ભૂમિતિ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
                     },
                        {
                       "material_name": "પાઠ : 5 : માહિતીનું નિયમન ",
@@ -3726,7 +3726,7 @@
                     },
                       {
                       "material_name": "પાઠ : 11 : માપન",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-8-maths-ch-11-સ્વ-અધ્યયનપોથી..pdf"
                     },
                       {
                       "material_name": "પાઠ : 12 : ઘાત અને ઘાતાંક",
