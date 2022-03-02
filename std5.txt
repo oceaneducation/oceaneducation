@@ -592,7 +592,7 @@
                   "textbook": [
                     {
                       "textbook_name": "રાષ્ટ્રીય ફળ – કેરી",  
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD-5 MATHS CH1.pdf"
                     }
                   ]
                 },
@@ -614,7 +614,7 @@
                   "textbook": [
                     {
                       "textbook_name": "આકાર અને ખૂણા",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD-5 MATHS CH2.pdf"
                     }
                   ]
                 },
@@ -636,7 +636,7 @@
                   "textbook": [
                     {
                       "textbook_name": "કેટલા ચોરસ?",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD-5 MATHS CH3.pdf"
                     }
                   ]
                 },
@@ -667,7 +667,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ભાગ અને પૂર્ણ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD-5 MATHS CH4.pdf"
                     }
                   ]
                 },
@@ -689,7 +689,7 @@
                   "textbook": [
                     {
                       "textbook_name": "તે સરખું દેખાય છે?",   
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD-5 MATHS CH5.pdf"
                     }
                   ]
                 },
@@ -720,7 +720,7 @@
                   "textbook": [
                     {
                       "textbook_name": "તું મારો ગુણક, હું તારો અવયવ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD-5 MATHS CH6.pdf"
                     }
                   ]
                 },
@@ -742,7 +742,7 @@
                   "textbook": [
                     {
                       "textbook_name": "તમે પેટર્ન(ભાત) જોઈ શકો છો?",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD-5 MATHS CH7.pdf"
                     }
                   ]
                 },
@@ -773,7 +773,7 @@
                   "textbook": [
                     {
                       "textbook_name": "નકશા – આલેખન",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD-5 MATHS CH8.pdf"
                     }
                   ]
                 },
@@ -795,7 +795,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ખોખા અને રેખાચિત્ર",   
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD-5 MATHS CH9.pdf"
                     }
                   ]
                 },
@@ -826,7 +826,7 @@
                   "textbook": [
                     {
                       "textbook_name": "દસમો અને સો મો ભાગ",   
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD-5 MATHS CH10.pdf"
                     }
                   ]
                 },
@@ -848,7 +848,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ક્ષેત્રફળ અને પરિમિતિ", 
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD-5 MATHS CH11.pdf"
                     }
                   ]
                 },
@@ -870,7 +870,7 @@
                   "textbook": [
                     {
                       "textbook_name": "સ્માર્ટ ચાર્ટ્સ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD-5 MATHS CH12.pdf"
                     }
                   ]
                 },
@@ -892,7 +892,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ગુણાકાર અને ભાગાકારની રીતો", 
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD-5 MATHS CH13.pdf"
                     }
                   ]
                 },
@@ -914,7 +914,7 @@
                   "textbook": [
                     {
                       "textbook_name": "કેટલું મોટું? કેટલું ભારે?",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD-5 MATHS CH14.pdf"
                     }
                   ]
                 }
