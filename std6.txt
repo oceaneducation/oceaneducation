@@ -1580,7 +1580,7 @@
                   "material": [
                     {
                       "material_name": "दयालु शिकारी",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-hindi-ch-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -1602,7 +1602,7 @@
                   "material": [
                     {
                       "material_name": "एक जगत एक लोक",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-hindi-ch-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1624,7 +1624,7 @@
                   "material": [
                     {
                       "material_name": "समजदार नन्ही",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-hindi-ch-3.pdf"
                     }
                   ],
                   "textbook": [
@@ -1646,7 +1646,7 @@
                   "material": [
                     {
                       "material_name": "गिन्ती ४१ से १००",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-hindi-ch-4.pdf"
                     }
                   ],
                   "textbook": [
@@ -1668,7 +1668,7 @@
                   "material": [
                     {
                       "material_name": "પુનરાવર્તન 1",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-hindi-punravrtan-1.pdf"
                     }
                   ],
                   "textbook": []
@@ -1685,7 +1685,7 @@
                   "material": [
                     {
                       "material_name": "धरती को महकाई",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-hindi-ch-5.pdf"
                     }
                   ],
                   "textbook": [
@@ -1707,7 +1707,7 @@
                   "material": [
                     {
                       "material_name": "सुबह",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-hindi-ch-6.pdf"
                     }
                   ],
                   "textbook": [
@@ -1729,7 +1729,7 @@
                   "material": [
                     {
                       "material_name": "बूझो तो जाने",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-hindi-ch-7.pdf"
                     }
                   ],
                   "textbook": [
@@ -1751,7 +1751,7 @@
                   "material": [
                     {
                       "material_name": "राजा का हिस्सा",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-hindi-ch-8.pdf"
                     }
                   ],
                   "textbook": [
@@ -1773,7 +1773,7 @@
                   "material": [
                     {
                       "material_name": "પુનરાવર્તન 2",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-hindi-punravrtan-2.pdf"
                     }
                   ],
                   "textbook": []
@@ -1793,7 +1793,12 @@
                       "video_link": "https://youtu.be/Tj1a2NIdb6g"
                     }
                   ],
-                  "material": [],
+                  "material": [
+                   {
+                      "material_name": "इतनी शक्ति हमे देना दाता",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-hindi-ch-1.pdf"
+                    }
+                  ],
                   "textbook": [
                     {
                       "textbook_name": "इतनी शक्ति हमे देना दाता",
@@ -1813,7 +1818,7 @@
                   "material": [
                     {
                       "material_name": "अनूठे इन्सान",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-hindi-ch-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1835,7 +1840,7 @@
                   "material": [
                     {
                       "material_name": "जरा मुस्कुराइए",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-hindi-ch-3.pdf"
                     }
                   ],
                   "textbook": [
@@ -1857,7 +1862,7 @@
                   "material": [
                     {
                       "material_name": "पुस्तक - हमारी मित्र",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-hindi-ch-4.pdf"
                     }
                   ],
                   "textbook": [
@@ -1879,7 +1884,7 @@
                   "material": [
                     {
                       "material_name": "जय विज्ञान की",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-hindi-ch-5.pdf"
                     }
                   ],
                   "textbook": [
@@ -1901,7 +1906,7 @@
                   "material": [
                     {
                       "material_name": "न्याय",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-hindi-ch-6.pdf"
                     }
                   ],
                   "textbook": [
@@ -1923,7 +1928,7 @@
                   "material": [
                     {
                       "material_name": "यह भी एक परीक्षा ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-hindi-ch-7.pdf"
                     }
                   ],
                   "textbook": [
@@ -1945,7 +1950,7 @@
                   "material": [
                     {
                       "material_name": "પુનરાવર્તન",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-hindi-punravrtan.pdf"
                     }
                   ],
                   "textbook": []
@@ -2216,7 +2221,7 @@
                   "material": [
                     {
                       "material_name": "આલા લીલા વાંસડીયા",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/STD-6-GUJARATI-CHA-10.pdf"
                     }
                   ],
                   "textbook": [
@@ -2238,7 +2243,7 @@
                   "material": [
                     {
                       "material_name": "એક જાદુઇ પત્રની વાર્તા",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/STD-6-GUJARATI-CHA-11.pdf"
                     }
                   ],
                   "textbook": [
@@ -2260,7 +2265,7 @@
                   "material": [
                     {
                       "material_name": "રાવણનું  મિથ્યાભિમાન",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/STD-6-GUJARATI-CHA-12.pdf"
                     }
                   ],
                   "textbook": [
@@ -2282,7 +2287,7 @@
                   "material": [
                     {
                       "material_name": "સાગર કાંઠાનો  પ્રવાસ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/STD-6-GUJARATI-CHA-13.pdf"
                     }
                   ],
                   "textbook": [
@@ -2321,7 +2326,7 @@
                   "material": [
                     {
                       "material_name": "સારા અક્ષર",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/STD-6-GUJARATI-CHA-14.pdf"
                     }
                   ],
                   "textbook": [
@@ -2343,7 +2348,7 @@
                   "material": [
                     {
                       "material_name": "ગુજરાત મોરી મોરી રે",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/STD-6-GUJARATI-CHA-15.pdf"
                     }
                   ],
                   "textbook": [
@@ -2365,7 +2370,7 @@
                   "material": [
                     {
                       "material_name": "માતૃ હદય",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/STD-6-GUJARATI-CHA-16.pdf"
                     }
                   ],
                   "textbook": [
@@ -2387,7 +2392,7 @@
                   "material": [
                     {
                       "material_name": "સુગંધ કચ્છ ની ... !",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/STD-6-GUJARATI-CHA-17.pdf"
                     }
                   ],
                   "textbook": [
@@ -2409,7 +2414,7 @@
                   "material": [
                     {
                       "material_name": "સુભાષીત",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/STD-6-GUJARA-CHA-18.pdf"
                     }
                   ],
                   "textbook": [
