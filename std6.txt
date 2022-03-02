@@ -1099,7 +1099,7 @@
                   "material": [
                     {
                       "material_name": "चित्र पदानी 1 तः 4",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-snskurt-ch-1-chitrapadani.pdf"
                     }
                   ],
                   "textbook": [
@@ -1121,7 +1121,7 @@
                   "material": [
                     {
                       "material_name": "आकाश: पतती",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-s.k-ch-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1143,7 +1143,7 @@
                   "material": [
                     {
                       "material_name": "लेखनम",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-s.k-ch-3.pdf"
                     }
                   ],
                   "textbook": [
@@ -1165,7 +1165,7 @@
                   "material": [
                     {
                       "material_name": "संख्या",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-s.k-ch-4.pdf"
                     }
                   ],
                   "textbook": [
@@ -1187,7 +1187,7 @@
                   "material": [
                     {
                       "material_name": "हस्ती हस्ती हस्ती",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-s.k-ch-5.pdf"
                     }
                   ],
                   "textbook": [
@@ -1209,7 +1209,7 @@
                   "material": [
                     {
                       "material_name": "पुनरावतनम् 1",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-snskurt-punravartan-1.pdf"
                     }
                   ],
                   "textbook": []
@@ -1226,7 +1226,7 @@
                   "material": [
                     {
                       "material_name": "सप्त वासरा:",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-s.k-ch-6.pdf"
                     }
                   ],
                   "textbook": [
@@ -1248,7 +1248,7 @@
                   "material": [
                     {
                       "material_name": "करोती:",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-s.k-ch-7.pdf"
                     }
                   ],
                   "textbook": [
@@ -1270,7 +1270,7 @@
                   "material": [
                     {
                       "material_name": "काकस्य चातुर्यम",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-s.k-ch-8.pdf"
                     }
                   ],
                   "textbook": [
@@ -1292,7 +1292,7 @@
                   "material": [
                     {
                       "material_name": "समय :",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-snskurt-9.pdf"
                     }
                   ],
                   "textbook": [
@@ -1314,7 +1314,7 @@
                   "material": [
                     {
                       "material_name": "पुनरावतनम् 2",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-snskurt-punravartan-2.pdf"
                     }
                   ],
                   "textbook": []
@@ -1337,7 +1337,7 @@
                   "material": [
                     {
                       "material_name": "मम अंगनी",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-s.k-ch-1-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1359,7 +1359,7 @@
                   "material": [
                     {
                       "material_name": "दक्षिणपादम",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-s.k-ch-2-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1381,7 +1381,7 @@
                   "material": [
                     {
                       "material_name": "करोमी",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-s.k-ch-3-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1403,7 +1403,7 @@
                   "material": [
                     {
                       "material_name": "प्रहेलिका",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-s.k-ch-4-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1424,8 +1424,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "पुनरावतनम् 2",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "पुनरावतनम् 1",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-s.k-punaravratan - 1.pdf"
                     }
                   ],
                   "textbook": [
@@ -1447,7 +1447,7 @@
                   "material": [
                     {
                       "material_name": "मम विध्यालय",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-s.k-ch-5-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1469,7 +1469,7 @@
                   "material": [
                     {
                       "material_name": "भवतु भारतम",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-s.k-ch-6-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1491,7 +1491,7 @@
                   "material": [
                     {
                       "material_name": "सुभाषितानी",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-s.k-ch-7-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1513,7 +1513,7 @@
                   "material": [
                     {
                       "material_name": "जन्मदिनोत्सव:",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-s.k-ch-8-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1535,7 +1535,7 @@
                   "material": [
                     {
                       "material_name": "सूक्तय:",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-s.k-ch-9-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1557,7 +1557,7 @@
                   "material": [
                     {
                       "material_name": "पुनरावतनम् 2",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-s.k-punaravratan-2.pdf"
                     }
                   ],
                   "textbook": []
