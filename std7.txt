@@ -446,7 +446,7 @@
                   "material": [
                     {
                       "material_name": "વનસ્પતિમાં પોષણ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sci-ch-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -468,7 +468,7 @@
                   "material": [
                     {
                       "material_name": "પ્રાણીઓમાં પોષણ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sci-ch-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -490,7 +490,7 @@
                   "material": [
                     {
                       "material_name": "રેસાથી કાપડ સુધી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sci-ch-3.pdf"
                     }
                   ],
                   "textbook": [
@@ -512,7 +512,7 @@
                   "material": [
                     {
                       "material_name": "ઉષ્મા",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sci-ch-4.pdf"
                     }
                   ],
                   "textbook": [
@@ -534,7 +534,7 @@
                   "material": [
                     {
                       "material_name": "ઍસિડ, બેઇઝ અને ક્ષાર",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sci-ch-5.pdf"
                     }
                   ],
                   "textbook": [
@@ -556,7 +556,7 @@
                   "material": [
                     {
                       "material_name": "ભૌતિક અને રસાયણિક ફેરફારો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sci-ch-6.pdf"
                     }
                   ],
                   "textbook": [
@@ -578,7 +578,7 @@
                   "material": [
                     {
                       "material_name": "હવામાન, આબોહવા અને આબોહવાની સાથે પ્રાણીઓનું અનુકૂલન",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sci-ch-7.pdf"
                     }
                   ],
                   "textbook": [
@@ -600,7 +600,7 @@
                   "material": [
                     {
                       "material_name": "પવન, વાવાઝોડું અને ચક્રવાત",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sci-ch-8.pdf"
                     }
                   ],
                   "textbook": [
@@ -622,7 +622,7 @@
                   "material": [
                     {
                       "material_name": "ભૂમિ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sci-ch-9.pdf"
                     }
                   ],
                   "textbook": [
@@ -644,7 +644,7 @@
                   "material": [
                     {
                       "material_name": "સજીવોમાં શ્વસન",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sci-ch-10.pdf"
                     }
                   ],
                   "textbook": [
@@ -666,7 +666,7 @@
                   "material": [
                     {
                       "material_name": "પ્રાણીઓ અને વનસ્પતિઓમાં વહન",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sci-ch-11.pdf"
                     }
                   ],
                   "textbook": [
@@ -688,7 +688,7 @@
                   "material": [
                     {
                       "material_name": "વનસ્પતિમાંપ્રજનન",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sci-ch-12.pdf"
                     }
                   ],
                   "textbook": [
@@ -710,7 +710,7 @@
                   "material": [
                     {
                       "material_name": "ગતિ અને સમય",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sci-ch-13.pdf"
                     }
                   ],
                   "textbook": [
@@ -732,7 +732,7 @@
                   "material": [
                     {
                       "material_name": "વિધુતપ્રવાહ અને તેની અસરો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sci-ch-14.pdf"
                     }
                   ],
                   "textbook": [
@@ -754,7 +754,7 @@
                   "material": [
                     {
                       "material_name": "પ્રકાશ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sci-ch-15.pdf"
                     }
                   ],
                   "textbook": [
@@ -776,7 +776,7 @@
                   "material": [
                     {
                       "material_name": "પાણી: એક અમૂલ્ય સ્ત્રોત",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sci-ch-16.pdf"
                     }
                   ],
                   "textbook": [
@@ -798,7 +798,7 @@
                   "material": [
                     {
                       "material_name": "જંગલો: આપણી જીવાદોરી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sci-ch-17.pdf"
                     }
                   ],
                   "textbook": [
@@ -820,7 +820,7 @@
                   "material": [
                     {
                       "material_name": "દૂષિત પાણીની વાર્તા",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sci-ch-18.pdf"
                     }
                   ],
                   "textbook": [
