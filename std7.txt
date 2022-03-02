@@ -1058,7 +1058,7 @@
                   "material": [
                     {
                       "material_name": "चित्र के संग संग ( चित्र पाठ )",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-hindi-ch-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -1080,7 +1080,7 @@
                   "material": [
                     {
                       "material_name": "तब याद तुम्हारी आती है",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-hindi-ch-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1102,7 +1102,7 @@
                   "material": [
                     {
                       "material_name": "कुत्ते की वफादारी",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-hindi-ch-3.pdf"
                     }
                   ],
                   "textbook": [
@@ -1124,7 +1124,7 @@
                   "material": [
                     {
                       "material_name": "कथनी और करनी",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-hindi-ch-4.pdf"
                     }
                   ],
                   "textbook": [
@@ -1146,7 +1146,7 @@
                   "material": [
                     {
                       "material_name": "पुनरावर्तन 1",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-hindi-punravartan-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -1168,7 +1168,7 @@
                   "material": [
                     {
                       "material_name": "हिन्द देश के निवासी",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-hindi-ch-5.pdf"
                     }
                   ],
                   "textbook": [
@@ -1190,7 +1190,7 @@
                   "material": [
                     {
                       "material_name": "डॉ विक्रम साराभाई",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-hindi-ch-6.pdf"
                     }
                   ],
                   "textbook": [
@@ -1212,7 +1212,7 @@
                   "material": [
                     {
                       "material_name": "ढूंढते रह जाओगे",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-hindi-ch-7.pdf"
                     }
                   ],
                   "textbook": [
@@ -1234,7 +1234,7 @@
                   "material": [
                     {
                       "material_name": "दोहा अष्टक",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-hindi-ch-8.pdf"
                     }
                   ],
                   "textbook": [
@@ -1278,7 +1278,7 @@
                   "material": [
                     {
                       "material_name": "मौखिक कसोटी",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-hindi-maukhik-kasoti.pdf"
                     }
                   ],
                   "textbook": []
@@ -1295,7 +1295,7 @@
                   "material": [
                     {
                       "material_name": "लेखित कसोटी",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-hindi-likhit-kasoti.pdf"
                     }
                   ],
                   "textbook": []
@@ -1312,7 +1312,7 @@
                   "material": [
                     {
                       "material_name": "क्रियात्मक कसोटी",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-hindi-kriyatmak-kasoti.pdf"
                     }
                   ],
                   "textbook": []
@@ -1335,7 +1335,7 @@
                   "material": [
                     {
                       "material_name": "बेटी",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-hindi-ch-1-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1357,7 +1357,7 @@
                   "material": [
                     {
                       "material_name": "हम भी बने महान",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-hindi-ch-2-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1379,7 +1379,7 @@
                   "material": [
                     {
                       "material_name": "सच्चा हीरा",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-hindi-ch-3-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1401,7 +1401,7 @@
                   "material": [
                     {
                       "material_name": "देश के नाम संदेशी",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-hindi-ch-4-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1423,7 +1423,7 @@
                   "material": [
                     {
                       "material_name": "धरती की शान",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/:std-7-hindi-ch-5-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1445,7 +1445,7 @@
                   "material": [
                     {
                       "material_name": "पुनरावर्तन 1",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-hindi-punravratan-1-sem-2.pdf"
                     }
                   ],
                   "textbook": []
@@ -1462,7 +1462,7 @@
                   "material": [
                     {
                       "material_name": "मालवजी फौजदार",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-hindi-ch-6-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1484,7 +1484,7 @@
                   "material": [
                     {
                       "material_name": "बढ़े कहानी",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-hindi-ch-7-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1506,7 +1506,7 @@
                   "material": [
                     {
                       "material_name": "मुस्कान के मोती",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-hindi-ch-8-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1528,7 +1528,7 @@
                   "material": [
                     {
                       "material_name": "समय - सारिणी",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-hindi-ch-9-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1550,7 +1550,7 @@
                   "material": [
                     {
                       "material_name": "अंदाज अपना-अपना",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-hindi-ch-10-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1572,7 +1572,7 @@
                   "material": [
                     {
                       "material_name": "पुनरावर्तन 2",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-hindi-punravratan-2-sem-2.pdf"
                     }
                   ],
                   "textbook": []
