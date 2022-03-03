@@ -2586,7 +2586,7 @@
                   ],
                   "material": [
                     {
-                      "material_name": "સંમેય સંખ્યાઓ"
+                      "material_name": "સંમેય સંખ્યાઓ",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/"
                     }
                   ],
