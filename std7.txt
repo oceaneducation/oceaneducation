@@ -2044,7 +2044,7 @@
                   "material": [
                     {
                       "material_name": "મેળામાં",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-guj-ch-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -2066,7 +2066,7 @@
                   "material": [
                     {
                       "material_name": "આજની ઘડી રળિયામણી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-guj-ch-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -2088,7 +2088,7 @@
                   "material": [
                     {
                       "material_name": "પરીક્ષા",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-guj-ch-3.pdf"
                     }
                   ],
                   "textbook": [
@@ -2110,7 +2110,7 @@
                   "material": [
                     {
                       "material_name": "બે ખાનાનો પરિગ્રહ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-guj-ch-4.pdf"
                     }
                   ],
                   "textbook": [
@@ -2132,7 +2132,7 @@
                   "material": [
                     {
                       "material_name": "રાનમાં",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-guj-ch-5.pdf"
                     }
                   ],
                   "textbook": [
@@ -2154,7 +2154,7 @@
                   "material": [
                     {
                       "material_name": "પુનરાવર્તન  1",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-guj-punravratan-1.pdf"
                     }
                   ],
                   "textbook": []
@@ -2171,7 +2171,7 @@
                   "material": [
                     {
                       "material_name": "ભીખુ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-guj-ch-6.pdf"
                     }
                   ],
                   "textbook": [
@@ -2193,7 +2193,7 @@
                   "material": [
                     {
                       "material_name": "જીવનપાથેય",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-guj-ch-7.pdf"
                     }
                   ],
                   "textbook": [
@@ -2215,7 +2215,7 @@
                   "material": [
                     {
                       "material_name": "માલમ હલેસા માર",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-guj-ch-8.pdf"
                     }
                   ],
                   "textbook": [
@@ -2237,7 +2237,7 @@
                   "material": [
                     {
                       "material_name": "બાનો વાડો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-guj-ch-9.pdf"
                     }
                   ],
                   "textbook": [
@@ -2259,7 +2259,7 @@
                   "material": [
                     {
                       "material_name": "વલયની અવકાશી સફર",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-guj-ch-10.pdf"
                     }
                   ],
                   "textbook": [
@@ -2281,7 +2281,7 @@
                   "material": [
                     {
                       "material_name": "પુનરાવર્તન 2",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-guj-punravratan-2.pdf"
                     }
                   ],
                   "textbook": []
@@ -2304,7 +2304,7 @@
                   "material": [
                     {
                       "material_name": "અખબારી નોંધ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-guj-ch-11.pdf"
                     }
                   ],
                   "textbook": [
@@ -2326,7 +2326,7 @@
                   "material": [
                     {
                       "material_name": "જનની",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-guj-ch-12.pdf"
                     }
                   ],
                   "textbook": [
@@ -2348,7 +2348,7 @@
                   "material": [
                     {
                       "material_name": "હાઈસ્કૂલમાં",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-guj-ch-13.pdf"
                     }
                   ],
                   "textbook": [
@@ -2370,7 +2370,7 @@
                   "material": [
                     {
                       "material_name": "ભમીએ ગુજરાતે : દક્ષિણ ભણી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-guj-ch-14.pdf"
                     }
                   ],
                   "textbook": [
@@ -2392,7 +2392,7 @@
                   "material": [
                     {
                       "material_name": "આવ, ભાણા આવ !",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-guj-ch-15.pdf"
                     }
                   ],
                   "textbook": [
@@ -2414,7 +2414,7 @@
                   "material": [
                     {
                       "material_name": "ગ્રામમાતા",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-guj-ch-16.pdf"
                     }
                   ],
                   "textbook": [
@@ -2436,7 +2436,7 @@
                   "material": [
                     {
                       "material_name": "પુનરાવર્તન 3",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-guj-punravrtan-3.pdf"
                     }
                   ],
                   "textbook": []
@@ -2453,7 +2453,7 @@
                   "material": [
                     {
                       "material_name": "સિંહની દોસ્તી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-guj-ch-17.pdf"
                     }
                   ],
                   "textbook": [
@@ -2475,7 +2475,7 @@
                   "material": [
                     {
                       "material_name": "જીવરામ ભટ્ટ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-guj-ch-18.pdf"
                     }
                   ],
                   "textbook": [
@@ -2497,7 +2497,7 @@
                   "material": [
                     {
                       "material_name": "સોના જેવી સવાર",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-guj-ch-19.pdf"
                     }
                   ],
                   "textbook": [
@@ -2519,7 +2519,7 @@
                   "material": [
                     {
                       "material_name": "પાંચ દાણા",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-guj-ch-20.pdf"
                     }
                   ],
                   "textbook": [
@@ -2541,13 +2541,13 @@
                   "material": [
                     {
                       "material_name": "સુભાષીતો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-guj-ch-21.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "સુભાષીતો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 GUJ. CH-20pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     }
                   ]
                 },
@@ -2563,7 +2563,7 @@
                   "material": [
                     {
                       "material_name": "પુનરાવર્તન 4",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-guj-punravrtan-4.pdf"
                     }
                   ],
                   "textbook": []
