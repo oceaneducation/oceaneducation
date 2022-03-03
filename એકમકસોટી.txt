@@ -16,7 +16,7 @@
                      {
                       "video_name": "આસપાસ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/Q9dC5zfgAoQ"
                     }
                     ],
                   "material": [
@@ -66,7 +66,7 @@
                     {
                       "video_name": "ગુજરાતી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/lyoNj6W2fAA"
                     }
                   ],
                   "material": [
@@ -94,7 +94,7 @@
                     {
                       "video_name": "અંગ્રેજી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/ZQaqv5xECdM"
                     }
                     ],
                   "material": [
@@ -144,7 +144,7 @@
                     {
                       "video_name": "ગણિત",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/9sIjZcV3-Wg"
                     }
                   ],
                   "material": [
@@ -194,7 +194,7 @@
                     {
                       "video_name": "હિન્દી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/5VXkPaVjYwg"
                     }
                   ],
                   "material": [
@@ -244,7 +244,7 @@
                     {
                       "video_name": "ગુજરાતી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/shtxEgS6UJ0"
                     }
                   ],
                   "material": [
