@@ -22,13 +22,13 @@
                   "material": [
                      {
                       "material_name": "આસપાસ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 3 પર્યાવરણ સામાયિક મૂલ્યાંકન કસોટી.pdf"
                     }
                     ],
                   "textbook": [
                     {
                       "textbook_name": "આસપાસ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/PAT GM EVS 3 25.2.22.pdf"
                     }
                     ]
                 }
@@ -72,13 +72,13 @@
                   "material": [
                     {
                       "material_name": "ગુજરાતી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 4 ગુજરાતી સામાયિક મૂલ્યાંકન કસોટી.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "ગુજરાતી",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/PAT GM GUJ 4 25.2.22.pdf"
                     }
                   ]
                 }
@@ -100,13 +100,13 @@
                   "material": [
                     {
                       "material_name": "અંગ્રેજી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 5 English સામાયિક મૂલ્યાંકન કસોટી.pdf"
                     }
                     ],
                   "textbook": [
                      {
                       "textbook_name": "અંગ્રેજી",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/PAT GM Eng 5 25.2.22.pdf"
                     }
                     ]
                 }
@@ -150,13 +150,13 @@
                   "material": [
                     {
                       "material_name": "ગણિત",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 6 ગણિત સામાયિક મૂલ્યાંકન કસોટી.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "ગણિત",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/PAT GM Maths 6 25.2. 22.pdf"
                     }
                   ]
                 }
@@ -200,13 +200,13 @@
                   "material": [
                     {
                       "material_name": "હિન્દી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 7 Hindi સામાયિક મૂલ્યાંકન કસોટી.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "હિન્દી",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/PAT GM Hindi 7 25.2.22 .pdf"
                     }
                   ]
                 }
@@ -250,13 +250,13 @@
                   "material": [
                     {
                       "material_name": "ગુજરાતી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 8 ગુજરાતી સામાયિક મૂલ્યાંકન કસોટી.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "ગુજરાતી",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/PAT GM GUJ 8 25.2.22 .pdf"
                     }
                   ]
                 }
