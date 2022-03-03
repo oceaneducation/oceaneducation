@@ -78,7 +78,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ગુજરાતી",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/PAT-GM-GUJ-4-25.2.22.pdf"
+                      "textbook_link":  "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/PAT-GM-GUJ-4-25.2.22.pdf"
                     }
                   ]
                 }
