@@ -233,82 +233,82 @@
                     {
                       "video_name": "ગણિત પ્રશ્નપત્ર-૨ વિભાગ-A",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/vpY4F4UodEY"
                     },
                     {
                       "video_name": "ગણિત પ્રશ્નપત્ર-૨ વિભાગ-B",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/2b940wywkhs"
                     },
                     {
                       "video_name": "ગણિત પ્રશ્નપત્ર-૨ વિભાગ-C",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/sQ80J_CmBWo"
                     },
                     {
                       "video_name": "ગણિત પ્રશ્નપત્ર-૨ વિભાગ-D",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/ftQoEfwGVH4"
                     },
                     {
                       "video_name": "ગણિત પ્રશ્નપત્ર-૩ વિભાગ-A",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/YdhsKc3dPPw"
                     },
                     {
                       "video_name": "ગણિત પ્રશ્નપત્ર-૩ વિભાગ-B",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/RBBfpjtZPLU"
                     },
                     {
                       "video_name": "ગણિત પ્રશ્નપત્ર-૩ વિભાગ-C",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/ENc_fYuM2Qc"
                     },
                     {
                       "video_name": "ગણિત પ્રશ્નપત્ર-૩ વિભાગ-D",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/SzuAbvps08Q"
                     },
                     {
                       "video_name": "ગણિત પ્રશ્નપત્ર-૪ વિભાગ-A",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/UEZKxGaJADU"
                     },
                     {
                       "video_name": "ગણિત પ્રશ્નપત્ર-૪ વિભાગ-B",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/V0EVJtFliMM"
                     },
                     {
                       "video_name": "ગણિત પ્રશ્નપત્ર-૪ વિભાગ-C",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/YZk8e7z2HYM"
                     },
                     {
                       "video_name": "ગણિત પ્રશ્નપત્ર-૪ વિભાગ-D",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/p5OpmakNSg4"
                     },
                     {
                       "video_name": "ગણિત પ્રશ્નપત્ર-૫ વિભાગ-A",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": ""
                     },
                     {
                       "video_name": "ગણિત પ્રશ્નપત્ર-૫ વિભાગ-B",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": ""
                     },
                     {
                       "video_name": "ગણિત પ્રશ્નપત્ર-૫ વિભાગ-C",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": ""
                     },
                     {
                       "video_name": "ગણિત પ્રશ્નપત્ર-૫ વિભાગ-D",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": ""
                     }
                   ],
                   "material": [
