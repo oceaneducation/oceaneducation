@@ -94,7 +94,7 @@
                   "material": [
                     {
                       "material_name": "અંગ્રેજી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 4 English સામાયિક મૂલ્યાંકન કસોટી.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-4-English-સામાયિક-મૂલ્યાંકન-કસોટી.pdf"
                     }
                   ],
                   "textbook": [
@@ -144,7 +144,7 @@
                   "material": [
                     {
                       "material_name": "ગણિત",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 5 ગણિત સામાયિક મૂલ્યાંકન કસોટી.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-5-ગણિત-સામાયિક-મૂલ્યાંકન-કસોટી.pdf"
                     }
                     ],
                   "textbook": [
@@ -216,7 +216,7 @@
                   "material": [
                     {
                       "material_name": "હિન્દી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 6 hindi સામાયિક મૂલ્યાંકન કસોટી.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-6-hindi-સામાયિક-મૂલ્યાંકન-કસોટી.pdf"
                     }
                   ],
                   "textbook": [
@@ -288,7 +288,7 @@
                   "material": [
                     {
                       "material_name": "ગુજરાતી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 7 gujrati સામાયિક મૂલ્યાંકન કસોટી.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-7-gujrati-સામાયિક-મૂલ્યાંકન-કસોટી.pdf"
                     }
                   ],
                   "textbook": [
@@ -360,7 +360,7 @@
                   "material": [
                     {
                       "material_name": "વિજ્ઞાન",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 8 વિજ્ઞાન સામયિક મૂલ્યાંકન કસોટી.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-8-વિજ્ઞાન-સામયિક-મૂલ્યાંકન-કસોટી.pdf"
                     }
                   ],
                   "textbook": [
