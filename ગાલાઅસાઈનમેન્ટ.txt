@@ -511,19 +511,19 @@
                   "material": [
                     {
                       "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૧ વિભાગ-A",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
                     },
                     {
                       "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૧ વિભાગ-B",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
                     },
                     {
                       "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૧ વિભાગ-C",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
                     },
                     {
                       "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૧ વિભાગ-D",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
                     },
                     {
                       "material_name": "વિજ્ઞાન પ્રશ્નપત્ર-૨ વિભાગ-A",
