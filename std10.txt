@@ -16,13 +16,13 @@
                     {
                       "video_name": "વાસ્તવિક સંખ્યાઓ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/27wwgvSboyQ "
+                      "video_link": "https://youtu.be/27wwgvSboyQ"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "વાસ્તવિક સંખ્યાઓ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -38,12 +38,12 @@
                     {
                       "video_name": "બહુપદીઓ  ભાગ-૧",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Z9S-Y96PkQA "
+                      "video_link": "https://youtu.be/Z9S-Y96PkQA"
                     },
                     {
                       "video_name": "બહુપદીઓ  ભાગ-૨",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/ICX3eri6H38 "
+                      "video_link": "https://youtu.be/ICX3eri6H38"
                     },
                     {
                       "video_name": "બહુપદીઓ  ભાગ-૩",
@@ -58,18 +58,18 @@
                     {
                       "video_name": "બહુપદીઓ  ભાગ-૫",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/rVQ2jAJOn20 "
+                      "video_link": "https://youtu.be/rVQ2jAJOn20"
                     },
                     {
                       "video_name": "બહુપદીઓ  ભાગ-૬",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/9P4GYsGhMs4 "
+                      "video_link": "https://youtu.be/9P4GYsGhMs4"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "બહુપદીઓ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -85,13 +85,13 @@
                     {
                       "video_name": "દ્વિચલ સુરેખ સમીકરણયુગ્મ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/IiyvySXozGg "
+                      "video_link": "https://youtu.be/IiyvySXozGg"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "દ્વિચલ સુરેખ સમીકરણયુગ્મ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -107,13 +107,13 @@
                     {
                       "video_name": "દ્વિઘાત સમીકરણ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/BHlkuRkXhxs "
+                      "video_link": "https://youtu.be/BHlkuRkXhxs"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "દ્વિઘાત સમીકરણ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -129,13 +129,13 @@
                     {
                       "video_name": "સમાંતર શ્રેણી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/HE1WhYEEYkA "
+                      "video_link": "https://youtu.be/HE1WhYEEYkA"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "સમાંતર શ્રેણી",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -151,13 +151,13 @@
                     {
                       "video_name": "ત્રિકોણ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/O5sGkUOvZeQ  "
+                      "video_link": "https://youtu.be/O5sGkUOvZeQ"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ત્રિકોણ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -173,13 +173,13 @@
                     {
                       "video_name": "યામ ભૂમિતિ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/YHT9KAcLrBI "
+                      "video_link": "https://youtu.be/YHT9KAcLrBI"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "યામ ભૂમિતિ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -195,13 +195,13 @@
                     {
                       "video_name": "ત્રિકોણમિતિનો પરિચય",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/2cEfnMi9i-4 "
+                      "video_link": "https://youtu.be/2cEfnMi9i-4"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ત્રિકોણમિતિનો પરિચય",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -222,8 +222,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ત્રિકોણમિતિના ઉપયોગો",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -244,8 +244,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "વર્તુળ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -266,8 +266,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "રચના",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -288,8 +288,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "વર્તુળ સબંધિત ક્ષેત્રફળ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -365,8 +365,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "પૃષ્ઠફળ અને ઘનફળ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -387,8 +387,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "આંકડાશાસ્ત્ર",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -407,7 +407,12 @@
                       "video_link": "https://youtu.be/BYxZl70XK6o "
                     }
                   ],
-                  "material": [],
+                  "material": [
+                  {
+                      "material_name": "સંભાવના",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
+                    }
+                  ],
                   "textbook": [
                     {
                       "textbook_name": "સંભાવના",
@@ -426,8 +431,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ગણિતમાં સાબિતીઓ A1",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -448,8 +453,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ગાણિતિક મોડેલીંગ ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -476,8 +481,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "વૈષ્ણવજન",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/std-10-guj-ch-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -498,8 +503,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "રેસનો ઘોડો",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/std-10-guj-ch-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -520,8 +525,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "શીલવંત સાધુને",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/std-10-guj-ch-3.pdf"
                     }
                   ],
                   "textbook": [
@@ -542,8 +547,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ભૂલી ગયા પછી",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/std-10-guj-ch-4.pdf"
                     }
                   ],
                   "textbook": [
@@ -564,8 +569,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "દીકરી",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/std-10-guj-ch-5.pdf"
                     }
                   ],
                   "textbook": [
@@ -586,8 +591,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "વાઈરલ ઈન્ટેશન",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/std-10-guj-ch-6.pdf"
                     }
                   ],
                   "textbook": [
@@ -608,8 +613,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "હું એવો ગુજરાતી",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/std-10-guj-ch-7.pdf"
                     }
                   ],
                   "textbook": [
@@ -630,8 +635,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "છત્રી",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/std-10-guj-ch-8.pdf"
                     }
                   ],
                   "textbook": [
@@ -652,8 +657,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "માધવને દીઠો છે ક્યાંય ?",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/std-10-guj-ch-9.pdf"
                     }
                   ],
                   "textbook": [
@@ -674,8 +679,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ડાંગવનો અને...",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/std-10-guj-ch-10.pdf"
                     }
                   ],
                   "textbook": [
@@ -696,8 +701,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "શિકારીને",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/std-10-guj-ch-11.pdf"
                     }
                   ],
                   "textbook": [
@@ -718,8 +723,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ચોપડાની ઇન્દ્રજાળ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/std-10-guj-ch-12.pdf"
                     }
                   ],
                   "textbook": [
@@ -740,8 +745,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "વતનથી વિદાય થતાં",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/std-10-guj-ch-13.pdf"
                     }
                   ],
                   "textbook": [
@@ -762,8 +767,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "જન્મોત્સવ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/std-10-guj-ch-14.pdf"
                     }
                   ],
                   "textbook": [
@@ -784,8 +789,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "બોલીએ ના કાંઈ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/std-10-guj-ch-15.pdf"
                     }
                   ],
                   "textbook": [
@@ -806,8 +811,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ગતિભંગ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/std-10-guj-ch-16.pdf"
                     }
                   ],
                   "textbook": [
@@ -828,8 +833,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "દિવસો જુદાઈના જાય છે",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/std-10-guj-ch-17.pdf"
                     }
                   ],
                   "textbook": [
@@ -850,8 +855,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ભૂખથીય ભૂંડી ભીખ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/std-10-guj-ch-18.pdf"
                     }
                   ],
                   "textbook": [
@@ -872,8 +877,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "એક બપોરે",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/std-10-guj-ch-19.pdf"
                     }
                   ],
                   "textbook": [
@@ -894,8 +899,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "વિરલ વિભૂતિ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/std-10-guj-ch-20.pdf"
                     }
                   ],
                   "textbook": [
@@ -916,8 +921,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ચાંદલિયો",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/std-10-guj-ch-21.pdf"
                     }
                   ],
                   "textbook": [
@@ -938,8 +943,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "હિમાલયમાં એક સાહસ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/std-10-guj-ch-22.pdf"
                     }
                   ],
                   "textbook": [
@@ -960,8 +965,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "લઘુકાવ્યો",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/std-10-guj-ch-23.pdf"
                     }
                   ],
                   "textbook": [
@@ -982,8 +987,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ઘોડીની સ્વામીભક્તિ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/std-10-guj-ch-24.pdf"
                     }
                   ],
                   "textbook": [
@@ -1015,8 +1020,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "રાસાયણિક પ્રક્રિયાઓ અને સમીકરણો",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1042,8 +1047,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ઍસિડ, બેઇઝ અને ક્ષાર",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1069,8 +1074,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ધાતુઓ અને અધાતુઓ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1086,13 +1091,13 @@
                     {
                       "video_name": "કાર્બન અને તેનાં સંયોજનો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/BHlkuRkXhxs "
+                      "video_link": "https://youtu.be/BHlkuRkXhxs"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "કાર્બન અને તેનાં સંયોજનો",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1108,13 +1113,13 @@
                     {
                       "video_name": "તત્ત્વોનું આવર્તી વર્ગીકરણ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/HE1WhYEEYkA "
+                      "video_link": "https://youtu.be/HE1WhYEEYkA"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "તત્ત્વોનું આવર્તી વર્ગીકરણ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1130,13 +1135,13 @@
                     {
                       "video_name": "જૈવિક ક્રિયાઓ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/O5sGkUOvZeQ  "
+                      "video_link": "https://youtu.be/O5sGkUOvZeQ"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "જૈવિક ક્રિયાઓ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1152,13 +1157,13 @@
                     {
                       "video_name": "નિયંત્રણ અને સંકલન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/YHT9KAcLrBI "
+                      "video_link": "https://youtu.be/YHT9KAcLrBI"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "નિયંત્રણ અને સંકલન",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1174,13 +1179,13 @@
                     {
                       "video_name": "સજીવો કેવી રીતે પ્રજનન કરે છે ?",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/2cEfnMi9i-4 "
+                      "video_link": "https://youtu.be/2cEfnMi9i-4"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "સજીવો કેવી રીતે પ્રજનન કરે છે ?",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1196,13 +1201,13 @@
                     {
                       "video_name": "આનુવંશિકતા અને ઉવિકાસ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/d98JMjz7wQQ "
+                      "video_link": "https://youtu.be/d98JMjz7wQQ"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "આનુવંશિકતા અને ઉવિકાસ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1223,8 +1228,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "પ્રકાશ-પરાવર્તન અને વક્રીભવન",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1240,13 +1245,13 @@
                     {
                       "video_name": "માનવ-આંખ અને રંગબેરંગી દુનિયા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/lajyyEDs0lI "
+                      "video_link": "https://youtu.be/lajyyEDs0lI"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "માનવ-આંખ અને રંગબેરંગી દુનિયા",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1267,8 +1272,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "વિદ્યુત",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1289,8 +1294,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "વિદ્યુતપ્રવાહની ચુંબકીય અસરો",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1311,8 +1316,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ઊર્જાના સ્ત્રોતો",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1333,8 +1338,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "આપણું પર્યાવરણ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1355,8 +1360,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "નૈસર્ગિક સ્ત્રોતોનું ટકાઉ પ્રબંધન (વ્યવસ્થાપન)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1383,8 +1388,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ભારતનો વારસો",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1405,8 +1410,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ભારતનો સાંસ્કૃતિક વારસો : પરંપરાઓ : હસ્ત અને લલિતકલા",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1427,8 +1432,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ભારતનો સાંસ્કૃતિક વારસો : શિલ્પ અને સ્થાપત્ય",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1449,8 +1454,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ભારતનો સાહિત્યિક વારસો",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1466,13 +1471,13 @@
                     {
                       "video_name": "ભારતનો વિજ્ઞાન અને ટેક્નોલૉજીનો વારસો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/HE1WhYEEYkA "
+                      "video_link": "https://youtu.be/HE1WhYEEYkA"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ભારતનો વિજ્ઞાન અને ટેક્નોલૉજીનો વારસો",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1488,13 +1493,13 @@
                     {
                       "video_name": "ભારતના સાંસ્કૃતિક વારસાનાં સ્થળો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/O5sGkUOvZeQ  "
+                      "video_link": "https://youtu.be/O5sGkUOvZeQ"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ભારતના સાંસ્કૃતિક વારસાનાં સ્થળો",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1515,8 +1520,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "આપણા વારસાનું જતન",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1537,8 +1542,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "કુદરતી સંસાધનો",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1559,8 +1564,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "વન અને વન્યજીવ સંસાધન",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1581,8 +1586,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ભારત : કૃષિ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1603,8 +1608,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ભારત : જળ સંસાધન",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1625,8 +1630,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ભારત : ખનિજ અને શક્તિનાં સંસાધનો",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1647,8 +1652,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ઉત્પાદન ઉદ્યોગો",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1669,8 +1674,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "પરિવહન, સંદેશાવ્યવહાર અને વ્યાપાર",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1684,15 +1689,15 @@
                   "month_name": "ch - 15",
                   "videos": [
                     {
-                      "video_name": "આર્થિક વિકાસ ",
+                      "video_name": "આર્થિક વિકાસ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/BYxZl70XK6o "
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "આર્થિક વિકાસ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1713,8 +1718,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "આર્થિક ઉદારીકરણ અને વૈશ્વિકીકરણ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1730,13 +1735,13 @@
                     {
                       "video_name": "આર્થિક સમસ્યાઓ અને પડકારો : ગરીબી અને બેરોજગારી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/oX3Wfh8TEOQ "
+                      "video_link": "https://youtu.be/oX3Wfh8TEOQ"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "આર્થિક સમસ્યાઓ અને પડકારો : ગરીબી અને બેરોજગારી",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1752,13 +1757,13 @@
                     {
                       "video_name": "ભાવવધારો અને ગ્રાહક જાગૃતિ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/VMgKzmMnF7c "
+                      "video_link": "https://youtu.be/VMgKzmMnF7c"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ભાવવધારો અને ગ્રાહક જાગૃતિ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1779,8 +1784,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "માનવ વિકાસ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1801,8 +1806,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ભારતની સામાજિક સમસ્યાઓ અને પડકારો",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1823,8 +1828,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "સામાજિક પરિવર્તન",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1851,8 +1856,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "Against the odds",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1873,8 +1878,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "The Human Robot",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1890,13 +1895,13 @@
                     {
                       "video_name": "An Interview with Arun Krishnamurthy",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/IiyvySXozGg "
+                      "video_link": "https://youtu.be/IiyvySXozGg"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "An Interview with Arun Krishnamurthy",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1917,8 +1922,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "A Wonderful Creation",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1939,8 +1944,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "Playing with Fire",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1961,8 +1966,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "I Love You, Teacher",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -1983,8 +1988,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "Kach & Devayani",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -2005,8 +2010,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "Our Feathered Friends",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -2027,8 +2032,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "Tune up 0 Teens!",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -2049,8 +2054,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "A Test of True Love",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -2071,8 +2076,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "My Song",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -2093,8 +2098,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "Pencil",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -2115,8 +2120,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "Growing",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -2132,13 +2137,13 @@
                     {
                       "video_name": "Vanila Twilight",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Keioj5XkLLM "
+                      "video_link": "https://youtu.be/Keioj5XkLLM"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "Vanila Twilight",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -2158,20 +2163,20 @@
                   "month_name": "Ch - 1",
                   "videos": [
                     {
-                      "video_name": "सं वदध्वम् ",
+                      "video_name": "सं वदध्वम्",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/27wwgvSboyQ "
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "सं वदध्वम् ",
+                      "material_name": "सं वदध्वम्",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/STD- 10 SANSKRUT CH-1.pdf"
                     }
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "सं वदध्वम् ",
+                      "textbook_name": "सं वदध्वम्",
                       "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/1.pdf"
                     }
                   ]
@@ -2204,13 +2209,13 @@
                     {
                       "video_name": "स्वस्थवृत्तं समाचर",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/IiyvySXozGg "
+                      "video_link": "https://youtu.be/IiyvySXozGg"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "स्वस्थवृत्तं समाचर",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -2226,13 +2231,13 @@
                     {
                       "video_name": "जनार्दनस्य पश्चिमः",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/BHlkuRkXhxs "
+                      "video_link": "https://youtu.be/BHlkuRkXhxs"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "जनार्दनस्य पश्चिमः",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -2248,13 +2253,13 @@
                     {
                       "video_name": "गुणवती कन्या",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/HE1WhYEEYkA "
+                      "video_link": "https://youtu.be/HE1WhYEEYkA"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "गुणवती कन्या",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -2270,13 +2275,13 @@
                     {
                       "video_name": "काष्ठखण्डः ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/O5sGkUOvZeQ  "
+                      "video_link": "https://youtu.be/O5sGkUOvZeQ"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "काष्ठखण्डः ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -2290,15 +2295,15 @@
                   "month_name": "Ch - 7",
                   "videos": [
                     {
-                      "video_name": " सुभाषितकुसुमानि",
+                      "video_name": "सुभाषितकुसुमानि",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/YHT9KAcLrBI "
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "सुभाषितकुसुमानि",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -2319,8 +2324,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "साक्षिभूतः मनुष्यः ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -2334,15 +2339,15 @@
                   "month_name": "Ch - 9",
                   "videos": [
                     {
-                      "video_name": "चक्षुष्मान् अन्ध एव,",
+                      "video_name": "चक्षुष्मान् अन्ध एव",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/d98JMjz7wQQ "
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "चक्षुष्मान् अन्ध एव",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -2356,20 +2361,20 @@
                   "month_name": "Ch - 10",
                   "videos": [
                     {
-                      "video_name": "त्वमेका भवानि   ",
+                      "video_name": "त्वमेका भवानि",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/KlzSyVHDg7I"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "त्वमेका भवानि",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "त्वमेका भवानि   ",
+                      "textbook_name": "त्वमेका भवानि",
                       "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/10.pdf"
                     }
                   ]
@@ -2385,8 +2390,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "यस्य जननं तस्य मरणम् ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -2400,20 +2405,20 @@
                   "month_name": "Ch - 12",
                   "videos": [
                     {
-                      "video_name": "कलिकालसर्वज्ञो हेमचन्द्राचार्यः ",
+                      "video_name": "कलिकालसर्वज्ञो हेमचन्द्राचार्यः",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/AH66cNDUFpE "
+                      "video_link": "https://youtu.be/AH66cNDUFpE"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "कलिकालसर्वज्ञो हेमचन्द्राचार्यः",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "कलिकालसर्वज्ञो हेमचन्द्राचार्यः ",
+                      "textbook_name": "कलिकालसर्वज्ञो हेमचन्द्राचार्यः",
                       "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/12.pdf"
                     }
                   ]
@@ -2424,13 +2429,13 @@
                     {
                       "video_name": "गीतामृतम्",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/AH66cNDUFpE "
+                      "video_link": "https://youtu.be/AH66cNDUFpE"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "गीतामृतम्",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -2444,15 +2449,15 @@
                   "month_name": "Ch - 14",
                   "videos": [
                     {
-                      "video_name": "क इदं दुष्करं कुर्यात्  ",
+                      "video_name": "क इदं दुष्करं कुर्यात्",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Keioj5XkLLM "
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "क इदं दुष्करं कुर्यात्",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -2468,13 +2473,13 @@
                     {
                       "video_name": "जयः पराजयो वा",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/BYxZl70XK6o "
+                      "video_link": "https://youtu.be/BYxZl70XK6o"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "जयः पराजयो वा",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -2493,7 +2498,12 @@
                       "video_link": "https://youtu.be/z54ubvn2MIg "
                     }
                   ],
-                  "material": [],
+                  "material": [
+                   {
+                      "material_name": "अद्भुतं युद्धम् ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
+                    }
+                  ],
                   "textbook": [
                     {
                       "textbook_name": "अद्भुतं युद्धम् ",
@@ -2512,8 +2522,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "स्वाभाविकं सादृश्यम्",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -2527,15 +2537,15 @@
                   "month_name": "Ch - 18",
                   "videos": [
                     {
-                      "video_name": "मुक्तानि मुक्तकानि ",
+                      "video_name": "मुक्तानि मुक्तकानि",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/VMgKzmMnF7c "
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "मुक्तानि मुक्तकानि",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -2551,13 +2561,13 @@
                     {
                       "video_name": "सत्यं मयूरः ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/ciOP_MueO-E  "
+                      "video_link": "https://youtu.be/ciOP_MueO-E"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "सत्यं मयूरः ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
@@ -2578,8 +2588,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "तथैव तिष्ठति",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
