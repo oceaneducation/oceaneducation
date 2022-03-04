@@ -2098,7 +2098,7 @@
                   "material": [
                     {
                       "material_name": "ભારતમાં બ્રિટિશ સત્તાનો ઉદય",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.-ch-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -2120,7 +2120,7 @@
                   "material": [
                     {
                       "material_name": "પ્રથમ વિશ્વયુદ્ધ અને રશિયન ક્રાંતિ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.-ch-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -2142,7 +2142,7 @@
                   "material": [
                     {
                       "material_name": "નૂતન વિશ્વ તરફ પ્રયાણ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.-ch-3.pdf"
                     }
                   ],
                   "textbook": [
@@ -2164,7 +2164,7 @@
                   "material": [
                     {
                       "material_name": "ભારતની રાષ્ટ્રીય ચળવળો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.-ch-4.pdf"
                     }
                   ],
                   "textbook": [
@@ -2186,7 +2186,7 @@
                   "material": [
                     {
                       "material_name": "ભારત : આઝાદી તરફ પ્રયાણ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.-ch-5.pdf"
                     }
                   ],
                   "textbook": [
@@ -2208,7 +2208,7 @@
                   "material": [
                     {
                       "material_name": "1945 પછીનું વિશ્વ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.-ch-6.pdf"
                     }
                   ],
                   "textbook": [
@@ -2230,7 +2230,7 @@
                   "material": [
                     {
                       "material_name": "સ્વાતંત્ર્યોત્તર ભારત",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.-ch-7.pdf"
                     }
                   ],
                   "textbook": [
@@ -2252,7 +2252,7 @@
                   "material": [
                     {
                       "material_name": "ભારતના રાજ્યબંધારણનું ઘડતર અને લક્ષણો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.-ch-8.pdf"
                     }
                   ],
                   "textbook": [
@@ -2274,7 +2274,7 @@
                   "material": [
                     {
                       "material_name": "મૂળભૂત હકો, મૂળભૂત ફરજો અને રાજ્યનીતિના માર્ગદર્શક સિદ્ધાંતો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.-ch-9.pdf"
                     }
                   ],
                   "textbook": [
@@ -2296,7 +2296,7 @@
                   "material": [
                     {
                       "material_name": "સરકારનાં અંગો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.-ch-10.pdf"
                     }
                   ],
                   "textbook": [
@@ -2318,7 +2318,7 @@
                   "material": [
                     {
                       "material_name": "ભારતનું ન્યાયતંત્ર",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.-ch-11.pdf"
                     }
                   ],
                   "textbook": [
@@ -2340,7 +2340,7 @@
                   "material": [
                     {
                       "material_name": "ભારતીય લોકશાહી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.-ch-12.pdf"
                     }
                   ],
                   "textbook": [
@@ -2362,7 +2362,7 @@
                   "material": [
                     {
                       "material_name": "ભારત : સ્થાન, ભૂસ્તરીય રચના અને ભૂપૃષ્ઠ - 1",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.-ch-13.pdf"
                     }
                   ],
                   "textbook": [
@@ -2384,7 +2384,7 @@
                   "material": [
                     {
                       "material_name": "ભારત : સ્થાન, ભૂસ્તરીય રચના અને ભૂપૃષ્ઠ - II",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.-ch-14.pdf"
                     }
                   ],
                   "textbook": [
@@ -2406,7 +2406,7 @@
                   "material": [
                     {
                       "material_name": "જળ-પરિવાહ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.-ch-15.pdf"
                     }
                   ],
                   "textbook": [
@@ -2428,7 +2428,7 @@
                   "material": [
                     {
                       "material_name": "આબોહવા",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.-ch-16.pdf"
                     }
                   ],
                   "textbook": [
@@ -2450,7 +2450,7 @@
                   "material": [
                     {
                       "material_name": "કુદરતી વનસ્પતિ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.-ch-17.pdf"
                     }
                   ],
                   "textbook": [
@@ -2472,7 +2472,7 @@
                   "material": [
                     {
                       "material_name": "વન્યજીવન",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.-ch-18.pdf"
                     }
                   ],
                   "textbook": [
@@ -2494,7 +2494,7 @@
                   "material": [
                     {
                       "material_name": "ભારત : લોકજીવન",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.-ch-19.pdf"
                     }
                   ],
                   "textbook": [
@@ -2516,7 +2516,7 @@
                   "material": [
                     {
                       "material_name": "આપત્તિ-વ્યવસ્થાપન",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.-ch-20.pdf"
                     }
                   ],
                   "textbook": [
