@@ -948,7 +948,7 @@
                   "material": [
                     {
                       "material_name": "નાવિક વળતો બોલિયો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-guj-ch-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -970,7 +970,7 @@
                   "material": [
                     {
                       "material_name": "પોસ્ટ ઑફિસ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-guj-ch-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -992,7 +992,7 @@
                   "material": [
                     {
                       "material_name": "એમ ઉગાર્યો ચંદ્રહાસ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-guj-ch-3.pdf"
                     }
                   ],
                   "textbook": [
@@ -1014,7 +1014,7 @@
                   "material": [
                     {
                       "material_name": "અમૃતા",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-guj-ch-4.pdf"
                     }
                   ],
                   "textbook": [
@@ -1036,7 +1036,7 @@
                   "material": [
                     {
                       "material_name": "છપ્પા / ઉખાણાં",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-guj-ch-5.pdf"
                     }
                   ],
                   "textbook": [
@@ -1058,7 +1058,7 @@
                   "material": [
                     {
                       "material_name": "સુંદરીની શોધ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-guj-ch-6.pdf"
                     }
                   ],
                   "textbook": [
@@ -1080,7 +1080,7 @@
                   "material": [
                     {
                       "material_name": "વનમાં ચાંદલિયો ઊગ્યો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-guj-ch-7.pdf"
                     }
                   ],
                   "textbook": [
@@ -1102,7 +1102,7 @@
                   "material": [
                     {
                       "material_name": "બુરાઈના દ્વાર પર",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-guj-ch-8.pdf"
                     }
                   ],
                   "textbook": [
@@ -1124,7 +1124,7 @@
                   "material": [
                     {
                       "material_name": "ચક્રવાક મિથુન",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-guj-ch-9.pdf"
                     }
                   ],
                   "textbook": [
@@ -1146,7 +1146,7 @@
                   "material": [
                     {
                       "material_name": "જીભ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-guj-ch-10.pdf"
                     }
                   ],
                   "textbook": [
@@ -1168,7 +1168,7 @@
                   "material": [
                     {
                       "material_name": "સીમ અને ખેતર",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-guj-ch-11.pdf"
                     }
                   ],
                   "textbook": [
@@ -1190,7 +1190,7 @@
                   "material": [
                     {
                       "material_name": "પ્રસંગ દીપ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-guj-ch-12.pdf"
                     }
                   ],
                   "textbook": [
@@ -1212,7 +1212,7 @@
                   "material": [
                     {
                       "material_name": "પરાજય ની જીત",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-guj-ch-13.pdf"
                     }
                   ],
                   "textbook": [
@@ -1234,7 +1234,7 @@
                   "material": [
                     {
                       "material_name": "વાત એક શાપની",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-guj-ch-14.pdf"
                     }
                   ],
                   "textbook": [
@@ -1256,7 +1256,7 @@
                   "material": [
                     {
                       "material_name": "મારા ફળીના ઝાડાવા બે",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-guj-ch-15.pdf"
                     }
                   ],
                   "textbook": [
@@ -1278,7 +1278,7 @@
                   "material": [
                     {
                       "material_name": "તપસ્વી સારસ્વત",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-guj-ch-16.pdf"
                     }
                   ],
                   "textbook": [
@@ -1300,7 +1300,7 @@
                   "material": [
                     {
                       "material_name": "ભજન કરે તે જીતે",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-guj-ch-17.pdf"
                     }
                   ],
                   "textbook": [
@@ -1322,7 +1322,7 @@
                   "material": [
                     {
                       "material_name": "હુકમ, માલિક",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-guj-ch-18.pdf"
                     }
                   ],
                   "textbook": [
@@ -1344,7 +1344,7 @@
                   "material": [
                     {
                       "material_name": "કાવ્યદ્ર્યી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-guj-ch-19.pdf"
                     }
                   ],
                   "textbook": [
@@ -1366,7 +1366,7 @@
                   "material": [
                     {
                       "material_name": "સ્ટેચ્યું રમવાની મજા",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-guj-ch-20.pdf"
                     }
                   ],
                   "textbook": [
@@ -1432,7 +1432,7 @@
                   "material": [
                     {
                       "material_name": "સહી નહી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-guj-ch-23.pdf"
                     }
                   ],
                   "textbook": [
@@ -1454,7 +1454,7 @@
                   "material": [
                     {
                       "material_name": "રેફરન્સ  બૂક",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-guj-ch-24.pdf"
                     }
                   ],
                   "textbook": [
@@ -1476,7 +1476,7 @@
                   "material": [
                     {
                       "material_name": "દુહા, મુક્તક, હાઇકુ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-guj-ch-25.pdf"
                     }
                   ],
                   "textbook": [
@@ -1498,7 +1498,7 @@
                   "material": [
                     {
                       "material_name": "બે દ્રષ્ટાંત કથાઓ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-guj-ch-26.pdf"
                     }
                   ],
                   "textbook": [
@@ -1526,7 +1526,7 @@
                   "material": [
                     {
                       "material_name": "અર્થશાસ્ત્ર : વિષય-પ્રવેશ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-eco-ch-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -1548,7 +1548,7 @@
                   "material": [
                     {
                       "material_name": "મૂળભૂત ખ્યાલો અને સંકલ્પનાઓ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-eco-ch-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1570,7 +1570,7 @@
                   "material": [
                     {
                       "material_name": "માંગ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-eco-ch-3.pdf"
                     }
                   ],
                   "textbook": [
@@ -1592,7 +1592,7 @@
                   "material": [
                     {
                       "material_name": "પુરવઠો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-eco-ch-4.pdf"
                     }
                   ],
                   "textbook": [
@@ -1614,7 +1614,7 @@
                   "material": [
                     {
                       "material_name": "આવક અને ખર્ચના ખ્યાલો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-eco-ch-5.pdf"
                     }
                   ],
                   "textbook": [
@@ -1636,7 +1636,7 @@
                   "material": [
                     {
                       "material_name": "બજાર",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-eco-ch-6.pdf"
                     }
                   ],
                   "textbook": [
@@ -1658,7 +1658,7 @@
                   "material": [
                     {
                       "material_name": "ભારતીય અર્થતંત્ર",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-eco-ch-7.pdf"
                     }
                   ],
                   "textbook": [
@@ -1680,7 +1680,7 @@
                   "material": [
                     {
                       "material_name": "આર્થિક સુધારાઓ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-eco-ch-8.pdf"
                     }
                   ],
                   "textbook": [
@@ -1702,7 +1702,7 @@
                   "material": [
                     {
                       "material_name": "રાષ્ટ્રીય આવક",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-eco-ch-9.pdf"
                     }
                   ],
                   "textbook": [
@@ -1724,7 +1724,7 @@
                   "material": [
                     {
                       "material_name": "અંદાજપત્ર",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-eco-ch-10.pdf"
                     }
                   ],
                   "textbook": [
@@ -1746,7 +1746,7 @@
                   "material": [
                     {
                       "material_name": "આર્થિક વિચારો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-eco-ch-11.pdf"
                     }
                   ],
                   "textbook": [
