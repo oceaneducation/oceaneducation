@@ -88,7 +88,7 @@
                     {
                       "video_name": "અંગ્રેજી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/AdR-dZC9Q30"
                     }
                   ],
                   "material": [
@@ -100,7 +100,7 @@
                   "textbook": [
                     {
                       "textbook_name": "અંગ્રેજી",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/PAT GM ENG 4 4.3.22.pdf"
                     }
                   ]
                 }
@@ -138,7 +138,7 @@
                     {
                       "video_name": "ગણિત",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/vTQd9-7j75o"
                     }
                     ],
                   "material": [
@@ -150,7 +150,7 @@
                   "textbook": [
                      {
                       "textbook_name": "ગણિત",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/PAT GM Maths 5 4.3.22.pdf"
                     }
                     ]
                 }
@@ -210,7 +210,7 @@
                     {
                       "video_name": "હિન્દી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/99IOWQe1R00"
                     }
                   ],
                   "material": [
@@ -222,7 +222,7 @@
                   "textbook": [
                     {
                       "textbook_name": "હિન્દી",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/PAT GM Hindi 6 4.3.22.pdf"
                     }
                   ]
                 }
@@ -282,7 +282,7 @@
                     {
                       "video_name": "ગુજરાતી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/VNjc27o5_Eg"
                     }
                   ],
                   "material": [
@@ -294,7 +294,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ગુજરાતી",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/PAT GM GUJ 7 4.3.22.pdf"
                     }
                   ]
                 }
@@ -354,7 +354,7 @@
                     {
                       "video_name": "ગુજરાતી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/-BB7d-d6PJs"
                     }
                   ],
                   "material": [
@@ -366,7 +366,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ગુજરાતી",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/PAT GM SCI 8 4.3.22 .pdf"
                     }
                   ]
                 }
