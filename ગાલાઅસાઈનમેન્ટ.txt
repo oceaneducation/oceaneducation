@@ -1172,7 +1172,7 @@
                   "material": [
                     {
                       "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૧ વિભાગ-A",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 s.k paper 1 sec A.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-10-s.k-paper-1-sec-A.pdf"
                     },
                     {
                       "material_name": "સંસ્કૃત પ્રશ્નપત્ર-૧ વિભાગ-B",
