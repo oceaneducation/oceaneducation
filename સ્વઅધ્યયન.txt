@@ -3869,7 +3869,7 @@
                 },
                 {
                   "material_name": "પાઠ : 15 : અખંડ ભારતના શિલ્પી",
-                  "material_link":  "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allpdf2/std-8-guj-ch-15-સ્વ-અધ્યયનપોથી.pdf"
+                  "material_link":  "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-8-guj-ch-15-સ્વ-અધ્યયનપોથી.pdf"
                 },
                 {
                   "material_name": "પાઠ : 16 : સુદામો દીઠા શ્રીકૃષ્ણદેવ રે!",
