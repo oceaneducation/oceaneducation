@@ -954,7 +954,7 @@
                   "textbook": [
                     {
                       "textbook_name": "નાવિક વળતો બોલિયો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-Gujarati-ch-1-textbook.pdf"
                     }
                   ]
                 },
@@ -976,7 +976,7 @@
                   "textbook": [
                     {
                       "textbook_name": "પોસ્ટ ઑફિસ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-Gujarati-ch-2-textbook.pdf"
                     }
                   ]
                 },
@@ -998,7 +998,7 @@
                   "textbook": [
                     {
                       "textbook_name": "એમ ઉગાર્યો ચંદ્રહાસ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-Gujarati-ch-3-textbook.pdf"
                     }
                   ]
                 },
@@ -1020,7 +1020,7 @@
                   "textbook": [
                     {
                       "textbook_name": "અમૃતા",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-Gujarati-ch-4-textbook.pdf"
                     }
                   ]
                 },
@@ -1042,7 +1042,7 @@
                   "textbook": [
                     {
                       "textbook_name": "છપ્પા / ઉખાણાં",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-Gujarati-ch-5-textbook.pdf"
                     }
                   ]
                 },
@@ -1064,7 +1064,7 @@
                   "textbook": [
                     {
                       "textbook_name": "સુંદરીની શોધ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-Gujarati-ch-6-textbook.pdf"
                     }
                   ]
                 },
@@ -1086,7 +1086,7 @@
                   "textbook": [
                     {
                       "textbook_name": "વનમાં ચાંદલિયો ઊગ્યો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-Gujarati-ch-7-textbook.pdf"
                     }
                   ]
                 },
@@ -1108,7 +1108,7 @@
                   "textbook": [
                     {
                       "textbook_name": "બુરાઈના દ્વાર પર",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-Gujarati-ch-8-textbook.pdf"
                     }
                   ]
                 },
@@ -1130,7 +1130,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ચક્રવાક મિથુન",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-Gujarati-ch-9-textbook.pdf"
                     }
                   ]
                 },
@@ -1152,7 +1152,7 @@
                   "textbook": [
                     {
                       "textbook_name": "જીભ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-Gujarati-ch-10-textbook.pdf"
                     }
                   ]
                 },
@@ -1174,7 +1174,7 @@
                   "textbook": [
                     {
                       "textbook_name": "સીમ અને ખેતર",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-Gujarati-ch-11-textbook.pdf"
                     }
                   ]
                 },
@@ -1196,7 +1196,7 @@
                   "textbook": [
                     {
                       "textbook_name": "પ્રસંગ દીપ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-Gujarati-ch-12-textbook.pdf"
                     }
                   ]
                 },
@@ -1218,7 +1218,7 @@
                   "textbook": [
                     {
                       "textbook_name": "પરાજય ની જીત",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-Gujarati-ch-13-textbook.pdf"
                     }
                   ]
                 },
@@ -1240,7 +1240,7 @@
                   "textbook": [
                     {
                       "textbook_name": "વાત એક શાપની",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-Gujarati-ch-14-textbook.pdf"
                     }
                   ]
                 },
@@ -1262,7 +1262,7 @@
                   "textbook": [
                     {
                       "textbook_name": "મારા ફળીના ઝાડાવા બે",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-Gujarati-ch-15-textbook.pdf"
                     }
                   ]
                 },
@@ -1284,7 +1284,7 @@
                   "textbook": [
                     {
                       "textbook_name": "તપસ્વી સારસ્વત",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-Gujarati-ch-16-textbook.pdf"
                     }
                   ]
                 },
@@ -1306,7 +1306,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ભજન કરે તે જીતે",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-Gujarati-ch-17-textbook.pdf"
                     }
                   ]
                 },
@@ -1328,7 +1328,7 @@
                   "textbook": [
                     {
                       "textbook_name": "હુકમ, માલિક",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-Gujarati-ch-18-textbook.pdf"
                     }
                   ]
                 },
@@ -1350,7 +1350,7 @@
                   "textbook": [
                     {
                       "textbook_name": "કાવ્યદ્ર્યી",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-Gujarati-ch-19-textbook.pdf"
                     }
                   ]
                 },
@@ -1372,7 +1372,7 @@
                   "textbook": [
                     {
                       "textbook_name": "સ્ટેચ્યું રમવાની મજા",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-Gujarati-ch-20-textbook.pdf"
                     }
                   ]
                 },
@@ -1394,7 +1394,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ભગવાન નો ભાગ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-Gujarati-ch-21-textbook.pdf"
                     }
                   ]
                 },
@@ -1416,7 +1416,7 @@
                   "textbook": [
                     {
                       "textbook_name": "જમાના પ્રમાણે",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-Gujarati-ch-22-textbook.pdf"
                     }
                   ]
                 },
@@ -1438,7 +1438,7 @@
                   "textbook": [
                     {
                       "textbook_name": "સહી નહી",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-Gujarati-ch-23-textbook.pdf"
                     }
                   ]
                 },
@@ -1460,7 +1460,7 @@
                   "textbook": [
                     {
                       "textbook_name": "રેફરન્સ  બૂક",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-Gujarati-ch-24-textbook.pdf"
                     }
                   ]
                 },
@@ -1482,7 +1482,7 @@
                   "textbook": [
                     {
                       "textbook_name": "દુહા, મુક્તક, હાઇકુ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-Gujarati-ch-25-textbook.pdf"
                     }
                   ]
                 },
@@ -1504,7 +1504,7 @@
                   "textbook": [
                     {
                       "textbook_name": "બે દ્રષ્ટાંત કથાઓ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-Gujarati-ch-26-textbook.pdf"
                     }
                   ]
                 }
