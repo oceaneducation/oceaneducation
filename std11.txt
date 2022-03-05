@@ -1780,7 +1780,7 @@
                   "textbook": [
                     {
                       "textbook_name": "માહિતીનું એકત્રિકીકરણ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD 11 STET CH - 1.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-STET-CH-1-text-book.pdf"
                     }
                   ]
                 },
@@ -1802,7 +1802,7 @@
                   "textbook": [
                     {
                       "textbook_name": "માહિતીનું નિરૂપણ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD 11 STET CH - 2.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-STET-CH-2-text-book.pdf"
                     }
                   ]
                 },
@@ -1824,7 +1824,7 @@
                   "textbook": [
                     {
                       "textbook_name": "મધ્યવર્તી સ્થિતિનાં માપ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD 11 STET CH - 3.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-STET-CH-3-text-book.pdf"
                     }
                   ]
                 },
@@ -1846,7 +1846,7 @@
                   "textbook": [
                     {
                       "textbook_name": "પ્રસારમોનું",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD 11 STET CH - 4.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-STET-CH-4-text-book.pdf"
                     }
                   ]
                 },
@@ -1868,7 +1868,7 @@
                   "textbook": [
                     {
                       "textbook_name": "આવૃત્તિ-વિતરણની વિષમતા",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD 11 STET CH - 5.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-STET-CH-5-text-book.pdf"
                     }
                   ]
                 },
@@ -1890,7 +1890,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ક્રમચય, સંચય અને દ્વિપદી વિસ્તરણ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD 11 STET CH - 6.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-STET-CH-6-text-book.pdf"
                     }
                   ]
                 },
@@ -1912,7 +1912,7 @@
                   "textbook": [
                     {
                       "textbook_name": "નિદર્શન પદ્ધતિઓ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD 11 STET CH - 7.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-STET-CH-7-text-book.pdf"
                     }
                   ]
                 },
@@ -1934,7 +1934,7 @@
                   "textbook": [
                     {
                       "textbook_name": "વિધેય",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD 11 STET CH - 8.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-STET-CH-8-text-book.pdf"
                     }
                   ]
                 },
