@@ -3600,7 +3600,7 @@
                 {
                   "video_name": "પાઠ : 11 : માપન",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": ""
+                  "video_link": "https://youtu.be/EpjvqJBCunI"
                 },
                 {
                   "video_name": "પાઠ : 12 : ઘાત અને ઘાતાંક",
@@ -3625,7 +3625,7 @@
                 {
                   "video_name": "પાઠ : 16 : સંખ્યા સાથે રમત",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                  "video_link": ""
+                  "video_link": "https://youtu.be/MeGb2O227dY"
                 }
               ],
               "material": [
