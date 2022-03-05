@@ -1450,7 +1450,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ભાગીદારી : વિષય-પ્રવેશ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 12 account part 1 ch 1.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/std-12-account-part-1-ch-1-text-book.pdf"
                     }
                   ]
                 },
@@ -1472,7 +1472,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ભાગીદારી પેઢીના વાર્ષિક હિસાબો (નાણાકીય પત્રકો)",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 12 account part 1 ch 2.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/std-12-account-part-1-ch-2-text-book.pdf"
                     }
                   ]
                 },
@@ -1494,7 +1494,7 @@
                   "textbook": [
                     {
                       "textbook_name": "પાઘડીનું મૂલ્યાંકન",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 12 account part 1 ch 3.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/std-12-account-part-1-ch-3-text-book.pdf"
                     }
                   ]
                 },
@@ -1516,7 +1516,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ભાગીદારીનું પુનર્ગઠન",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 12 account part 1 ch 4.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/std-12-account-part-1-ch-4-text-book.pdf"
                     }
                   ]
                 },
@@ -1538,7 +1538,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ભાગીદારનો પ્રવેશ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 12 account part 1 ch 5.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/std-12-account-part-1-ch-5-text-book.pdf"
                     }
                   ]
                 },
@@ -1560,7 +1560,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ભાગીદારની નિવૃત્તિ / મૃત્યુ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 12 account part 1 ch 6.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/std-12-account-part-1-ch-6-text-book.pdf"
                     }
                   ]
                 },
@@ -1582,7 +1582,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ભાગીદારી પેઢીનું વિસર્જન",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 12 account part 1 ch 7.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std-12-account-part-1-ch-7-text-book.pdf"
                     }
                   ]
                 }
@@ -1610,7 +1610,7 @@
                   "textbook": [
                     {
                       "textbook_name": "શેરમૂડીના હિસાબો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 12 account part 2 ch 1.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/std 12 account part 2 ch 1.pdf"
                     }
                   ]
                 },
@@ -1632,7 +1632,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ડિબેન્ચરના હિસાબો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 12 account part 2 ch 2.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/std 12 account part 2 ch 2.pdf"
                     }
                   ]
                 },
@@ -1654,7 +1654,7 @@
                   "textbook": [
                     {
                       "textbook_name": "કંપનીના વાર્ષિક હિસાબો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 12 account part 2 ch 3.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/std 12 account part 2 ch 3.pdf"
                     }
                   ]
                 },
@@ -1676,7 +1676,7 @@
                   "textbook": [
                     {
                       "textbook_name": "નાણાકીય પત્રકોનું વિશ્લેષણ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 12 account part 2 ch 4.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/std 12 account part 2 ch 4.pdf"
                     }
                   ]
                 },
@@ -1698,7 +1698,7 @@
                   "textbook": [
                     {
                       "textbook_name": "હિસાબી ગુણોત્તરો અને વિશ્લેષણ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 12 account part 2 ch 5.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/std 12 account part 2 ch 5.pdf"
                     }
                   ]
                 },
@@ -1720,7 +1720,7 @@
                   "textbook": [
                     {
                       "textbook_name": "રોકડ પ્રવાહ પત્રક",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 12 account part 2 ch 6.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/std 12 account part 2 ch 6.pdf"
                     }
                   ]
                 }
