@@ -2407,23 +2407,23 @@
                 },
                 {
                   "material_name": "પાઠ : 11 : પ્રકાશ, પડછાયો અને પરાવર્તન    ",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/.swa. std 6 sci ch 11 સ્વઅધ્યયન પોથી.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 6-sci-ch-11-સ્વ-અધ્યયનપોથી.pdf"
                 },
                 {
                   "material_name": "પાઠ : 12 : વિધુત તથા પરિપથ  ",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/-swa std 6 sci ch 12 સ્વઅધ્યયન પોથી.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-6-sci-ch-12-સ્વ-અધ્યયનપોથી.pdf"
                 },
                 {
                   "material_name": "પાઠ : 13 : ચુંબક અને ગમ્મત  ",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/.swa std 6 sci ch 13 સ્વઅધ્યયન પોથી.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-6-sci-ch-13-સ્વ-અધ્યયનપોથી.pdf"
                 },
                 {
                   "material_name": "પાઠ : 14 : પાણી    ",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/;swa std 6 sci ch 14 સ્વઅધ્યયન પોથી.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-6-sci-ch-14-સ્વ-અધ્યયનપોથી.pdf"
                 },
                 {
                   "material_name": "પાઠ : 15 : આપણી આસપાસ ની હવા",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 6 sci ch 15 સ્વઅધ્યયન પોથી.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-6-sci-ch-15-સ્વ-અધ્યયનપોથી.pdf"
                 },
                 {
                   "material_name": "પાઠ : 16 : કચરાનો સંગ્રહ અને કચરાનો નિકાલ",
@@ -3869,15 +3869,15 @@
                 },
                 {
                   "material_name": "પાઠ : 15 : અખંડ ભારતના શિલ્પી",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allpdf2/.swa std 8 gujarati ch 15 સ્વઅધ્યયન પોથી.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allpdf2/std-8-guj-ch-15-સ્વ-અધ્યયનપોથી.pdf"
                 },
                 {
                   "material_name": "પાઠ : 16 : સુદામો દીઠા શ્રીકૃષ્ણદેવ રે!",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/.swa std 8 gujarati ch 16 સ્વઅધ્યયન પોથી.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-8-guj-ch-16-સ્વ-અધ્યયનપોથી.pdf"
                 },
                 {
                   "material_name": "પાઠ : 17 : સંસ્કારની શ્રીમંતાઇ",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/.swa std 8 gujarati ch 17 સ્વઅધ્યયન પોથી.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-8-guj-ch-17-સ્વ-અધ્યયનપોથી.pdf"
                 },
                 {
                   "material_name": "પાઠ : 18 : દુહા-મુક્તક-હાઇકુ",
