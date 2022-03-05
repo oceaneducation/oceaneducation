@@ -502,7 +502,7 @@
                   "textbook": [
                     {
                       "textbook_name": "હિસાબીપદ્ધતિ અને તેના પારિભાષિક શબ્દો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 account part 1 CH 1.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD 11-account-part-1-CH-1-text-book.pdf"
                     }
                   ]
                 },
@@ -524,7 +524,7 @@
                   "textbook": [
                     {
                       "textbook_name": "વ્યવહારોની દ્વિ-અસર અને ખાતાના પ્રકાર",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 account part 1 CH 2.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-account-part-1-CH-2-text-book.pdf"
                     }
                   ]
                 },
@@ -546,7 +546,7 @@
                   "textbook": [
                     {
                       "textbook_name": "વસ્તુઓ અને સેવાઓ કર : પરિચય",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 account part 1 CH 3.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-account-part-1-CH-3-text-book.pdf"
                     }
                   ]
                 },
@@ -568,7 +568,7 @@
                   "textbook": [
                     {
                       "textbook_name": "આમનોંધ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 account part 1 CH 4.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-account-part-1-CH-4-text-book.pdf"
                     }
                   ]
                 },
@@ -590,7 +590,7 @@
                   "textbook": [
                     {
                       "textbook_name": "હિસાબી સમીકરણ અને ધંધાના વ્યવહારો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 account part 1 CH 5.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-account-part-1-CH-5-text-book.pdf"
                     }
                   ]
                 },
@@ -612,7 +612,7 @@
                   "textbook": [
                     {
                       "textbook_name": "પેટાનોંધો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 account part 1 CH 6.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-account-part-1-CH-6-text-book.pdf"
                     }
                   ]
                 },
@@ -634,7 +634,7 @@
                   "textbook": [
                     {
                       "textbook_name": "રોકડમેળ અને તેના પ્રકારો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 account part 1 CH 7.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-account-part-1-CH-7-text-book.pdf"
                     }
                   ]
                 },
@@ -656,7 +656,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ખાસ આમનોંધ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 account part 1 CH 8.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-account-part-1-CH-8-text-book.pdf"
                     }
                   ]
                 },
@@ -678,7 +678,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ખાતાવહી–ખતવણી",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 account part 1 CH 9.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-account-part-1-CH-9-text-book.pdf"
                     }
                   ]
                 },
@@ -700,7 +700,7 @@
                   "textbook": [
                     {
                       "textbook_name": "કાચું સરવૈયું",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 account part 1 CH 10.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-account-part-1-CH-10-text-book.pdf"
                     }
                   ]
                 },
@@ -722,7 +722,7 @@
                   "textbook": [
                     {
                       "textbook_name": "બૅન્ક સિલકમેળ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 account part 1 CH 11.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-account-part-1-CH-11-text-book.pdf"
                     }
                   ]
                 }
@@ -750,7 +750,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ભૂલ-સુધારણા",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 account part 2 CH 1.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-account-part-2-CH-1-text-book.pdf"
                     }
                   ]
                 },
@@ -772,7 +772,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ઘસારાના હિસાબો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 account part 2 CH 2.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-account-part-2-CH-2-text-book.pdf"
                     }
                   ]
                 },
@@ -794,7 +794,7 @@
                   "textbook": [
                     {
                       "textbook_name": "જોગવાઈઓ અને અનામતો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 account part 2 CH 3.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-account-part-2-CH-3-text-book.pdf"
                     }
                   ]
                 },
@@ -816,7 +816,7 @@
                   "textbook": [
                     {
                       "textbook_name": "હૂંડીઓ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 account part 2 CH 4.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-account-part-2-CH-4-text-book.pdf"
                     }
                   ]
                 },
@@ -838,7 +838,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ધંધાકીય એકમોનાં નાણાકીય (હિસાબી) પત્રકો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 account part 2 CH 5.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-account-part-2-CH-5-text-book.pdf"
                     }
                   ]
                 },
@@ -860,7 +860,7 @@
                   "textbook": [
                     {
                       "textbook_name": "હિસાબીપદ્ધતિની પ્રણાલિકાઓ–ધારણાઓ, ખ્યાલો અને સિદ્ધાંતો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 account part 2 CH 6.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-account-part-2-CH-6-text-book.pdf"
                     }
                   ]
                 },
@@ -882,7 +882,7 @@
                   "textbook": [
                     {
                       "textbook_name": "હિસાબી ધોરણો : ખ્યાલ અને ઉદેશો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 account part 2 CH 7.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-account-part-2-CH-7-text-book.pdf"
                     }
                   ]
                 },
@@ -904,7 +904,7 @@
                   "textbook": [
                     {
                       "textbook_name": "દેશી નામાપદ્ધતિ : પરિચય",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 account part 2 CH 8.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-account-part-2-CH-8-text-book.pdf"
                     }
                   ]
                 },
@@ -926,7 +926,7 @@
                   "textbook": [
                     {
                       "textbook_name": "બિનવેપારી સંસ્થાના હિસાબો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 account part 2 CH 9.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-account-part-2-CH-9-text-book.pdf"
                     }
                   ]
                 }
@@ -1532,7 +1532,7 @@
                   "textbook": [
                     {
                       "textbook_name": "અર્થશાસ્ત્ર : વિષય-પ્રવેશ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD -11 ECO CH -1.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-1-ECO-CH-1-text-book.pdf"
                     }
                   ]
                 },
@@ -1554,7 +1554,7 @@
                   "textbook": [
                     {
                       "textbook_name": "મૂળભૂત ખ્યાલો અને સંકલ્પનાઓ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD -11 ECO CH -2.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-ECO-CH-2-text-book.pdf"
                     }
                   ]
                 },
@@ -1576,7 +1576,7 @@
                   "textbook": [
                     {
                       "textbook_name": "માંગ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD -11 ECO CH -3.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-ECO-CH-3-text-book.pdf"
                     }
                   ]
                 },
@@ -1598,7 +1598,7 @@
                   "textbook": [
                     {
                       "textbook_name": "પુરવઠો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD -11 ECO CH -4.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-ECO-CH-4-text-book.pdf"
                     }
                   ]
                 },
@@ -1620,7 +1620,7 @@
                   "textbook": [
                     {
                       "textbook_name": "આવક અને ખર્ચના ખ્યાલો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD -11 ECO CH -5.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-ECO-CH-5-text-book.pdf"
                     }
                   ]
                 },
@@ -1642,7 +1642,7 @@
                   "textbook": [
                     {
                       "textbook_name": "બજાર",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD -11 ECO CH -6.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-ECO-CH-6-text-book.pdf"
                     }
                   ]
                 },
@@ -1664,7 +1664,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ભારતીય અર્થતંત્ર",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD -11 ECO CH -7.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-ECO-CH-7-text-book.pdf"
                     }
                   ]
                 },
@@ -1686,7 +1686,7 @@
                   "textbook": [
                     {
                       "textbook_name": "આર્થિક સુધારાઓ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD -11 ECO CH -8.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-ECO-CH-8-text-book.pdf"
                     }
                   ]
                 },
@@ -1708,7 +1708,7 @@
                   "textbook": [
                     {
                       "textbook_name": "રાષ્ટ્રીય આવક",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD -11 ECO CH -9.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-ECO-CH-9-text-book.pdf"
                     }
                   ]
                 },
@@ -1730,7 +1730,7 @@
                   "textbook": [
                     {
                       "textbook_name": "અંદાજપત્ર",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD -11 ECO CH -10.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-ECO-CH-10-text-book.pdf"
                     }
                   ]
                 },
@@ -1752,7 +1752,7 @@
                   "textbook": [
                     {
                       "textbook_name": "આર્થિક વિચારો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD -11 ECO CH -11.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-ECO-CH-11-text-book.pdf"
                     }
                   ]
                 }
@@ -1780,7 +1780,7 @@
                   "textbook": [
                     {
                       "textbook_name": "માહિતીનું એકત્રિકીકરણ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 STET CH - 1.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD 11 STET CH - 1.pdf"
                     }
                   ]
                 },
@@ -1802,7 +1802,7 @@
                   "textbook": [
                     {
                       "textbook_name": "માહિતીનું નિરૂપણ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 STET CH - 2.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD 11 STET CH - 2.pdf"
                     }
                   ]
                 },
@@ -1824,7 +1824,7 @@
                   "textbook": [
                     {
                       "textbook_name": "મધ્યવર્તી સ્થિતિનાં માપ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 STET CH - 3.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD 11 STET CH - 3.pdf"
                     }
                   ]
                 },
@@ -1846,7 +1846,7 @@
                   "textbook": [
                     {
                       "textbook_name": "પ્રસારમોનું",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 STET CH - 4.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD 11 STET CH - 4.pdf"
                     }
                   ]
                 },
@@ -1868,7 +1868,7 @@
                   "textbook": [
                     {
                       "textbook_name": "આવૃત્તિ-વિતરણની વિષમતા",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 STET CH - 5.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD 11 STET CH - 5.pdf"
                     }
                   ]
                 },
@@ -1890,7 +1890,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ક્રમચય, સંચય અને દ્વિપદી વિસ્તરણ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 STET CH - 6.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD 11 STET CH - 6.pdf"
                     }
                   ]
                 },
@@ -1912,7 +1912,7 @@
                   "textbook": [
                     {
                       "textbook_name": "નિદર્શન પદ્ધતિઓ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 STET CH - 7.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD 11 STET CH - 7.pdf"
                     }
                   ]
                 },
@@ -1934,7 +1934,7 @@
                   "textbook": [
                     {
                       "textbook_name": "વિધેય",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 STET CH - 8.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD 11 STET CH - 8.pdf"
                     }
                   ]
                 },
@@ -1956,7 +1956,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ગુણોત્તર-શ્રેણી",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 11 STET CH - 9.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD 11 STET CH - 9.pdf"
                     }
                   ]
                 }
