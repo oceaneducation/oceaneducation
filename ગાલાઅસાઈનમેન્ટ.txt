@@ -293,22 +293,22 @@
                     {
                       "video_name": "ગણિત પ્રશ્નપત્ર-૫ વિભાગ-A",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/ogTB_3EakAw"
                     },
                     {
                       "video_name": "ગણિત પ્રશ્નપત્ર-૫ વિભાગ-B",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/TxE7vUm4XjA"
                     },
                     {
                       "video_name": "ગણિત પ્રશ્નપત્ર-૫ વિભાગ-C",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/DSHU2kjn3nc"
                     },
                     {
                       "video_name": "ગણિત પ્રશ્નપત્ર-૫ વિભાગ-D",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/UozEApFOK3c"
                     }
                   ],
                   "material": [
