@@ -21,14 +21,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "Read 1: CAN YOU INSTALL LOVE? Read 2: SUNRISE ON THE KANGCHENJUNGA",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "Read 1: CAN YOU INSTALL LOVE? Read 2: SUNRISE ON THE KANGCHENJUNGA",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 12 ENG CH 1.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-ENG-CH-1-text-book.pdf"
                     }
                   ]
                 },
@@ -43,14 +43,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "Read 1: UNFORGETTABLE WALT DISNEY  Read 2: SHAPER SHAPED (Poem)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "Read 1: UNFORGETTABLE WALT DISNEY  Read 2: SHAPER SHAPED (Poem)",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 12 ENG CH 2.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-ENG-CH-2-text-book.pdf"
                     }
                   ]
                 },
@@ -65,14 +65,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "Read 1: MANAGE YOUR STRESS  Read 2: STRESS CONTROL EXERCISES",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "Read 1: MANAGE YOUR STRESS  Read 2: STRESS CONTROL EXERCISES",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 12 ENG CH 3.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-ENG-CH-3-text-book.pdf"
                     }
                   ]
                 },
@@ -87,14 +87,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "Read 1: THE ADJUSTMENT Read 2: BLIND, DEAF FISH (Poem)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "Read 1: THE ADJUSTMENT Read 2: BLIND, DEAF FISH (Poem)",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 12 ENG CH 4.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-ENG-CH-4-text-book.pdf"
                     }
                   ]
                 },
@@ -109,14 +109,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "Read 1: ANTS Read 2: NO MEN ARE FOREIGN (Poem)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "Read 1: ANTS Read 2: NO MEN ARE FOREIGN (Poem)",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 12 ENG CH 5.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-ENG-CH-5-text-book.pdf"
                     }
                   ]
                 },
@@ -131,14 +131,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "Read 1: STRIKE AGAINST WAR",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "Read 1: STRIKE AGAINST WAR",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 12 ENG CH 6.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-ENG-CH-6-text-book.pdf"
                     }
                   ]
                 },
@@ -153,14 +153,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "Read 1: MONKEY'S PAW Read 2: SOJOURNER TRUTII",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "Read 1: MONKEY'S PAW Read 2: SOJOURNER TRUTII",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 12 ENG CH 7.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-ENG-CH-7-text-book.pdf"
                     }
                   ]
                 },
@@ -175,14 +175,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "Read 1: FOR YOUTH Read 2: THE HEAVEN OF FREEDOM",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "Read 1: FOR YOUTH Read 2: THE HEAVEN OF FREEDOM",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 12 ENG CH 8.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-ENG-CH-8-text-book.pdf"
                     }
                   ]
                 },
@@ -197,14 +197,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "Read 1: HEADACHE",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "Read 1: HEADACHE",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 12 ENG CH 9.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-ENG-CH-9-text-book.pdf"
                     }
                   ]
                 },
@@ -219,14 +219,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "Read 1: GREEN CHARTER",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "Read 1: GREEN CHARTER",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD 12 ENG CH 10.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-ENG-CH-10-text-book.pdf"
                     }
                   ]
                 }
@@ -247,14 +247,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "સંચાલનનું સ્વરૂપ અને મહત્ત્વ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "સંચાલનનું સ્વરૂપ અને મહત્ત્વ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 B.A. CH - 1.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-B.A.-CH-1-text-book.pdf"
                     }
                   ]
                 },
@@ -269,14 +269,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "સંચાલનના સિદ્ધાંતો",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "સંચાલનના સિદ્ધાંતો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 B.A. CH - 2.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-B.A.-CH-2-text-book.pdf"
                     }
                   ]
                 },
@@ -291,14 +291,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "આયોજન",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "આયોજન",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 B.A. CH - 3.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-B.A.-CH-3-text-book.pdf"
                     }
                   ]
                 },
@@ -313,14 +313,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "વ્યવસ્થાતંત્ર",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "વ્યવસ્થાતંત્ર",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 B.A. CH - 4.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-B.A.-CH-4-text-book.pdf"
                     }
                   ]
                 },
@@ -335,14 +335,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "કર્મચારી વ્યવસ્થા",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "કર્મચારી વ્યવસ્થા",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 B.A. CH - 5.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-B.A.-CH-5-text-book.pdf"
                     }
                   ]
                 },
@@ -357,14 +357,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "દોરવણી",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "દોરવણી",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 B.A. CH - 6.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-B.A.-CH-6-text-book.pdf"
                     }
                   ]
                 },
@@ -379,14 +379,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "અંકુશ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "અંકુશ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 B.A. CH - 7.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-B.A.-CH-7-text-book.pdf"
                     }
                   ]
                 },
@@ -401,14 +401,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "નાણાકીય સંચાલન",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "નાણાકીય સંચાલન",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 B.A. CH - 8.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-B.A.-CH-8-text-book.pdf"
                     }
                   ]
                 },
@@ -423,14 +423,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "નાણાકીય બજાર",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "નાણાકીય બજાર",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 B.A. CH - 9.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-B.A.-CH-9-text-book.pdf"
                     }
                   ]
                 },
@@ -445,14 +445,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "બજારપ્રક્રિયા સંચાલન",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "બજારપ્રક્રિયા સંચાલન",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 B.A. CH - 10.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-B.A.-CH-10-text-book.pdf"
                     }
                   ]
                 },
@@ -467,14 +467,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ગ્રાહક સુરક્ષા",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "ગ્રાહક સુરક્ષા",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 B.A. CH - 11.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-B.A.-CH-11-text-book.pdf"
                     }
                   ]
                 },
@@ -489,14 +489,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ધંધાકીય પર્યાવરણ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "ધંધાકીય પર્યાવરણ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 B.A. CH - 12.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-B.A.-CH-12-text-book.pdf"
                     }
                   ]
                 }
@@ -517,14 +517,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "અર્થશાસ્ત્રમાં આલેખ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "અર્થશાસ્ત્રમાં આલેખ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 ECCO. CH - 1.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-ECCO.-CH-1-text-book.pdf"
                     }
                   ]
                 },
@@ -539,14 +539,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "વૃદ્ધિ અને વિકાસના નિર્દેશકો",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "વૃદ્ધિ અને વિકાસના નિર્દેશકો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 ECCO. CH - 2.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-ECCO.-CH-2-text-book.pdf"
                     }
                   ]
                 },
@@ -561,14 +561,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "નાણું અને ફુગાવો",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "નાણું અને ફુગાવો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 ECCO. CH - 3.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-ECCO.-CH-3-text-book.pdf"
                     }
                   ]
                 },
@@ -583,14 +583,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "બૅન્કિંગ અને નાણાકીય નીતિ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "બૅન્કિંગ અને નાણાકીય નીતિ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 ECCO. CH - 4.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-ECCO.-CH-4-text-book.pdf"
                     }
                   ]
                 },
@@ -605,14 +605,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ગરીબી",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "ગરીબી",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 ECCO. CH - 5.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-ECCO.-CH-5-text-book.pdf"
                     }
                   ]
                 },
@@ -627,14 +627,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "બેરોજગારી",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "બેરોજગારી",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 ECCO. CH - 6.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-ECCO.-CH-6-text-book.pdf"
                     }
                   ]
                 },
@@ -649,14 +649,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "વસ્તી",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "વસ્તી",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 ECCO. CH - 7.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-ECCO.-CH-7-text-book.pdf"
                     }
                   ]
                 },
@@ -671,14 +671,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "કૃષિક્ષેત્ર",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "કૃષિક્ષેત્ર",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 ECCO. CH - 8.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-ECCO.-CH-8-text-book.pdf"
                     }
                   ]
                 },
@@ -693,14 +693,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "વિદેશવેપાર",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "વિદેશવેપાર",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 ECCO. CH - 9.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-ECCO.-CH-9-text-book.pdf"
                     }
                   ]
                 },
@@ -715,14 +715,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ઉદ્યોગ ક્ષેત્ર",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "ઉદ્યોગ ક્ષેત્ર",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 ECCO. CH - 10.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-ECCO.-CH-10-text-book.pdf"
                     }
                   ]
                 },
@@ -737,14 +737,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ભારતીય અર્થતંત્રમાં નૂતન પ્રશ્નો",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "ભારતીય અર્થતંત્રમાં નૂતન પ્રશ્નો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 ECCO. CH - 11.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-ECCO.-CH-11-text-book.pdf"
                     }
                   ]
                 }
@@ -765,14 +765,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ક્રોધી સ્વભાવને",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "ક્રોધી સ્વભાવને",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 GUJ. CH - 1.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-GUJ.-CH-1-text-book.pdf"
                     }
                   ]
                 },
@@ -787,14 +787,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "કુસુમનું કઠણ તપ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "કુસુમનું કઠણ તપ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 GUJ. CH - 2.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-GUJ.-CH-2-text-book.pdf"
                     }
                   ]
                 },
@@ -809,14 +809,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "એક સરખા દિવસ...",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "એક સરખા દિવસ...",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 GUJ. CH - 3.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-GUJ.-CH-3-text-book.pdf"
                     }
                   ]
                 },
@@ -831,14 +831,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "નારાયણ હેમચંદ્ર",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "નારાયણ હેમચંદ્ર",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 GUJ. CH - 4.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-GUJ.-CH-4-text-book.pdf"
                     }
                   ]
                 },
@@ -853,14 +853,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "થીંગડું",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "થીંગડું",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 GUJ. CH - 5.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-GUJ.-CH-5-text-book.pdf"
                     }
                   ]
                 },
@@ -875,14 +875,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "બિસ્મિલ્લાખા",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "બિસ્મિલ્લાખા",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 GUJ. CH - 6.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-GUJ.-CH-6-text-book.pdf"
                     }
                   ]
                 },
@@ -897,14 +897,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "વીડી વાઢનારા",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "વીડી વાઢનારા",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 GUJ. CH - 7.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-GUJ.-CH-7-text-book.pdf"
                     }
                   ]
                 },
@@ -919,14 +919,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "અખાનો સંસારત્યાગ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "અખાનો સંસારત્યાગ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 GUJ. CH - 8.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-GUJ.-CH-8-text-book.pdf"
                     }
                   ]
                 },
@@ -941,14 +941,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "હંકારી જા",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "હંકારી જા",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 GUJ. CH - 9.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-GUJ.-CH-9-text-book.pdf"
                     }
                   ]
                 },
@@ -963,14 +963,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "જળનગરી વેનિસ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "જળનગરી વેનિસ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 GUJ. CH - 10.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-GUJ.-CH-10-text-book.pdf"
                     }
                   ]
                 },
@@ -985,14 +985,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "વડલો ને પંખીડાં",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "વડલો ને પંખીડાં",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 GUJ. CH - 11.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-GUJ.-CH-11-text-book.pdf"
                     }
                   ]
                 },
@@ -1007,14 +1007,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "પૂંજા મેજરની લગની",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "પૂંજા મેજરની લગની",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 GUJ. CH - 12.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-GUJ.-CH-12-text-book.pdf"
                     }
                   ]
                 },
@@ -1029,14 +1029,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "વતનનો તલસાટ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "વતનનો તલસાટ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 GUJ. CH - 13.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-GUJ.-CH-13-text-book.pdf"
                     }
                   ]
                 },
@@ -1051,14 +1051,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "મોરનાં ઈંડાં",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "મોરનાં ઈંડાં",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 GUJ. CH - 14.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-GUJ.-CH-14-text-book.pdf"
                     }
                   ]
                 },
@@ -1073,14 +1073,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "આ રસ્તાઓ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "આ રસ્તાઓ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 GUJ. CH - 15.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-GUJ.-CH-15-text-book.pdf"
                     }
                   ]
                 },
@@ -1095,14 +1095,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "સુખનો કાળ બાળપણનો",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "સુખનો કાળ બાળપણનો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 GUJ. CH - 16.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-GUJ.-CH-16-text-book.pdf"
                     }
                   ]
                 },
@@ -1117,14 +1117,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "મેળો આપો તો",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "મેળો આપો તો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 GUJ. CH - 17.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-GUJ.-CH-17-text-book.pdf"
                     }
                   ]
                 },
@@ -1139,14 +1139,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "અઘરો દિવસ (દયારામ)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "અઘરો દિવસ (દયારામ)",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 GUJ. CH - 18.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-GUJ.-CH-18-text-book.pdf"
                     }
                   ]
                 },
@@ -1161,14 +1161,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "સત્યવીર સોક્રેટીસ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "સત્યવીર સોક્રેટીસ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 GUJ. CH - 19.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-GUJ.-CH-19-text-book.pdf"
                     }
                   ]
                 },
@@ -1183,14 +1183,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "બે લઘુકથાઓ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "બે લઘુકથાઓ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 GUJ. CH - 20.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-GUJ.-CH-20-text-book.pdf"
                     }
                   ]
                 },
@@ -1205,14 +1205,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "બેટા ! મને પાછી જવા દે",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "બેટા ! મને પાછી જવા દે",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 12 GUJ. CH - 21.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-GUJ.-CH-21-text-book.pdf"
                     }
                   ]
                 }
@@ -1233,14 +1233,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "સૂચક આંક",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "સૂચક આંક",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-12 Statistics sem 1 ch - 1.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/Std-12-Statistics-sem-1-ch-1-text-book.pdf"
                     }
                   ]
                 },
@@ -1255,14 +1255,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "સુરેખ સહસંબંધ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "સુરેખ સહસંબંધ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-12 Statistics sem 1 ch - 2.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/Std-12-Statistics-sem-1-ch-2-text-book.pdf"
                     }
                   ]
                 },
@@ -1277,14 +1277,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "સુરેખ નિયત સંબંધ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "સુરેખ નિયત સંબંધ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-12 Statistics sem 1 ch - 3.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/Std-12-Statistics-sem-1-ch-3-text-book.pdf"
                     }
                   ]
                 },
@@ -1299,14 +1299,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "સામયિક શ્રેણી",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "સામયિક શ્રેણી",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/Std-12 Statistics sem 1 ch - 4.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/Std-12-Statistics-sem-1-ch-4-text-book.pdf"
                     }
                   ]
                 }
@@ -1327,14 +1327,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "સંભાવના",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "સંભાવના",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD -12 STATISTICS sem 2 CH - 1.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-STATISTICS-sem-2-CH-1-text-book.pdf"
                     }
                   ]
                 },
@@ -1349,14 +1349,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "યાદૈચ્છિક ચલ અને અસતત સંભાવના-વિતરણ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "યાદૈચ્છિક ચલ અને અસતત સંભાવના-વિતરણ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD -12 STATISTICS sem 2 CH - 2.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-STATISTICS-sem-2-CH-2-text-book.pdf"
                     }
                   ]
                 },
@@ -1371,14 +1371,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "પ્રામાણ્ય-વિતરણ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "પ્રામાણ્ય-વિતરણ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD -12 STATISTICS sem 2 CH - 3.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-STATISTICS-sem-2-CH-3-text-book.pdf"
                     }
                   ]
                 },
@@ -1393,14 +1393,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "લક્ષ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "લક્ષ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD -12 STATISTICS sem 2 CH -4.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-STATISTICS-sem-2-CH-4-text-book.pdf"
                     }
                   ]
                 },
@@ -1415,14 +1415,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "વિકલન",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "વિકલન",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD -12 STATISTICS sem 2 CH -5.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/STD-12-STATISTICS-sem-2-CH-5-text-book.pdf"
                     }
                   ]
                 }
@@ -1443,8 +1443,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ભાગીદારી : વિષય-પ્રવેશ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
@@ -1465,8 +1465,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ભાગીદારી પેઢીના વાર્ષિક હિસાબો (નાણાકીય પત્રકો)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
@@ -1487,8 +1487,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "પાઘડીનું મૂલ્યાંકન",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
@@ -1509,8 +1509,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ભાગીદારીનું પુનર્ગઠન",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
@@ -1531,8 +1531,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ભાગીદારનો પ્રવેશ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
@@ -1553,8 +1553,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ભાગીદારની નિવૃત્તિ / મૃત્યુ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
@@ -1575,14 +1575,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ભાગીદારી પેઢીનું વિસર્જન",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "ભાગીદારી પેઢીનું વિસર્જન",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std-12-account-part-1-ch-7-text-book.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/std-12-account-part-1-ch-7-text-book.pdf"
                     }
                   ]
                 }
@@ -1603,14 +1603,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "શેરમૂડીના હિસાબો",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "શેરમૂડીના હિસાબો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/std 12 account part 2 ch 1.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/std-12-account-part-2-ch-1-text-book.pdf"
                     }
                   ]
                 },
@@ -1625,14 +1625,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "ડિબેન્ચરના હિસાબો",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "ડિબેન્ચરના હિસાબો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/std 12 account part 2 ch 2.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/std-12-account-part-2-ch-2-text-book.pdf"
                     }
                   ]
                 },
@@ -1647,14 +1647,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "કંપનીના વાર્ષિક હિસાબો",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "કંપનીના વાર્ષિક હિસાબો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/std 12 account part 2 ch 3.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/std-12-account-part-2-ch-3-text-book.pdf"
                     }
                   ]
                 },
@@ -1669,14 +1669,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "નાણાકીય પત્રકોનું વિશ્લેષણ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "નાણાકીય પત્રકોનું વિશ્લેષણ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/std 12 account part 2 ch 4.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/std-12-account-part-2-ch-4-text-book.pdf"
                     }
                   ]
                 },
@@ -1691,14 +1691,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "હિસાબી ગુણોત્તરો અને વિશ્લેષણ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "હિસાબી ગુણોત્તરો અને વિશ્લેષણ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/std 12 account part 2 ch 5.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/std-12-account-part-2-ch-5-text-book.pdf"
                     }
                   ]
                 },
@@ -1713,14 +1713,14 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_name": "રોકડ પ્રવાહ પત્રક",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "રોકડ પ્રવાહ પત્રક",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/std 12 account part 2 ch 6.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/std-12-account-part-2-ch-6-text-book.pdf"
                     }
                   ]
                 }
