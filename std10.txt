@@ -53,7 +53,7 @@
                     {
                       "video_name": "બહુપદીઓ  ભાગ-૪",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/aeesxY1pHC8 "
+                      "video_link": "https://youtu.be/aeesxY1pHC8"
                     },
                     {
                       "video_name": "બહુપદીઓ  ભાગ-૫",
@@ -283,7 +283,7 @@
                     {
                       "video_name": "વર્તુળ સબંધિત ક્ષેત્રફળ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/AH66cNDUFpE "
+                      "video_link": "https://youtu.be/AH66cNDUFpE"
                     }
                   ],
                   "material": [
@@ -310,7 +310,7 @@
                     {
                       "video_name": "પૃષ્ઠફળ અને ઘનફળ સ્વાધ્યાય 13.1 Q. 1,2",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/R8n7fM7xD5c "
+                      "video_link": "https://youtu.be/R8n7fM7xD5c"
                     },
                     {
                       "video_name": "પૃષ્ઠફળ અને ઘનફળ સ્વાધ્યાય 13.1 Q.3,4",
@@ -320,7 +320,7 @@
                     {
                       "video_name": "પૃષ્ઠફળ અને ઘનફળ સ્વાધ્યાય 13.1 Q.7",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/G9nwO5yC9Z0 "
+                      "video_link": "https://youtu.be/G9nwO5yC9Z0"
                     },
                     {
                       "video_name": "પૃષ્ઠફળ અને ઘનફળ સ્વાધ્યાય 13.1 Q.8,9",
@@ -340,7 +340,7 @@
                     {
                       "video_name": "પૃષ્ઠફળ અને ઘનફળ સ્વાધ્યાય 13.2 Q.4,5",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/mU8mMd4GnNo "
+                      "video_link": "https://youtu.be/mU8mMd4GnNo"
                     },
                     {
                       "video_name": "પૃષ્ઠફળ અને ઘનફળ સ્વાધ્યાય 13.2 Q.6",
@@ -350,17 +350,17 @@
                     {
                       "video_name": "પૃષ્ઠફળ અને ઘનફળ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/AH66cNDUFpE "
+                      "video_link": "https://youtu.be/AH66cNDUFpE"
                     },
                     {
                       "video_name": "પૃષ્ઠફળ અને ઘનફળ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/AH66cNDUFpE "
+                      "video_link": "https://youtu.be/AH66cNDUFpE"
                     },
                     {
                       "video_name": "પૃષ્ઠફળ અને ઘનફળ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/AH66cNDUFpE "
+                      "video_link": "https://youtu.be/AH66cNDUFpE"
                     }
                   ],
                   "material": [
@@ -382,7 +382,7 @@
                     {
                       "video_name": "આંકડાશાસ્ત્ર",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Keioj5XkLLM "
+                      "video_link": "https://youtu.be/Keioj5XkLLM"
                     }
                   ],
                   "material": [
@@ -404,7 +404,7 @@
                     {
                       "video_name": "સંભાવના",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/BYxZl70XK6o "
+                      "video_link": "https://youtu.be/BYxZl70XK6o"
                     }
                   ],
                   "material": [
