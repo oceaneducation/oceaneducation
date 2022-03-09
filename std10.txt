@@ -1323,7 +1323,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ઊર્જાના સ્ત્રોતો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/Std-10-Science-ch-14.pdf"
                     }
                   ]
                 },
