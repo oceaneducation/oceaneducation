@@ -357,7 +357,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ચાલો, ઇતિહાસ જાણીએ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 samaj CH -1.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/Std-6-Social-Science-ch-1.pdf"
                     }
                   ]
                 },
@@ -1105,7 +1105,7 @@
                   "textbook": [
                     {
                       "textbook_name": "चित्र पदानी 1 तः 4",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/Std-6-Sanskrit-ch-1.pdf"
                     }
                   ]
                 },
@@ -2001,7 +2001,7 @@
                   "textbook": [
                     {
                       "textbook_name": "હિન્દ માતાને સંબોધન",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ. .sem 1 CH -2.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/Std-6-Gujarati-ch-2.pdf"
                     }
                   ]
                 },
@@ -2023,7 +2023,7 @@
                   "textbook": [
                     {
                       "textbook_name": "દ્રીદલ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ..sem 1 CH -3.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/Std-6-Gujarati-ch-3.pdf"
                     }
                   ]
                 },
@@ -2045,7 +2045,7 @@
                   "textbook": [
                     {
                       "textbook_name": "રવિશંકર મહારાજ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ..sem 1 CH -4.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/Std-6-Gujarati-ch-4.pdf"
                     }
                   ]
                 },
@@ -2089,7 +2089,7 @@
                   "textbook": [
                     {
                       "textbook_name": "મહેનતની મોસમ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ..sem 1 CH -5.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/Std-6-Gujarati-ch-5.pdf"
                     }
                   ]
                 },
@@ -2111,7 +2111,7 @@
                   "textbook": [
                     {
                       "textbook_name": "લેખણ ઝાલી નો રહી",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ..sem 1 CH -6.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/Std-6-Gujarati-ch-6.pdf"
                     }
                   ]
                 },
@@ -2133,7 +2133,7 @@
                   "textbook": [
                     {
                       "textbook_name": "પગલે-પગલે",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ..sem 1 CH -7.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/Std-6-Gujarati-ch-7.pdf"
                     }
                   ]
                 },
@@ -2155,7 +2155,7 @@
                   "textbook": [
                     {
                       "textbook_name": "બિરબલની યુક્તિ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ..sem 1 CH -8.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/Std-6-Gujarati-ch-8.pdf"
                     }
                   ]
                 },
@@ -2177,7 +2177,7 @@
                   "textbook": [
                     {
                       "textbook_name": "પાદર",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ..sem 1 CH -9.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/Std-6-Gujarati-ch-9.pdf"
                     }
                   ]
                 },
@@ -2227,7 +2227,7 @@
                   "textbook": [
                     {
                       "textbook_name": "આલા લીલા વાંસડીયા",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ. sem 2 CH -1.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/Std-6-Gujarati-ch-10.pdf"
                     }
                   ]
                 },
@@ -2249,7 +2249,7 @@
                   "textbook": [
                     {
                       "textbook_name": "એક જાદુઇ પત્રની વાર્તા",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ. sem 2 CH -2.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/Std-6-Gujarati-ch-11.pdf"
                     }
                   ]
                 },
@@ -2271,7 +2271,7 @@
                   "textbook": [
                     {
                       "textbook_name": "રાવણનું  મિથ્યાભિમાન",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ. sem 2 CH -3.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/Std-6-Gujarati-ch-12.pdf"
                     }
                   ]
                 },
@@ -2293,7 +2293,7 @@
                   "textbook": [
                     {
                       "textbook_name": "સાગર કાંઠાનો  પ્રવાસ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ. sem 2 CH -4.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/Std-6-Gujarati-ch-13.pdf"
                     }
                   ]
                 },
@@ -2332,7 +2332,7 @@
                   "textbook": [
                     {
                       "textbook_name": "સારા અક્ષર",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ. sem 2 CH -5.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/Std-6-Gujarati-ch-14.pdf"
                     }
                   ]
                 },
@@ -2354,7 +2354,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ગુજરાત મોરી મોરી રે",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ. sem 2 CH -6.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/Std-6-Gujarati-ch-15.pdf"
                     }
                   ]
                 },
@@ -2376,7 +2376,7 @@
                   "textbook": [
                     {
                       "textbook_name": "માતૃ હદય",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ. sem 2 CH -7.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/Std-6-Gujarati-ch-16.pdf"
                     }
                   ]
                 },
@@ -2398,7 +2398,7 @@
                   "textbook": [
                     {
                       "textbook_name": "સુગંધ કચ્છ ની ... !",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ. sem 2 CH -8.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/Std-6-Gujarati-ch-17.pdf"
                     }
                   ]
                 },
@@ -2420,7 +2420,7 @@
                   "textbook": [
                     {
                       "textbook_name": "સુભાષીત",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ. sem 2 CH -9.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/Std-6-Gujarati-ch-18.pdf"
                     }
                   ]
                 },
