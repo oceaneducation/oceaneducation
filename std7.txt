@@ -28,7 +28,7 @@
                   "textbook": [
                     {
                       "textbook_name": "રાજપુતયુગ = નવા શાશકો અને રાજ્યો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-1.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/Std-7-Social Science-ch-1.pdf"
                     }
                   ]
                 },
@@ -138,7 +138,7 @@
                   "textbook": [
                     {
                       "textbook_name": "વિચરતી અને વિમુક્ત જાતિઓ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-6.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/Std-7-Social Science-ch-6.pdf"
                     }
                   ]
                 },
@@ -204,7 +204,7 @@
                   "textbook": [
                     {
                       "textbook_name": "દઅઢારમી સદીના રાજકીય શાશકો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-9.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/Std-7-Social Science-ch-9.pdf"
                     }
                   ]
                 },
@@ -270,7 +270,7 @@
                   "textbook": [
                     {
                       "textbook_name": "વાતાવરણની સજીવો પર અસર",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-12.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/Std-7-Social Science-ch-12.pdf"
                     }
                   ]
                 },
@@ -292,7 +292,7 @@
                   "textbook": [
                     {
                       "textbook_name": "આપતી અને વ્યવસ્થાપન",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-13.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/Std-7-Social Science-ch-13.pdf"
                     }
                   ]
                 },
@@ -2310,7 +2310,7 @@
                   "textbook": [
                     {
                       "textbook_name": "અખબારી નોંધ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 GUJ. CH-11pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/STD-7-Gujarati-Semester-2-ch-10.pdf"
                     }
                   ]
                 },
@@ -2332,7 +2332,7 @@
                   "textbook": [
                     {
                       "textbook_name": "જનની",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 GUJ. CH-12pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/STD-7-Gujarati-Semester-2-ch-11.pdf"
                     }
                   ]
                 },
@@ -2354,7 +2354,7 @@
                   "textbook": [
                     {
                       "textbook_name": "હાઈસ્કૂલમાં",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 GUJ. CH-13pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/STD-7-Gujarati Semester-2-ch-12.pdf"
                     }
                   ]
                 },
@@ -2376,7 +2376,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ભમીએ ગુજરાતે : દક્ષિણ ભણી",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 GUJ. CH-14pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/STD-7-Gujarati-Semester-2-ch-13.pdf"
                     }
                   ]
                 },
@@ -2398,7 +2398,7 @@
                   "textbook": [
                     {
                       "textbook_name": "આવ, ભાણા આવ !",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 GUJ. CH-15pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/STD-7-Gujarati-Semester-2-ch-14.pdf"
                     }
                   ]
                 },
@@ -2420,7 +2420,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ગ્રામમાતા",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 GUJ. CH-16pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/STD-7-Gujarati-Semester-2-ch-15.pdf"
                     }
                   ]
                 },
@@ -2459,7 +2459,7 @@
                   "textbook": [
                     {
                       "textbook_name": "સિંહની દોસ્તી",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 GUJ. CH-17pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/STD-7-Gujarati-Semester-2-ch-16.pdf"
                     }
                   ]
                 },
@@ -2481,7 +2481,7 @@
                   "textbook": [
                     {
                       "textbook_name": "જીવરામ ભટ્ટ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 GUJ. CH-18pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/STD-7-Gujarati-Semester-2-ch-17.pdf"
                     }
                   ]
                 },
@@ -2503,7 +2503,7 @@
                   "textbook": [
                     {
                       "textbook_name": "સોના જેવી સવાર",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 GUJ. CH-19pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/STD-7-Gujarati-Semester-2-ch-18.pdf"
                     }
                   ]
                 },
@@ -2525,7 +2525,7 @@
                   "textbook": [
                     {
                       "textbook_name": "પાંચ દાણા",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 GUJ. CH-20pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/STD-7-Gujarati-Semester-2-ch-19.pdf"
                     }
                   ]
                 },
@@ -2547,7 +2547,7 @@
                   "textbook": [
                     {
                       "textbook_name": "સુભાષીતો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/STD-7-Gujarati-Semester-2-ch-20.pdf"
                     }
                   ]
                 },
