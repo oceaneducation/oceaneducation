@@ -1267,7 +1267,7 @@
                     {
                       "video_name": "વિદ્યુત",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/AH66cNDUFpE "
+                      "video_link": "https://youtu.be/AH66cNDUFpE"
                     }
                   ],
                   "material": [
@@ -1289,7 +1289,7 @@
                     {
                       "video_name": "વિદ્યુતપ્રવાહની ચુંબકીય અસરો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/AH66cNDUFpE "
+                      "video_link": "https://youtu.be/AH66cNDUFpE"
                     }
                   ],
                   "material": [
@@ -1311,7 +1311,7 @@
                     {
                       "video_name": "ઊર્જાના સ્ત્રોતો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Keioj5XkLLM "
+                      "video_link": "https://youtu.be/Keioj5XkLLM"
                     }
                   ],
                   "material": [
@@ -1323,7 +1323,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ઊર્જાના સ્ત્રોતો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 science ch 14.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
                     }
                   ]
                 },
@@ -1333,7 +1333,7 @@
                     {
                       "video_name": "આપણું પર્યાવરણ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/BYxZl70XK6o "
+                      "video_link": "https://youtu.be/BYxZl70XK6o"
                     }
                   ],
                   "material": [
@@ -1345,7 +1345,7 @@
                   "textbook": [
                     {
                       "textbook_name": "આપણું પર્યાવરણ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 science ch 15.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 science ch 14.pdf"
                     }
                   ]
                 },
@@ -1355,7 +1355,7 @@
                     {
                       "video_name": "નૈસર્ગિક સ્ત્રોતોનું ટકાઉ પ્રબંધન (વ્યવસ્થાપન)",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/z54ubvn2MIg "
+                      "video_link": "https://youtu.be/z54ubvn2MIg"
                     }
                   ],
                   "material": [
@@ -1367,7 +1367,7 @@
                   "textbook": [
                     {
                       "textbook_name": "નૈસર્ગિક સ્ત્રોતોનું ટકાઉ પ્રબંધન (વ્યવસ્થાપન)",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 16.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 10 science ch 15.pdf"
                     }
                   ]
                 }
@@ -1383,7 +1383,7 @@
                     {
                       "video_name": "ભારતનો વારસો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/27wwgvSboyQ "
+                      "video_link": "https://youtu.be/27wwgvSboyQ"
                     }
                   ],
                   "material": [
@@ -1405,7 +1405,7 @@
                     {
                       "video_name": "ભારતનો સાંસ્કૃતિક વારસો : પરંપરાઓ : હસ્ત અને લલિતકલા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/kmctDewUtTM "
+                      "video_link": "https://youtu.be/kmctDewUtTM"
                     }
                   ],
                   "material": [
