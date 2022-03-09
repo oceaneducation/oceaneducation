@@ -293,7 +293,7 @@
                   "textbook": [
                     {
                       "textbook_name": "નવા વર્ષના સંકલ્પો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/Std-8-Gujarati-Sem-2-ch-12.pdf"
                     }
                   ]
                 },
@@ -1061,7 +1061,7 @@
                   "textbook": [
                     {
                       "textbook_name": "वन्दना",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sanskrit sem 1 ch 1.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/Std-8 Sanskrit Sem-1-text-book-.pdf"
                     }
                   ]
                 },
@@ -1083,7 +1083,7 @@
                   "textbook": [
                     {
                       "textbook_name": "चित्रपदानी 1",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sanskrit sem 1 ch 2.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/Std-8 Sanskrit Sem-1-text-book-ch-1.pdf"
                     }
                   ]
                 },
@@ -1105,7 +1105,7 @@
                   "textbook": [
                     {
                       "textbook_name": "चित्रपदानी 2",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sanskrit sem 1 ch 3.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/Std-8 Sanskrit Sem-1-text-book-ch-2.pdf"
                     }
                   ]
                 },
@@ -1127,7 +1127,7 @@
                   "textbook": [
                     {
                       "textbook_name": "आत्माश्रद्धाया : प्रभाव",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sanskrit sem 1 ch 4.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/Std-8 Sanskrit Sem-1-text-book-ch-3.pdf"
                     }
                   ]
                 },
