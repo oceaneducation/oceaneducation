@@ -2838,7 +2838,7 @@
                   "textbook": [
                     {
                       "textbook_name": "માપન",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/Std-8-maths-ch-11.pdf"
                     }
                   ]
                 },
@@ -2860,7 +2860,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ઘાત અને ઘાતાંક",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/Std-8-maths-ch-12.pdf"
                     }
                   ]
                 },
@@ -2882,7 +2882,7 @@
                   "textbook": [
                     {
                       "textbook_name": "સમપ્રમાણ અને વ્યસ્ત પ્રમાણ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/Std-8-maths-ch-13.pdf"
                     }
                   ]
                 },
@@ -2904,7 +2904,7 @@
                   "textbook": [
                     {
                       "textbook_name": "અવયવીકરણ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/Std-8-maths-ch-14.pdf"
                     }
                   ]
                 },
@@ -2926,7 +2926,7 @@
                   "textbook": [
                     {
                       "textbook_name": "આલેખનો પરિચય ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/Std-8-maths-ch-15.pdf"
                     }
                   ]
                 },
@@ -2948,7 +2948,7 @@
                   "textbook": [
                     {
                       "textbook_name": "સંખ્યા સાથે રમત",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/Std-8-maths-ch-16.pdf"
                     }
                   ]
                 }
