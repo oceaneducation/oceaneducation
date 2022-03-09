@@ -2669,7 +2669,7 @@
                   "textbook": [
                     {
                       "textbook_name": "અપૂર્ણાક અને દ્શાંશ સંખ્યાઓ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 MATHS CH -2.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/STD-7-maths-ch-2.pdf"
                     }
                   ]
                 },
@@ -2706,7 +2706,7 @@
                   "textbook": [
                     {
                       "textbook_name": "માહિતીનું નિયમન",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 MATHS CH -3.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/STD-7-maths-ch-3.pdf"
                     }
                   ]
                 },
@@ -2743,7 +2743,7 @@
                   "textbook": [
                     {
                       "textbook_name": "સાદા સમીકરણ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 MATHS CH -4.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/STD-7-maths-ch-4.pdf"
                     }
                   ]
                 },
@@ -2770,7 +2770,7 @@
                   "textbook": [
                     {
                       "textbook_name": "રેખા અને ખૂણાઓ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 MATHS CH -5.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/STD-7-maths-ch-5.pdf"
                     }
                   ]
                 },
@@ -2812,7 +2812,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ત્રિકોણ અને તેના ગુણધર્મો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 MATHS CH -6.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/STD-7-maths-ch-6.pdf"
                     }
                   ]
                 },
@@ -2839,7 +2839,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ત્રિકોણની એકરૂપતા",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 MATHS CH -7.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/STD-7-maths-ch-7.pdf"
                     }
                   ]
                 },
@@ -2871,7 +2871,7 @@
                   "textbook": [
                     {
                       "textbook_name": "રાશિઓની તુલના",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 MATHS CH -8.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/STD-7-maths-ch-8.pdf"
                     }
                   ]
                 },
@@ -2898,7 +2898,7 @@
                   "textbook": [
                     {
                       "textbook_name": "સંમેય સંખ્યાઓ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 MATHS CH -9.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/STD-7-maths-ch-9.pdf"
                     }
                   ]
                 },
@@ -2920,7 +2920,7 @@
                   "textbook": [
                     {
                       "textbook_name": "પ્રાયોગિક ભૂમિતિ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 MATHS CH -10.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/STD - 7 MATHS CH -10.pdf"
                     }
                   ]
                 },
@@ -2942,7 +2942,7 @@
                   "textbook": [
                     {
                       "textbook_name": "પરિમિતિ અને ક્ષેત્રફળ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 MATHS CH -11.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/STD-7-maths-ch-11.pdf"
                     }
                   ]
                 },
@@ -2964,7 +2964,7 @@
                   "textbook": [
                     {
                       "textbook_name": "બીજગણિતીય પદાવલિ ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 MATHS CH -12.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/STD-7-maths-ch-12.pdf"
                     }
                   ]
                 },
@@ -2986,7 +2986,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ઘાત અને ઘાતાંક",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 MATHS CH -13.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/STD-7-maths-ch-13.pdf"
                     }
                   ]
                 },
@@ -3008,7 +3008,7 @@
                   "textbook": [
                     {
                       "textbook_name": "સંમિતિ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 MATHS CH -14.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/STD-7-maths-ch-14.pdf"
                     }
                   ]
                 },
@@ -3030,7 +3030,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ઘન આકારોની પ્રત્યક્ષીકરણ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 MATHS CH -15.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/STD-7-maths-ch-15.pdf"
                     }
                   ]
                 }
