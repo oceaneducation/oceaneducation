@@ -1055,7 +1055,7 @@
                   "material": [
                     {
                       "material_name": "वन्दना",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sanskrut.pdf"
                     }
                   ],
                   "textbook": [
@@ -1077,7 +1077,7 @@
                   "material": [
                     {
                       "material_name": "चित्रपदानी 1",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sanskrut-ch-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -1099,7 +1099,7 @@
                   "material": [
                     {
                       "material_name": "चित्रपदानी 2",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sanskrut-ch-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1121,7 +1121,7 @@
                   "material": [
                     {
                       "material_name": "आत्माश्रद्धाया : प्रभाव",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sanskrut-ch-3.pdf"
                     }
                   ],
                   "textbook": [
@@ -1193,7 +1193,7 @@
                   "textbook": [
                     {
                       "textbook_name": "पुनरावर्तनम्  1",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/"
                     }
                   ]
                 },
