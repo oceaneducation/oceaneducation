@@ -160,7 +160,7 @@
                   "material": [
                     {
                       "material_name": "શાળા તત્પરતા 1",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/Std-1 Kalrav Gujarati ch 1"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/"
                     }
                   ],
                   "textbook": [
@@ -253,7 +253,7 @@
                   "material": [
                     {
                       "material_name": "અમે સૌ (part :1)",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std 1 Gujarati પાઠ ૫ ભાગ- ૧.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/"
                     },
                       {
                       "material_name": "અમે સૌ (part :2)",
@@ -301,7 +301,7 @@
                   "material": [
                     {
                       "material_name": "ચપટી વાગી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std 1 gujrati પાઠ 6.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/"
                     }
                   ],
                   "textbook": [
