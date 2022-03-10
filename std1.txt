@@ -882,6 +882,28 @@
                   "month_name": "Ch - 8",
                   "videos": [
                     {
+                      "video_name": "હિન્દી મૂળાક્ષર ણ અને ત",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/xndtqHawQCQ"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "હિન્દી મૂળાક્ષર ણ અને ત",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std-1-hindi-ण-त.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "હિન્દી મૂળાક્ષર ણ અને ત",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 9",
+                  "videos": [
+                    {
                       "video_name": "હિન્દી મૂળાક્ષર થ અને દ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/D-m1AE7R9mc"
@@ -901,7 +923,29 @@
                   ]
                 },
                 {
-                  "month_name": "Ch - 9",
+                  "month_name": "Ch - 10",
+                  "videos": [
+                    {
+                      "video_name": "હિન્દી મૂળાક્ષર ધ,ન અને પ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link":  "https://youtu.be/ugVR4BwvZTA"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "હિન્દી મૂળાક્ષર ધ,ન અને પ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std-1-hindi-ध,-न,-प.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "હિન્દી મૂળાક્ષર ધ,ન અને પ",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 11",
                   "videos": [
                     {
                       "video_name": "હિન્દી મૂળાક્ષર ફ,બ અને ભ",
@@ -912,7 +956,7 @@
                   "material": [
                     {
                       "material_name": "હિન્દી મૂળાક્ષર ફ,બ અને ભ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std-1-hindi-फ,-ब,-भ.pdf"
                     }
                   ],
                   "textbook": [
@@ -923,7 +967,7 @@
                   ]
                 },
                 {
-                  "month_name": "Ch - 10",
+                  "month_name": "Ch - 12",
                   "videos": [
                     {
                       "video_name": "હિન્દી મૂળાક્ષર મ,ય અને ર",
@@ -934,7 +978,7 @@
                   "material": [
                     {
                       "material_name": "હિન્દી મૂળાક્ષર મ,ય અને ર",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std-1-hindi-म,य,र.pdf"
                     }
                   ],
                   "textbook": [
@@ -945,7 +989,7 @@
                   ]
                 },
                 {
-                  "month_name": "Ch - 11",
+                  "month_name": "Ch - 13",
                   "videos": [
                     {
                       "video_name": "હિન્દી મૂળાક્ષર લ, વ અને શ",
@@ -956,7 +1000,7 @@
                   "material": [
                     {
                       "material_name": "હિન્દી મૂળાક્ષર લ, વ અને શ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std-1-hindi-ल,-व,-श.pdf"
                     }
                   ],
                   "textbook": [
@@ -967,7 +1011,51 @@
                   ]
                 },
                 {
-                  "month_name": "Ch - 12",
+                  "month_name": "Ch - 14",
+                  "videos": [
+                    {
+                      "video_name": "હિન્દી મૂળાક્ષર ષ,સ અને હ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "હિન્દી મૂળાક્ષર ષ,સ અને હ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std-1-hindi-ष,-स,-ह.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "હિન્દી મૂળાક્ષર ષ,સ અને હ",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 15",
+                  "videos": [
+                    {
+                      "video_name": "હિન્દી મૂળાક્ષર ક્ષ,ત્ર અને જ્ઞ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "હિન્દી મૂળાક્ષર ક્ષ,ત્ર અને જ્ઞ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std-1-hindi-क्ष,-त्र,-ज्ञ.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "હિન્દી મૂળાક્ષર ક્ષ,ત્ર અને જ્ઞ",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 16",
                   "videos": [
                     {
                       "video_name": "હિન્દી ગિનતી ૧ થી ૧૦",
@@ -978,7 +1066,7 @@
                   "material": [
                     {
                       "material_name": "હિન્દી ગિનતી ૧ થી ૧૦",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std-1-hindi-ch-ગિનતી-૧-થી-૧૦.pdf"
                     }
                   ],
                   "textbook": [
@@ -989,7 +1077,7 @@
                   ]
                 },
                 {
-                  "month_name": "Ch - 13",
+                  "month_name": "Ch - 17",
                   "videos": [
                     {
                       "video_name": "હિન્દી ગિનતી ૧૧ થી ૨૦",
@@ -1000,7 +1088,7 @@
                   "material": [
                     {
                       "material_name": "હિન્દી ગિનતી ૧૧ થી ૨૦",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std-1-hindi-गिनती-११-थी-२०.pdf"
                     }
                   ],
                   "textbook": [
@@ -1011,7 +1099,7 @@
                   ]
                 },
                 {
-                  "month_name": "Ch - 14",
+                  "month_name": "Ch - 18",
                   "videos": [
                     {
                       "video_name": "હિન્દી પુનરાવર્તન-૧",
@@ -1022,7 +1110,7 @@
                   "material": [
                     {
                       "material_name": "હિન્દી પુનરાવર્તન-૧",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std-1-hindi-પુનરાવર્તન-૧.pdf"
                     }
                   ],
                   "textbook": [
@@ -1033,7 +1121,7 @@
                   ]
                 },
                 {
-                  "month_name": "Ch - 15",
+                  "month_name": "Ch - 19",
                   "videos": [
                     {
                       "video_name": "હિન્દી પુનરાવર્તન-૨",
@@ -1044,7 +1132,7 @@
                   "material": [
                     {
                       "material_name": "હિન્દી પુનરાવર્તન-૨",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std1/std-1-hindi-પુનરાવર્તન-2.pdf"
                     }
                   ],
                   "textbook": [
