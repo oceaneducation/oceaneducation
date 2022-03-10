@@ -1956,7 +1956,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ગુણોત્તર-શ્રેણી",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD 11 STET CH - 9.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-STET-CH-9.pdf"
                     }
                   ]
                 }
