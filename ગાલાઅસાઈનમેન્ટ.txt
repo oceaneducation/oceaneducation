@@ -950,11 +950,11 @@
                     },
                     {
                       "material_name": "અંગ્રેજી પ્રશ્નપત્ર-૨ વિભાગ-A",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-10-english-paper-2-section-A.pdf"
                     },
                     {
                       "material_name": "અંગ્રેજી પ્રશ્નપત્ર-૨ વિભાગ-B",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-10-english-paper-2-section-B.pdf"
                     },
                     {
                       "material_name": "અંગ્રેજી પ્રશ્નપત્ર-૨ વિભાગ-C",
