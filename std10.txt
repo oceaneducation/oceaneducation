@@ -1383,7 +1383,7 @@
                     {
                       "video_name": "ભારતનો વારસો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/27wwgvSboyQ"
+                      "video_link": "https://youtu.be/cZU7JpNkz2M"
                     }
                   ],
                   "material": [
@@ -1405,7 +1405,7 @@
                     {
                       "video_name": "ભારતનો સાંસ્કૃતિક વારસો : પરંપરાઓ : હસ્ત અને લલિતકલા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/kmctDewUtTM"
+                      "video_link": "https://youtu.be/lkVRlF1jBTg"
                     }
                   ],
                   "material": [
@@ -1427,7 +1427,7 @@
                     {
                       "video_name": "ભારતનો સાંસ્કૃતિક વારસો : શિલ્પ અને સ્થાપત્ય",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/IiyvySXozGg "
+                      "video_link": "https://youtu.be/PKFDuYA5g3w"
                     }
                   ],
                   "material": [
@@ -1449,7 +1449,7 @@
                     {
                       "video_name": "ભારતનો સાહિત્યિક વારસો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/BHlkuRkXhxs "
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -1471,7 +1471,7 @@
                     {
                       "video_name": "ભારતનો વિજ્ઞાન અને ટેક્નોલૉજીનો વારસો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/HE1WhYEEYkA"
+                      "video_link": "https://youtu.be/jeQAHUNJ8EA"
                     }
                   ],
                   "material": [
@@ -1493,7 +1493,7 @@
                     {
                       "video_name": "ભારતના સાંસ્કૃતિક વારસાનાં સ્થળો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/O5sGkUOvZeQ"
+                      "video_link": "https://youtu.be/0ziOeDA32gM"
                     }
                   ],
                   "material": [
@@ -1515,7 +1515,7 @@
                     {
                       "video_name": "આપણા વારસાનું જતન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/YHT9KAcLrBI "
+                      "video_link": "https://youtu.be/00oH6KjOz5Y"
                     }
                   ],
                   "material": [
@@ -1537,7 +1537,7 @@
                     {
                       "video_name": "કુદરતી સંસાધનો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/2cEfnMi9i-4 "
+                      "video_link": "https://youtu.be/BbGLBlxKMk8"
                     }
                   ],
                   "material": [
@@ -1559,7 +1559,7 @@
                     {
                       "video_name": "વન અને વન્યજીવ સંસાધન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/d98JMjz7wQQ "
+                      "video_link": "https://youtu.be/x-JX6DcbUnE"
                     }
                   ],
                   "material": [
@@ -1581,7 +1581,7 @@
                     {
                       "video_name": "ભારત : કૃષિ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/KlzSyVHDg7I"
+                      "video_link": "https://youtu.be/WiCxtDxhABA"
                     }
                   ],
                   "material": [
@@ -1603,7 +1603,7 @@
                     {
                       "video_name": "ભારત : જળ સંસાધન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/lajyyEDs0lI "
+                      "video_link": "https://youtu.be/Qx5OdX7Dj1c"
                     }
                   ],
                   "material": [
@@ -1625,7 +1625,7 @@
                     {
                       "video_name": "ભારત : ખનિજ અને શક્તિનાં સંસાધનો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/AH66cNDUFpE "
+                      "video_link": "https://youtu.be/FaLU5KxGMxs"
                     }
                   ],
                   "material": [
@@ -1647,7 +1647,7 @@
                     {
                       "video_name": "ઉત્પાદન ઉદ્યોગો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/AH66cNDUFpE "
+                      "video_link": "https://youtu.be/1dnpz712AbI"
                     }
                   ],
                   "material": [
@@ -1669,7 +1669,7 @@
                     {
                       "video_name": "પરિવહન, સંદેશાવ્યવહાર અને વ્યાપાર",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Keioj5XkLLM "
+                      "video_link": "https://youtu.be/lFsadhrmXLk"
                     }
                   ],
                   "material": [
@@ -1691,7 +1691,7 @@
                     {
                       "video_name": "આર્થિક વિકાસ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/BYxZl70XK6o "
+                      "video_link": "https://youtu.be/1ILAzMsTnWo"
                     }
                   ],
                   "material": [
@@ -1713,7 +1713,7 @@
                     {
                       "video_name": "આર્થિક ઉદારીકરણ અને વૈશ્વિકીકરણ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/z54ubvn2MIg "
+                      "video_link": "https://youtu.be/6U-4L8roQOM"
                     }
                   ],
                   "material": [
@@ -1735,7 +1735,7 @@
                     {
                       "video_name": "આર્થિક સમસ્યાઓ અને પડકારો : ગરીબી અને બેરોજગારી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/oX3Wfh8TEOQ"
+                      "video_link": "https://youtu.be/cfuU17JByBY"
                     }
                   ],
                   "material": [
@@ -1757,7 +1757,7 @@
                     {
                       "video_name": "ભાવવધારો અને ગ્રાહક જાગૃતિ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/VMgKzmMnF7c"
+                      "video_link": "https://youtu.be/uo_iSGdxHSA"
                     }
                   ],
                   "material": [
@@ -1779,7 +1779,7 @@
                     {
                       "video_name": "માનવ વિકાસ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/ciOP_MueO-E  "
+                      "video_link": "https://youtu.be/PUOkfo9HS3M"
                     }
                   ],
                   "material": [
@@ -1801,7 +1801,7 @@
                     {
                       "video_name": "ભારતની સામાજિક સમસ્યાઓ અને પડકારો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/FdSfe0M42X4"
+                      "video_link": "https://youtu.be/6ELae9F5Cmg"
                     }
                   ],
                   "material": [
@@ -1823,7 +1823,7 @@
                     {
                       "video_name": "સામાજિક પરિવર્તન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/FdSfe0M42X4"
+                      "video_link": "https://youtu.be/klNM4fFEo9c"
                     }
                   ],
                   "material": [
