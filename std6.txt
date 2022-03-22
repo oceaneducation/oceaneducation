@@ -2067,7 +2067,7 @@
                   "textbook": [
                     {
                       "textbook_name": "પુનરાવર્તન 1",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ. PUNRAVTAN.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/Std-6-Gujarati-Semester-1-PUNRAVRTN-1.pdf"
                     }
                   ]
                 },
@@ -2199,7 +2199,7 @@
                   "textbook": [
                     {
                       "textbook_name": "પુનરાવર્તન 2",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 6 GUJ. PUNRAVTAN.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/Std-6-Gujarati-Semester-1-PUNRAVRTN-2.pdf"
                     }
                   ]
                 }
@@ -2312,7 +2312,12 @@
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
                     }
                   ],
-                  "textbook": []
+                  "textbook": [
+                  {
+                      "textbook_name": "પુનરાવર્તન 3",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/Std-6-Gujarati-Semester-1-PUNRAVRTN-3.pdf"
+                    }
+                  ]
                 },
                 {
                   "month_name": "Ch - 14",
@@ -2439,7 +2444,12 @@
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
                     }
                   ],
-                  "textbook": []
+                  "textbook": [
+                  {
+                      "textbook_name": "પુનરાવર્તન 4",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/Std-6-Gujarati-Semester-1-PUNRAVRTN-4.pdf"
+                    }
+                  ]
                 }
               ]
             },
