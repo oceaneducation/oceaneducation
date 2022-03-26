@@ -2973,6 +2973,342 @@
                   ]
                 }
               ]
+            },
+              {
+              "standard_name": "MATHS CBSE",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "Ch - 1",
+                  "videos": [
+                    {
+                      "video_name": "",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 2",
+                  "videos": [
+                    {
+                      "video_name": "",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 3",
+                  "videos": [
+                    {
+                      "video_name": "",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 4",
+                  "videos": [
+                    {
+                      "video_name": "",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 5",
+                  "videos": [
+                    {
+                      "video_name": "",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 6",
+                  "videos": [
+                    {
+                      "video_name": "",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 7",
+                  "videos": [
+                    {
+                      "video_name": "",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 8",
+                  "videos": [
+                    {
+                      "video_name": "",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 9",
+                  "videos": [
+                    {
+                      "video_name": "",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 10",
+                  "videos": [
+                    {
+                      "video_name": "",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 11",
+                  "videos": [
+                    {
+                      "video_name": "",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 12",
+                  "videos": [
+                    {
+                      "video_name": "",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 13",
+                  "videos": [
+                    {
+                      "video_name": "",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 14",
+                  "videos": [
+                    {
+                      "video_name": "",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "Ch - 15",
+                  "videos": [
+                    {
+                      "video_name": "",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
