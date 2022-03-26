@@ -2975,7 +2975,7 @@
               ]
             },
               {
-              "standard_name": "CBSE maths",
+              "standard_name": "cbse maths",
               "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
               "month_cat": [
                 {
