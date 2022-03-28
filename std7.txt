@@ -1598,7 +1598,12 @@
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-s.k-vandana.pdf"
                     }
                   ],
-                  "textbook": []
+                  "textbook": [
+                  {
+                      "textbook_name": "वंदना",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/STD-7-Sanskrit-Semester-1.pdf"
+                    }
+                  ]
                 },
                 {
                   "month_name": "Ch - 1",
@@ -1725,7 +1730,12 @@
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-s.k-punaravrtan-1.pdf"
                     }
                   ],
-                  "textbook": []
+                  "textbook": [
+                   {
+                      "textbook_name": "पुनरावतनम् 1",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/STD-7-Sanskrit-Semester-1-PUNRAVRTN-1.pdf"
+                    }
+                  ]
                 },
                 {
                   "month_name": "Ch - 6",
@@ -1830,7 +1840,12 @@
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-s.k-punaravrtan-2.pdf"
                     }
                   ],
-                  "textbook": []
+                  "textbook": [
+                  {
+                      "textbook_name": "पुनरावतनम् 2",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/STD-7-Sanskrit-Semester-1-PUNRAVRTN-2.pdf"
+                    }
+                  ]
                 }
               ]
             },
