@@ -1978,7 +1978,12 @@
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
                     }
                   ],
-                  "textbook": []
+                  "textbook": [
+                  {
+                      "textbook_name": "पुनरावर्तनम्  1",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/STD-7-Sanskrit-Semester-2-PUNRAVRTN-1.pdf"
+                    }
+                  ]
                 },
                 {
                   "month_name": "Ch - 6",
@@ -2039,7 +2044,12 @@
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
                     }
                   ],
-                  "textbook": []
+                  "textbook": [
+                   {
+                      "textbook_name": "पुनरावर्तनम्  2",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/STD-7-Sanskrit-Semester-2-PUNRAVRTN-2.pdf"
+                    }
+                  ]
                 }
               ]
             },
