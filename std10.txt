@@ -2171,7 +2171,7 @@
                   "material": [
                     {
                       "material_name": "सं वदध्वम्",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/STD- 10 SANSKRUT CH-1.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/STD-10-SANSKRUT-CH-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -2193,7 +2193,7 @@
                   "material": [
                     {
                       "material_name": "यद्भविष्यो विनश्यति  ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/STD- 10 SANSKRUT CH-2.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/STD-10-SANSKRUT-CH-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -2215,7 +2215,7 @@
                   "material": [
                     {
                       "material_name": "स्वस्थवृत्तं समाचर",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/STD-10-SANSKRUT-CH-3.pdf"
                     }
                   ],
                   "textbook": [
@@ -2237,7 +2237,7 @@
                   "material": [
                     {
                       "material_name": "जनार्दनस्य पश्चिमः",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/STD-10-SANSKRUT-CH-4.pdf"
                     }
                   ],
                   "textbook": [
@@ -2259,7 +2259,7 @@
                   "material": [
                     {
                       "material_name": "गुणवती कन्या",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/STD-10-SANSKRUT-CH-5.pdf"
                     }
                   ],
                   "textbook": [
@@ -2281,7 +2281,7 @@
                   "material": [
                     {
                       "material_name": "काष्ठखण्डः ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/STD-10-SANSKRUT-CH-6.pdf"
                     }
                   ],
                   "textbook": [
@@ -2303,7 +2303,7 @@
                   "material": [
                     {
                       "material_name": "सुभाषितकुसुमानि",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/STD-10-SANSKRUT-CH-7.pdf"
                     }
                   ],
                   "textbook": [
@@ -2325,7 +2325,7 @@
                   "material": [
                     {
                       "material_name": "साक्षिभूतः मनुष्यः ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/STD-10-SANSKRUT-CH-8.pdf"
                     }
                   ],
                   "textbook": [
@@ -2347,7 +2347,7 @@
                   "material": [
                     {
                       "material_name": "चक्षुष्मान् अन्ध एव",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/STD-10-SANSKRUT-CH-9.pdf"
                     }
                   ],
                   "textbook": [
@@ -2369,7 +2369,7 @@
                   "material": [
                     {
                       "material_name": "त्वमेका भवानि",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/STD-10-SANSKRUT-CH-10.pdf"
                     }
                   ],
                   "textbook": [
@@ -2391,7 +2391,7 @@
                   "material": [
                     {
                       "material_name": "यस्य जननं तस्य मरणम् ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/STD-10-SANSKRUT-CH-11.pdf"
                     }
                   ],
                   "textbook": [
@@ -2413,7 +2413,7 @@
                   "material": [
                     {
                       "material_name": "कलिकालसर्वज्ञो हेमचन्द्राचार्यः",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/STD-10-SANSKRUT-CH-12.pdf"
                     }
                   ],
                   "textbook": [
@@ -2435,7 +2435,7 @@
                   "material": [
                     {
                       "material_name": "गीतामृतम्",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/STD-10-SANSKRUT-CH-13.pdf"
                     }
                   ],
                   "textbook": [
@@ -2457,7 +2457,7 @@
                   "material": [
                     {
                       "material_name": "क इदं दुष्करं कुर्यात्",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/STD-10-SANSKRUT-CH-14.pdf"
                     }
                   ],
                   "textbook": [
@@ -2479,7 +2479,7 @@
                   "material": [
                     {
                       "material_name": "जयः पराजयो वा",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/STD-10-SANSKRUT-CH-15.pdf"
                     }
                   ],
                   "textbook": [
@@ -2501,7 +2501,7 @@
                   "material": [
                    {
                       "material_name": "अद्भुतं युद्धम् ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/STD-10-SANSKRUT-CH-16.pdf"
                     }
                   ],
                   "textbook": [
@@ -2523,7 +2523,7 @@
                   "material": [
                     {
                       "material_name": "स्वाभाविकं सादृश्यम्",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/STD-10-SANSKRUT-CH-17.pdf"
                     }
                   ],
                   "textbook": [
@@ -2545,7 +2545,7 @@
                   "material": [
                     {
                       "material_name": "मुक्तानि मुक्तकानि",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/STD-10-SANSKRUT-CH-18.pdf"
                     }
                   ],
                   "textbook": [
@@ -2567,7 +2567,7 @@
                   "material": [
                     {
                       "material_name": "सत्यं मयूरः ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/STD-10-SANSKRUT-CH-19.pdf"
                     }
                   ],
                   "textbook": [
@@ -2589,7 +2589,7 @@
                   "material": [
                     {
                       "material_name": "तथैव तिष्ठति",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/STD-10-SANSKRUT-CH-20.pdf"
                     }
                   ],
                   "textbook": [
