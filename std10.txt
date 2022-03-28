@@ -1851,7 +1851,7 @@
                     {
                       "video_name": "Against the odds",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/27wwgvSboyQ "
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -1873,7 +1873,7 @@
                     {
                       "video_name": "The Human Robot",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/kmctDewUtTM "
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -1895,7 +1895,7 @@
                     {
                       "video_name": "An Interview with Arun Krishnamurthy",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/IiyvySXozGg"
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -1917,7 +1917,7 @@
                     {
                       "video_name": "A Wonderful Creation",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/BHlkuRkXhxs "
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -1939,7 +1939,7 @@
                     {
                       "video_name": "Playing with Fire",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/HE1WhYEEYkA "
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -1961,7 +1961,7 @@
                     {
                       "video_name": "I Love You, Teacher",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/O5sGkUOvZeQ  "
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -1983,7 +1983,7 @@
                     {
                       "video_name": "Kach & Devayani",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/YHT9KAcLrBI "
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -2005,7 +2005,7 @@
                     {
                       "video_name": "Our Feathered Friends",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/2cEfnMi9i-4 "
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -2027,7 +2027,7 @@
                     {
                       "video_name": "Tune up 0 Teens!",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/d98JMjz7wQQ "
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -2049,7 +2049,7 @@
                     {
                       "video_name": "A Test of True Love",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/KlzSyVHDg7I"
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -2071,7 +2071,7 @@
                     {
                       "video_name": "My Song",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/lajyyEDs0lI "
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -2093,7 +2093,7 @@
                     {
                       "video_name": "Pencil",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/AH66cNDUFpE "
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -2115,7 +2115,7 @@
                     {
                       "video_name": "Growing",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/AH66cNDUFpE "
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -2137,7 +2137,7 @@
                     {
                       "video_name": "Vanila Twilight",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Keioj5XkLLM"
+                      "video_link": ""
                     }
                   ],
                   "material": [
