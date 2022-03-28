@@ -679,7 +679,7 @@
                   "material": [
                     {
                       "material_name": "पुनरावर्तन 1",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-hindi-punravartan-1.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/"
                     }
                   ],
                   "textbook": []
