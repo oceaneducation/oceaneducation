@@ -1091,7 +1091,7 @@
                     {
                       "video_name": "કાર્બન અને તેનાં સંયોજનો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/BHlkuRkXhxs"
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -1113,7 +1113,7 @@
                     {
                       "video_name": "તત્ત્વોનું આવર્તી વર્ગીકરણ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/HE1WhYEEYkA"
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -1135,7 +1135,7 @@
                     {
                       "video_name": "જૈવિક ક્રિયાઓ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/O5sGkUOvZeQ"
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -1157,7 +1157,7 @@
                     {
                       "video_name": "નિયંત્રણ અને સંકલન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/YHT9KAcLrBI"
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -1179,7 +1179,7 @@
                     {
                       "video_name": "સજીવો કેવી રીતે પ્રજનન કરે છે ?",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/2cEfnMi9i-4"
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -1201,7 +1201,7 @@
                     {
                       "video_name": "આનુવંશિકતા અને ઉવિકાસ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/d98JMjz7wQQ"
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -1223,7 +1223,7 @@
                     {
                       "video_name": "પ્રકાશ-પરાવર્તન અને વક્રીભવન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/KlzSyVHDg7I"
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -1245,7 +1245,7 @@
                     {
                       "video_name": "માનવ-આંખ અને રંગબેરંગી દુનિયા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/lajyyEDs0lI"
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -1267,7 +1267,7 @@
                     {
                       "video_name": "વિદ્યુત",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/AH66cNDUFpE"
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -1289,7 +1289,7 @@
                     {
                       "video_name": "વિદ્યુતપ્રવાહની ચુંબકીય અસરો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/AH66cNDUFpE"
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -1311,7 +1311,7 @@
                     {
                       "video_name": "ઊર્જાના સ્ત્રોતો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Keioj5XkLLM"
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -1333,7 +1333,7 @@
                     {
                       "video_name": "આપણું પર્યાવરણ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/BYxZl70XK6o"
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -1355,7 +1355,7 @@
                     {
                       "video_name": "નૈસર્ગિક સ્ત્રોતોનું ટકાઉ પ્રબંધન (વ્યવસ્થાપન)",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/z54ubvn2MIg"
+                      "video_link": ""
                     }
                   ],
                   "material": [
