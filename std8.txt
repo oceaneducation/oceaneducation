@@ -1193,7 +1193,7 @@
                   "textbook": [
                     {
                       "textbook_name": "पुनरावर्तनम्  1",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/Std-8-Sanskrit-Sem-1-PUNRAVARTN-1.pdf"
                     }
                   ]
                 },
@@ -1300,7 +1300,12 @@
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sanskrit-પુનરાવર્તન-2-સેમ-1.pdf"
                     }
                   ],
-                  "textbook": []
+                  "textbook": [
+                   {
+                      "textbook_name": "पुनरावर्तनम् = 2",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/Std-8-Sanskrit-Sem-1-PUNRAVARTN-2.pdf"
+                    }
+                  ]
                 }
               ]
             },
@@ -1436,7 +1441,7 @@
                   "textbook": [
                     {
                       "textbook_name": "पुनरावर्तनम् - 1",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sanskrit sem 2 punravartan.pdf"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/Std-8-Sanskrit-Sem-2-PUNRAVARTN-1.pdf"
                     }
                   ]
                 },
@@ -1521,7 +1526,12 @@
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-s.k-ch-punravartan-2-sem-2.pdf"
                     }
                   ],
-                  "textbook": []
+                  "textbook": [
+                  {
+                      "textbook_name": "पुनरावर्तनम् = 2",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/Std-8-Sanskrit-Sem-2-PUNRAVARTN-2.pdf"
+                    }
+                  ]
                 }
               ]
             },
