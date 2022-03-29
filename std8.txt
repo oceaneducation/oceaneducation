@@ -135,7 +135,12 @@
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-guj-punravratn-1-sem-1.pdf"
                     }
                   ],
-                  "textbook": []
+                  "textbook": [
+                   {
+                      "textbook_name": "પુનરાવર્તન 1",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/Std-8-Gujarati-Sem-1-PUNRAVARTN-1.pdf"
+                    }
+                  ]
                 },
                 {
                   "month_name": "Ch - 6",
@@ -400,7 +405,12 @@
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-guj-punravrtan-11-to-16-sem-2.pdf"
                     }
                   ],
-                  "textbook": []
+                  "textbook": [
+                  {
+                      "textbook_name": "પુનરાવર્તન  (પાઠ 11 થી 16)",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/Std-8-Gujarati-Sem-2-PUNRAVARTN-1.pdf"
+                    }
+                  ]
                 },
                 {
                   "month_name": "Ch - 17",
@@ -549,7 +559,12 @@
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/"
                     }
                   ],
-                  "textbook": []
+                  "textbook": [
+                   {
+                      "textbook_name": "પુનરાવર્તન (પાઠ 17 થી 22)",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/Std-8-Gujarati-Sem-2-PUNRAVARTN-2.pdf"
+                    }
+                  ]
                 }
               ]
             },
@@ -682,7 +697,12 @@
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/"
                     }
                   ],
-                  "textbook": []
+                  "textbook": [
+                   {
+                      "textbook_name": "पुनरावर्तन 1",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/Std-8-Hindi-Second-PUNRAVTRN-1.pdf"
+                    }
+                  ]
                 },
                 {
                   "month_name": "Ch - 6",
@@ -787,7 +807,12 @@
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/"
                     }
                   ],
-                  "textbook": []
+                  "textbook": [
+                  {
+                      "textbook_name": "पुनरावर्तन 2",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/Std-8-Hindi-Second-PUNRAVTRN-2.pdf"
+                    }
+                  ]
                 }
               ]
             },
