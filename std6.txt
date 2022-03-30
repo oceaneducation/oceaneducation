@@ -227,14 +227,24 @@
                   "month_name": "Ch - 10",
                   "videos": [
                     {
-                      "video_name": "માપન",
+                      "video_name": "માપન સ્વાધ્યાય 10.1",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/2zl92y0mEk4"
+                    },
+                      {
+                      "video_name": "માપન સ્વાધ્યાય 10.2",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/kl7GufViyYQ"
+                    },
+                    {
+                      "video_name": "માપન સ્વાધ્યાય 10.3",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/dOhH6b8kT_Q"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "માપન",
+                      "material_name": "માપન ",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     }
                   ],
@@ -249,9 +259,19 @@
                   "month_name": "Ch - 11",
                   "videos": [
                     {
-                      "video_name": "બીજગણિત",
+                      "video_name": "બીજગણિત સ્વાધ્યાય 11.1",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": ""
+                    },
+                    {
+                      "video_name": "બીજગણિત સ્વાધ્યાય 11.2",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    },
+                    {
+                      "video_name": "બીજગણિત સ્વાધ્યાય 11.3",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Anau2_t8gK4"
                     }
                   ],
                   "material": [
