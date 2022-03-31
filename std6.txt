@@ -291,7 +291,17 @@
                   "month_name": "Ch - 12",
                   "videos": [
                     {
-                      "video_name": "ગુણોતર અને પ્રમાણ",
+                      "video_name": "ગુણોતર અને પ્રમાણ સ્વાધ્યાય 12.1",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    },
+                      {
+                      "video_name": "ગુણોતર અને પ્રમાણ સ્વાધ્યાય 12.2",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    },
+                      {
+                      "video_name": "ગુણોતર અને પ્રમાણ સ્વાધ્યાય 12.3",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": ""
                     }
