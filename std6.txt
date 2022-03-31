@@ -244,7 +244,15 @@
                   ],
                   "material": [
                     {
-                      "material_name": "માપન ",
+                      "material_name": "માપન સ્વાધ્યાય 10.1",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
+                    },
+                    {
+                      "material_name": "માપન સ્વાધ્યાય 10.2",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
+                    },
+                    {
+                      "material_name": "માપન સ્વાધ્યાય 10.3",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
                     }
                   ],
@@ -261,12 +269,12 @@
                     {
                       "video_name": "બીજગણિત સ્વાધ્યાય 11.1",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/G-EsxGAXoys"
                     },
                     {
                       "video_name": "બીજગણિત સ્વાધ્યાય 11.2",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/zuB-UHKQ_vg"
                     },
                     {
                       "video_name": "બીજગણિત સ્વાધ્યાય 11.3",
@@ -286,9 +294,25 @@
                   ],
                   "material": [
                     {
-                      "material_name": "બીજગણિત",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
-                    }
+                      "material_name": "બીજગણિત સ્વાધ્યાય 11.1",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-maths-ch-11-swadhyay-11.1-sem-2.pdf"
+                    },
+                     {
+                      "material_name": "બીજગણિત સ્વાધ્યાય 11.2",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-maths-ch-11-swadhyay-11.2-sem-2.pdf"
+                    },
+                     {
+                      "material_name": "બીજગણિત સ્વાધ્યાય 11.3",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-maths-ch-11-swadhyay-11.3-sem-2.pdf"
+                    },
+                     {
+                      "material_name": "બીજગણિત સ્વાધ્યાય 11.4",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-maths-ch-11-swadhyay-11.4-sem-2.pdf"
+                    },
+                     {
+                      "material_name": "બીજગણિત સ્વાધ્યાય 11.5",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-maths-ch-11-swadhyay-11.5-sem-2.pdf"
+                    },
                   ],
                   "textbook": [
                     {
@@ -318,8 +342,16 @@
                   ],
                   "material": [
                     {
-                      "material_name": "ગુણોતર અને પ્રમાણ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
+                      "material_name": "ગુણોતર અને પ્રમાણ સ્વાધ્યાય 12.1",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-maths-ch.12-swadhyay-12.1-sem-2.pdf"
+                    },
+                     {
+                      "material_name": "ગુણોતર અને પ્રમાણ સ્વાધ્યાય 12.2",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-maths-ch.12-swadhyay-12.2-sem-2.pdf"
+                    },
+                     {
+                      "material_name": "ગુણોતર અને પ્રમાણ સ્વાધ્યાય 12.3",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-maths-ch.12-swadhyay-12.3-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -340,8 +372,12 @@
                   ],
                   "material": [
                     {
-                      "material_name": "સંમિતિ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
+                      "material_name": "સંમિતિ સ્વાધ્યાય 13.1",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-maths-ch.13-swadhyay-13.1-sem-2.pdf"
+                    },
+                    {
+                      "material_name": "સંમિતિ સ્વાધ્યાય 13.2",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-maths-ch.13-swadhyay-13.2-sem-2.pdf"
                     }
                   ],
                   "textbook": [
