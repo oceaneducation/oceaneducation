@@ -273,6 +273,16 @@
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Anau2_t8gK4"
                     }
+                     {
+                      "video_name": "બીજગણિત સ્વાધ્યાય 11.4",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/IUVmCI6j6Ks"
+                    }
+                     {
+                      "video_name": "બીજગણિત સ્વાધ્યાય 11.5",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Z4YXsIwF4JA"
+                    }
                   ],
                   "material": [
                     {
