@@ -22,7 +22,7 @@
                   "material": [
                     {
                       "material_name": "સંખ્યા પરિચય",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
                     }
                   ],
                   "textbook": [
@@ -54,7 +54,7 @@
                   "material": [
                     {
                       "material_name": "પૂર્ણ સંખ્યાઓ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
                     }
                   ],
                   "textbook": [
@@ -81,7 +81,7 @@
                   "material": [
                     {
                       "material_name": "સંખ્યા અને રમત",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
                     }
                   ],
                   "textbook": [
@@ -103,7 +103,7 @@
                   "material": [
                     {
                       "material_name": "ભૂમિતિના પાયાના ખ્યાલો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
                     }
                   ],
                   "textbook": [
@@ -125,7 +125,7 @@
                   "material": [
                     {
                       "material_name": "પાયાના આકારોની સમજૂતી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
                     }
                   ],
                   "textbook": [
@@ -147,7 +147,7 @@
                   "material": [
                     {
                       "material_name": "પૂર્ણાંક સંખ્યાઓ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
                     }
                   ],
                   "textbook": [
@@ -169,7 +169,7 @@
                   "material": [
                     {
                       "material_name": "અપૂર્ણાંક સંખ્યાઓ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
                     }
                   ],
                   "textbook": [
@@ -191,7 +191,7 @@
                   "material": [
                     {
                       "material_name": "દશાંશ સંખ્યાઓ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
                     }
                   ],
                   "textbook": [
@@ -213,7 +213,7 @@
                   "material": [
                     {
                       "material_name": "માહિતીનું નિયમન",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
                     }
                   ],
                   "textbook": [
@@ -245,7 +245,7 @@
                   "material": [
                     {
                       "material_name": "માપન ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
                     }
                   ],
                   "textbook": [
@@ -287,7 +287,7 @@
                   "material": [
                     {
                       "material_name": "બીજગણિત",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
                     }
                   ],
                   "textbook": [
@@ -319,7 +319,7 @@
                   "material": [
                     {
                       "material_name": "ગુણોતર અને પ્રમાણ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
                     }
                   ],
                   "textbook": [
@@ -341,7 +341,7 @@
                   "material": [
                     {
                       "material_name": "સંમિતિ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
                     }
                   ],
                   "textbook": [
@@ -363,7 +363,7 @@
                   "material": [
                     {
                       "material_name": "પ્રાયોગિક ભૂમિતિ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
                     }
                   ],
                   "textbook": [
