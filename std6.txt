@@ -245,15 +245,15 @@
                   "material": [
                     {
                       "material_name": "માપન સ્વાધ્યાય 10.1",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-maths-ch-10-swadhyay-10.1-sem-2.pdf"
                     },
                     {
                       "material_name": "માપન સ્વાધ્યાય 10.2",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-maths-ch-10-swadhyay-10.2-sem-2.pdf"
                     },
                     {
                       "material_name": "માપન સ્વાધ્યાય 10.3",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-maths-ch-10-swadhyay-10.3-sem-2.pdf"
                     }
                   ],
                   "textbook": [
