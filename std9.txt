@@ -3034,8 +3034,12 @@
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/E.M.-STD-9-MATHS-CH.1-EXERCISE-1.4.pdf"
                     },
                     {
-                      "material_name": "Number systems Exercise 1.5",
+                      "material_name": "Number systems Exercise 1.5 ",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/E.M.-STD-9-MATHS-CH.1-EXERCISE-1.5-(Q 1).pdf"
+                    },
+                    {
+                      "material_name": "Number systems Exercise 1.5 (Q.2 TO Q.3)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/E.M.-STD-9-MATHS-CH.1-EXERCISE-1.5-Q-2-to-Q-3-(2)"
                     },
                     {
                       "material_name": "Number systems Exercise 1.6",
