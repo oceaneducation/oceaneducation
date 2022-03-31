@@ -312,7 +312,7 @@
                      {
                       "material_name": "બીજગણિત સ્વાધ્યાય 11.5",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-maths-ch-11-swadhyay-11.5-sem-2.pdf"
-                    },
+                    }
                   ],
                   "textbook": [
                     {
