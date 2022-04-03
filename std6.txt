@@ -407,7 +407,11 @@
                     },
                      {
                       "material_name": "પ્રાયોગિક ભૂમિતિ સ્વાધ્યાય 14.2",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-maths-ch-14-swadhyay-14.2-sem-2.pdf"
+                    },
+                    {
+                      "material_name": "પ્રાયોગિક ભૂમિતિ સ્વાધ્યાય 14.3",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-maths-ch-14-swadhyay-14.3-sem-2.pdf"
                     }
                   ],
                   "textbook": [
