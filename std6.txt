@@ -327,17 +327,17 @@
                     {
                       "video_name": "ગુણોતર અને પ્રમાણ સ્વાધ્યાય 12.1",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/isJDsqwc2eA"
                     },
                       {
                       "video_name": "ગુણોતર અને પ્રમાણ સ્વાધ્યાય 12.2",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/ETZdk8ubrmg"
                     },
                       {
                       "video_name": "ગુણોતર અને પ્રમાણ સ્વાધ્યાય 12.3",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/T639rSSti4c"
                     }
                   ],
                   "material": [
@@ -365,9 +365,19 @@
                   "month_name": "Ch - 13",
                   "videos": [
                     {
-                      "video_name": "સંમિતિ",
+                      "video_name": "સંમિતિ સ્વાધ્યાય 13.1",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/yGQv8ppUhvQ"
+                    },
+                     {
+                      "video_name": "સંમિતિ સ્વાધ્યાય 13.2",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/RRjTRFGdOn0"
+                    },
+                     {
+                      "video_name": "સંમિતિ સ્વાધ્યાય 13.3",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/gnx7G_WiDKE"
                     }
                   ],
                   "material": [
@@ -395,7 +405,27 @@
                   "month_name": "Ch - 14",
                   "videos": [
                     {
-                      "video_name": "પ્રાયોગિક ભૂમિતિ",
+                      "video_name": "પ્રાયોગિક ભૂમિતિ સ્વાધ્યાય 14.1",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/dno-hEiT5RM"
+                    },
+                    {
+                      "video_name": "પ્રાયોગિક ભૂમિતિ સ્વાધ્યાય 14.2",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/PGsz7YoiK7E"
+                    },
+                    {
+                      "video_name": "પ્રાયોગિક ભૂમિતિ સ્વાધ્યાય 14.3",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/V4fvcLYypNs"
+                    },
+                    {
+                      "video_name": "પ્રાયોગિક ભૂમિતિ સ્વાધ્યાય 14.4",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/V4fvcLYypNs"
+                    },
+                     {
+                      "video_name": "પ્રાયોગિક ભૂમિતિ સ્વાધ્યાય 14.5",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": ""
                     }
