@@ -450,6 +450,14 @@
                      {
                       "material_name": "પ્રાયોગિક ભૂમિતિ સ્વાધ્યાય 14.5",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-maths-ch-14-swadhyay-14.5-sem-2.pdf"
+                    },
+                    {
+                      "material_name": "પ્રાયોગિક ભૂમિતિ સ્વાધ્યાય 14.6 Q1 TO Q5",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-maths-ch-14-swadhyay-14.6-sem-2-Q-1-TO-5.pdf"
+                    },
+                    {
+                      "material_name": "પ્રાયોગિક ભૂમિતિ સ્વાધ્યાય 14.6 Q6 TO Q9",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-maths-ch-14-swadhyay-14.6-sem-2-Q-5-TO-9.pdf"
                     }
                   ],
                   "textbook": [
