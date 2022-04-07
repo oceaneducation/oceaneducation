@@ -2602,7 +2602,7 @@
               ]
             },
              {
-              "standard_name": "ગણિત CBSE",
+              "standard_name": "MATHS CBSE",
               "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
               "month_cat": [
                 {
