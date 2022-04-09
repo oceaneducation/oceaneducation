@@ -85,7 +85,7 @@
                     {
                       "video_name": "દ્વિચલ સુરેખ સમીકરણયુગ્મ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/IiyvySXozGg"
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -107,7 +107,7 @@
                     {
                       "video_name": "દ્વિઘાત સમીકરણ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/BHlkuRkXhxs"
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -129,7 +129,7 @@
                     {
                       "video_name": "સમાંતર શ્રેણી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/HE1WhYEEYkA"
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -151,7 +151,7 @@
                     {
                       "video_name": "ત્રિકોણ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/O5sGkUOvZeQ"
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -173,7 +173,7 @@
                     {
                       "video_name": "યામ ભૂમિતિ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/YHT9KAcLrBI"
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -195,7 +195,7 @@
                     {
                       "video_name": "ત્રિકોણમિતિનો પરિચય",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/2cEfnMi9i-4"
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -217,7 +217,7 @@
                     {
                       "video_name": "ત્રિકોણમિતિના ઉપયોગો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/d98JMjz7wQQ "
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -239,7 +239,7 @@
                     {
                       "video_name": "વર્તુળ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/KlzSyVHDg7I"
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -261,7 +261,7 @@
                     {
                       "video_name": "રચના",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/lajyyEDs0lI "
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -283,7 +283,7 @@
                     {
                       "video_name": "વર્તુળ સબંધિત ક્ષેત્રફળ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/AH66cNDUFpE"
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -346,21 +346,6 @@
                       "video_name": "પૃષ્ઠફળ અને ઘનફળ સ્વાધ્યાય 13.2 Q.6",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/xQbKCnaFDms"
-                    },
-                    {
-                      "video_name": "પૃષ્ઠફળ અને ઘનફળ",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/AH66cNDUFpE"
-                    },
-                    {
-                      "video_name": "પૃષ્ઠફળ અને ઘનફળ",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/AH66cNDUFpE"
-                    },
-                    {
-                      "video_name": "પૃષ્ઠફળ અને ઘનફળ",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/AH66cNDUFpE"
                     }
                   ],
                   "material": [
@@ -382,7 +367,7 @@
                     {
                       "video_name": "આંકડાશાસ્ત્ર",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Keioj5XkLLM"
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -404,7 +389,7 @@
                     {
                       "video_name": "સંભાવના",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/BYxZl70XK6o"
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -426,7 +411,7 @@
                     {
                       "video_name": "ગણિતમાં સાબિતીઓ A1",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/z54ubvn2MIg "
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -448,7 +433,7 @@
                     {
                       "video_name": "ગાણિતિક મોડેલીંગ ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/oX3Wfh8TEOQ "
+                      "video_link": ""
                     }
                   ],
                   "material": [
