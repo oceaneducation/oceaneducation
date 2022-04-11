@@ -2606,7 +2606,12 @@
                     {
                       "video_name": "REAL NUMBERS EXERCISE-1.1 Q.4 Q.5",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/r1SDBCG40S0"
+                    },
+                     {
+                      "video_name": "REAL NUMBERS EXERCISE-1.2 Q.1",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/sej57PUfxVY"
                     }
                   ],
                   "material": [
@@ -2621,6 +2626,10 @@
                     {
                       "material_name": "REAL NUMBERS EXERCISE-1.1 Q.4 Q.5",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/E.M-STD-10-MATHS-CH.1-EXERCISE-1.1-Q-4-TO-Q-5.pdf"
+                    },
+                    {
+                      "material_name": "REAL NUMBERS EXERCISE-1.2 Q.1",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
                     }
                   ],
                   "textbook": [
