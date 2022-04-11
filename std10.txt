@@ -2629,7 +2629,19 @@
                     },
                     {
                       "material_name": "REAL NUMBERS EXERCISE-1.2 Q.1",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/E.M-STD-10-MATHS-CH.1-EXERCISE-1.2-Q.1.pdf"
+                    },
+                     {
+                      "material_name": "REAL NUMBERS EXERCISE-1.2 Q.2",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/E.M-STD-10-MATHS-CH.1-EXERCISE-1.2-Q.2.pdf"
+                    },
+                     {
+                      "material_name": "REAL NUMBERS EXERCISE-1.2 Q.3 Q.4",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/E.M-STD-10-MATHS-CH.1-EXERCISE-1.2-Q.3-Q.4.pdf"
+                    },
+                     {
+                      "material_name": "REAL NUMBERS EXERCISE-1.2 Q.5,6,7",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/E.M-STD-10-MATHS-CH.1-EXERCISE-1.2-Q.5,6,7.pdf"
                     }
                   ],
                   "textbook": [
