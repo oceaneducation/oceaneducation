@@ -2616,7 +2616,7 @@
                       {
                       "video_name": "REAL NUMBERS EXERCISE-1.2 Q.2",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/t4PhSPOFhyU"
                     },
                       {
                       "video_name": "REAL NUMBERS EXERCISE-1.2 Q.3 TO Q.4",
