@@ -21,8 +21,16 @@
                   ],
                   "material": [
                     {
-                      "material_name": "સંખ્યા પરિચય",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
+                      "material_name": "સંખ્યા પરિચય સ્વાધ્યાય 1.1",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-maths-ch.1-swadhyay-1.1-sem-2.pdf"
+                    },
+                     {
+                      "material_name": "સંખ્યા પરિચય સ્વાધ્યાય 1.2",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-maths-ch.1-swadhyay-1.2-sem-2.pdf"
+                    },
+                     {
+                      "material_name": "સંખ્યા પરિચય સ્વાધ્યાય 1.3",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-maths-ch.1-swadhyay-1.3-sem-2.pdf"
                     }
                   ],
                   "textbook": [
