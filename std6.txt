@@ -61,8 +61,16 @@
                   ],
                   "material": [
                     {
-                      "material_name": "પૂર્ણ સંખ્યાઓ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
+                      "material_name": "પૂર્ણ સંખ્યા સ્વાધ્યાય 2.1",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-maths-ch.2-swadhyay-2.1.pdf"
+                    },
+                    {
+                      "material_name": "પૂર્ણ સંખ્યા સ્વાધ્યાય 2.2",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-maths-ch.2-swadhyay-2.2.pdf"
+                    },
+                    {
+                      "material_name": "પૂર્ણ સંખ્યા સ્વાધ્યાય 2.3",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-maths-ch.2-swadhyay-2.3.pdf"
                     }
                   ],
                   "textbook": [
@@ -88,8 +96,8 @@
                   ],
                   "material": [
                     {
-                      "material_name": "સંખ્યા અને રમત",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
+                      "material_name": "સંખ્યા અને રમત સ્વાધ્યાય 3.1",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std.6-maths-ch.3-swadhyay-3.1.pdf"
                     }
                   ],
                   "textbook": [
