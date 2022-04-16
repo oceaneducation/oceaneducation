@@ -3024,7 +3024,7 @@
                      {
                       "video_name": "Number systems Exercise 1.6",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/bVzPbjIabSk"
                     }
                   ],
                   "material": [
