@@ -2677,6 +2677,10 @@
                      {
                       "material_name": "REAL NUMBERS EXERCISE-1.4 Q.2",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/E.M-STD-10-MATHS-CH.1-EXERCISE-1.4-Q.2.pdf"
+                    },
+                    {
+                      "material_name": "REAL NUMBERS EXERCISE-1.4 Q.3",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/E.M-STD-10-MATHS-CH.1-EXERCISE-1.4 Q.3.pdf"
                     }
                   ],
                   "textbook": [
