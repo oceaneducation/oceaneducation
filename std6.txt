@@ -221,9 +221,14 @@
                   "month_name": "Ch - 9",
                   "videos": [
                     {
-                      "video_name": "માહિતીનું નિયમન",
+                      "video_name": "માહિતીનું નિયમન સ્વાધ્યાય 9.1",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/GR2-0kKq7Ak"
+                    },
+                    {
+                      "video_name": "માહિતીનું નિયમન સ્વાધ્યાય 9.2",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/On2IsBHZnQY"
                     }
                   ],
                   "material": [
