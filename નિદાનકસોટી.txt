@@ -1,310 +1,67 @@
 {
-      "homedata_name": "નિદાન કસોટી",
+      "homedata_name": "બેઝિક ગણિત",
       "homedata_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
-      "direct_sub_cat": false,
+      "direct_sub_cat": true,
       "sub_data": [
         {
-          "sub_data_name": "નિદાન કસોટી",
+          "sub_data_name": "બેઝિક ગણિત",
           "standard_data": [
             {
-              "standard_name": "ધોરણ 12",
+              "standard_name": "બેઝિક ગણિત",
               "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
               "month_cat": [
                 {
-                  "month_name": "જુલાઈ 2021",
+                  "month_name": "બેઝિક ગણિત",
                   "videos": [
                     {
-                      "video_name": "Psycology",
+                      "video_name": "1 થી 10 ઘડિયા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/GKVvo1CEvEo"
                     },
                     {
-                      "video_name": "Geography",
+                      "video_name": "11 થી 20 ઘડિયા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
-                    }
-                  ],
-                  "material": [
-                    {
-                      "material_name": "Account",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "video_link": "https://youtu.be/TUTvJaymruo"
                     },
                     {
-                      "material_name": "BA",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ],
-                  "textbook": [
-                    {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ]
-                },
-                {
-                  "month_name": "ઓગસ્ટ 2021",
-                  "videos": [
-                    {
-                      "video_name": "Psycology",
+                      "video_name": "એક રકમના સાદા  સરવાળા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/ziuZOv1ZVb4"
                     },
                     {
-                      "video_name": "Geography",
+                      "video_name": "બે  રકમના સાદા સરવાળા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
-                    }
-                  ],
-                  "material": [
-                    {
-                      "material_name": "Account",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "video_link": "https://youtu.be/T2mLtc-II2I"
                     },
                     {
-                      "material_name": "BA",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ],
-                  "textbook": [
-                    {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "standard_name": "ધોરણ  11",
-              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
-              "month_cat": [
-                {
-                  "month_name": "જુલાઈ 2021",
-                  "videos": [
-                    {
-                      "video_name": "Psycology",
+                      "video_name": "ત્રણ રકમના સાદા સરવાળા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/oL0htsIHi5A"
                     },
                     {
-                      "video_name": "Geography",
+                      "video_name": "એક રકમ ની સાદી બાદબાકી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
-                    }
-                  ],
-                  "material": [
-                    {
-                      "material_name": "Account",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "video_link": "https://youtu.be/KppXCLVz6T4"
                     },
                     {
-                      "material_name": "BA",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ],
-                  "textbook": [
-                    {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ]
-                },
-                {
-                  "month_name": "ઓગસ્ટ 2021",
-                  "videos": [
-                    {
-                      "video_name": "Psycology",
+                      "video_name": "બે રકમ ની સાદી બાદબાકી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/Rn8NfZ1eDCU"
                     },
                     {
-                      "video_name": "Geography",
+                      "video_name": "ત્રણ રકમ ની સાદી બાદબાકી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
-                    }
-                  ],
-                  "material": [
-                    {
-                      "material_name": "Account",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                      "video_link": "https://youtu.be/CgBdqjf_cIA"
                     },
                     {
-                      "material_name": "BA",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ],
-                  "textbook": [
-                    {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "standard_name": "ધોરણ  10",
-              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
-              "month_cat": [
-                {
-                  "month_name": "જુલાઈ 2021",
-                  "videos": [
-                    {
-                      "video_name": "Psycology",
+                      "video_name": "બે રકમના વદ્દીવાળા સરવાળો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/HPXlWUTQ3ao"
                     },
                     {
-                      "video_name": "Geography",
+                      "video_name": "ત્રણ રકમના વદ્દીવાળા સરવાળો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
-                    }
-                  ],
-                  "material": [
-                    {
-                      "material_name": "Account",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "material_name": "BA",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ],
-                  "textbook": [
-                    {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ]
-                },
-                {
-                  "month_name": "ઓગસ્ટ 2021",
-                  "videos": [
-                    {
-                      "video_name": "Psycology",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
-                    }
-                  ],
-                  "material": [
-                    {
-                      "material_name": "Account",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "material_name": "BA",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ],
-                  "textbook": [
-                    {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "standard_name": "ધોરણ  9",
-              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
-              "month_cat": [
-                {
-                  "month_name": "જુલાઈ 2021",
-                  "videos": [
-                    {
-                      "video_name": "Psycology",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
-                    }
-                  ],
-                  "material": [
-                    {
-                      "material_name": "Account",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "material_name": "BA",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ],
-                  "textbook": [
-                    {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ]
-                },
-                {
-                  "month_name": "ઓગસ્ટ 2021",
-                  "videos": [
-                    {
-                      "video_name": "Psycology",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
-                    },
-                    {
-                      "video_name": "Geography",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
-                    }
-                  ],
-                  "material": [
-                    {
-                      "material_name": "Account",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "material_name": "BA",
-                      "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ],
-                  "textbook": [
-                    {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    },
-                    {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "video_link": "https://youtu.be/FrM1GFfYILc"
                     }
                   ]
                 }
