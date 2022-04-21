@@ -2639,14 +2639,19 @@
                       "video_link": "https://youtu.be/MRQ2NBxKMfs"
                     },
                      {
-                      "video_name": "REAL NUMBERS EXERCISE-1.4 Q.1 Q.5",
+                      "video_name": "REAL NUMBERS EXERCISE-1.4 Q.1 sum 1 to 5",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f9I1vbYS0cE"
                     },
                     {
-                      "video_name": "REAL NUMBERS EXERCISE-1.4 Q.6 Q.10",
+                      "video_name": "REAL NUMBERS EXERCISE-1.4 Q.1 sum 6 to 10",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/QxL0PKu4gik"
+                    },
+                     {
+                      "video_name": "REAL NUMBERS EXERCISE-1.4 Q.2",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/XDZImCPbIVo"
                     }
                   ],
                   "material": [
