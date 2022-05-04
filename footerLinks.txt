@@ -13,7 +13,7 @@
         },
         {
           "name": "jk education",
-          "link": "https://www.youtube.com/channel/UCgCtkbfYyBFgdlkLNxGf9Dw"
+          "link": "https://youtube.com/channel/UCaDTXiNYjnO7wn5K2UFjwBQ"
         }
       ]
     },
