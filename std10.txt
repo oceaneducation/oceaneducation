@@ -2652,8 +2652,7 @@
                       "video_name": "REAL NUMBERS EXERCISE-1.4 Q.3",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/fceI6GkpmEc"
-                    },
-                    
+                    }
                   ],
                   "material": [
                     {
