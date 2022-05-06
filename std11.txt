@@ -16,7 +16,7 @@
                     {
                       "video_name": "ધંધાનું સ્વરૂપ, હેતુ અને કાર્યક્ષેત્ર",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/yQzEy2LswLY"
                     }
                   ],
                   "material": [
@@ -38,7 +38,7 @@
                     {
                       "video_name": "ધંધાકીય સેવાઓ-1",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/sV2RuPJLYA4"
                     }
                   ],
                   "material": [
@@ -60,7 +60,7 @@
                     {
                       "video_name": "ધંધાકીય સેવાઓ-2",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/G343ynTzrVw"
                     }
                   ],
                   "material": [
@@ -82,7 +82,7 @@
                     {
                       "video_name": "માહિતી સંચાર, ઈ-કૉમર્સ અને આઉટસોર્સિંગ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/uzbb5hxGoKw"
                     }
                   ],
                   "material": [
@@ -104,7 +104,7 @@
                     {
                       "video_name": "ધંધાકીય વ્યવસ્થાનાં સ્વરૂપો-1",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/TvhfHlsxK24"
                     }
                   ],
                   "material": [
@@ -126,7 +126,7 @@
                     {
                       "video_name": "ધંધાકીય વ્યવસ્થાનાં સ્વરૂપો-2",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/Q3xLTjB4oZo"
                     }
                   ],
                   "material": [
@@ -148,7 +148,7 @@
                     {
                       "video_name": "જાહેરક્ષેત્ર, ખાનગીક્ષેત્ર અને વૈશ્વિક સાહસો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/QueawR5a9uc"
                     }
                   ],
                   "material": [
@@ -170,7 +170,7 @@
                     {
                       "video_name": "ધંધાકીય મૂડીનાં પ્રાપ્તિસ્થાનો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/R-0eO1RrNB8"
                     }
                   ],
                   "material": [
@@ -192,7 +192,7 @@
                     {
                       "video_name": "આંતરિક વેપાર",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/6GfjxYEoOw4"
                     }
                   ],
                   "material": [
@@ -214,7 +214,7 @@
                     {
                       "video_name": "આંતરરાષ્ટ્રીય વેપાર",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/fiusWgDkRB8"
                     }
                   ],
                   "material": [
@@ -236,7 +236,7 @@
                     {
                       "video_name": "ધંધાની સામાજિક જવાબદારી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/LFx28UBDe0E"
                     }
                   ],
                   "material": [
