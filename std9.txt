@@ -3076,9 +3076,64 @@
                   "month_name": "Ch - 2",
                   "videos": [
                     {
-                      "video_name": "POLYNOMIALS",
+                      "video_name": "POLYNOMIALS Exercise 2.1 Q.1",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/QYM3alqxPvc"
+                    },
+                    {
+                      "video_name": "POLYNOMIALS Exercise 2.1 Q.2 & Q.3",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/QLWI2E-4KMk"
+                    },
+                    {
+                      "video_name": "POLYNOMIALS Exercise 2.1 Q.4 & Q.5",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/hdkZQD41oHE"
+                    },
+                    {
+                      "video_name": "POLYNOMIALS Exercise 2.2 Q.1 & Q.2",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/vI8fkYjcKHo"
+                    },
+                    {
+                      "video_name": "POLYNOMIALS Exercise 2.2 Q.3 & Q.4",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/hpeTQGLwBF4"
+                    },
+                    {
+                      "video_name": "POLYNOMIALS Exercise 2.3 Q.1",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/4dc-Fp2X3nA"
+                    },
+                    {
+                      "video_name": "POLYNOMIALS Exercise 2.3 Q.2 & Q.3",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/A8xAugCrUOA"
+                    },
+                    {
+                      "video_name": "POLYNOMIALS Exercise 2.4 Q.1 & Q.2",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/NqScTlGnD8o"
+                    },
+                    {
+                      "video_name": "POLYNOMIALS Exercise 2.4 Q.3 & Q.4",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Uyfk2jnuV5s"
+                    },
+                    {
+                      "video_name": "POLYNOMIALS Exercise 2.4 Q.5 (SUM 1 & 2)",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/87q3ZwqdDOA"
+                    },
+                    {
+                      "video_name": "POLYNOMIALS Exercise 2.4 Q.5 (SUM 3 & 4)",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/yePWPDvwb_4"
+                    },
+                    {
+                      "video_name": "POLYNOMIALS Exercise 2.5 Q.1 & Q.2",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/ceSQsBP6DVM"
                     }
                   ],
                   "material": [
