@@ -63,45 +63,7 @@
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/FrM1GFfYILc"
                     }
-                  ],
-                  "material": [
-                {
-                  "material_name": "પાઠ : 1 : vini’s smile",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
-                },
-                {
-                  "material_name": "પાઠ : 2 : how many did you?",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
-                },
-                {
-                  "material_name": "પાઠ : 3 : yes, I will.",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
-                },
-                {
-                  "material_name": "પાઠ : 4 : longer, shorter, bigger",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
-                },
-                {
-                  "material_name": "પાઠ : 1 : am I lost?",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
-                },
-                {
-                  "material_name": "પાઠ : 2 : step by step",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
-                },
-                {
-                  "material_name": "પાઠ : 3 : today comes everyday",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
-                },
-                {
-                  "material_name": "પાઠ : 4 : Q of yes no yes no",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
-                },
-                {
-                  "material_name": "પાઠ : 5 : me too!",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
-                }
-              ]
+                  ]
                 }
               ]
             }
