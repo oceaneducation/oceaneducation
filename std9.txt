@@ -2712,20 +2712,20 @@
                   "month_name": "Ch - 9",
                   "videos": [
                     {
-                      "video_name": "उपकारहतस्तू कर्तव्यः ।  ",
+                      "video_name": "उपकारहतस्तू कर्तव्यः ।",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/2WeWBkw324k"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "उपकारहतस्तू कर्तव्यः ।  ",
+                      "material_name": "उपकारहतस्तू कर्तव्यः ।",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.k-ch-9.pdf"
                     }
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "उपकारहतस्तू कर्तव्यः ।  ",
+                      "textbook_name": "उपकारहतस्तू कर्तव्यः ।",
                       "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 9.pdf"
                     }
                   ]
