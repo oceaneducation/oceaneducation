@@ -2135,7 +2135,7 @@
                     {
                       "video_name": "सं वदध्वम्",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/27wwgvSboyQ "
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -2157,7 +2157,7 @@
                     {
                       "video_name": "यद्भविष्यो विनश्यति  ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/kmctDewUtTM "
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -2179,7 +2179,7 @@
                     {
                       "video_name": "स्वस्थवृत्तं समाचर",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/IiyvySXozGg"
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -2201,7 +2201,7 @@
                     {
                       "video_name": "जनार्दनस्य पश्चिमः",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/BHlkuRkXhxs"
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -2223,7 +2223,7 @@
                     {
                       "video_name": "गुणवती कन्या",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/HE1WhYEEYkA"
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -2245,7 +2245,7 @@
                     {
                       "video_name": "काष्ठखण्डः ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/O5sGkUOvZeQ"
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -2267,7 +2267,7 @@
                     {
                       "video_name": "सुभाषितकुसुमानि",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/YHT9KAcLrBI "
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -2289,7 +2289,7 @@
                     {
                       "video_name": "साक्षिभूतः मनुष्यः ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/2cEfnMi9i-4 "
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -2311,7 +2311,7 @@
                     {
                       "video_name": "चक्षुष्मान् अन्ध एव",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/d98JMjz7wQQ "
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -2333,7 +2333,7 @@
                     {
                       "video_name": "त्वमेका भवानि",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/KlzSyVHDg7I"
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -2355,7 +2355,7 @@
                     {
                       "video_name": "यस्य जननं तस्य मरणम् ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/lajyyEDs0lI "
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -2377,7 +2377,7 @@
                     {
                       "video_name": "कलिकालसर्वज्ञो हेमचन्द्राचार्यः",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/AH66cNDUFpE"
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -2399,7 +2399,7 @@
                     {
                       "video_name": "गीतामृतम्",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/AH66cNDUFpE"
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -2421,7 +2421,7 @@
                     {
                       "video_name": "क इदं दुष्करं कुर्यात्",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Keioj5XkLLM "
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -2432,7 +2432,7 @@
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "क इदं दुष्करं कुर्यात्  ",
+                      "textbook_name": "क इदं दुष्करं कुर्यात्",
                       "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std10/14.pdf"
                     }
                   ]
@@ -2443,7 +2443,7 @@
                     {
                       "video_name": "जयः पराजयो वा",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/BYxZl70XK6o"
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -2465,7 +2465,7 @@
                     {
                       "video_name": "अद्भुतं युद्धम् ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/z54ubvn2MIg "
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -2487,7 +2487,7 @@
                     {
                       "video_name": "स्वाभाविकं सादृश्यम्",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/oX3Wfh8TEOQ "
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -2509,7 +2509,7 @@
                     {
                       "video_name": "मुक्तानि मुक्तकानि",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/VMgKzmMnF7c "
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -2531,7 +2531,7 @@
                     {
                       "video_name": "सत्यं मयूरः ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/ciOP_MueO-E"
+                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -2553,7 +2553,7 @@
                     {
                       "video_name": "तथैव तिष्ठति",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/FdSfe0M42X4"
+                      "video_link": "https://youtu.be/dAWivDJKACM"
                     }
                   ],
                   "material": [
