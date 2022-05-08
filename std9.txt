@@ -3143,7 +3143,55 @@
                   ],
                   "material": [
                     {
-                      "material_name": "POLYNOMIALS",
+                      "material_name": "POLYNOMIALS Exercise 2.1 Q.1",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-maths-ch.2-EX.2.1-Q.1.pdf"
+                    },
+                     {
+                      "material_name": "POLYNOMIALS Exercise 2.1 Q.2 & Q.3",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-maths-ch.2-EX.2.1-Q.2.3.pdf"
+                    },
+                     {
+                      "material_name": "POLYNOMIALS Exercise 2.1 Q.4 & Q.5",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-maths-ch.2-EX.2.1-Q.4.5.pdf"
+                    },
+                     {
+                      "material_name": "POLYNOMIALS Exercise 2.2 Q.1 & Q.2",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-maths-ch.2-EX.2.2-Q.1.2.pdf"
+                    },
+                     {
+                      "material_name": "POLYNOMIALS Exercise 2.2 Q.3 & Q.4",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-maths-ch.2-EX.2.2-Q.3.4.pdf"
+                    },
+                     {
+                      "material_name": "POLYNOMIALS Exercise 2.3 Q.1",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-maths-ch.2-EX.2.3-Q.1.pdf"
+                    },
+                     {
+                      "material_name": "POLYNOMIALS Exercise 2.3 Q.2 & Q.3",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-maths-ch.2-EX.2.3-Q.2.3.pdf"
+                    },
+                     {
+                      "material_name": "POLYNOMIALS Exercise 2.4 Q.1 & Q.2",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-maths-ch.2-EX. 2.4-Q.1.2.pdf"
+                    },
+                     {
+                      "material_name": "POLYNOMIALS Exercise 2.4 Q.3 & Q.4",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-maths-ch.2-EX. 2.4-Q.3.4.pdf"
+                    },
+                     {
+                      "material_name": "POLYNOMIALS Exercise 2.4 Q.5 (SUM 1 & 2)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-maths-ch.2-EX. 2.4-Q.5(1.2).pdf"
+                    },
+                     {
+                      "material_name": "POLYNOMIALS Exercise 2.4 Q.5 (SUM 3 & 4)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-maths-ch.2-EX.2.4-Q.5(3.4).pdf"
+                    },
+                     {
+                      "material_name": "POLYNOMIALS Exercise 2.5 Q.1 & Q.2",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                    },
+                     {
+                      "material_name": "POLYNOMIALS Exercise 2.5 Q.3 & Q.4",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
                     }
                   ],
