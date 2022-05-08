@@ -14,9 +14,29 @@
                   "month_name": "Ch - 1",
                   "videos": [
                     {
-                      "video_name": "વાસ્તવિક સંખ્યાઓ",
+                      "video_name": "વાસ્તવિક સંખ્યાઓ સૂત્ર અને સમજૂતી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/27wwgvSboyQ"
+                      "video_link": "https://youtu.be/uWZRCks581c"
+                    },
+                    {
+                      "video_name": "વાસ્તવિક સંખ્યાઓ સ્વાધ્યાય 1.1",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/_XrGCbfPx20"
+                    },
+                    {
+                      "video_name": "વાસ્તવિક સંખ્યાઓ સ્વાધ્યાય 2.2",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/ifanLMbFqrE"
+                    },
+                    {
+                      "video_name": "વાસ્તવિક સંખ્યાઓ સ્વાધ્યાય 1.3",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/NKODXi2XAQc"
+                    },
+                    {
+                      "video_name": "વાસ્તવિક સંખ્યાઓ સ્વાધ્યાય 1.4",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/ffGd838D8x0"
                     }
                   ],
                   "material": [
@@ -36,34 +56,34 @@
                   "month_name": "Ch - 2",
                   "videos": [
                     {
-                      "video_name": "બહુપદીઓ  ભાગ-૧",
+                      "video_name": "બહુપદીઓ સૂત્ર અને સમજૂતી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Z9S-Y96PkQA"
                     },
                     {
-                      "video_name": "બહુપદીઓ  ભાગ-૨",
+                      "video_name": "બહુપદીઓ સ્વાધ્યાય 2.1",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/ICX3eri6H38"
+                      "video_link": "https://youtu.be/5GpqaYREW38"
                     },
                     {
-                      "video_name": "બહુપદીઓ  ભાગ-૩",
+                      "video_name": "બહુપદીઓ સ્વાધ્યાય 2.2 q.1",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/KQJ5-7yrQ9s"
+                      "video_link": "https://youtu.be/ikRyfy0rna0"
                     },
                     {
-                      "video_name": "બહુપદીઓ  ભાગ-૪",
+                      "video_name": "બહુપદીઓ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/aeesxY1pHC8"
+                      "video_link": ""
                     },
                     {
-                      "video_name": "બહુપદીઓ  ભાગ-૫",
+                      "video_name": "બહુપદીઓ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/rVQ2jAJOn20"
+                      "video_link": ""
                     },
                     {
-                      "video_name": "બહુપદીઓ  ભાગ-૬",
+                      "video_name": "બહુપદીઓ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/9P4GYsGhMs4"
+                      "video_link": ""
                     }
                   ],
                   "material": [
