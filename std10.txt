@@ -71,14 +71,14 @@
                       "video_link": "https://youtu.be/ikRyfy0rna0"
                     },
                     {
-                      "video_name": "બહુપદીઓ",
+                      "video_name": "બહુપદીઓ સ્વાધ્યાય 2.2 q.2",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/teduGYr1n7Y"
                     },
                     {
-                      "video_name": "બહુપદીઓ",
+                      "video_name": "બહુપદીઓ સ્વાધ્યાય 2.3",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/PaRaJZ7iZP4"
                     },
                     {
                       "video_name": "બહુપદીઓ",
