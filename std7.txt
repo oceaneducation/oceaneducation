@@ -197,13 +197,13 @@
                   ],
                   "material": [
                     {
-                      "material_name": "અઢારમી સદીના રાજકીય શાશકો",
+                      "material_name": "અઢારમી સદીના રાજકીય શાસકો",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-s.s-ch-9.pdf"
                     }
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "દઅઢારમી સદીના રાજકીય શાશકો",
+                      "textbook_name": "અઢારમી સદીના રાજકીય શાસકો",
                       "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/Std-7-Social Science-ch-9.pdf"
                     }
                   ]
@@ -1945,20 +1945,20 @@
                   "month_name": "Ch - 5",
                   "videos": [
                     {
-                      "video_name": "योजक: तत्र दुर्लभ : ",
+                      "video_name": "योजक: तत्र दुर्लभ: ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/euw8BEs6_CU"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "योजक: तत्र दुर्लभ : ",
+                      "material_name": "योजक: तत्र दुर्लभ: ",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
                     }
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "योजक: तत्र दुर्लभ : ",
+                      "textbook_name": "योजक: तत्र दुर्लभ: ",
                       "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 SANSKRIT sem 2 CH- 5.pdf"
                     }
                   ]
@@ -2314,7 +2314,7 @@
               ]
             },
             {
-              "standard_name": "ગુજરાતી સેમેસ્ટર - 2 ",
+              "standard_name": "ગુજરાતી દ્વિતીય સત્ર ",
               "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
               "month_cat": [
                 {
