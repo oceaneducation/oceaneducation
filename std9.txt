@@ -3139,6 +3139,21 @@
                       "video_name": "POLYNOMIALS Exercise 2.5 Q.3 & Q.4",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/F928ZcQ5tXw"
+                    },
+                     {
+                      "video_name": "POLYNOMIALS Exercise 2.5 Q.5 & Q.6",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/B-zK0k8A0kI"
+                    },
+                     {
+                      "video_name": "POLYNOMIALS Exercise 2.5 Q.7 & Q.8",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/ufQkO5zwjtY"
+                    },
+                     {
+                      "video_name": "POLYNOMIALS Exercise 2.5 Q.9 & Q.10",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/jT9DeoSF1kM"
                     }
                   ],
                   "material": [
