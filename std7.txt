@@ -14,20 +14,20 @@
                   "month_name": "Ch - 1",
                   "videos": [
                     {
-                      "video_name": "રાજપુતયુગ = નવા શાશકો અને રાજ્યો",
+                      "video_name": "રાજપુતયુગ: નવા શાશકો અને રાજ્યો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/nUAoITT_8IU"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "રાજપુતયુગ = નવા શાશકો અને રાજ્યો",
+                      "material_name": "રાજપુતયુગ: નવા શાશકો અને રાજ્યો",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-s.s-ch-1.pdf"
                     }
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "રાજપુતયુગ = નવા શાશકો અને રાજ્યો",
+                      "textbook_name": "રાજપુતયુગ: નવા શાશકો અને રાજ્યો",
                       "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/Std-7-Social Science-ch-1.pdf"
                     }
                   ]
