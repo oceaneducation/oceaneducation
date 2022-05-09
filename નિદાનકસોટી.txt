@@ -1,5 +1,5 @@
 {
-      "homedata_name": "બેઝિક ગણિત",
+      "homedata_name": "પાયાનો અભ્યાસ",
       "homedata_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
       "direct_sub_cat": true,
       "sub_data": [
