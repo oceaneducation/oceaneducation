@@ -1,368 +1,851 @@
 {
-      "homedata_name": "પ્રથમ પરીક્ષા ઓક્ટોબર 2021 ",
+      "homedata_name": "પ્રયોગપોથી",
       "homedata_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
       "direct_sub_cat": false,
       "sub_data": [
         {
-          "sub_data_name": "પ્રથમ પરીક્ષા ઓક્ટોબર 2021 ",
+          "sub_data_name": "પ્રયોગપોથી",
           "standard_data": [
+            {
+              "standard_name": "ધોરણ 6",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "વિજ્ઞાન",
+                  "videos": [
+                    {
+                      "video_name": "પ્રયોગ-1",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/2RdnWOGZm8g"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-2",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/1a-cuT3OwvI"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-3",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/D7-bY3mceY4"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-4",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Fltxs6b-MXw"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-5",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/5-665YSntoA"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-6",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/VQeXR4fqIrc"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-7",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/RPHyPDCdgsk"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-8",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Nm_15oQdAZ0"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-9",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/9SSfJ7HOPqA"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-10",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/lULhUyI01cg"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-11",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/qZHIrT_yAcY"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-12",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/0ogLucknlqs"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-13",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/1AkLzmy6ak0"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-14",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/zgQZD9pPQPE"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-15",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/HchY0cn74Fc"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "પ્રયોગ-1",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-2",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-3",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-4",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-5",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-6",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-7",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-8",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-9",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-10",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "પ્રયોગ-11",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "પ્રયોગ-12",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "પ્રયોગ-13",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "પ્રયોગ-14",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "પ્રયોગ-15",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "ધોરણ 7",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "વિજ્ઞાન",
+                  "videos": [
+                    {
+                      "video_name": "પ્રયોગ-1",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/YBdz4K8ni-Y"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-2",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/gXd9QLUYdl8"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-3",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/rXTihXV0tls"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-4",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/V9eqQdjB-Fo"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-5",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/tjRp8EXqWR8"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-6",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/LubPuBtHMLo"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-7",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/d8xl4DMGVBM"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-8",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/l_-iswHFA1A"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-9",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/wilMuATpPfk"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-10",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/-odsRP5ihcE"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-11",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/NCNrZkbrdRg"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-12",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/8IkVDrn9PBI"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-13",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/icT7UsC2O2o"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-14",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/yDBmpd5abMo"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "પ્રયોગ-1",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-2",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-3",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-4",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-5",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-6",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-7",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-8",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-9",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-10",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "પ્રયોગ-11",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "પ્રયોગ-12",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "પ્રયોગ-13",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "પ્રયોગ-14",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "ધોરણ 8",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "વિજ્ઞાન",
+                  "videos": [
+                    {
+                      "video_name": "પ્રયોગ-1",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/kjm9j_brwZU"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-2",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/dfbwJCjg3tk"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-3",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/XNX71GoBcxE"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-4",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/9efgxHXfoVM"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-5",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/6elcq2nETcg"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-6",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/pH_wos8n3Oo"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-7",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/kVO9i6-23pM"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-8",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/w2MKG2DYTfs"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-9",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/QQVTWBVUx0Y"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-10",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/8kJQ4qpdcak"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-11",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    },
+                    {
+                      "video_name": "પ્રયોગ-12",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    },
+                    {
+                      "video_name": "પ્રયોગ-13",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    },
+                    {
+                      "video_name": "પ્રયોગ-14",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    },
+                    {
+                      "video_name": "પ્રયોગ-15",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    },
+                    {
+                      "video_name": "પ્રયોગ-16",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    },
+                    {
+                      "video_name": "પ્રયોગ-17",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    },
+                    {
+                      "video_name": "પ્રયોગ-18",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "પ્રયોગ-1",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-2",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-3",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-4",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-5",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-6",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-7",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-8",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-9",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-10",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "પ્રયોગ-11",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "પ્રયોગ-12",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "પ્રયોગ-13",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "પ્રયોગ-14",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "પ્રયોગ-15",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
             {
               "standard_name": "ધોરણ 9",
               "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
               "month_cat": [
                 {
-                  "month_name": "સમાજ",
+                  "month_name": "વિજ્ઞાન",
                   "videos": [
                     {
-                      "video_name": "સમાજ",
+                      "video_name": "પ્રયોગ-1",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/y5DzEC5fyq4"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-2",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/oePFJqAnVB0"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-3",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Q0EAzJ9f9Jo"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-4",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/WCYyelI1Aek"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-5",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/aK-vkvvJaIc"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-6",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/8GtxYXUZPg8"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-7",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/dfgoCr1yUuE"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-8",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/i2mk6y6XEJ8"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-9",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/7oi5MgUtf_A"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-10",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/cq3Ru3EgZ7I"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-11",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/XERY2PrhkeQ"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-12",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/cME_zuteq20"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-13",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/6UiqoFU-E2s"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-14",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/6q5rtYedozw"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-15",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/SebOzxI0TSs"
+                    },
+                     {
+                      "video_name": "પ્રયોગ-16",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/fo5i2Ea-U2A"
+                    },
+                     {
+                      "video_name": "પ્રયોગ-17",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/1BvOJAtRVRc"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "સમાજ",
+                      "material_name": "પ્રયોગ-1",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ],
-                  "textbook": [
-                    {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-2",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-3",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-4",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-5",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-6",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-7",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-8",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-9",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-10",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ]
-                },
-                {
-                  "month_name": "વિજ્ઞાન ",
-                  "videos": [
-                    {
-                      "video_name": "વિજ્ઞાન ",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
-                    }
-                  ],
-                  "material": [
-                    {
-                      "material_name": "વિજ્ઞાન ",
+                      "material_name": "પ્રયોગ-11",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ],
-                  "textbook": [
-                    {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ]
-                },
-                {
-                  "month_name": "સંસ્કૃત",
-                  "videos": [
-                    {
-                      "video_name": "સંસ્કૃત",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
-                    }
-                  ],
-                  "material": [
-                    {
-                      "material_name": "સંસ્કૃત",
+                      "material_name": "પ્રયોગ-12",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ],
-                  "textbook": [
-                    {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "standard_name": "ધોરણ  12 કોમર્સ ",
-              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
-              "month_cat": [
-                {
-                  "month_name": "Account",
-                  "videos": [
-                    {
-                      "video_name": "account",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
-                    }
-                  ],
-                  "material": [
-                    {
-                      "material_name": "Account",
+                      "material_name": "પ્રયોગ-13",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ],
-                  "textbook": [
-                    {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ]
-                },
-                {
-                  "month_name": "BA",
-                  "videos": [
-                    {
-                      "video_name": "BA",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
-                    }
-                  ],
-                  "material": [
-                    {
-                      "material_name": "BA",
+                      "material_name": "પ્રયોગ-14",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ],
-                  "textbook": [
-                    {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ]
-                },
-                {
-                  "month_name": "Eco",
-                  "videos": [
-                    {
-                      "video_name": "Eco",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
-                    }
-                  ],
-                  "material": [
-                    {
-                      "material_name": "Eco",
+                      "material_name": "પ્રયોગ-15",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ],
-                  "textbook": [
-                    {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_name": "પ્રયોગ-16",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "પ્રયોગ-17",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ]
                 }
               ]
             },
-            {
-              "standard_name": "ધોરણ  11 કોમર્સ ",
+             {
+              "standard_name": "ધોરણ 10",
               "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
               "month_cat": [
                 {
-                  "month_name": "English",
+                  "month_name": "વિજ્ઞાન",
                   "videos": [
                     {
-                      "video_name": "English",
+                      "video_name": "પ્રયોગ-1",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
+                      "video_link": "https://youtu.be/Sfk0kAvI5ww"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-2",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/9NXDDDdSPNg"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-3",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/hzTFfgjeXrg"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-4",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/FCgt2bNOIQQ"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-5",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/d0XSVXyUI_8"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-6",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/W3uySLNWM4U"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-7",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/obdsA5UuBmk"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-8",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/KzVuLrppt4Q"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-9",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/RxsqSnixxh4"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-10",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/6yp5Mk2ZdMc"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-11",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/YVS90aizqg0"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-12",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/eVWrNF1J4yM"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-13",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/zS1BEnrGYQk"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-14",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/FMvnvnO3ExE"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-15",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/9ldYGLgBhJA"
+                    },
+                     {
+                      "video_name": "પ્રયોગ-16",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/XfDHkXPc2V4"
+                    },
+                     {
+                      "video_name": "પ્રયોગ-17",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/V6LP0iAj4hk"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-18",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Eyo2_yCq1Uc"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-19",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/xGwUMn_ePkI"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-20",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/1aVh7K-Ebyo"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-21",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/D8P_cVJFSA8"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-22",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/lHeWqIhyAzw"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-23",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/W15-1985oX0"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-24",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/iaVLK8jS8YY"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "English",
+                      "material_name": "પ્રયોગ-1",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ],
-                  "textbook": [
-                    {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-2",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-3",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-4",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-5",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-6",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-7",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-8",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-9",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-10",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ]
-                },
-                {
-                  "month_name": "BA",
-                  "videos": [
-                    {
-                      "video_name": "BA",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
-                    }
-                  ],
-                  "material": [
-                    {
-                      "material_name": "BA",
+                      "material_name": "પ્રયોગ-11",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ],
-                  "textbook": [
-                    {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ]
-                },
-                {
-                  "month_name": "stat",
-                  "videos": [
-                    {
-                      "video_name": "stat",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
-                    }
-                  ],
-                  "material": [
-                    {
-                      "material_name": "stat",
+                      "material_name": "પ્રયોગ-12",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ],
-                  "textbook": [
-                    {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "standard_name": "ધોરણ  10",
-              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
-              "month_cat": [
-                {
-                  "month_name": "Gujarati",
-                  "videos": [
-                    {
-                      "video_name": "Gujarati",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
-                    }
-                  ],
-                  "material": [
-                    {
-                      "material_name": "Gujarati",
+                      "material_name": "પ્રયોગ-13",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ],
-                  "textbook": [
-                    {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ]
-                },
-                {
-                  "month_name": "ગણિત ",
-                  "videos": [
-                    {
-                      "video_name": "ગણિત ",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
-                    }
-                  ],
-                  "material": [
-                    {
-                      "material_name": "ગણિત ",
+                      "material_name": "પ્રયોગ-14",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ],
-                  "textbook": [
-                    {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ]
-                },
-                {
-                  "month_name": "વિજ્ઞાન ",
-                  "videos": [
-                    {
-                      "video_name": "વિજ્ઞાન ",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
-                    }
-                  ],
-                  "material": [
-                    {
-                      "material_name": "વિજ્ઞાન ",
+                      "material_name": "પ્રયોગ-15",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ],
-                  "textbook": [
-                    {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ]
-                },
-                {
-                  "month_name": "સમાજ ",
-                  "videos": [
-                    {
-                      "video_name": "સમાજ ",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f8nxI-cepZs"
-                    }
-                  ],
-                  "material": [
-                    {
-                      "material_name": "સમાજ ",
+                      "material_name": "પ્રયોગ-16",
                       "material_link": "https://www.orimi.com/pdf-test.pdf"
-                    }
-                  ],
-                  "textbook": [
-                    {
-                      "textbook_name": "textbook1",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
                     },
                     {
-                      "textbook_name": "textbook2",
-                      "textbook_link": "https://www.orimi.com/pdf-test.pdf"
+                      "material_name": "પ્રયોગ-17",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "પ્રયોગ-18",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "પ્રયોગ-19",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "પ્રયોગ-20",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "પ્રયોગ-21",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "પ્રયોગ-22",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "પ્રયોગ-23",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
+                    },
+                    {
+                      "material_name": "પ્રયોગ-24",
+                      "material_link": "https://www.orimi.com/pdf-test.pdf"
                     }
                   ]
                 }
