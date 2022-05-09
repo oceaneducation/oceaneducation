@@ -109,13 +109,13 @@
                   ],
                   "material": [
                     {
-                      "material_name": "આદિવાસી ( અનુસૂચિત જનજાતિઓ )",
+                      "material_name": "આદિવાસી (અનુસૂચિત જનજાતિઓ)",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-s.s-ch-5.pdf"
                     }
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "આદિવાસી ( અનુસૂચિત જનજાતિઓ )",
+                      "textbook_name": "આદિવાસી (અનુસૂચિત જનજાતિઓ)",
                       "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/STD - 7 samaj CH-5.pdf"
                     }
                   ]
