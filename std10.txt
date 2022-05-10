@@ -79,11 +79,6 @@
                       "video_name": "બહુપદીઓ સ્વાધ્યાય 2.3",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/PaRaJZ7iZP4"
-                    },
-                    {
-                      "video_name": "બહુપદીઓ",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
                     }
                   ],
                   "material": [
@@ -103,9 +98,14 @@
                   "month_name": "Ch - 3",
                   "videos": [
                     {
-                      "video_name": "દ્વિચલ સુરેખ સમીકરણયુગ્મ",
+                      "video_name": "દ્વિચલ સુરેખ સમીકરણયુગ્મ સ્વાધ્યાય 3.3 Q.1 & Q.2",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/I-GwH_JQr4U"
+                    },
+                    {
+                      "video_name": "દ્વિચલ સુરેખ સમીકરણયુગ્મ સ્વાધ્યાય 3.3 Q.3 & Q.4",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/8IVpNBoC2-k"
                     }
                   ],
                   "material": [
