@@ -1,6 +1,5 @@
-
 {
-      "homedata_name": "બેઝિક ગણિત",
+      "homedata_name": "પાયાનો અભ્યાસ",
       "homedata_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
       "direct_sub_cat": true,
       "sub_data": [
@@ -63,6 +62,72 @@
                       "video_name": "ત્રણ રકમના વદ્દીવાળા સરવાળો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/FrM1GFfYILc"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+         {
+          "sub_data_name": "બેઝિક ગુજરાતી",
+          "standard_data": [
+            {
+              "standard_name": "બેઝિક ગુજરાતી",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "બેઝિક ગુજરાતી",
+                  "videos": [
+                    {
+                      "video_name": "",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    },
+                    {
+                      "video_name": "",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    },
+                    {
+                      "video_name": "",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    },
+                    {
+                      "video_name": "",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    },
+                    {
+                      "video_name": "",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    },
+                    {
+                      "video_name": "",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    },
+                    {
+                      "video_name": "",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    },
+                    {
+                      "video_name": "",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    },
+                    {
+                      "video_name": "",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    },
+                    {
+                      "video_name": "",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
                     }
                   ]
                 }
