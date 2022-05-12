@@ -3154,6 +3154,11 @@
                       "video_name": "POLYNOMIALS Exercise 2.5 Q.9 & Q.10",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/jT9DeoSF1kM"
+                    },
+                    {
+                      "video_name": "POLYNOMIALS Exercise 2.5 Q.11 & Q.12",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/n9bZCz5thvE"
                     }
                   ],
                   "material": [
@@ -3207,6 +3212,22 @@
                     },
                      {
                       "material_name": "POLYNOMIALS Exercise 2.5 Q.3 & Q.4",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                    },
+                    {
+                      "material_name": "POLYNOMIALS Exercise 2.5 Q.5 & Q.6",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                    },
+                    {
+                      "material_name": "POLYNOMIALS Exercise 2.5 Q.7 & Q.8",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                    },
+                    {
+                      "material_name": "POLYNOMIALS Exercise 2.5 Q.9 & Q.10",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
+                    },
+                    {
+                      "material_name": "POLYNOMIALS Exercise 2.5 Q.11 & Q.12",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
                     }
                   ],
