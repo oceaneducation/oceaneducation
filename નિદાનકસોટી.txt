@@ -80,12 +80,12 @@
                   "month_name": "બેઝિક ગુજરાતી",
                   "videos": [
                     {
-                      "video_name": "",
+                      "video_name": "બેઝિક ગુજરાતી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": ""
                     },
                     {
-                      "video_name": "",
+                      "video_name": "બેઝિક ગુજરાતી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": ""
                     },
