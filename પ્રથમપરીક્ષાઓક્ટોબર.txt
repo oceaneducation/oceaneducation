@@ -235,59 +235,59 @@
                   "material": [
                     {
                       "material_name": "પ્રયોગ-1",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-prayog-1.pdf"
                     },
                      {
                       "material_name": "પ્રયોગ-2",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-prayog-2.pdf"
                     },
                      {
                       "material_name": "પ્રયોગ-3",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-prayog-3.pdf"
                     },
                      {
                       "material_name": "પ્રયોગ-4",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-prayog-4.pdf"
                     },
                      {
                       "material_name": "પ્રયોગ-5",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-prayog-5.pdf"
                     },
                      {
                       "material_name": "પ્રયોગ-6",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-prayog-6.pdf"
                     },
                      {
                       "material_name": "પ્રયોગ-7",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-prayog-7.pdf"
                     },
                      {
                       "material_name": "પ્રયોગ-8",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-prayog-8.pdf"
                     },
                      {
                       "material_name": "પ્રયોગ-9",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-prayog-9.pdf"
                     },
                      {
                       "material_name": "પ્રયોગ-10",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-prayog-10.pdf"
                     },
                     {
                       "material_name": "પ્રયોગ-11",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-prayog-11.pdf"
                     },
                     {
                       "material_name": "પ્રયોગ-12",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-prayog-12.pdf"
                     },
                     {
                       "material_name": "પ્રયોગ-13",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-prayog-13.pdf"
                     },
                     {
                       "material_name": "પ્રયોગ-14",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-prayog-14.pdf"
                     }
                   ]
                 }
