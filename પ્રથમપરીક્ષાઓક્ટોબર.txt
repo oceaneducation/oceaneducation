@@ -16,7 +16,7 @@
                     {
                       "video_name": "પ્રયોગ-1",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/2RdnWOGZm8g"
+                      "video_link":  "https://youtu.be/2RdnWOGZm8g"
                     },
                     {
                       "video_name": "પ્રયોગ-2",
