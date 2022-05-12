@@ -164,7 +164,7 @@
                     {
                       "video_name": "પ્રયોગ-1",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/YBdz4K8ni-Y"
+                      "video_link":   "https://youtu.be/YBdz4K8ni-Y"
                     },
                     {
                       "video_name": "પ્રયોગ-2",
