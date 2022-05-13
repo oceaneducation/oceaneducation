@@ -54,12 +54,12 @@
                       "video_link": "https://youtu.be/CgBdqjf_cIA"
                     },
                     {
-                      "video_name": "બે રકમના વદ્દીવાળા સરવાળો",
+                      "video_name": "બે રકમના વદ્દીવાળા સરવાળા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/HPXlWUTQ3ao"
                     },
                     {
-                      "video_name": "ત્રણ રકમના વદ્દીવાળા સરવાળો",
+                      "video_name": "ત્રણ રકમના વદ્દીવાળા સરવાળા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/FrM1GFfYILc"
                     }
