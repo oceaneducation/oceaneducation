@@ -1865,7 +1865,7 @@
                   "material": [
                     {
                       "material_name": "प्रहेलिका",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sanskrut-ch-1-स्वाध्याय-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1887,7 +1887,7 @@
                   "material": [
                     {
                       "material_name": "वार्तालाप",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sanskrut-ch-2-स्वाध्याय-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1909,7 +1909,7 @@
                   "material": [
                     {
                       "material_name": "सुभाषितानी",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sanskrut-ch-3-स्वाध्याय-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1931,7 +1931,7 @@
                   "material": [
                     {
                       "material_name": "धरा गुर्जरी",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sanskrut-ch-4-स्वाध्याय-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1953,7 +1953,7 @@
                   "material": [
                     {
                       "material_name": "योजक: तत्र दुर्लभ: ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sanskrut-ch-5-स्वाध्याय-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1975,7 +1975,7 @@
                   "material": [
                     {
                       "material_name": "पुनरावर्तनम्  1",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sanskrut-punravrtan-1-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1997,7 +1997,7 @@
                   "material": [
                     {
                       "material_name": "विज्ञानस्य  चमत्कारा :",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sanskrut-ch-6-स्वाध्याय-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -2019,7 +2019,7 @@
                   "material": [
                     {
                       "material_name": "सूक्त्य :",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sanskrut-ch-7-स्वाध्याय-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -2041,7 +2041,7 @@
                   "material": [
                     {
                       "material_name": "पुनरावर्तनम्  2",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sanskrut-punravrtan-2-sem-2.pdf"
                     }
                   ],
                   "textbook": [
