@@ -1639,7 +1639,7 @@
                   "material": [
                     {
                       "material_name": "मेघो वर्षती",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-s.k-ch-2.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sanskrut-ch-2-स्वाध्याय-sem-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -1661,7 +1661,7 @@
                   "material": [
                     {
                       "material_name": "कोडरुक",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-s.k-ch-3.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sanskrut-ch-3-स्वाध्याय-sem-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -1683,7 +1683,7 @@
                   "material": [
                     {
                       "material_name": "हास्ययोग",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-s.k-ch-4.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sanskrut-ch-4-स्वाध्याय-sem-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -1705,7 +1705,7 @@
                   "material": [
                     {
                       "material_name": "चटक ! चटक !",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-s.k-ch-5.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sanskrut-ch-5-स्वाध्याय-sem-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -1727,7 +1727,7 @@
                   "material": [
                     {
                       "material_name": "पुनरावतनम् 1",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-s.k-punaravrtan-1.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sanskrut-punravrtan-1-sem-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -1749,7 +1749,7 @@
                   "material": [
                     {
                       "material_name": "सड़ख्या",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-s.k-ch-6.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sanskrut-ch-6-स्वाध्याय-sem-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -1771,7 +1771,7 @@
                   "material": [
                     {
                       "material_name": "विश्वासो नैव कर्तव्य ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-s.k-ch-7.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sanskrut-ch-7-स्वाध्याय-sem-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -1793,7 +1793,7 @@
                   "material": [
                     {
                       "material_name": "समय ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-s.k-ch-8.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sanskrut-ch-8-स्वाध्याय-sem-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -1815,7 +1815,7 @@
                   "material": [
                     {
                       "material_name": "आम्लम द्राक्षाफलम",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-s.k-ch-9.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sanskrut-ch-9-स्वाध्याय-sem-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -1837,7 +1837,7 @@
                   "material": [
                     {
                       "material_name": "पुनरावतनम् 2",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-s.k-punaravrtan-2.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-sanskrut-punravrtan-2-sem-1.pdf"
                     }
                   ],
                   "textbook": [
