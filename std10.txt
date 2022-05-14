@@ -143,6 +143,16 @@
                       "video_name": "દ્વિચલ સુરેખ સમીકરણયુગ્મ સ્વાધ્યાય 3.4",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/dHaZZYU19pU"
+                    },
+                     {
+                      "video_name": "દ્વિચલ સુરેખ સમીકરણયુગ્મ સ્વાધ્યાય 3.5 Q.1 & Q.2",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/4lXnyPfPRBc"
+                    },
+                     {
+                      "video_name": "દ્વિચલ સુરેખ સમીકરણયુગ્મ સ્વાધ્યાય 3.5 Q.3 & Q.4",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/8e5q0LfS1qY"
                     }
                   ],
                   "material": [
