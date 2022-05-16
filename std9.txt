@@ -2544,7 +2544,7 @@
                   "material": [
                     {
                       "material_name": "समर्चनम्",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.k-ch-1.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-સંસ્કૃત-ch-1-સ્વાધ્યાય.pdf"
                     }
                   ],
                   "textbook": [
@@ -2566,7 +2566,7 @@
                   "material": [
                     {
                       "material_name": "कुलस्य आचारः",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.k-ch-2.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-સંસ્કૃત-ch-2-સ્વાધ્યાય..pdf"
                     }
                   ],
                   "textbook": [
@@ -2588,7 +2588,7 @@
                   "material": [
                     {
                       "material_name": "परं निधानम्",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.k-ch-3.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-સંસ્કૃત-ch-3-સ્વાધ્યાય..pdf"
                     }
                   ],
                   "textbook": [
@@ -2610,7 +2610,7 @@
                   "material": [
                     {
                       "material_name": "वलभी विध्यास्थानम ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.k-ch-4.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-સંસ્કૃત-ch-4-સ્વાધ્યાય..pdf"
                     }
                   ],
                   "textbook": [
@@ -2632,7 +2632,7 @@
                   "material": [
                     {
                       "material_name": "सुभाषितवैभव",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.k-ch-5.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-સંસ્કૃત-ch-5-સ્વાધ્યાય..pdf"
                     }
                   ],
                   "textbook": [
@@ -2654,7 +2654,7 @@
                   "material": [
                     {
                       "material_name": "सर्व चारुतरं वासन्ते !  ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.k-ch-6.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-સંસ્કૃત-ch-6-સ્વાધ્યાય..pdf"
                     }
                   ],
                   "textbook": [
@@ -2676,7 +2676,7 @@
                   "material": [
                     {
                       "material_name": "संहतिः कार्यसाधिका ।",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.k-ch-7.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-સંસ્કૃત-ch-7-સ્વાધ્યાય..pdf"
                     }
                   ],
                   "textbook": [
@@ -2698,7 +2698,7 @@
                   "material": [
                     {
                       "material_name": "काषायानां कोड्पराध ? ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.k-ch-8.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-સંસ્કૃત-ch-8-સ્વાધ્યાય..pdf"
                     }
                   ],
                   "textbook": [
@@ -2720,7 +2720,7 @@
                   "material": [
                     {
                       "material_name": "उपकारहतस्तू कर्तव्यः ।",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.k-ch-9.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-સંસ્કૃત-ch-9-સ્વાધ્યાય..pdf"
                     }
                   ],
                   "textbook": [
@@ -2742,7 +2742,7 @@
                   "material": [
                     {
                       "material_name": "दौवारिकस्य सेवानिष्ठा ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.k-ch-10.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-સંસ્કૃત-ch-10-સ્વાધ્યાય..pdf"
                     }
                   ],
                   "textbook": [
@@ -2764,7 +2764,7 @@
                   "material": [
                     {
                       "material_name": "वेदितव्यानी मित्राणी ।",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.k-ch-11.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-સંસ્કૃત-ch-11-સ્વાધ્યાય..pdf"
                     }
                   ],
                   "textbook": [
@@ -2786,7 +2786,7 @@
                   "material": [
                     {
                       "material_name": "सुभाषित-सप्तकम",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.k-ch-12.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-સંસ્કૃત-ch-12-સ્વાધ્યાય..pdf"
                     }
                   ],
                   "textbook": [
@@ -2808,7 +2808,7 @@
                   "material": [
                     {
                       "material_name": "द्रीष्ट्या गोग्रहनं स्वनतम् !",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.k-ch-13.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-સંસ્કૃત-ch-13-સ્વાધ્યાય..pdf"
                     }
                   ],
                   "textbook": [
@@ -2830,7 +2830,7 @@
                   "material": [
                     {
                       "material_name": "हनुमद्रणीतरामवृतांतः  ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.k-ch-14.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-સંસ્કૃત-ch-14-સ્વાધ્યાય..pdf"
                     }
                   ],
                   "textbook": [
@@ -2852,7 +2852,7 @@
                   "material": [
                     {
                       "material_name": "सुदुर्लभा सर्वमनोरमा वाणी । ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.k-ch-15.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-સંસ્કૃત-ch-15-સ્વાધ્યાય..pdf"
                     }
                   ],
                   "textbook": [
@@ -2874,7 +2874,7 @@
                   "material": [
                     {
                       "material_name": "अजेय: स भविष्यती । ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.k-ch-16.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-સંસ્કૃત-ch-16-સ્વાધ્યાય..pdf"
                     }
                   ],
                   "textbook": [
@@ -2896,7 +2896,7 @@
                   "material": [
                     {
                       "material_name": "आचार्य: चरक: ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.k-ch-17.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-સંસ્કૃત-ch-17-સ્વાધ્યાય..pdf"
                     }
                   ],
                   "textbook": [
@@ -2918,7 +2918,7 @@
                   "material": [
                     {
                       "material_name": "बिलस्य वाणी न कदापी मे श्रुता ।",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.k-ch-18.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-સંસ્કૃત-ch-18-સ્વાધ્યાય..pdf"
                     }
                   ],
                   "textbook": [
@@ -2940,7 +2940,7 @@
                   "material": [
                     {
                       "material_name": "विनोद्पध्यानी ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.k-ch-19.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-સંસ્કૃત-ch-19-સ્વાધ્યાય..pdf"
                     }
                   ],
                   "textbook": [
@@ -2962,7 +2962,7 @@
                   "material": [
                     {
                       "material_name": "संस्कृतभाषाया: वैशिष्ट्यम्",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.k-ch-20.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-સંસ્કૃત-ch-20-સ્વાધ્યાય..pdf"
                     }
                   ],
                   "textbook": [
