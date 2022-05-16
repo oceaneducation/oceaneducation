@@ -153,6 +153,16 @@
                       "video_name": "દ્વિચલ સુરેખ સમીકરણયુગ્મ સ્વાધ્યાય 3.5 Q.3 & Q.4",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/8e5q0LfS1qY"
+                    },
+                    {
+                      "video_name": "દ્વિચલ સુરેખ સમીકરણયુગ્મ સ્વાધ્યાય 3.6 Q.1",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/fF5dujfwQGk"
+                    },
+                    {
+                      "video_name": "દ્વિચલ સુરેખ સમીકરણયુગ્મ સ્વાધ્યાય 3.6 Q.2",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/t91pCUPW62E"
                     }
                   ],
                   "material": [
@@ -180,9 +190,9 @@
                   "month_name": "Ch - 4",
                   "videos": [
                     {
-                      "video_name": "દ્વિઘાત સમીકરણ",
+                      "video_name": "દ્વિઘાત સમીકરણ સૂત્ર અને સમીકરણ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/Bn5aQEY6L3Y"
                     }
                   ],
                   "material": [
