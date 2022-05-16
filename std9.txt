@@ -3164,6 +3164,11 @@
                       "video_name": "POLYNOMIALS Exercise 2.5 Q.13 & Q.14",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/6OPkCwPnioI"
+                    },
+                    {
+                      "video_name": "POLYNOMIALS Exercise 2.5 Q.15 & Q.16",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/8Sj_PM7JUkg"
                     }
                   ],
                   "material": [
