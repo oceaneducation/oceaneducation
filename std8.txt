@@ -1146,7 +1146,7 @@
                   "material": [
                     {
                       "material_name": "आत्माश्रद्धाया : प्रभाव",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sanskrut-ch-3.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sanskrit-ch-3-સ્વાધ્યાય-sem-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -1168,7 +1168,7 @@
                   "material": [
                     {
                       "material_name": "एहि  सुधीर",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sanskrit-ch-4-સ્વાધ્યાય-sem-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -1190,7 +1190,7 @@
                   "material": [
                     {
                       "material_name": "शिलाया: प्रवास :",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sanskrit-ch-5-સ્વાધ્યાય-sem-1..pdf"
                     }
                   ],
                   "textbook": [
@@ -1212,7 +1212,7 @@
                   "material": [
                     {
                       "material_name": "पुनरावर्तनम्  1",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sanskrut-punravartan-1-sem-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -1234,7 +1234,7 @@
                   "material": [
                     {
                       "material_name": "विनोदपध्यानी",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sanskrit-path-6.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sanskrit-ch-6-સ્વાધ્યાય-sem-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -1256,7 +1256,7 @@
                   "material": [
                     {
                       "material_name": "सड्ख्या",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sanskrit-path-7.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sanskrit-ch-7-સ્વાધ્યાય-sem-1..pdf"
                     }
                   ],
                   "textbook": [
@@ -1278,7 +1278,7 @@
                   "material": [
                     {
                       "material_name": "मम् दिनचर्या",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sanskrit-path-8.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sanskrut-ch-8-સ્વાધ્યાય-sem-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -1300,7 +1300,7 @@
                   "material": [
                     {
                       "material_name": "भाषा सज्जता",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sanskrit-path-9.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sanskrut-ch-9-સ્વાધ્યાય-sem-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -1350,7 +1350,7 @@
                   "material": [
                     {
                       "material_name": "पुत्री मम खलु निद्राति ।",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-s.k-ch-1-sem-2.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sanskrit-ch-1-સ્વાધ્યાય-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1372,7 +1372,7 @@
                   "material": [
                     {
                       "material_name": "खेलमहोत्सव:",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-s.k-ch-2-sem-2.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sanskrit-ch-2-સ્વાધ્યાય-sem-2..pdf"
                     }
                   ],
                   "textbook": [
@@ -1394,7 +1394,7 @@
                   "material": [
                     {
                       "material_name": "प्रहेलिका:",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-s.k-ch-3-sem-2.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sanskrit-ch-3-સ્વાધ્યાય-sem-2..pdf"
                     }
                   ],
                   "textbook": [
@@ -1416,7 +1416,7 @@
                   "material": [
                     {
                       "material_name": "प्रेरणादीप: चाणक्य:",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-s.k-ch-4-sem-2.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sanskrit-ch-4-સ્વાધ્યાય-sem-2..pdf"
                     }
                   ],
                   "textbook": [
@@ -1438,7 +1438,7 @@
                   "material": [
                     {
                       "material_name": "प्रभातवर्णनम् ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-s.k-ch-5-sem-2.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sanskrit-ch-5-સ્વાધ્યાય-sem-1..pdf"
                     }
                   ],
                   "textbook": [
@@ -1460,7 +1460,7 @@
                   "material": [
                     {
                       "material_name": "पुनरावर्तनम् - 1",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-s.k-ch-punravartan-1-sem-2.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sanskrit-પુનરાવર્તન-1-sem-2..pdf"
                     }
                   ],
                   "textbook": [
@@ -1482,7 +1482,7 @@
                   "material": [
                     {
                       "material_name": "रमणीया नगरी",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-s.k-ch-6-sem-2.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sanskrit-ch-6-સ્વાધ્યાય-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1504,7 +1504,7 @@
                   "material": [
                     {
                       "material_name": "सुभाषितानि",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-s.k-ch-7-sem-2.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sanskrit-ch-7-સ્વાધ્યાય-sem-2..pdf"
                     }
                   ],
                   "textbook": [
@@ -1526,7 +1526,7 @@
                   "material": [
                     {
                       "material_name": "मनुष्यसिंहयो: मैत्री",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-s.k-ch-8-sem-2.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sanskrit-ch-8-સ્વાધ્યાય-sem-2..pdf"
                     }
                   ],
                   "textbook": [
@@ -1548,7 +1548,7 @@
                   "material": [
                     {
                       "material_name": "पुनरावर्तनम् = 2",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-s.k-ch-punravartan-2-sem-2.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sanskrit-પુનરાવર્તન-2-sem-2..pdf"
                     }
                   ],
                   "textbook": [
