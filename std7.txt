@@ -1058,7 +1058,7 @@
                   "material": [
                     {
                       "material_name": "चित्र के संग संग ( चित्र पाठ )",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-hindi-ch-1.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std 7 hindi ch 1 સ્વાધ્યાય sem 1.pdf"
                     }
                   ],
                   "textbook": [
@@ -1080,7 +1080,7 @@
                   "material": [
                     {
                       "material_name": "तब याद तुम्हारी आती है",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-hindi-ch-2.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std 7 hindi ch 2 સ્વાધ્યાય sem 1..pdf"
                     }
                   ],
                   "textbook": [
@@ -1102,7 +1102,7 @@
                   "material": [
                     {
                       "material_name": "कुत्ते की वफादारी",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-hindi-ch-3.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std 7 hindi ch 3 સ્વાધ્યાય sem 1.pdf"
                     }
                   ],
                   "textbook": [
@@ -1124,7 +1124,7 @@
                   "material": [
                     {
                       "material_name": "कथनी और करनी",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-hindi-ch-4.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std 7 hindi ch 4 સ્વાધ્યાય sem 1.pdf"
                     }
                   ],
                   "textbook": [
@@ -1146,7 +1146,7 @@
                   "material": [
                     {
                       "material_name": "पुनरावर्तन 1",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-hindi-punravartan-1.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std 7 hindi પુનરાવર્તન 1. sem 1.pdf"
                     }
                   ],
                   "textbook": [
@@ -1168,7 +1168,7 @@
                   "material": [
                     {
                       "material_name": "हिन्द देश के निवासी",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-hindi-ch-5.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std 7 hindi ch 5 સ્વાધ્યાય sem 1..pdf"
                     }
                   ],
                   "textbook": [
@@ -1190,7 +1190,7 @@
                   "material": [
                     {
                       "material_name": "डॉ विक्रम साराभाई",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-hindi-ch-6.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std 7 hindi ch 6 સ્વાધ્યાય sem 1..pdf"
                     }
                   ],
                   "textbook": [
@@ -1212,7 +1212,7 @@
                   "material": [
                     {
                       "material_name": "ढूंढते रह जाओगे",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-hindi-ch-7.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std 7 hindi ch 7 સ્વાધ્યાય sem 1..pdf"
                     }
                   ],
                   "textbook": [
@@ -1234,7 +1234,7 @@
                   "material": [
                     {
                       "material_name": "दोहा अष्टक",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-hindi-ch-8.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std 7 hindi ch 8 સ્વાધ્યાય sem 1..pdf"
                     }
                   ],
                   "textbook": [
@@ -1256,7 +1256,7 @@
                   "material": [
                     {
                       "material_name": "पुनरावर्तन 2",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std 7 hindi પુનરાવર્તન 2. sem 1..pdf"
                     }
                   ],
                   "textbook": [
@@ -1278,7 +1278,7 @@
                   "material": [
                     {
                       "material_name": "मौखिक कसोटी",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-hindi-maukhik-kasoti.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std 7 hindi મૌખિત કસોટી sem 1 ..pdf"
                     }
                   ],
                   "textbook": []
@@ -1295,7 +1295,7 @@
                   "material": [
                     {
                       "material_name": "लेखित कसोटी",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-hindi-likhit-kasoti.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std 7 hindi લેખિત કસોટી sem 1 ..pdf"
                     }
                   ],
                   "textbook": []
@@ -1312,7 +1312,7 @@
                   "material": [
                     {
                       "material_name": "क्रियात्मक कसोटी",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-hindi-kriyatmak-kasoti.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std 7 hindi ક્રિયાત્મક કસોટી sem 1.pdf"
                     }
                   ],
                   "textbook": []
