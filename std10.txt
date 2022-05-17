@@ -2789,9 +2789,14 @@
                   "month_name": "Ch - 2",
                   "videos": [
                     {
-                      "video_name": "POLYNOMIALS",
+                      "video_name": "POLYNOMIALS EXERCISE-2.1",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/Fw0D5PqaaQI"
+                    },
+                     {
+                      "video_name": "POLYNOMIALS EXERCISE-2.2 Q.1 TO Q.2",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/-gGuCtpQkzI"
                     }
                   ],
                   "material": [
