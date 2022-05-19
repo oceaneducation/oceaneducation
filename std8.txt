@@ -292,7 +292,7 @@
                   "material": [
                     {
                       "material_name": "વળાવી બા આવી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-guj-ch-11-sem-2.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-guj-ch-11-સ્વાધ્યાય-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -314,7 +314,7 @@
                   "material": [
                     {
                       "material_name": "નવા વર્ષના સંકલ્પો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-guj-ch-12-sem-2.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-guj-ch-12-સ્વાધ્યાય-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -336,7 +336,7 @@
                   "material": [
                     {
                       "material_name": "શરૂઆત કરીએ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-guj-ch-13-sem-2.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-guj-ch-13-સ્વાધ્યાય-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -358,7 +358,7 @@
                   "material": [
                     {
                       "material_name": "સાકરનો શોધનારો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-guj-ch-14-sem-2.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-guj-ch-14-સ્વાધ્યાય-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -380,7 +380,7 @@
                   "material": [
                     {
                       "material_name": "અખંડ ભારતના શિલ્પી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-guj-ch-15-sem-2.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-guj-ch-15-સ્વાધ્યાય-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -402,7 +402,7 @@
                   "material": [
                     {
                       "material_name": "સુદામો દીઠા શ્રીકૃષ્ણદેવ રે !",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-guj-ch-16-sem-2.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-guj-ch-16-સ્વાધ્યાય-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -413,23 +413,23 @@
                   ]
                 },
                 {
-                  "month_name": "પુનરાવર્તન  (પાઠ 11 થી 16)",
+                  "month_name": "પુનરાવર્તન 3",
                   "videos": [
                     {
-                      "video_name": "પુનરાવર્તન  (પાઠ 11 થી 16)",
+                      "video_name": "પુનરાવર્તન 3",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/_czKxQvtVSw"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "પુનરાવર્તન  (પાઠ 11 થી 16)",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-guj-punravrtan-11-to-16-sem-2.pdf"
+                      "material_name": "પુનરાવર્તન 3",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-guj-punravartan-3-sem-2.pdf"
                     }
                   ],
                   "textbook": [
                   {
-                      "textbook_name": "પુનરાવર્તન  (પાઠ 11 થી 16)",
+                      "textbook_name": "પુનરાવર્તન 3",
                       "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/Std-8-Gujarati-Sem-2-PUNRAVARTN-1.pdf"
                     }
                   ]
@@ -446,7 +446,7 @@
                   "material": [
                     {
                       "material_name": "સંસ્કારની શ્રીમંતાઈ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-guj-ch-17-સ્વાધ્યાય-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -468,7 +468,7 @@
                   "material": [
                     {
                       "material_name": "દુહા-મુક્તક-હાઈકુ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-guj-ch-18-સ્વાધ્યાય-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -490,7 +490,7 @@
                   "material": [
                     {
                       "material_name": "સાંઢ નાથ્યો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-guj-ch-19-સ્વાધ્યાય-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -512,7 +512,7 @@
                   "material": [
                     {
                       "material_name": "બહેનનો પત્ર",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-guj-ch-20-સ્વાધ્યાય-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -534,7 +534,7 @@
                   "material": [
                     {
                       "material_name": "કામાડે ચીતર્યા મેં..",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-guj-ch-21-સ્વાધ્યાય-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -556,7 +556,7 @@
                   "material": [
                     {
                       "material_name": "કિસ્સા - ટુચકા",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-guj-ch-22-સ્વાધ્યાય-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -567,23 +567,23 @@
                   ]
                 },
                 {
-                  "month_name": "પુનરાવર્તન (પાઠ 17 થી 22)",
+                  "month_name": "પુનરાવર્તન 4",
                   "videos": [
                     {
-                      "video_name": "પુનરાવર્તન (પાઠ 17 થી 22)",
+                      "video_name": "પુનરાવર્તન 4",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/f9B1sEzAD88"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "પુનરાવર્તન (પાઠ 17 થી 22)",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/"
+                      "material_name": "પુનરાવર્તન 4",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-guj-punravartan-4-sem-2.pdf"
                     }
                   ],
                   "textbook": [
                    {
-                      "textbook_name": "પુનરાવર્તન (પાઠ 17 થી 22)",
+                      "textbook_name": "પુનરાવર્તન 4",
                       "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/Std-8-Gujarati-Sem-2-PUNRAVARTN-2.pdf"
                     }
                   ]
