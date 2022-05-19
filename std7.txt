@@ -242,7 +242,7 @@
                   "material": [
                     {
                       "material_name": "પર્યાવરણના ઘટકો અને આંતરસંબંધો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-s.s-ch-11.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-s.s.-ch-11-સ્વાધ્યાય-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -264,7 +264,7 @@
                   "material": [
                     {
                       "material_name": "વાતાવરણની સજીવો પર અસર",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-s.s-ch-12.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-s.s.-ch-12-સ્વાધ્યાય-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -286,7 +286,7 @@
                   "material": [
                     {
                       "material_name": "આપતી અને વ્યવસ્થાપન",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-s.s-ch-13.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-s.s.-ch-13-સ્વાધ્યાય-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -308,7 +308,7 @@
                   "material": [
                     {
                       "material_name": "સંસાધનોનું  જતન અને સંરક્ષણ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-s.s-ch-14.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-s.s.-ch-14-સ્વાધ્યાય-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -330,7 +330,7 @@
                   "material": [
                     {
                       "material_name": "લોકશાહીમાં સમાનતા",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-s.s-ch-15.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-s.s.-ch-15-સ્વાધ્યાય-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -352,7 +352,7 @@
                   "material": [
                     {
                       "material_name": "રાજ્ય સરકાર",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-s.s-ch-16.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-s.s.-ch-16-સ્વાધ્યાય-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -374,7 +374,7 @@
                   "material": [
                     {
                       "material_name": "જાતિગત ભિન્નતા",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-s.s-ch-17.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-s.s.-ch-17-સ્વાધ્યાય-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -396,7 +396,7 @@
                   "material": [
                     {
                       "material_name": "સંચાર માધ્યમો અને જાહેરાત",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-s.s-ch-18.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-s.s.-ch-18-સ્વાધ્યાય-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -418,7 +418,7 @@
                   "material": [
                     {
                       "material_name": "બજાર",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-s.s-ch-19.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/std-7-s.s.-ch-19-સ્વાધ્યાય-sem-2.pdf"
                     }
                   ],
                   "textbook": [
