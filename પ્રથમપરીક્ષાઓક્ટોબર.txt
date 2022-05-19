@@ -353,42 +353,27 @@
                     {
                       "video_name": "પ્રયોગ-11",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/JMh0c86veU8"
                     },
                     {
                       "video_name": "પ્રયોગ-12",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/RBYU-ADRFtE"
                     },
                     {
                       "video_name": "પ્રયોગ-13",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/O7snI33LrmY"
                     },
                     {
                       "video_name": "પ્રયોગ-14",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/yUirCvWGawE"
                     },
                     {
                       "video_name": "પ્રયોગ-15",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
-                    },
-                    {
-                      "video_name": "પ્રયોગ-16",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
-                    },
-                    {
-                      "video_name": "પ્રયોગ-17",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
-                    },
-                    {
-                      "video_name": "પ્રયોગ-18",
-                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/jjcKp757ddE"
                     }
                   ],
                   "material": [
