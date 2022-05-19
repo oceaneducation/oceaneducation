@@ -2006,7 +2006,7 @@
                   "material": [
                     {
                       "material_name": "ખનીજ અને ઉર્જા સંસાધન",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-s.s-ch-10.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-s.s-ch-10-swadhyay-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -2028,7 +2028,7 @@
                   "material": [
                     {
                       "material_name": "ખેતી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-s.s-ch-11.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-s.s-ch-11-swadhyay-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -2050,7 +2050,7 @@
                   "material": [
                     {
                       "material_name": "ઉધ્યોગ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-s.s-ch-12.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-s.s-ch-12-swadhyay-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -2072,7 +2072,7 @@
                   "material": [
                     {
                       "material_name": "માનવ સંસાધન",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-s.s-ch-13.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-s.s-ch-13-swadhyay-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -2094,7 +2094,7 @@
                   "material": [
                     {
                       "material_name": "આપત્તિ વ્યવસ્થાપન",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-s.s-ch-14.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-s.s-ch-14-swadhyay-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -2116,7 +2116,7 @@
                   "material": [
                     {
                       "material_name": "ભારતીય બંધારણ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-s.s-ch-15.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-s.s-ch-15-swadhyay-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -2138,7 +2138,7 @@
                   "material": [
                     {
                       "material_name": "સંસદ અને કાયદો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-s.s-ch-16.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-s.s-ch-16-swadhyay-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -2160,7 +2160,7 @@
                   "material": [
                     {
                       "material_name": "ન્યાયતંત્ર",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-s.s-ch-17.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-s.s-ch-17-swadhyay-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -2182,7 +2182,7 @@
                   "material": [
                     {
                       "material_name": "સામાજીક ન્યાય અને સામાજીક વિસંગતતા",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-s.s-ch-18.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-s.s-ch-18-swadhyay-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -2204,7 +2204,7 @@
                   "material": [
                     {
                       "material_name": "સામાજીક-આર્થિક ક્ષેત્રે સરકારની ભૂમિકા",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-s.s-ch-19.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-s.s-ch-19-swadhyay-sem-2.pdf"
                     }
                   ],
                   "textbook": [
