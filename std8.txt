@@ -2386,7 +2386,7 @@
                   "material": [
                     {
                       "material_name": "કોષ : રચના અને કાર્યો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sci-ch-8.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-વિજ્ઞાન-ch-8-સ્વાધ્યાય.pdf"
                     }
                   ],
                   "textbook": [
@@ -2408,7 +2408,7 @@
                   "material": [
                     {
                       "material_name": "પ્રાણીઓમાં પ્રજનન",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sci-ch-9.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-વિજ્ઞાન-ch-9-સ્વાધ્યાય.pdf"
                     }
                   ],
                   "textbook": [
@@ -2430,7 +2430,7 @@
                   "material": [
                     {
                       "material_name": "તરુણાવસ્થા તરફ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sci-ch-10.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-વિજ્ઞાન-ch-10-સ્વાધ્યાય.pdf"
                     }
                   ],
                   "textbook": [
@@ -2452,7 +2452,7 @@
                   "material": [
                     {
                       "material_name": "બળ અને દબાણ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sci-ch-11.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-વિજ્ઞાન-ch-11-સ્વાધ્યાય.pdf"
                     }
                   ],
                   "textbook": [
@@ -2474,7 +2474,7 @@
                   "material": [
                     {
                       "material_name": "ઘર્ષણ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sci-ch-12.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-વિજ્ઞાન-ch-12-સ્વાધ્યાય.pdf"
                     }
                   ],
                   "textbook": [
@@ -2496,7 +2496,7 @@
                   "material": [
                     {
                       "material_name": "ધ્વની",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sci-ch-13.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-વિજ્ઞાન-ch-13-સ્વાધ્યાય.pdf"
                     }
                   ],
                   "textbook": [
@@ -2518,7 +2518,7 @@
                   "material": [
                     {
                       "material_name": "વિધ્યુત પ્રવાહની રસાયણિક અસર",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sci-ch-14.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-વિજ્ઞાન-ch-14-સ્વાધ્યાય.pdf"
                     }
                   ],
                   "textbook": [
@@ -2540,7 +2540,7 @@
                   "material": [
                     {
                       "material_name": "કેટલીક કુદરતી ઘટનાઓ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sci-ch-15.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-વિજ્ઞાન-ch-15-સ્વાધ્યાય.pdf"
                     }
                   ],
                   "textbook": [
@@ -2562,7 +2562,7 @@
                   "material": [
                     {
                       "material_name": "પ્રકાશ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sci-ch-16.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-વિજ્ઞાન-ch-16-સ્વાધ્યાય.pdf"
                     }
                   ],
                   "textbook": [
@@ -2584,7 +2584,7 @@
                   "material": [
                     {
                       "material_name": "તારાઓ અને સૂર્યમંડળ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sci-ch-17.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-વિજ્ઞાન-ch-17-સ્વાધ્યાય.pdf"
                     }
                   ],
                   "textbook": [
@@ -2606,7 +2606,7 @@
                   "material": [
                     {
                       "material_name": "હવા અને પાણી નું પ્રદૂષણ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-sci-ch-18.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-વિજ્ઞાન-ch-18-સ્વાધ્યાય.pdf"
                     }
                   ],
                   "textbook": [
