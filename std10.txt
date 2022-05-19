@@ -193,6 +193,31 @@
                       "video_name": "દ્વિઘાત સમીકરણ સૂત્ર અને સમીકરણ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Bn5aQEY6L3Y"
+                    },
+                    {
+                      "video_name": "દ્વિઘાત સમીકરણ સૂત્ર અને સમીકરણ સ્વાધ્યાય 4.1",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/iSv_kA9M5Hw"
+                    },
+                    {
+                      "video_name": "દ્વિઘાત સમીકરણ સૂત્ર અને સમીકરણ સ્વાધ્યાય 4.2 Q.1",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/KXwiplLOHaQ"
+                    },
+                    {
+                      "video_name": "દ્વિઘાત સમીકરણ સૂત્ર અને સમીકરણ સ્વાધ્યાય 4.2 Q.2",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/NbOjTeiDHK4"
+                    },
+                    {
+                      "video_name": "દ્વિઘાત સમીકરણ સૂત્ર અને સમીકરણ સ્વાધ્યાય 4.2 Q.3,4",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/zWNm--6QXDo"
+                    },
+                    {
+                      "video_name": "દ્વિઘાત સમીકરણ સૂત્ર અને સમીકરણ સ્વાધ્યાય 4.2 Q.5,6",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/E865ErK_KI4"
                     }
                   ],
                   "material": [
