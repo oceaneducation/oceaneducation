@@ -22,7 +22,7 @@
                   "material": [
                     {
                       "material_name": "બજારમાં",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-guj-ch-1.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-ગુજરાતી-ch-1-સ્વાધ્યાય-sem-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -44,7 +44,7 @@
                   "material": [
                     {
                       "material_name": "એક જ દે ચિનગારી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-ગુજરાતી-ch-2-સ્વાધ્યાય-sem-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -66,7 +66,7 @@
                   "material": [
                     {
                       "material_name": "જુમો ભિસ્તી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-guj-ch-3-sem-1.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-ગુજરાતી-ch-3-સ્વાધ્યાય-sem-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -88,7 +88,7 @@
                   "material": [
                     {
                       "material_name": "તને ઓળખું છું, મા",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-guj-ch-4-sem-1.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-ગુજરાતી-ch-4-સ્વાધ્યાય-sem-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -110,7 +110,7 @@
                   "material": [
                     {
                       "material_name": "એક મુલાકાત",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-guj-ch-5-sem-1.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-ગુજરાતી-ch-5-સ્વાધ્યાય-sem-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -132,7 +132,7 @@
                   "material": [
                     {
                       "material_name": "પુનરાવર્તન 1",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-guj-punravratn-1-sem-1.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-ગુજરાતી-પુનરાવર્તન-1-sem-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -154,7 +154,7 @@
                   "material": [
                     {
                       "material_name": "ધૂળિયે મારગ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-guj-ch-6-sem-1.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-ગુજરાતી-ch-6-સ્વાધ્યાય-sem-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -176,7 +176,7 @@
                   "material": [
                     {
                       "material_name": "દેશભક્ત જગડુશા",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-guj-ch-7-sem-1.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-ગુજરાતી-ch-7-સ્વાધ્યાય-sem-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -198,7 +198,7 @@
                   "material": [
                     {
                       "material_name": "આજ આનંદ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-guj-ch-8-sem-1.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-ગુજરાતી-ch-8-સ્વાધ્યાય-sem-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -220,7 +220,7 @@
                   "material": [
                     {
                       "material_name": "દીકરાનો મારનાર",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-guj-ch-9-sem-1.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-ગુજરાતી-ch-9-સ્વાધ્યાય-sem-1.pdf"
                     }
                   ],
                   "textbook": [
@@ -242,13 +242,35 @@
                   "material": [
                     {
                       "material_name": "અઢી આના",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-guj-ch-10-sem-1.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-ગુજરાતી-ch-10-સ્વાધ્યાય-sem-1.pdf"
                     }
                   ],
                   "textbook": [
                     {
                       "textbook_name": "અઢી આના",
                       "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 8 sem 1 guj ch 10.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "પુનરાવર્તન 2",
+                  "videos": [
+                    {
+                      "video_name": "પુનરાવર્તન 2",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "પુનરાવર્તન 2",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/std-8-ગુજરાતી-પુનરાવર્તન-2-sem-1.pdf"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "પુનરાવર્તન 2",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                     }
                   ]
                 }
