@@ -2822,6 +2822,21 @@
                       "video_name": "POLYNOMIALS EXERCISE-2.2 Q.1 TO Q.2",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/-gGuCtpQkzI"
+                    },
+                    {
+                      "video_name": "POLYNOMIALS EXERCISE-2.3 Q.1",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/SeEC0DuWT3s"
+                    },
+                    {
+                      "video_name": "POLYNOMIALS EXERCISE-2.3 Q.3 TO Q.4",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/4ZrYo2pQfRE"
+                    },
+                     {
+                      "video_name": "POLYNOMIALS EXERCISE-2.3 Q.5",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/nV8JaDm7FVA"
                     }
                   ],
                   "material": [
