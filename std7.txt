@@ -236,7 +236,7 @@
                     {
                       "video_name": "પર્યાવરણના ઘટકો અને આંતરસંબંધો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/zFBCH0w9gSc"
+                      "video_link": "https://youtu.be/3EznTcZCYN4"
                     }
                   ],
                   "material": [
@@ -258,7 +258,7 @@
                     {
                       "video_name": "વાતાવરણની સજીવો પર અસર",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/4jxfw2sRE6Q"
+                      "video_link": "https://youtu.be/eKlo79nEW8g"
                     }
                   ],
                   "material": [
@@ -280,7 +280,7 @@
                     {
                       "video_name": "આપતી અને વ્યવસ્થાપન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/CbzKCo7tRso"
+                      "video_link": "https://youtu.be/V7uWgIFsQoM"
                     }
                   ],
                   "material": [
@@ -302,7 +302,7 @@
                     {
                       "video_name": "સંસાધનોનું  જતન અને સંરક્ષણ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/6ERIFXU6QhE"
+                      "video_link": "https://youtu.be/uN5YopQanCM"
                     }
                   ],
                   "material": [
@@ -324,7 +324,7 @@
                     {
                       "video_name": "લોકશાહીમાં સમાનતા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/7opRPwkfmRk"
+                      "video_link": "https://youtu.be/0c51VVpyB90"
                     }
                   ],
                   "material": [
@@ -346,7 +346,7 @@
                     {
                       "video_name": "રાજ્ય સરકાર",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/52-wSyAnCo8"
+                      "video_link": "https://youtu.be/Kicr7bcnPU4"
                     }
                   ],
                   "material": [
@@ -368,7 +368,7 @@
                     {
                       "video_name": "જાતિગત ભિન્નતા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/AS2mIqoEfcs"
+                      "video_link": "https://youtu.be/zMUxUbWN6Jg"
                     }
                   ],
                   "material": [
@@ -390,7 +390,7 @@
                     {
                       "video_name": "સંચાર માધ્યમો અને જાહેરાત",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/3RKvJBjmjg4"
+                      "video_link": "https://youtu.be/DZ0s4T2_szo"
                     }
                   ],
                   "material": [
@@ -412,7 +412,7 @@
                     {
                       "video_name": "બજાર",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/la4n9oyCyIg"
+                      "video_link": "https://youtu.be/InREGMqW1Bg"
                     }
                   ],
                   "material": [
@@ -638,7 +638,7 @@
                     {
                       "video_name": "સજીવોમાં શ્વસન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/WYtyzI8mr50"
+                      "video_link": "https://youtu.be/HxcB2MwsAdU"
                     }
                   ],
                   "material": [
@@ -660,7 +660,7 @@
                     {
                       "video_name": "પ્રાણીઓ અને વનસ્પતિઓમાં વહન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Mw0WqhgLLFQ"
+                      "video_link": "https://youtu.be/anvWnk6MTX4"
                     }
                   ],
                   "material": [
@@ -682,7 +682,7 @@
                     {
                       "video_name": "વનસ્પતિમાંપ્રજનન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/R7a4t93FZeU"
+                      "video_link": "https://youtu.be/qgvLY4C88zw"
                     }
                   ],
                   "material": [
@@ -704,7 +704,7 @@
                     {
                       "video_name": "ગતિ અને સમય",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Swn6laAeYLM"
+                      "video_link": "https://youtu.be/MpQYAtFkx04"
                     }
                   ],
                   "material": [
@@ -726,7 +726,7 @@
                     {
                       "video_name": "વિધુતપ્રવાહ અને તેની અસરો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/-TObX6jMDmU"
+                      "video_link": "https://youtu.be/lg1Bas04z1s"
                     }
                   ],
                   "material": [
@@ -748,7 +748,7 @@
                     {
                       "video_name": "પ્રકાશ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/PbSt7uU7PE0"
+                      "video_link": "https://youtu.be/zrnkA93okB4"
                     }
                   ],
                   "material": [
@@ -770,7 +770,7 @@
                     {
                       "video_name": "પાણી: એક અમૂલ્ય સ્ત્રોત",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/PNSYnhO83lQ"
+                      "video_link": "https://youtu.be/-6UXJ-wVWLU"
                     }
                   ],
                   "material": [
@@ -792,7 +792,7 @@
                     {
                       "video_name": "જંગલો: આપણી જીવાદોરી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/gPivzlkGcks"
+                      "video_link": "https://youtu.be/nmZhykMMBbw"
                     }
                   ],
                   "material": [
@@ -814,7 +814,7 @@
                     {
                       "video_name": "દૂષિત પાણીની વાર્તા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/CPy3gNET8J8"
+                      "video_link": "https://youtu.be/Npj94CyisEQ"
                     }
                   ],
                   "material": [
