@@ -2380,7 +2380,7 @@
                     {
                       "video_name": "કોષ : રચના અને કાર્યો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/uiBsMO0W7NQ"
+                      "video_link": "https://youtu.be/Z3O4RCMfu3A"
                     }
                   ],
                   "material": [
@@ -2402,7 +2402,7 @@
                     {
                       "video_name": "પ્રાણીઓમાં પ્રજનન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/f4vLHmaU22o"
+                      "video_link": "https://youtu.be/or8-z9WX4TQ"
                     }
                   ],
                   "material": [
@@ -2424,7 +2424,7 @@
                     {
                       "video_name": " તરુણાવસ્થા તરફ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/ngXAjeDfg5U"
+                      "video_link": "https://youtu.be/_RPEsSpcZYA"
                     }
                   ],
                   "material": [
@@ -2446,7 +2446,7 @@
                     {
                       "video_name": "બળ અને દબાણ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/iOOhhiHX3pU"
+                      "video_link": "https://youtu.be/1aRPUA-7Jwg"
                     }
                   ],
                   "material": [
@@ -2468,7 +2468,7 @@
                     {
                       "video_name": "ઘર્ષણ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/HN1I6Ds2HrM"
+                      "video_link": "https://youtu.be/9pgeA9mLklY"
                     }
                   ],
                   "material": [
@@ -2490,7 +2490,7 @@
                     {
                       "video_name": "ધ્વની",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/XV7D7PpTfUk"
+                      "video_link": "https://youtu.be/Qms9YOat09Y"
                     }
                   ],
                   "material": [
@@ -2512,7 +2512,7 @@
                     {
                       "video_name": "વિધ્યુત પ્રવાહની રસાયણિક અસર",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/6Qt3uU3KBdM"
+                      "video_link": "https://youtu.be/mB8D0gubSUk"
                     }
                   ],
                   "material": [
@@ -2534,7 +2534,7 @@
                     {
                       "video_name": "કેટલીક કુદરતી ઘટનાઓ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/oZ4w_X0mg4o"
+                      "video_link": "https://youtu.be/RIimxUqzU78"
                     }
                   ],
                   "material": [
@@ -2556,7 +2556,7 @@
                     {
                       "video_name": "પ્રકાશ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/uwkMVqhnAgQ"
+                      "video_link": "https://youtu.be/mCezPHGHHUI"
                     }
                   ],
                   "material": [
@@ -2578,7 +2578,7 @@
                     {
                       "video_name": "તારાઓ અને સૂર્યમંડળ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/hAD-QnDE-sY"
+                      "video_link": "https://youtu.be/v-mIG-Kf1MU"
                     }
                   ],
                   "material": [
@@ -2600,7 +2600,7 @@
                     {
                       "video_name": "હવા અને પાણી નું પ્રદૂષણ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/qvvodrXIODc"
+                      "video_link": "https://youtu.be/yrPECU-DoLA"
                     }
                   ],
                   "material": [
