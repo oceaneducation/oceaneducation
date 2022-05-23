@@ -1756,7 +1756,7 @@
                     {
                       "video_name": "આપણી આસપાસમાં દ્રવ્ય",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Tsl5D7BSuCI"
+                      "video_link": "https://youtu.be/5QTRhJuaStE"
                     }
                   ],
                   "material": [
@@ -1778,7 +1778,7 @@
                     {
                       "video_name": "આપણી આસપાસનાં દ્રવ્યો શુદ્ધ છે ?",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/aC6K2D2iCjg"
+                      "video_link": "https://youtu.be/Aa2f31LjfH4"
                     }
                   ],
                   "material": [
@@ -1800,7 +1800,7 @@
                     {
                       "video_name": "પરમાણુઓ અને અણુઓ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/NwMKB4NLYHw"
+                      "video_link": "https://youtu.be/egpOQb0mLF4"
                     }
                   ],
                   "material": [
@@ -1822,7 +1822,7 @@
                     {
                       "video_name": "પરમાણુનું બંધારણ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/yu_rC-_R16Q"
+                      "video_link": "https://youtu.be/nr6QRjaypc4"
                     }
                   ],
                   "material": [
@@ -1844,7 +1844,7 @@
                     {
                       "video_name": "સજીવનો પાયાનો એકમ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ck1wDZw7WZY"
+                      "video_link": "https://youtu.be/fCO8DtIaoOg"
                     }
                   ],
                   "material": [
@@ -1866,7 +1866,7 @@
                     {
                       "video_name": "પેશીઓ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Qv84_89zuHw"
+                      "video_link": "https://youtu.be/pbeXzeA3noc"
                     }
                   ],
                   "material": [
@@ -1888,7 +1888,7 @@
                     {
                       "video_name": "સજીવોમાં વિવિધતા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/g4GYJ5BDjTQ"
+                      "video_link": "https://youtu.be/5dqXbNlP318"
                     }
                   ],
                   "material": [
@@ -1910,7 +1910,7 @@
                     {
                       "video_name": "ગતિ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/5V2Y28ZQ-Y8"
+                      "video_link": "https://youtu.be/doZ_BoDqmc4"
                     }
                   ],
                   "material": [
@@ -1932,7 +1932,7 @@
                     {
                       "video_name": "બળ તથા ગતિના નિયમો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/oUPrl-XKQvI"
+                      "video_link": "https://youtu.be/xnPWzm8K59A"
                     }
                   ],
                   "material": [
@@ -1954,7 +1954,7 @@
                     {
                       "video_name": "ગુરુત્વાકર્ષણ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/EkOvbyI9rOg"
+                      "video_link": "https://youtu.be/ufIlQEBg0b8"
                     }
                   ],
                   "material": [
@@ -1976,7 +1976,7 @@
                     {
                       "video_name": "કાર્ય અને ઊર્જા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/GcRFMVxpnD8"
+                      "video_link": "https://youtu.be/-9jAHoPMSmw"
                     }
                   ],
                   "material": [
@@ -1998,7 +1998,7 @@
                     {
                       "video_name": "ધ્વનિ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/QQrXwx62o5o"
+                      "video_link": "https://youtu.be/CQdsR3UFiKM"
                     }
                   ],
                   "material": [
@@ -2020,7 +2020,7 @@
                     {
                       "video_name": "આપણે શા માટે માંદા પડીએ છીએ ?",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/mXmTsNUcd9U"
+                      "video_link": "https://youtu.be/n_bqrEl_igg"
                     }
                   ],
                   "material": [
@@ -2042,7 +2042,7 @@
                     {
                       "video_name": "નૈસર્ગિક સ્રોતો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/BP3hwFfFDcY"
+                      "video_link": "https://youtu.be/aKl8RIhIEWw"
                     }
                   ],
                   "material": [
@@ -2064,7 +2064,7 @@
                     {
                       "video_name": "અન્નસ્રોતોમાં સુધારણા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/YO0ps0NulpE"
+                      "video_link": "https://youtu.be/HvDpqpYxRVo"
                     }
                   ],
                   "material": [
