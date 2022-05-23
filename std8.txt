@@ -1162,7 +1162,7 @@
                     {
                       "video_name": "आत्माश्रद्धाया : प्रभाव",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/vJ37MhZA3Zw"
+                      "video_link": "https://youtu.be/uVpySt7wrcg"
                     }
                   ],
                   "material": [
@@ -1184,7 +1184,7 @@
                     {
                       "video_name": "एहि  सुधीर",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Sv8MQOZ6AsM"
+                      "video_link": "https://youtu.be/N86MkyctmII"
                     }
                   ],
                   "material": [
@@ -1206,7 +1206,7 @@
                     {
                       "video_name": "शिलाया: प्रवास :",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://www.youtube.com/watch?v=x033g-zXW8g"
+                      "video_link": "https://youtu.be/PPpiEfbwBBI"
                     }
                   ],
                   "material": [
@@ -1228,7 +1228,7 @@
                     {
                       "video_name": "पुनरावर्तनम्  1",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/jnBo9jmXb9Q"
+                      "video_link": "https://youtu.be/zj1B0EDHPJk"
                     }
                   ],
                   "material": [
@@ -1250,7 +1250,7 @@
                     {
                       "video_name": "विनोदपध्यानी",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/HJhsq0smttw"
+                      "video_link": "https://youtu.be/-YNjYSpdQiw"
                     }
                   ],
                   "material": [
@@ -1272,7 +1272,7 @@
                     {
                       "video_name": "सड्ख्या",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/GZBHLOeOfi4"
+                      "video_link": "https://youtu.be/ZsIfnFHrlZU"
                     }
                   ],
                   "material": [
@@ -1294,7 +1294,7 @@
                     {
                       "video_name": "मम् दिनचर्या",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/2qjTZByOtJo"
+                      "video_link": "https://youtu.be/5dqK6oE0kAM"
                     }
                   ],
                   "material": [
@@ -1316,7 +1316,7 @@
                     {
                       "video_name": "भाषा सज्जता",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/4bjgxWQ9u8g"
+                      "video_link": "https://youtu.be/JJSBvtzOSIo"
                     }
                   ],
                   "material": [
@@ -1338,7 +1338,7 @@
                     {
                       "video_name": "पुनरावर्तनम् = 2",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/hSHhW0h3xSc"
+                      "video_link": "https://youtu.be/3euOMhtu7LU"
                     }
                   ],
                   "material": [
@@ -1388,7 +1388,7 @@
                     {
                       "video_name": "खेलमहोत्सव:",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/9Q0gu5-QvFk"
+                      "video_link": "https://youtu.be/Ksnjj0OPidA"
                     }
                   ],
                   "material": [
@@ -1410,7 +1410,7 @@
                     {
                       "video_name": "प्रहेलिका:",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/X8AQrFjyvj4"
+                      "video_link": "https://youtu.be/aU9i0lyOlQY"
                     }
                   ],
                   "material": [
@@ -1432,7 +1432,7 @@
                     {
                       "video_name": "प्रेरणादीप: चाणक्य:",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/shPQHOiKBig"
+                      "video_link": "https://youtu.be/S7lFv8a94E8"
                     }
                   ],
                   "material": [
@@ -1454,7 +1454,7 @@
                     {
                       "video_name": "प्रभातवर्णनम् ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/081Ahvpy0cE"
+                      "video_link": "https://youtu.be/d7dKfaAdtVM"
                     }
                   ],
                   "material": [
@@ -1476,7 +1476,7 @@
                     {
                       "video_name": "पुनरावर्तनम् = 1",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/hSHhW0h3xSc"
+                      "video_link": "https://youtu.be/-AJlmnTod_I"
                     }
                   ],
                   "material": [
@@ -1498,7 +1498,7 @@
                     {
                       "video_name": "रमणीया नगरी",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/kmWO6BwqnBQ"
+                      "video_link": "https://youtu.be/ICJWw4Rgk8E"
                     }
                   ],
                   "material": [
@@ -1520,7 +1520,7 @@
                     {
                       "video_name": "सुभाषितानि",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/YpCQ-Ocodao"
+                      "video_link": "https://youtu.be/eReCZ43MllM"
                     }
                   ],
                   "material": [
@@ -1542,7 +1542,7 @@
                     {
                       "video_name": "मनुष्यसिंहयो: मैत्री",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/GOXLHb_DJ7E"
+                      "video_link": "https://youtu.be/ZV3MkkIiHek"
                     }
                   ],
                   "material": [
@@ -1564,7 +1564,7 @@
                     {
                       "video_name": "पुनरावर्तनम् = 2",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/hSHhW0h3xSc"
+                      "video_link": "https://youtu.be/vmyhempu_eI"
                     }
                   ],
                   "material": [
