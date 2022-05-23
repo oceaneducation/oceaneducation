@@ -2312,7 +2312,7 @@
                     {
                       "video_name": "ભારતનું ન્યાયતંત્ર",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/ugw7YmZMKrg"
+                      "video_link": "https://youtu.be/VSnQ6X5_gRY"
                     }
                   ],
                   "material": [
@@ -2334,7 +2334,7 @@
                     {
                       "video_name": "ભારતીય લોકશાહી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/8Kz3V51-q6U"
+                      "video_link": "https://youtu.be/yTWIdslLUmg"
                     }
                   ],
                   "material": [
@@ -2356,7 +2356,7 @@
                     {
                       "video_name": "ભારત : સ્થાન, ભૂસ્તરીય રચના અને ભૂપૃષ્ઠ - 1",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/YK0WqkHOSD0"
+                      "video_link": "https://youtu.be/IjsMCW_Ig5s"
                     }
                   ],
                   "material": [
@@ -2378,7 +2378,7 @@
                     {
                       "video_name": "ભારત : સ્થાન, ભૂસ્તરીય રચના અને ભૂપૃષ્ઠ - II",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/P5eTrGIY87U"
                     }
                   ],
                   "material": [
@@ -2400,7 +2400,7 @@
                     {
                       "video_name": "જળ-પરિવાહ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/bCm9RyhVkhw"
+                      "video_link": "https://youtu.be/PzK8b4xD4F4"
                     }
                   ],
                   "material": [
@@ -2422,7 +2422,7 @@
                     {
                       "video_name": "આબોહવા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/u961DwA0EZI"
+                      "video_link": "https://youtu.be/DSw3WBQmnq8"
                     }
                   ],
                   "material": [
@@ -2444,7 +2444,7 @@
                     {
                       "video_name": "કુદરતી વનસ્પતિ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/svMw7-5Ywpg"
+                      "video_link": "https://youtu.be/iRnaCaow6PM"
                     }
                   ],
                   "material": [
@@ -2466,7 +2466,7 @@
                     {
                       "video_name": "વન્યજીવન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/sdbDL57KEjY"
+                      "video_link": "https://youtu.be/OeGPuTfaA5Q"
                     }
                   ],
                   "material": [
@@ -2488,7 +2488,7 @@
                     {
                       "video_name": "ભારત : લોકજીવન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/bcLs8J6HR3A"
+                      "video_link": "https://youtu.be/B6WJvM_N5QY"
                     }
                   ],
                   "material": [
@@ -2510,7 +2510,7 @@
                     {
                       "video_name": "આપત્તિ-વ્યવસ્થાપન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/AodDICAHepE"
+                      "video_link": "https://youtu.be/DeW3Qvn9Fz4"
                     }
                   ],
                   "material": [
