@@ -2022,7 +2022,7 @@
                     {
                       "video_name": "ખેતી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/J1RqBn2z9LM"
+                      "video_link": "https://youtu.be/W4Q9qUhZktU"
                     }
                   ],
                   "material": [
@@ -2044,7 +2044,7 @@
                     {
                       "video_name": "ઉધ્યોગ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/wptxKayr8E4"
+                      "video_link": "https://youtu.be/LiwvaO3xO34"
                     }
                   ],
                   "material": [
@@ -2066,7 +2066,7 @@
                     {
                       "video_name": "માનવ સંસાધન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/-JLnpms0RHw"
+                      "video_link": "https://youtu.be/GDRrethgDgo"
                     }
                   ],
                   "material": [
@@ -2088,7 +2088,7 @@
                     {
                       "video_name": "આપત્તિ વ્યવસ્થાપન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/GFEYd1vUXrI"
+                      "video_link": "https://youtu.be/cy9VnWrzq6g"
                     }
                   ],
                   "material": [
@@ -2110,7 +2110,7 @@
                     {
                       "video_name": "ભારતીય બંધારણ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/9YM3IhnB_wc"
+                      "video_link": "https://youtu.be/XNzKFafr86I"
                     }
                   ],
                   "material": [
@@ -2132,7 +2132,7 @@
                     {
                       "video_name": "સંસદ અને કાયદો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/6yncAG0RUek"
+                      "video_link": "https://youtu.be/_ZGEVWz2M2U"
                     }
                   ],
                   "material": [
@@ -2154,7 +2154,7 @@
                     {
                       "video_name": "ન્યાયતંત્ર",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/k61KQbxHKKw"
+                      "video_link": "https://youtu.be/8fVOMf2UXhY"
                     }
                   ],
                   "material": [
@@ -2176,7 +2176,7 @@
                     {
                       "video_name": "સામાજીક ન્યાય અને સામાજીક વિસંગતતા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/sJzr6CK-rI0"
+                      "video_link": "https://youtu.be/fWMtdnz0IEs"
                     }
                   ],
                   "material": [
@@ -2198,7 +2198,7 @@
                     {
                       "video_name": "સામાજીક-આર્થિક ક્ષેત્રે સરકારની ભૂમિકા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Ox-RNSqK_Tw"
+                      "video_link": "https://youtu.be/Z_Jg7t2kUoE"
                     }
                   ],
                   "material": [
