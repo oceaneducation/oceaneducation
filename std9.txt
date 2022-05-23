@@ -1128,7 +1128,7 @@
                     {
                       "video_name": "रानी",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": " https://youtu.be/Riyum2dURLc"
+                      "video_link": "https://youtu.be/akKJk_0DAZc"
                     }
                   ],
                   "material": [
@@ -1150,7 +1150,7 @@
                     {
                       "video_name": "नीति के दोहे.",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/hhkkMk5QlSo"
+                      "video_link": "https://youtu.be/q3xRjEJlYmo"
                     }
                   ],
                   "material": [
@@ -1172,7 +1172,7 @@
                     {
                       "video_name": "युग और मैं",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/aXejdI3h538"
+                      "video_link": "https://youtu.be/POc0hOo5w8s"
                     }
                   ],
                   "material": [
@@ -1194,7 +1194,7 @@
                     {
                       "video_name": "दाज्यू",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/mZQ6wfBNfEg"
+                      "video_link": "https://youtu.be/pBOcs7MEeGg"
                     }
                   ],
                   "material": [
@@ -1216,7 +1216,7 @@
                     {
                       "video_name": "भारतीय संस्कृति में गुरुशिष्य संबंध",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/afCfC3MvA2w"
+                      "video_link": "https://youtu.be/AM-NppmMH_c"
                     }
                   ],
                   "material": [
@@ -1238,7 +1238,7 @@
                     {
                       "video_name": "तुलसी के पद",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/11N6A0gj3kg"
+                      "video_link": "https://youtu.be/hpBHCW-U5gI"
                     }
                   ],
                   "material": [
@@ -1260,7 +1260,7 @@
                     {
                       "video_name": "अंधेरी नगरी",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/aSR0yiDchgM"
+                      "video_link": "https://youtu.be/1EIQt70aSnA"
                     }
                   ],
                   "material": [
@@ -1282,7 +1282,7 @@
                     {
                       "video_name": "महाकवि कालिदास",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/7UaqeLSH4WM"
+                      "video_link": "https://youtu.be/FT5Kf_eRofs"
                     }
                   ],
                   "material": [
@@ -1304,7 +1304,7 @@
                     {
                       "video_name": "धरती की शान",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/3FzvSO8x8DA"
+                      "video_link": "https://youtu.be/gSvnvV1E6Q0"
                     }
                   ],
                   "material": [
@@ -1326,7 +1326,7 @@
                     {
                       "video_name": "क्रांतिकारी शेखर का बचपन",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/wSKow2wfOKU"
+                      "video_link": "https://youtu.be/DZl7gr-Pr_c"
                     }
                   ],
                   "material": [
@@ -1348,7 +1348,7 @@
                     {
                       "video_name": "वीरों का कैसा हो वसंत",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/oOy4pDVjO6Q"
+                      "video_link": "https://youtu.be/Fs_pAN3i3JY"
                     }
                   ],
                   "material": [
@@ -1370,7 +1370,7 @@
                     {
                       "video_name": "जब मैंने पहली पुस्तक खरीदी",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Jio-yxlreb0"
+                      "video_link": "https://youtu.be/0EV1avnxj_M"
                     }
                   ],
                   "material": [
@@ -1392,7 +1392,7 @@
                     {
                       "video_name": "दोहे.",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/JVs01nyJ9js"
+                      "video_link": "https://youtu.be/1a28I4dtyXY"
                     }
                   ],
                   "material": [
