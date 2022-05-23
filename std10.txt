@@ -2849,14 +2849,24 @@
                       "video_link": "https://youtu.be/SeEC0DuWT3s"
                     },
                     {
+                      "video_name": "POLYNOMIALS EXERCISE-2.3 Q.2",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/hyzNNQ9A88w"
+                    },
+                    {
                       "video_name": "POLYNOMIALS EXERCISE-2.3 Q.3 TO Q.4",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/4ZrYo2pQfRE"
                     },
                      {
-                      "video_name": "POLYNOMIALS EXERCISE-2.3 Q.5",
+                      "video_name": "POLYNOMIALS EXERCISE-2.4 Q.1",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/nV8JaDm7FVA"
+                      "video_link": "https://youtu.be/JTUB9GoX9Ww"
+                    },
+                    {
+                      "video_name": "POLYNOMIALS EXERCISE-2.4 Q.2 Q.3",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Q6-9C4HHSLY"
                     }
                   ],
                   "material": [
