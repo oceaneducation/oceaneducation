@@ -1633,7 +1633,7 @@
                     {
                       "video_name": "मेघो वर्षती",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/4eeMvd97bZQ"
+                      "video_link": "https://youtu.be/idcPPrNvTAY"
                     }
                   ],
                   "material": [
@@ -1655,7 +1655,7 @@
                     {
                       "video_name": "कोडरुक",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/fLRyjEFm2NY"
+                      "video_link": "https://youtu.be/BeliULEhl0A"
                     }
                   ],
                   "material": [
@@ -1677,7 +1677,7 @@
                     {
                       "video_name": "हास्ययोग",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/O2Aoiajl2a8"
+                      "video_link": "https://youtu.be/qeHn7GGFD8I"
                     }
                   ],
                   "material": [
@@ -1699,7 +1699,7 @@
                     {
                       "video_name": "चटक ! चटक !",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/hq2VGtsq5p4"
+                      "video_link": "https://youtu.be/Oj-tZjR5kL4"
                     }
                   ],
                   "material": [
@@ -1721,7 +1721,7 @@
                     {
                       "video_name": "पुनरावतनम् 1",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/x7BKuOTa0xI"
+                      "video_link": "https://youtu.be/bLurruxPIvw"
                     }
                   ],
                   "material": [
@@ -1743,7 +1743,7 @@
                     {
                       "video_name": "सड़ख्या",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/v3O0n0-n9MM"
+                      "video_link": "https://youtu.be/XXw6w9rzyI8"
                     }
                   ],
                   "material": [
@@ -1765,7 +1765,7 @@
                     {
                       "video_name": "विश्वासो नैव कर्तव्य ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/suBd3AAQbaQ"
+                      "video_link": "https://youtu.be/24pKcg3qspk"
                     }
                   ],
                   "material": [
@@ -1787,7 +1787,7 @@
                     {
                       "video_name": "समय ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/UCJW60Fjaz8"
+                      "video_link": "https://youtu.be/oytrUu4afqU"
                     }
                   ],
                   "material": [
@@ -1809,7 +1809,7 @@
                     {
                       "video_name": "आम्लम द्राक्षाफलम",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/5dw7wEmyoro"
+                      "video_link": "https://youtu.be/0fDkaCnZJ_s"
                     }
                   ],
                   "material": [
@@ -1831,7 +1831,7 @@
                     {
                       "video_name": "पुनरावतनम् 2",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/VRfdTeyVZFo"
+                      "video_link": "https://youtu.be/A8l2OIq5Beo"
                     }
                   ],
                   "material": [
@@ -1859,7 +1859,7 @@
                     {
                       "video_name": "प्रहेलिका",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Adw8Eq8p0qE"
+                      "video_link": "https://youtu.be/YzCRiaWgyXs"
                     }
                   ],
                   "material": [
@@ -1881,7 +1881,7 @@
                     {
                       "video_name": "वार्तालाप",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/o4Pe9yJMZfA"
+                      "video_link": "https://youtu.be/N2tnTGO_z0g"
                     }
                   ],
                   "material": [
@@ -1903,7 +1903,7 @@
                     {
                       "video_name": "सुभाषितानी",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/BipkqMKJp9I"
+                      "video_link": "https://youtu.be/3Ufbnmtz5bU"
                     }
                   ],
                   "material": [
@@ -1925,7 +1925,7 @@
                     {
                       "video_name": "धरा गुर्जरी",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/PmSGXM6Bi5g"
+                      "video_link": "https://youtu.be/OwzYpwzR6kQ"
                     }
                   ],
                   "material": [
@@ -1947,7 +1947,7 @@
                     {
                       "video_name": "योजक: तत्र दुर्लभ: ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/euw8BEs6_CU"
+                      "video_link": "https://youtu.be/Xdocc65inso"
                     }
                   ],
                   "material": [
@@ -1969,7 +1969,7 @@
                     {
                       "video_name": "पुनरावर्तनम्  1",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/zoIHRWNH-2c"
+                      "video_link": "https://youtu.be/lM5tnq3LBJU"
                     }
                   ],
                   "material": [
@@ -1991,7 +1991,7 @@
                     {
                       "video_name": "विज्ञानस्य  चमत्कारा :",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/HTX9Wlm2E3g"
+                      "video_link": "https://youtu.be/P0rCDjjA6zc"
                     }
                   ],
                   "material": [
@@ -2013,7 +2013,7 @@
                     {
                       "video_name": "सूक्त्य :",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/8Mhn2AoC-Y0"
+                      "video_link": "https://youtu.be/7xaA1g8MWD0"
                     }
                   ],
                   "material": [
@@ -2035,7 +2035,7 @@
                     {
                       "video_name": "पुनरावर्तनम्  2",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/OA4xfnaMn4g"
+                      "video_link": "https://youtu.be/63tXr2X8LL8"
                     }
                   ],
                   "material": [
