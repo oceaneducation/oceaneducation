@@ -1329,7 +1329,7 @@
                     {
                       "video_name": "बेटी",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/wBtVxQ-yaIk"
+                      "video_link": "https://youtu.be/wVb2_MFfHqw"
                     }
                   ],
                   "material": [
@@ -1351,7 +1351,7 @@
                     {
                       "video_name": "हम भी बने महान",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": " https://youtu.be/JLdmQc9Pwyw"
+                      "video_link": "https://youtu.be/CLeakj7WwXQ"
                     }
                   ],
                   "material": [
@@ -1373,7 +1373,7 @@
                     {
                       "video_name": "सच्चा हीरा",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/GnUiX6Gi_pU"
+                      "video_link": "https://youtu.be/zR8Mm7erzRU"
                     }
                   ],
                   "material": [
@@ -1395,7 +1395,7 @@
                     {
                       "video_name": "देश के नाम संदेशी",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/RftQ84jTQ_4"
+                      "video_link": "https://youtu.be/k4gBNXULWC8"
                     }
                   ],
                   "material": [
@@ -1417,7 +1417,7 @@
                     {
                       "video_name": "धरती की शान",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/GDk-PICviMA"
+                      "video_link": "https://youtu.be/9J5dnLP5q6o"
                     }
                   ],
                   "material": [
@@ -1439,7 +1439,7 @@
                     {
                       "video_name": "पुनरावर्तन 1",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/WJwlzkdKFWA"
+                      "video_link": "https://youtu.be/1WQLe53sC4s"
                     }
                   ],
                   "material": [
@@ -1456,7 +1456,7 @@
                     {
                       "video_name": "मालवजी फौजदार",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/dAZmd3Uffnw"
+                      "video_link": "https://youtu.be/OQzIjmWsJP8"
                     }
                   ],
                   "material": [
@@ -1478,7 +1478,7 @@
                     {
                       "video_name": "बढ़े कहानी",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/qXNoZTS65yg"
+                      "video_link": "https://youtu.be/3-1Y-M8vNks"
                     }
                   ],
                   "material": [
@@ -1500,7 +1500,7 @@
                     {
                       "video_name": "मुस्कान के मोती",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/pthLntPMJxA"
+                      "video_link": "https://youtu.be/4pq94GllaUc"
                     }
                   ],
                   "material": [
@@ -1522,7 +1522,7 @@
                     {
                       "video_name": "समय - सारिणी",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/ZUf4Bwx_kXw"
+                      "video_link": "https://youtu.be/yvu2BA1oYUY"
                     }
                   ],
                   "material": [
@@ -1544,7 +1544,7 @@
                     {
                       "video_name": "अंदाज अपना-अपना",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/9sgNsuKftJ4"
+                      "video_link": "https://youtu.be/UKTr14QzVVM"
                     }
                   ],
                   "material": [
@@ -1566,7 +1566,7 @@
                     {
                       "video_name": "पुनरावर्तन 2",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/q5esxgV0fb4"
+                      "video_link": "https://youtu.be/OydvzVi_RoM"
                     }
                   ],
                   "material": [
