@@ -594,7 +594,7 @@
                     {
                       "video_name": "સખી માર્કડી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/y1-OjItVgfg"
+                      "video_link": "https://youtu.be/zLaItaKk05k"
                     }
                   ],
                   "material": [
@@ -616,7 +616,7 @@
                     {
                       "video_name": "રસ્તો કરી જવાના",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/PFQcwOlPCnA"
+                      "video_link": "https://youtu.be/n0jSMdSbI8Q"
                     }
                   ],
                   "material": [
@@ -638,7 +638,7 @@
                     {
                       "video_name": "વાડી પરનાં વહાલાં",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/6v72Un8DpuY"
+                      "video_link": "https://youtu.be/O5xJ9-wp2SM"
                     }
                   ],
                   "material": [
@@ -660,7 +660,7 @@
                     {
                       "video_name": "ગોદ માતની ક્યાં ?",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/o0-2mV0Y0Oo"
+                      "video_link": "https://youtu.be/OJn62W2eFLE"
                     }
                   ],
                   "material": [
@@ -682,7 +682,7 @@
                     {
                       "video_name": "કુદરતી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/06I_tKFW38w"
+                      "video_link": "https://youtu.be/Efuld-MQdEw"
                     }
                   ],
                   "material": [
@@ -704,7 +704,7 @@
                     {
                       "video_name": "મારા સપનામાં આવ્યા હરિ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/z32O0o7aLK4"
+                      "video_link": "https://youtu.be/jaY4Arap8GE"
                     }
                   ],
                   "material": [
@@ -726,7 +726,7 @@
                     {
                       "video_name": "પંગું લંઘયતે ગિરિમ્",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/CSDgy-z8WiA"
+                      "video_link": "https://youtu.be/2_Q_C7N15-c"
                     }
                   ],
                   "material": [
@@ -748,7 +748,7 @@
                     {
                       "video_name": "પપ્પા, હવે ફોન મૂકું ?",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/NEUAhLKfEWU"
+                      "video_link": "https://youtu.be/EqlBR6GhqU4"
                     }
                   ],
                   "material": [
@@ -770,7 +770,7 @@
                     {
                       "video_name": "સમાજ સમર્પિત શ્રેષ્ઠી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/B_6s5W-fn-I"
+                      "video_link": "https://youtu.be/6_KGC18NUmk"
                     }
                   ],
                   "material": [
@@ -792,7 +792,7 @@
                     {
                       "video_name": "તેજમલ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/0iHBlohyYoI"
+                      "video_link": "https://youtu.be/Y_NFeIUDpPA"
                     }
                   ],
                   "material": [
@@ -814,7 +814,7 @@
                     {
                       "video_name": "બોળો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/IyF3Do_QgJQ"
+                      "video_link": "https://youtu.be/K10iPst0NEw"
                     }
                   ],
                   "material": [
@@ -836,7 +836,7 @@
                     {
                       "video_name": "લઘુકાવ્યો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/kcHnm355bIk"
+                      "video_link": "https://youtu.be/ektMpPvHA5c"
                     }
                   ],
                   "material": [
