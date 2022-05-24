@@ -64,9 +64,15 @@
                       "video_link": "https://youtu.be/FrM1GFfYILc"
                     }
                   ]
-                },
+                }
+              ]
+            },
+             {
+              "standard_name": "બેઝિક - ગુજરાતી",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
                 {
-                  "month_name": "બેઝિક ગુજરાતી",
+                  "month_name": "બેઝિક ગણિત",
                   "videos": [
                     {
                       "video_name": "1 થી 10 ઘડિયા",
