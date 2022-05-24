@@ -82,7 +82,7 @@
                     {
                       "video_name": "કાના વાળા શબ્દો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": " https://youtu.be/rNNvF2pINeY"
+                      "video_link": "https://youtu.be/rNNvF2pINeY"
                     },
                     {
                       "video_name": "હસ્વ ઇ વાળા શબ્દો",
@@ -128,6 +128,32 @@
                       "video_name": "અનુસ્વાર વાળા શબ્દો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/RyP4ZjFqm8c"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "standard_name": "બેઝિક અંગ્રેજી",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "બેઝિક અંગ્રેજી",
+                  "videos": [
+                    {
+                      "video_name": "અંગ્રેજી કલમ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/sofCP4LLTw4"
+                    },
+                    {
+                      "video_name": "અંગ્રેજી બારક્ષરી",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/vV9oQipmNyo"
+                    },
+                    {
+                      "video_name": "અંગ્રેજી નામ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
                     }
                   ]
                 }
