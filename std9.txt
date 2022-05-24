@@ -2318,7 +2318,7 @@
                   "material": [
                     {
                       "material_name": "ભારતનું ન્યાયતંત્ર",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.-ch-11.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.s-ch-11-swadhyay-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -2340,7 +2340,7 @@
                   "material": [
                     {
                       "material_name": "ભારતીય લોકશાહી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.-ch-12.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.s-ch-12-swadhyay-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -2362,7 +2362,7 @@
                   "material": [
                     {
                       "material_name": "ભારત : સ્થાન, ભૂસ્તરીય રચના અને ભૂપૃષ્ઠ - 1",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.-ch-13.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.s-ch-13-swadhyay-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -2384,7 +2384,7 @@
                   "material": [
                     {
                       "material_name": "ભારત : સ્થાન, ભૂસ્તરીય રચના અને ભૂપૃષ્ઠ - II",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.-ch-14.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.s-ch-14-swadhyay-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -2406,7 +2406,7 @@
                   "material": [
                     {
                       "material_name": "જળ-પરિવાહ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.-ch-15.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.s-ch-15-swadhyay-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -2428,7 +2428,7 @@
                   "material": [
                     {
                       "material_name": "આબોહવા",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.-ch-16.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.s-ch-16-swadhyay-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -2450,7 +2450,7 @@
                   "material": [
                     {
                       "material_name": "કુદરતી વનસ્પતિ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.-ch-17.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.s-ch-17-swadhyay-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -2472,7 +2472,7 @@
                   "material": [
                     {
                       "material_name": "વન્યજીવન",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.-ch-18.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.s-ch-18-swadhyay-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -2494,7 +2494,7 @@
                   "material": [
                     {
                       "material_name": "ભારત : લોકજીવન",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.-ch-19.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.s-ch-19-swadhyay-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -2516,7 +2516,7 @@
                   "material": [
                     {
                       "material_name": "આપત્તિ-વ્યવસ્થાપન",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.-ch-20.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-s.s-ch-20-swadhyay-sem-2.pdf"
                     }
                   ],
                   "textbook": [
