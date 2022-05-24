@@ -68,61 +68,66 @@
               ]
             },
              {
-              "standard_name": "બેઝિક ગણિત",
+              "standard_name": "બેઝિક ગુજરાતી",
               "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
               "month_cat": [
                 {
-                  "month_name": "બેઝિક ગણિત",
+                  "month_name": "બેઝિક ગુજરાતી",
                   "videos": [
                     {
-                      "video_name": "1 થી 10 ઘડિયા",
+                      "video_name": "સાદા શબ્દો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/GKVvo1CEvEo"
+                      "video_link": "https://youtu.be/9acKdSC1SHY"
                     },
                     {
-                      "video_name": "11 થી 20 ઘડિયા",
+                      "video_name": "કાના વાળા શબ્દો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/TUTvJaymruo"
+                      "video_link": " https://youtu.be/rNNvF2pINeY"
                     },
                     {
-                      "video_name": "એક રકમના સાદા  સરવાળા",
+                      "video_name": "હસ્વ ઇ વાળા શબ્દો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/ziuZOv1ZVb4"
+                      "video_link": "https://youtu.be/2CPBLzTrTco"
                     },
                     {
-                      "video_name": "બે  રકમના સાદા સરવાળા",
+                      "video_name": "દીર્ઘ ઇ વાળા શબ્દો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/T2mLtc-II2I"
+                      "video_link": "https://youtu.be/r4m6bgF51eA"
                     },
                     {
-                      "video_name": "ત્રણ રકમના સાદા સરવાળા",
+                      "video_name": "હસ્વ ઉ વાળા શબ્દો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/oL0htsIHi5A"
+                      "video_link": "https://youtu.be/f3kAXCKjhWs"
                     },
                     {
-                      "video_name": "એક રકમ ની સાદી બાદબાકી",
+                      "video_name": "દીર્ઘ ઊ વાળા શબ્દો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/KppXCLVz6T4"
+                      "video_link": "https://youtu.be/CI-yMZXL6LM"
                     },
                     {
-                      "video_name": "બે રકમ ની સાદી બાદબાકી",
+                      "video_name": "એક માત્રા વાળા શબ્દો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/Rn8NfZ1eDCU"
+                      "video_link": "https://youtu.be/sspL1YhCczk"
                     },
                     {
-                      "video_name": "ત્રણ રકમ ની સાદી બાદબાકી",
+                      "video_name": "બે માત્રા વાળા શબ્દો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/CgBdqjf_cIA"
+                      "video_link": "https://youtu.be/d4r6LQ24Eus"
                     },
                     {
-                      "video_name": "બે રકમના વદ્દીવાળા સરવાળા",
+                      "video_name": "કાનો એક માત્રા વાળા શબ્દો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/HPXlWUTQ3ao"
+                      "video_link": "https://youtu.be/PmCN3yhANMU"
                     },
                     {
-                      "video_name": "ત્રણ રકમના વદ્દીવાળા સરવાળા",
+                      "video_name": "કાનો બે માત્રા વાળા શબ્દો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/FrM1GFfYILc"
+                      "video_link": "https://youtu.be/uBEJGxWpdQA"
+                    },
+                    {
+                      "video_name": "અનુસ્વાર વાળા શબ્દો",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/RyP4ZjFqm8c"
                     }
                   ]
                 }
