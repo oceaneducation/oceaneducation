@@ -2867,6 +2867,11 @@
                       "video_name": "POLYNOMIALS EXERCISE-2.4 Q.2 Q.3",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/Q6-9C4HHSLY"
+                    },
+                    {
+                      "video_name": "POLYNOMIALS EXERCISE-2.4 Q.4",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/9yHKVoUeF7k"
                     }
                   ],
                   "material": [
