@@ -7,7 +7,7 @@
           "sub_data_name": "પાયાનો અભ્યાસ",
           "standard_data": [
             {
-              "standard_name": "બેઝિક - ગણિત",
+              "standard_name": "બેઝિક ગણિત",
               "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
               "month_cat": [
                 {
@@ -68,7 +68,7 @@
               ]
             },
              {
-              "standard_name": "બેઝિક - ગુજરાતી",
+              "standard_name": "બેઝિક ગણિત",
               "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
               "month_cat": [
                 {
