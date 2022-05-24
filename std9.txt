@@ -1762,7 +1762,7 @@
                   "material": [
                     {
                       "material_name": "આપણી આસપાસમાં દ્રવ્ય",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-science-ch-1-swadhyay-sem-2.pdff"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-science-ch-1-swadhyay-sem-2.pdf"
                     }
                   ],
                   "textbook": [
