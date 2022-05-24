@@ -1762,7 +1762,7 @@
                   "material": [
                     {
                       "material_name": "આપણી આસપાસમાં દ્રવ્ય",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-sci-ch-1.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-science-ch-1-swadhyay-sem-2.pdff"
                     }
                   ],
                   "textbook": [
@@ -1784,7 +1784,7 @@
                   "material": [
                     {
                       "material_name": "આપણી આસપાસનાં દ્રવ્યો શુદ્ધ છે ?",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-sci-ch-2.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-science-ch-2-swadhyay-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1806,7 +1806,7 @@
                   "material": [
                     {
                       "material_name": "પરમાણુઓ અને અણુઓ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-sci-ch-3.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-science-ch-3-swadhyay-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1828,7 +1828,7 @@
                   "material": [
                     {
                       "material_name": "પરમાણુનું બંધારણ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-sci-ch-4.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-science-ch-4-swadhyay-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1850,7 +1850,7 @@
                   "material": [
                     {
                       "material_name": "સજીવનો પાયાનો એકમ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-sci-ch-5.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-science-ch-5-swadhyay-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1872,7 +1872,7 @@
                   "material": [
                     {
                       "material_name": "પેશીઓ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-sci-ch-6.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-science-ch-6-swadhyay-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1894,7 +1894,7 @@
                   "material": [
                     {
                       "material_name": "સજીવોમાં વિવિધતા",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-sci-ch-7.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-science-ch-7-swadhyay-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1916,7 +1916,7 @@
                   "material": [
                     {
                       "material_name": "ગતિ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-sci-ch-8.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-science-ch-8-swadhyay-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1938,7 +1938,7 @@
                   "material": [
                     {
                       "material_name": "બળ તથા ગતિના નિયમો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-sci-ch-9.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-science-ch-9-swadhya-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1960,7 +1960,7 @@
                   "material": [
                     {
                       "material_name": "ગુરુત્વાકર્ષણ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-sci-ch-10.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-science-ch-10-swadhyay-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -1982,7 +1982,7 @@
                   "material": [
                     {
                       "material_name": "કાર્ય અને ઊર્જા",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-sci-ch-11.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-science-ch-11-swadhyay-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -2004,7 +2004,7 @@
                   "material": [
                     {
                       "material_name": "ધ્વનિ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-sci-ch-12.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-science-ch-12-swadhyay-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -2026,7 +2026,7 @@
                   "material": [
                     {
                       "material_name": "આપણે શા માટે માંદા પડીએ છીએ ?",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-sci-ch-13.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-science-ch-13-swadhyay-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -2048,7 +2048,7 @@
                   "material": [
                     {
                       "material_name": "નૈસર્ગિક સ્રોતો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-sci-ch-14.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-science-ch-14-swadhyay-sem-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -2070,7 +2070,7 @@
                   "material": [
                     {
                       "material_name": "અન્નસ્રોતોમાં સુધારણા",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-sci-ch-15.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-science-ch-15-swadhyay-sem-2.pdf"
                     }
                   ],
                   "textbook": [
