@@ -1961,6 +1961,210 @@
                   ]
                 }
               ]
+            },
+             {
+              "standard_name": "SP & CC",
+              "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
+              "month_cat": [
+                {
+                  "month_name": "SP - Ch - 1",
+                  "videos": [
+                    {
+                      "video_name": "માહિતીનું એકત્રિકીકરણ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "માહિતીનું એકત્રિકીકરણ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "માહિતીનું એકત્રિકીકરણ",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-STET-CH-1-text-book.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "SP - Ch - 2",
+                  "videos": [
+                    {
+                      "video_name": "માહિતીનું નિરૂપણ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "માહિતીનું નિરૂપણ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "માહિતીનું નિરૂપણ",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-STET-CH-2-text-book.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "SP - Ch - 3",
+                  "videos": [
+                    {
+                      "video_name": "મધ્યવર્તી સ્થિતિનાં માપ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "મધ્યવર્તી સ્થિતિનાં માપ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "મધ્યવર્તી સ્થિતિનાં માપ",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-STET-CH-3-text-book.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "SP - Ch - 4",
+                  "videos": [
+                    {
+                      "video_name": "પ્રસારમોનું",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "પ્રસારમોનું",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "પ્રસારમોનું",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-STET-CH-4-text-book.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "SP - Ch - 5",
+                  "videos": [
+                    {
+                      "video_name": "આવૃત્તિ-વિતરણની વિષમતા",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "આવૃત્તિ-વિતરણની વિષમતા",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "આવૃત્તિ-વિતરણની વિષમતા",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-STET-CH-5-text-book.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "SP - Ch - 6",
+                  "videos": [
+                    {
+                      "video_name": "ક્રમચય, સંચય અને દ્વિપદી વિસ્તરણ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "ક્રમચય, સંચય અને દ્વિપદી વિસ્તરણ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "ક્રમચય, સંચય અને દ્વિપદી વિસ્તરણ",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-STET-CH-6-text-book.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "SP - Ch - 7",
+                  "videos": [
+                    {
+                      "video_name": "નિદર્શન પદ્ધતિઓ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "નિદર્શન પદ્ધતિઓ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "નિદર્શન પદ્ધતિઓ",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-STET-CH-7-text-book.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "SP - Ch - 8",
+                  "videos": [
+                    {
+                      "video_name": "વિધેય",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "વિધેય",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "વિધેય",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-STET-CH-8-text-book.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "SP - Ch - 9",
+                  "videos": [
+                    {
+                      "video_name": "ગુણોત્તર-શ્રેણી",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "ગુણોત્તર-શ્રેણી",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                    }
+                  ],
+                  "textbook": [
+                    {
+                      "textbook_name": "ગુણોત્તર-શ્રેણી",
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/STD-11-STET-CH-9.pdf"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
