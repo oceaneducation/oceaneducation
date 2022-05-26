@@ -164,7 +164,140 @@
               "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
               "month_cat": [
                 {
-                  "month_name": "નિબંધ લેખન",
+                  "month_name": "ગુજરાતી નિબંધ લેખન",
+                  "videos": [
+                    {
+                      "video_name": "15 મી ઓગસ્ટ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/bLctN-5UFmI"
+                    },
+                    {
+                      "video_name": "26 મી જાન્યુઆરી",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/j6iheMmmMpo"
+                    },
+                    {
+                      "video_name": "આદર્શ વિદ્યાર્થી",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/BMxb_oQGYfg"
+                    },
+                    {
+                      "video_name": "આપણી કુટેવો",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/qq9WwDcweo4"
+                    },
+                    {
+                      "video_name": "ઉત્તરાયણ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/5fSR5BTjwa8"
+                    },
+                    {
+                      "video_name": "એક નદીની આત્મકથા",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Cfaoensz0aQ"
+                    },
+                    {
+                      "video_name": "એક શિક્ષિત બેકારની આત્મકથા",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/riz0jbBycWg"
+                    },
+                    {
+                      "video_name": "પૃથ્વીનો છેડો ઘર",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/RrmaHwLHbgU"
+                    },
+                    {
+                      "video_name": "પ્રકૃતિ પરમાત્માનું સ્વરૂપ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/sCgZwYDIS8c"
+                    },
+                    {
+                      "video_name": "મહાત્મા ગાંધીજી",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/BkjH5F99Z4w"
+                    },
+                    {
+                      "video_name": "રક્ષાબંધન",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/ybtuMorml7A"
+                    },
+                    {
+                      "video_name": "વિશ્વબંધુત્વ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/C8KC56WC6Zk"
+                    },
+                    {
+                      "video_name": "શિયાળાની સવાર હેમંતનું પરોઢ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/CrLCVOS-VFs"
+                    },
+                    {
+                      "video_name": "હોળી",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/bQiIuk9dLNg"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "15 મી ઓગસ્ટ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                    },
+                    {
+                      "material_name": "26 મી જાન્યુઆરી",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                    },
+                    {
+                      "material_name": "આદર્શ વિદ્યાર્થી",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                    },
+                    {
+                      "material_name": "આપણી કુટેવો",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                    },
+                    {
+                      "material_name": "ઉત્તરાયણ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                    },
+                    {
+                      "material_name": "એક નદીની આત્મકથા",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                    },
+                    {
+                      "material_name": "એક શિક્ષિત બેકારની આત્મકથા",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                    },
+                    {
+                      "material_name": "પૃથ્વીનો છેડો ઘર",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                    },
+                    {
+                      "material_name": "પ્રકૃતિ પરમાત્માનું સ્વરૂપ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                    },
+                    {
+                      "material_name": "મહાત્મા ગાંધીજી",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                    },
+                    {
+                      "material_name": "રક્ષાબંધન",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                    },
+                    {
+                      "material_name": "વિશ્વબંધુત્વ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                    },
+                    {
+                      "material_name": "શિયાળાની સવાર હેમંતનું પરોઢ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                    },
+                    {
+                      "material_name": "હોળી",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "હિન્દી નિબંધ લેખન",
                   "videos": [
                     {
                       "video_name": "15 મી ઓગસ્ટ",
