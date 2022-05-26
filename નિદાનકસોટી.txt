@@ -235,64 +235,181 @@
                       "video_name": "હોળી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/bQiIuk9dLNg"
+                    },
+                    {
+                      "video_name": "અનાવૃષ્ટિ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/3hmNGiAblcU"
+                    },
+                    {
+                      "video_name": "ઉનાળાની બપોર",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/9YlosyL4_kI"
+                    },
+                    {
+                      "video_name": "ચોમાસું",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/9wp6qubvmQs"
+                    },
+                    {
+                      "video_name": "વસંતનો વૈભવ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Mqkqxn4bmJo"
+                    },
+                    {
+                      "video_name": "સરદાર વલ્લભભાઈ પટેલ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/iy8gpQZpOG0"
+                    },
+                    {
+                      "video_name": "જળ એ જ જીવન",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/U7qhdvBdyDg"
+                    },
+                    {
+                      "video_name": "જીવનમાં પુસ્તકોનું મહત્વ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/WhfbCHD8S0k"
+                    },
+                    {
+                      "video_name": "પરિશ્રમ એ જ પારસમણિ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/DrjnLU8ufj4"
+                    },
+                    {
+                      "video_name": "નારી તું નારાયણી",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/9nHrfHJoLbU"
+                    },
+                    {
+                      "video_name": "સમયનું મહત્વ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/B0la-AVkexw"
+                    },
+                     {
+                      "video_name": "શ્રમનું મહત્વ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/yEsrRCzXtuc"
+                    },
+                     {
+                      "video_name": "જીવનમાં તહેવારોનું મહત્વ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/cmWWiQWIjZI"
+                    },
+                     {
+                      "video_name": "ગાય",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/C_vM5_Ts7J0"
                     }
                   ],
                   "material": [
                     {
                       "material_name": "15 મી ઓગસ્ટ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/૧૫મી-ઓગષ્ટ-ગુજરાતી-નિબંધ-લેખન.pdf"
                     },
                     {
                       "material_name": "26 મી જાન્યુઆરી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/26મી-જાન્યુઆરી-ગુજરાતી-નિબંધ-લેખન.pdf"
                     },
                     {
                       "material_name": "આદર્શ વિદ્યાર્થી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/આદર્શ-વિદ્યાર્થી-ગુજરાતી-નિબંધ-લેખન.pdf"
                     },
                     {
                       "material_name": "આપણી કુટેવો",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/આપની-કુટેવો-ગુજરાતી-નિબંધ-લેખન.pdf"
                     },
                     {
                       "material_name": "ઉત્તરાયણ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/ઉતરાયણ-ગુજરાતી-નિબંધ-લેખન.pdf"
                     },
                     {
                       "material_name": "એક નદીની આત્મકથા",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/એક-નદીની-આત્મકથા-ગુજરાતી-નિબંધ-લેખન.pdf"
                     },
                     {
                       "material_name": "એક શિક્ષિત બેકારની આત્મકથા",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/એક-શિક્ષિત-બેકારની-આત્મકથા-ગુજરાતી-નિબંધ-લેખન.pdf"
                     },
                     {
                       "material_name": "પૃથ્વીનો છેડો ઘર",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/પૃથ્વીનો-છેડો-ઘર-ગુજરાતી-નિબંધ-લેખન.pdf"
                     },
                     {
                       "material_name": "પ્રકૃતિ પરમાત્માનું સ્વરૂપ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/પ્રકૃતિ-પરમાત્માનું-સ્વરૂપ-ગુજરાતી-નિબંધ-લેખન.pdf"
                     },
                     {
                       "material_name": "મહાત્મા ગાંધીજી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/મહાત્મા-ગાંધીજી-ગુજરાતી-નિબંધ-લેખન.pdf"
                     },
                     {
                       "material_name": "રક્ષાબંધન",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/રક્ષાબંધન-ગુજરાતી-નિબંધ-લેખન.pdf"
                     },
                     {
                       "material_name": "વિશ્વબંધુત્વ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/વિશ્વબંધુત્વ-ગુજરાતી-નિબંધ-લેખન.pdf"
                     },
                     {
                       "material_name": "શિયાળાની સવાર હેમંતનું પરોઢ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/શિયાળાની-સવાર,-હેમંતનું-પરોઢ-ગુજરાતી-નિબંધ-લેખન.pdf"
                     },
                     {
                       "material_name": "હોળી",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/હોળી-ગુજરાતી-નિબંધ-લેખન.pdf"
+                    },
+                    {
+                      "material_name": "અનાવૃષ્ટિ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/અનાવૃષ્ટિ-ગુજરાતી-નિબંધ-લેખન.pdf"
+                    },
+                    {
+                      "material_name": "ઉનાળાની બપોર",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/ઉનાળાની-બપોર-ગુજરાતી-નિબંધ-લેખન.pdf"
+                    },
+                    {
+                      "material_name": "ચોમાસું",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/ચોમાસું-ગુજરાતી-નિબંધ-લેખન.pdf"
+                    },
+                    {
+                      "material_name": "વસંતનો વૈભવ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/વસંત-નો-વૈભવ-ગુજરાતી-નિબંધ-લેખન.pdf"
+                    },
+                    {
+                      "material_name": "સરદાર વલ્લભભાઈ પટેલ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/હસરદાર-વલ્લભભાઇ-પટેલ-ગુજરાતી-નિબંધ-લેખન.pdf"
+                    },
+                    {
+                      "material_name": "જળ એ જ જીવન",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                    },
+                   {
+                      "material_name": "જીવનમાં પુસ્તકોનું મહત્વ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/જીવનમાં-પુસ્તકોનું-મહત્વ-ગુજરાતી-નિબંધ-લેખન.pdf"
+                    },
+                    {
+                      "material_name": "પરિશ્રમ એ જ પારસમણિ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/પરિશ્રમ-એ-જ-પારસમણિ-ગુજરાતી-નિબંધ-લેખન.pdf"
+                    },
+                    {
+                      "material_name": "નારી તું નારાયણી",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/નારી-તું-નારાયણી-ગુજરાતી-નિબંધ-લેખન.pdf"
+                    },
+                    {
+                      "material_name": "સમયનું મહત્વ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/સમયનું-મહત્વ-ગુજરાતી-નિબંધ-લેખન.pdf"
+                    },
+                    {
+                      "material_name": "શ્રમનું મહત્વ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/શ્રમનું-મહત્વ-ગુજરાતી-નિબંધ-લેખન.pdf"
+                    },
+                    {
+                      "material_name": "જીવનમાં તહેવારોનું મહત્વ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/જીવનમાં-તહેવારો-નું-મહત્વ-ગુજરાતી-નિબંધ-લેખન.pdf"
+                    },
+                    {
+                      "material_name": "ગાય",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/ગાય-ગુજરાતી-નિબંધ-લેખન.pdf"
                     }
                   ]
                 },
