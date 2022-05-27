@@ -377,7 +377,7 @@
                     },
                     {
                       "material_name": "સરદાર વલ્લભભાઈ પટેલ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/હસરદાર-વલ્લભભાઇ-પટેલ-ગુજરાતી-નિબંધ-લેખન.pdf"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/સરદાર-વલ્લભભાઇ-પટેલ-ગુજરાતી-નિબંધ-લેખન.pdf"
                     },
                     {
                       "material_name": "જળ એ જ જીવન",
