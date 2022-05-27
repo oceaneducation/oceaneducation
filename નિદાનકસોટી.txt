@@ -381,7 +381,7 @@
                     },
                     {
                       "material_name": "જળ એ જ જીવન",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/જળ-એ-જ-જીવન-ગુજરાતી-નિબંધ-લેખન.pdf"
                     },
                    {
                       "material_name": "જીવનમાં પુસ્તકોનું મહત્વ",
