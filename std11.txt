@@ -1992,7 +1992,7 @@
                   "month_name": "CC - Ch - 2",
                   "videos": [
                     {
-                      "video_name": "અસરકારક પત્રવ્યવહાર અને તેની જુદી-જુદી શૈલીઓઅસરકારક પત્રવ્યવહાર અને તેની જુદી-જુદી શૈલીઓ",
+                      "video_name": "અસરકારક પત્રવ્યવહાર અને તેની જુદી-જુદી શૈલીઓ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/xUMBkW1IPts"
                     }
