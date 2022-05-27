@@ -1984,7 +1984,7 @@
                   "textbook": [
                     {
                       "textbook_name": "માહિતીસંચારનો અર્થ અને તેની પદ્ધતિઓ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-CC-CH-1.pdf"
                     }
                   ]
                 },
@@ -2006,7 +2006,7 @@
                   "textbook": [
                     {
                       "textbook_name": "અસરકારક પત્રવ્યવહાર અને તેની જુદી-જુદી શૈલીઓ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-CC-CH-2.pdf"
                     }
                   ]
                 },
@@ -2028,7 +2028,7 @@
                   "textbook": [
                     {
                       "textbook_name": "વાણિજ્યિક પત્રનો બાહ્ય દેખાવ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-CC-CH-3.pdf"
                     }
                   ]
                 },
@@ -2050,7 +2050,7 @@
                   "textbook": [
                     {
                       "textbook_name": "વાણિજ્યિક પત્રનું સ્વરૂપ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-CC-CH-4.pdf"
                     }
                   ]
                 },
@@ -2072,7 +2072,7 @@
                   "textbook": [
                     {
                       "textbook_name": "પૂછપરછના પત્રો અને તેના પ્રત્યુત્તરો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-CC-CH-5.pdf"
                     }
                   ]
                 },
@@ -2094,7 +2094,7 @@
                   "textbook": [
                     {
                       "textbook_name": "ઑર્ડર આપતા, અમલ કરતા અને રદ કરતા પત્રો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-CC-CH-6.pdf"
                     }
                   ]
                 },
@@ -2116,7 +2116,7 @@
                   "textbook": [
                     {
                       "textbook_name": "દાવા ફરિયાદો અને તેમની પતાવટના પત્રો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-CC-CH-7.pdf"
                     }
                   ]
                 },
@@ -2138,7 +2138,7 @@
                   "textbook": [
                     {
                       "textbook_name": "આર્થિક દરજ્જા અંગેની માહિતી મેળવતા તથા ઉઘરાણીના પત્રો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-CC-CH-8.pdf"
                     }
                   ]
                 },
@@ -2160,7 +2160,7 @@
                   "textbook": [
                     {
                       "textbook_name": "સેક્રેટરીનો અર્થ અને પ્રકારો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-SP-CH-1.pdf"
                     }
                   ]
                 },
@@ -2176,7 +2176,7 @@
                   "material": [
                     {
                       "material_name": "કંપની સેક્રેટરી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-SP-CH-2.pdf"
                     }
                   ],
                   "textbook": [
@@ -2204,7 +2204,7 @@
                   "textbook": [
                     {
                       "textbook_name": "કંપનીની સ્થાપનાવિધિ",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-SP-CH-3.pdf"
                     }
                   ]
                 },
@@ -2226,7 +2226,7 @@
                   "textbook": [
                     {
                       "textbook_name": "આવેદનપત્ર",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-SP-CH-4.pdf"
                     }
                   ]
                 },
@@ -2248,7 +2248,7 @@
                   "textbook": [
                     {
                       "textbook_name": "નિયમનપત્ર",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-SP-CH-5.pdf"
                     }
                   ]
                 },
@@ -2270,7 +2270,7 @@
                   "textbook": [
                     {
                       "textbook_name": "વિજ્ઞાપનપત્ર",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-SP-CH-6.pdf"
                     }
                   ]
                 },
@@ -2292,7 +2292,7 @@
                   "textbook": [
                     {
                       "textbook_name": "શૅરમૂડી અને શૅરના પ્રકારો",
-                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/Std-11-SP-CH-7.pdf"
                     }
                   ]
                 }
