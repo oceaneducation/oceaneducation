@@ -1967,7 +1967,7 @@
               "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
               "month_cat": [
                 {
-                  "month_name": "SP - Ch - 1",
+                  "month_name": "CC - Ch - 1",
                   "videos": [
                     {
                       "video_name": "માહિતીસંચારનો અર્થ અને તેની પદ્ધતિઓ",
@@ -1989,7 +1989,7 @@
                   ]
                 },
                 {
-                  "month_name": "SP - Ch - 2",
+                  "month_name": "CC - Ch - 2",
                   "videos": [
                     {
                       "video_name": "અસરકારક પત્રવ્યવહાર અને તેની જુદી-જુદી શૈલીઓઅસરકારક પત્રવ્યવહાર અને તેની જુદી-જુદી શૈલીઓ",
@@ -2011,7 +2011,7 @@
                   ]
                 },
                 {
-                  "month_name": "SP - Ch - 3",
+                  "month_name": "CC - Ch - 3",
                   "videos": [
                     {
                       "video_name": "વાણિજ્યિક પત્રનો બાહ્ય દેખાવ",
@@ -2033,7 +2033,7 @@
                   ]
                 },
                 {
-                  "month_name": "SP - Ch - 4",
+                  "month_name": "CC - Ch - 4",
                   "videos": [
                     {
                       "video_name": "વાણિજ્યિક પત્રનું સ્વરૂપ",
@@ -2055,7 +2055,7 @@
                   ]
                 },
                 {
-                  "month_name": "SP - Ch - 5",
+                  "month_name": "CC - Ch - 5",
                   "videos": [
                     {
                       "video_name": "પૂછપરછના પત્રો અને તેના પ્રત્યુત્તરો",
@@ -2077,7 +2077,7 @@
                   ]
                 },
                 {
-                  "month_name": "SP - Ch - 6",
+                  "month_name": "CC - Ch - 6",
                   "videos": [
                     {
                       "video_name": "ઑર્ડર આપતા, અમલ કરતા અને રદ કરતા પત્રો",
@@ -2099,7 +2099,7 @@
                   ]
                 },
                 {
-                  "month_name": "SP - Ch - 7",
+                  "month_name": "CC - Ch - 7",
                   "videos": [
                     {
                       "video_name": "દાવા / ફરિયાદો અને તેમની પતાવટના પત્રો",
@@ -2121,7 +2121,7 @@
                   ]
                 },
                 {
-                  "month_name": "SP - Ch - 8",
+                  "month_name": "CC - Ch - 8",
                   "videos": [
                     {
                       "video_name": "આર્થિક દરજ્જા અંગેની માહિતી મેળવતા તથા ઉઘરાણીના પત્રો",
@@ -2143,7 +2143,7 @@
                   ]
                 },
                  {
-                  "month_name": "CC - Ch - 1",
+                  "month_name": "SP - Ch - 1",
                   "videos": [
                     {
                       "video_name": "સેક્રેટરીનો અર્થ અને પ્રકારો",
@@ -2165,7 +2165,7 @@
                   ]
                 },
                 {
-                  "month_name": "CC - Ch - 2",
+                  "month_name": "SP - Ch - 2",
                   "videos": [
                     {
                       "video_name": "કંપની સેક્રેટરી",
@@ -2187,7 +2187,7 @@
                   ]
                 },
                 {
-                  "month_name": "CC - Ch - 3",
+                  "month_name": "SP - Ch - 3",
                   "videos": [
                     {
                       "video_name": "કંપનીની સ્થાપનાવિધિ",
@@ -2209,7 +2209,7 @@
                   ]
                 },
                 {
-                  "month_name": "CC - Ch - 4",
+                  "month_name": "SP - Ch - 4",
                   "videos": [
                     {
                       "video_name": "આવેદનપત્ર",
@@ -2231,7 +2231,7 @@
                   ]
                 },
                 {
-                  "month_name": "CC - Ch - 5",
+                  "month_name": "SP - Ch - 5",
                   "videos": [
                     {
                       "video_name": "નિયમનપત્ર",
@@ -2253,7 +2253,7 @@
                   ]
                 },
                 {
-                  "month_name": "CC - Ch - 6",
+                  "month_name": "SP - Ch - 6",
                   "videos": [
                     {
                       "video_name": "વિજ્ઞાપનપત્ર",
@@ -2275,7 +2275,7 @@
                   ]
                 },
                 {
-                  "month_name": "CC - Ch - 7",
+                  "month_name": "SP - Ch - 7",
                   "videos": [
                     {
                       "video_name": "શૅરમૂડી અને શૅરના પ્રકારો",
