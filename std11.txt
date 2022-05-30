@@ -148,11 +148,11 @@
                   "material": [
                     {
                       "material_name": "ધંધાકીય વ્યવસ્થાનાં સ્વરૂપો-2 (part-1)",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-b.a-ch-6-swadhyay-(1).pdf"
                     },
                     {
                       "material_name": "ધંધાકીય વ્યવસ્થાનાં સ્વરૂપો-2 (part-2)",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-b.a-ch-6-swadhyay-(2).pdf"
                     }
                   ],
                   "textbook": [
