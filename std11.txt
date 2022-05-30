@@ -48,7 +48,7 @@
                   "material": [
                     {
                       "material_name": "ધંધાકીય સેવાઓ-1",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-b.a-ch-2-swadhyay.pdf"
                     }
                   ],
                   "textbook": [
