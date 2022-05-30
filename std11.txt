@@ -174,11 +174,11 @@
                   "material": [
                     {
                       "material_name": "જાહેરક્ષેત્ર, ખાનગીક્ષેત્ર અને વૈશ્વિક સાહસો (part-1)",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-b.a-ch-7-swadhyay-(1).pdf"
                     },
                     {
                       "material_name": "જાહેરક્ષેત્ર, ખાનગીક્ષેત્ર અને વૈશ્વિક સાહસો (part-2)",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-b.a-ch-7-swadhyay-(2).pdf"
                     }
                   ],
                   "textbook": [
@@ -200,11 +200,11 @@
                   "material": [
                     {
                       "material_name": "ધંધાકીય મૂડીનાં પ્રાપ્તિસ્થાનો (part-1)",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-b.a-ch-8-swadhyay-(1).pdf"
                     },
                     {
                       "material_name": "ધંધાકીય મૂડીનાં પ્રાપ્તિસ્થાનો (part-2)",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-b.a-ch-8-swadhyay-(2).pdf"
                     }
                   ],
                   "textbook": [
@@ -226,11 +226,11 @@
                   "material": [
                     {
                       "material_name": "આંતરિક વેપાર (part-1)",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-b.a-ch-9-swadhyay-(1).pdf"
                     },
                     {
                       "material_name": "આંતરિક વેપાર (part-2)",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-b.a-ch-9-swadhyay-(2).pdf"
                     }
                   ],
                   "textbook": [
@@ -252,11 +252,11 @@
                   "material": [
                     {
                       "material_name": "આંતરરાષ્ટ્રીય વેપાર (part-1)",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-b.a-ch-10-swadhyay-(1).pdf"
                     },
                     {
                       "material_name": "આંતરરાષ્ટ્રીય વેપાર (part-2)",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-b.a-ch-10-swadhyay-(2).pdf"
                     }
                   ],
                   "textbook": [
@@ -278,11 +278,11 @@
                   "material": [
                     {
                       "material_name": "ધંધાની સામાજિક જવાબદારી (part-1)",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-b.a-ch-11-swadhyay-(1).pdf"
                     },
                     {
                       "material_name": "ધંધાની સામાજિક જવાબદારી (part-2)",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-b.a-ch-11-swadhyay-(2).pdf"
                     }
                   ],
                   "textbook": [
