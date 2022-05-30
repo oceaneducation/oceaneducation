@@ -760,7 +760,7 @@
                     {
                       "video_name": "અખિલ બ્રહ્માંડમાં",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/U--JJpvmViE"
                     }
                   ],
                   "material": [
@@ -782,7 +782,7 @@
                     {
                       "video_name": "ખીજડિયે ટેકરે",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/JRsJvElpizM"
                     }
                   ],
                   "material": [
@@ -804,7 +804,7 @@
                     {
                       "video_name": "દમયંતી સ્વયંવર",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/3IrcDGk_Rfc"
                     }
                   ],
                   "material": [
@@ -826,7 +826,7 @@
                     {
                       "video_name": "સત્યાગ્રહાશ્રમ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/HUPinySLscM"
                     }
                   ],
                   "material": [
@@ -848,7 +848,7 @@
                     {
                       "video_name": "રામબાણ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/2Ts7aL-xsv4"
                     }
                   ],
                   "material": [
@@ -870,7 +870,7 @@
                     {
                       "video_name": "ઉછીનું માગનારાઓ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/CT_aAF8WZDk"
                     }
                   ],
                   "material": [
@@ -892,7 +892,7 @@
                     {
                       "video_name": "શ્યામ રંગ સમીપે",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/805aonB2kEo"
                     }
                   ],
                   "material": [
@@ -914,7 +914,7 @@
                     {
                       "video_name": "અમરનાથની યાત્રાએ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/7RMnxZJWwZc"
                     }
                   ],
                   "material": [
@@ -936,7 +936,7 @@
                     {
                       "video_name": "ભવના અબોલા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/8Dxr00YHb-E"
                     }
                   ],
                   "material": [
@@ -958,7 +958,7 @@
                     {
                       "video_name": "યુધિષ્ઠિર યુદ્ધવિષાદ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/Omy6fTZR6_A"
                     }
                   ],
                   "material": [
@@ -980,7 +980,7 @@
                     {
                       "video_name": "ઊર્મિલા",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/by2I9U3vScc"
                     }
                   ],
                   "material": [
@@ -1002,7 +1002,7 @@
                     {
                       "video_name": "સૌજન્યશીલ પ્રભાશંકર",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/gHeLA58rOFE"
                     }
                   ],
                   "material": [
@@ -1024,7 +1024,7 @@
                     {
                       "video_name": "મા' ત્માના માણસ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/FblF7aa6Wxc"
                     }
                   ],
                   "material": [
@@ -1046,7 +1046,7 @@
                     {
                       "video_name": "છેલ્લું દર્શન (આસ્વાદ)",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/EdDaLFZ2ib0"
                     }
                   ],
                   "material": [
@@ -1068,7 +1068,7 @@
                     {
                       "video_name": "જુઓ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/2tdnGwEBmsk"
                     }
                   ],
                   "material": [
@@ -1090,7 +1090,7 @@
                     {
                       "video_name": "સેલ્વી પંકજમ્",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/KPEBFQ36xh0"
                     }
                   ],
                   "material": [
@@ -1112,7 +1112,7 @@
                     {
                       "video_name": "પથ્થર થરથર ધ્રૂજે",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/kM6TLLnn5XA"
                     }
                   ],
                   "material": [
@@ -1134,7 +1134,7 @@
                     {
                       "video_name": "આંસુભીનો ઉજાસ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/BFyhUdIgpy4"
                     }
                   ],
                   "material": [
@@ -1156,7 +1156,7 @@
                     {
                       "video_name": "ઈશ્વર સર્વવ્યાપી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/KuSfncHg4RE"
                     }
                   ],
                   "material": [
@@ -1178,7 +1178,7 @@
                     {
                       "video_name": "બા એકલાં જીવે...",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/9ZCVLwacdxk"
                     }
                   ],
                   "material": [
@@ -1200,7 +1200,7 @@
                     {
                       "video_name": "અનુરુદ્ધનો ગૃહત્યાગ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/-ujJUWogw80"
                     }
                   ],
                   "material": [
@@ -1222,7 +1222,7 @@
                     {
                       "video_name": "ભાણી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/AIgx5edIYJ8"
                     }
                   ],
                   "material": [
@@ -1244,7 +1244,7 @@
                     {
                       "video_name": "સમતા અને બંધુતાના પથદર્શક",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/3Gu2GiTWZ6E"
                     }
                   ],
                   "material": [
@@ -1266,7 +1266,7 @@
                     {
                       "video_name": "શરત",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/UbKCmW8VwxE"
                     }
                   ],
                   "material": [
