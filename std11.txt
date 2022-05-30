@@ -22,11 +22,11 @@
                   "material": [
                     {
                       "material_name": "ધંધાનું સ્વરૂપ, હેતુ અને કાર્યક્ષેત્ર (part-1)",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11 b.a-ch-1-swadhyay-(1).pdf"
                     },
                     {
                       "material_name": "ધંધાનું સ્વરૂપ, હેતુ અને કાર્યક્ષેત્ર (part-2)",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11 b.a-ch-1-swadhyay-(2).pdf"
                     }
                   ],
                   "textbook": [
@@ -70,11 +70,11 @@
                   "material": [
                     {
                       "material_name": "ધંધાકીય સેવાઓ-2 (part-1)",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-b.a-ch-3-swadhyay-(1).pdf"
                     },
                      {
                       "material_name": "ધંધાકીય સેવાઓ-2 (part-2)",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-b.a-ch-3-swadhyay-(2).pdf"
                     }
                   ],
                   "textbook": [
@@ -96,11 +96,11 @@
                   "material": [
                     {
                       "material_name": "માહિતી સંચાર, ઈ-કૉમર્સ અને આઉટસોર્સિંગ (part-1)",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-b.a-ch-4-swadhyay-(1).pdf"
                     },
                     {
                       "material_name": "માહિતી સંચાર, ઈ-કૉમર્સ અને આઉટસોર્સિંગ (part-2)",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-b.a-ch-4-swadhyay-(2).pdf"
                     }
                   ],
                   "textbook": [
@@ -122,11 +122,11 @@
                   "material": [
                     {
                       "material_name": "ધંધાકીય વ્યવસ્થાનાં સ્વરૂપો-1 (part-1)",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-b.a-ch-5-swadhyay-(1).pdf"
                     },
                     {
                       "material_name": "ધંધાકીય વ્યવસ્થાનાં સ્વરૂપો-1 (part-2)",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std11/std-11-b.a-ch-5-swadhyay-(2).pdf"
                     }
                   ],
                   "textbook": [
