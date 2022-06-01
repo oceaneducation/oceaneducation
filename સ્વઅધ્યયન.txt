@@ -525,7 +525,7 @@
                   "video_link": "https://youtu.be/mwfGxfeL_Xk"
                 },
                 {
-                  "video_name": "પાઠ : 9 : કમળજળજળકમળ જળકમળજળકમળ",
+                  "video_name": "પાઠ : 9 : કમળજળકમળ જળકમળજળકમળ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                   "video_link": "https://youtu.be/jn3Ov0ueP40"
                 },
@@ -569,7 +569,7 @@
                   "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/;swa std 4 ch 8 gujarati swa adhyayanpothi.pdf"
                 },
                 {
-                  "material_name": "પાઠ : 9 : કમળજળજળકમળ જળકમળજળકમળ",
+                  "material_name": "પાઠ : 9 : કમળજળકમળ જળકમળજળકમળ",
                   "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-4-guj-ch-9-સ્વઅધ્યયનપોથી.pdf"
                 },
                 {
