@@ -311,7 +311,7 @@
                   "video_link": "https://youtu.be/XxCvZLe0z_E"
                 },
                 {
-                  "video_name": "પાઠ : 14 : આપનો ખોરાક   ",
+                  "video_name": "પાઠ : 14 : આપણો ખોરાક   ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                   "video_link": "https://youtu.be/nLXXzi1o5Xk"
                 },
@@ -425,7 +425,7 @@
                   "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 3 pryavaran ch 13 swa adhdydan pothi.pdf"
                 },
                 {
-                  "material_name": "પાઠ : 14 : આપનો ખોરાક   ",
+                  "material_name": "પાઠ : 14 : આપણો ખોરાક   ",
                   "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 3 pryavaran ch 14 swa adhyayan pothi (1).pdf"
                 },
                 {
@@ -469,7 +469,7 @@
                   "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/.swa std 3 પર્યાવરણ ch ૨૪ સ્વ અધ્યયન પોથી.pdf"
                 },
                 {
-                  "material_name": "પાઠ : 25 : મારો તાલુકો ",
+                  "material_name": "પાઠ : 25 : મારો તાલુકો",
                   "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 3 પર્યાવરણ ch 25 સ્વ અધ્યયન પોથી'.pdf"
                 }
               ],
@@ -583,7 +583,7 @@
               "month_name": "ગણિત ",
               "videos": [
                 {
-                  "video_name": "પાઠ : 1 : ઈંટોની ઇમારત   ",
+                  "video_name": "પાઠ : 1 : ઈંટોની ઇમારત",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                   "video_link": "https://youtu.be/fpa82Ywv1ZM"
                 },
@@ -593,7 +593,7 @@
                   "video_link": "https://youtu.be/O96UQ1hxUwQ"
                 },
                 {
-                  "video_name": "પાઠ : 3 : ભોપાલનો પ્રવાસ   ",
+                  "video_name": "પાઠ : 3 : ભોપાલનો પ્રવાસ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                   "video_link": "https://youtu.be/pkbA4EDFCHw"
                 },
@@ -722,7 +722,7 @@
                   "video_link": "https://youtu.be/_-DXlbg-oMI"
                 },
                 {
-                  "video_name": "પાઠ : 2 : કાનથી નાક   ",
+                  "video_name": "પાઠ : 2 : કાનથી કાન   ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                   "video_link": "https://youtu.be/hKhcCih-iiU"
                 },
@@ -848,7 +848,7 @@
                   "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
                 },
                 {
-                  "material_name": "પાઠ : 2 : કાનથી નાક   ",
+                  "material_name": "પાઠ : 2 : કાનથી કાન   ",
                   "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 4 evs ch 2 સ્વ-અધ્યયનપોથી.pdf"
                 },
                 {
@@ -1066,7 +1066,7 @@
                   "video_link": "https://youtu.be/X5ThSZqT-ZQ"
                 },
                 {
-                  "video_name": "પાઠ : 7 : અલ્લક દલ્લ્ક   ",
+                  "video_name": "પાઠ : 7 : અલ્લક દલ્લક",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                   "video_link": "https://youtu.be/IrgNwHJ1Ov8"
                 },
@@ -1137,7 +1137,7 @@
                   "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/swa std 5 guj ch 6.pdf"
                 },
                 {
-                  "material_name": "પાઠ : 7 : અલ્લક દલ્લ્ક   ",
+                  "material_name": "પાઠ : 7 : અલ્લક દલ્લક",
                   "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/swa std 5 ગુજરાતી ch 7 સ્વઅધ્યયન પોથી.pdf"
                 },
                 {
@@ -1588,7 +1588,7 @@
                   "video_link": "https://youtu.be/f8nxI-cepZs"
                 },
                 {
-                  "video_name": "પાઠ : 13 : स्वचता  ",
+                  "video_name": "પાઠ : 13 : स्वच्छता",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                   "video_link": "https://youtu.be/f8nxI-cepZs"
                 },
@@ -1598,7 +1598,7 @@
                   "video_link": "https://youtu.be/f8nxI-cepZs"
                 },
                 {
-                  "video_name": "પાઠ : 15 : खरगोश ओर हाथी",
+                  "video_name": "પાઠ : 15 : खरगोश और हाथी",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                   "video_link": "https://youtu.be/f8nxI-cepZs"
                 },
@@ -1658,7 +1658,7 @@
                   "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                 },
                 {
-                  "material_name": "પાઠ : 13 : स्वचता  ",
+                  "material_name": "પાઠ : 13 : स्वच्छता",
                   "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                 },
                 {
@@ -1666,7 +1666,7 @@
                   "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                 },
                 {
-                  "material_name": "પાઠ : 15 : खरगोश ओर हाथी",
+                  "material_name": "પાઠ : 15 : खरगोश और हाथी",
                   "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                 },
                 {
@@ -1680,59 +1680,59 @@
               "month_name": "અંગ્રેજી",
               "videos": [
                 {
-                  "video_name": "પાઠ : 1 what is in this unit?  ",
+                  "video_name": "unit : 1 what is in this unit?  ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                   "video_link": "https://youtu.be/f8nxI-cepZs"
                 },
                 {
-                  "video_name": "પાઠ : 2 : umbrellas are colourful   ",
+                  "video_name": "unit : 2 : umbrellas are colourful   ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                   "video_link": "https://youtu.be/f8nxI-cepZsz"
                 },
                 {
-                  "video_name": "પાઠ : 3 : travel-time    ",
+                  "video_name": "unit : 3 : travel-time    ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                   "video_link": "https://youtu.be/f8nxI-cepZs"
                 },
                 {
-                  "video_name": "પાઠ : 4 : I am learning English  ",
+                  "video_name": "unit : 4 : I am learning English  ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                   "video_link": "https://youtu.be/f8nxI-cepZs"
                 },
                 {
-                  "video_name": "પાઠ : 5 : helping hands   ",
+                  "video_name": "unit : 5 : helping hands   ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                   "video_link": "https://youtu.be/f8nxI-cepZs"
                 },
                 {
-                  "video_name": "પાઠ : 6 : I studied, ‘helping hands’",
+                  "video_name": "unit : 6 : I studied, ‘helping hands’",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                   "video_link": "https://youtu.be/f8nxI-cepZs"
                 }
               ],
               "material": [
                 {
-                  "material_name": "પાઠ : 1 what is in this unit? ",
+                  "material_name": "unit : 1 what is in this unit? ",
                   "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                 },
                 {
-                  "material_name": "પાઠ : 2 : umbrellas are colourful   ",
+                  "material_name": "unit : 2 : umbrellas are colourful   ",
                   "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                 },
                 {
-                  "material_name": "પાઠ : 3 : travel-time",
+                  "material_name": "unit : 3 : travel-time",
                   "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                 },
                 {
-                  "material_name": "પાઠ : 4 : I am learning English",
+                  "material_name": "unit : 4 : I am learning English",
                   "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                 },
                 {
-                  "material_name": "પાઠ : 5 : helping hands   ",
+                  "material_name": "unit : 5 : helping hands   ",
                   "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                 },
                 {
-                  "material_name": "પાઠ : 6 : I studied, ‘helping hands’",
+                  "material_name": "unit : 6 : I studied, ‘helping hands’",
                   "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                 }
               ],
@@ -2195,86 +2195,86 @@
               "month_name": "અંગ્રેજી",
               "videos": [
                 {
-                  "video_name": "પાઠ : 1 : where were you?    ",
+                  "video_name": "unit : 1 : where were you?    ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                   "video_link": "https://youtu.be/f8nxI-cepZs"
                 },
                 {
-                  "video_name": "પાઠ : 2 : two: Mo-chho",
+                  "video_name": "unit : 2 : two: Mo-chho",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                   "video_link": "https://youtu.be/f8nxI-cepZs"
                 },
                 {
-                  "video_name": "પાઠ : 3 : fought and won",
+                  "video_name": "unit : 3 : fought and won",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                   "video_link": "https://youtu.be/f8nxI-cepZs"
                 },
                 {
-                  "video_name": "પાઠ : 4 : watch your watch  ",
+                  "video_name": "unit : 4 : watch your watch  ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                   "video_link": "https://youtu.be/f8nxI-cepZs"
                 },
                 {
-                  "video_name": "પાઠ : 1 taste of india ",
+                  "video_name": "unit : 1 taste of india ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                   "video_link": "https://youtu.be/f8nxI-cepZs"
                 },
                 {
-                  "video_name": "પાઠ : 2 : a ship can walk ",
+                  "video_name": "unit : 2 : a ship can walk ",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                   "video_link": "https://youtu.be/f8nxI-cepZs"
                 },
                 {
-                  "video_name": "પાઠ : 3 : in future..",
+                  "video_name": "unit : 3 : in future..",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                   "video_link": "https://youtu.be/f8nxI-cepZs"
                 },
                 {
-                  "video_name": "પાઠ : 4 : will you wake up?",
+                  "video_name": "unit : 4 : will you wake up?",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                   "video_link": "https://youtu.be/f8nxI-cepZs"
                 },
                 {
-                  "video_name": "પાઠ : 5 : fifth of the sixth",
+                  "video_name": "unit : 5 : fifth of the sixth",
                   "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                   "video_link": "https://youtu.be/f8nxI-cepZs"
                 }
               ],
               "material": [
                 {
-                  "material_name": "પાઠ : 1 : where were you?   ",
+                  "material_name": "unit : 1 : where were you?   ",
                   "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                 },
                 {
-                  "material_name": "પાઠ : 2 : two: Mo-chho",
+                  "material_name": "unit : 2 : two: Mo-chho",
                   "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                 },
                 {
-                  "material_name": "પાઠ : 3 : fought and won",
+                  "material_name": "unit : 3 : fought and won",
                   "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                 },
                 {
-                  "material_name": "પાઠ : 4 : watch your watch  ",
+                  "material_name": "unit : 4 : watch your watch  ",
                   "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                 },
                 {
-                  "material_name": "પાઠ : 1 taste of india ",
+                  "material_name": "unit : 1 taste of india ",
                   "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                 },
                 {
-                  "material_name": "પાઠ : 2 : a ship can walk ",
+                  "material_name": "unit : 2 : a ship can walk ",
                   "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                 },
                 {
-                  "material_name": "પાઠ : 3 : in future..",
+                  "material_name": "unit : 3 : in future..",
                   "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                 },
                 {
-                  "material_name": "પાઠ : 4 : will you wake up?",
+                  "material_name": "unit : 4 : will you wake up?",
                   "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                 },
                 {
-                  "material_name": "પાઠ : 5 : fifth of the sixth",
+                  "material_name": "unit : 5 : fifth of the sixth",
                   "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/"
                 }
               ],
