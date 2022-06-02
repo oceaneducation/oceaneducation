@@ -257,9 +257,54 @@
                   "month_name": "Ch - 5",
                   "videos": [
                     {
+                      "video_name": "સમાંતર શ્રેણી સૂત્ર અને સમજૂતી",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/ZaYQzd1JPAc"
+                    },
+                    {
                       "video_name": "સમાંતર શ્રેણી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": ""
+                    },
+                    {
+                      "video_name": "સમાંતર શ્રેણી સ્વાધ્યાય ૫.૧ Q.૨",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/M0DVGJhGjxk"
+                    },
+                    {
+                      "video_name": "સમાંતર શ્રેણી સ્વાધ્યાય ૫.૧ Q.૩",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/leA-PJrLgvA"
+                    },
+                    {
+                      "video_name": "સમાંતર શ્રેણી સ્વાધ્યાય ૫.૧ Q.૪",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/hj3QzWZGl5Y"
+                    },
+                    {
+                      "video_name": "સમાંતર શ્રેણી સ્વાધ્યાય ૫.૨ Q.૧",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/CPLInqluaQU"
+                    },
+                    {
+                      "video_name": "સમાંતર શ્રેણી સ્વાધ્યાય ૫.૨ Q.૨",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/BCK9Ug_exSQ"
+                    },
+                    {
+                      "video_name": "સમાંતર શ્રેણી સ્વાધ્યાય ૫.૨ Q.૩",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/V1XMXvqmS0w"
+                    },
+                    {
+                      "video_name": "સમાંતર શ્રેણી સ્વાધ્યાય ૫.૨ Q.૪ TO Q.૧૦",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/xCaQcyMwTs8"
+                    },
+                    {
+                      "video_name": "સમાંતર શ્રેણી સ્વાધ્યાય ૫.૨ Q.૧૧ TO Q.૨૦",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/UosWuMtT2F8"
                     }
                   ],
                   "material": [
