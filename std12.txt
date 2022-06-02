@@ -512,7 +512,7 @@
                     {
                       "video_name": "અર્થશાસ્ત્રમાં આલેખ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/23ASF9aGcv4"
                     }
                   ],
                   "material": [
@@ -534,7 +534,7 @@
                     {
                       "video_name": "વૃદ્ધિ અને વિકાસના નિર્દેશકો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/tReGHCuG510"
                     }
                   ],
                   "material": [
@@ -556,7 +556,7 @@
                     {
                       "video_name": "નાણું અને ફુગાવો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/_47XYJmYSVA"
                     }
                   ],
                   "material": [
@@ -578,7 +578,7 @@
                     {
                       "video_name": "બૅન્કિંગ અને નાણાકીય નીતિ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/d2PlWb6uaKo"
                     }
                   ],
                   "material": [
@@ -600,7 +600,7 @@
                     {
                       "video_name": "ગરીબી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/FhvRDu0q5Wo"
                     }
                   ],
                   "material": [
@@ -622,7 +622,7 @@
                     {
                       "video_name": "બેરોજગારી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/GUzFg6JskbU"
                     }
                   ],
                   "material": [
@@ -644,7 +644,7 @@
                     {
                       "video_name": "વસ્તી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/ZZUOUWILNik"
                     }
                   ],
                   "material": [
@@ -666,7 +666,7 @@
                     {
                       "video_name": "કૃષિક્ષેત્ર",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/BiGa2jIgzBw"
                     }
                   ],
                   "material": [
@@ -688,7 +688,7 @@
                     {
                       "video_name": "વિદેશવેપાર",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/95nURt2gd7U"
                     }
                   ],
                   "material": [
@@ -710,7 +710,7 @@
                     {
                       "video_name": "ઉદ્યોગ ક્ષેત્ર",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/1Mv3LNRtL_M"
                     }
                   ],
                   "material": [
@@ -732,7 +732,7 @@
                     {
                       "video_name": "ભારતીય અર્થતંત્રમાં નૂતન પ્રશ્નો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/qvGUuY-2ByA"
                     }
                   ],
                   "material": [
