@@ -305,6 +305,31 @@
                       "video_name": "સમાંતર શ્રેણી સ્વાધ્યાય ૫.૨ Q.૧૧ TO Q.૨૦",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": "https://youtu.be/UosWuMtT2F8"
+                    },
+                    {
+                      "video_name": "સમાંતર શ્રેણી સ્વાધ્યાય ૫.૩ Q.૧",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/aMXMMYNqdV0"
+                    },
+                    {
+                      "video_name": "સમાંતર શ્રેણી સ્વાધ્યાય ૫.૩ Q.૨",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/0FMIBPkIUIQ"
+                    },
+                    {
+                      "video_name": "સમાંતર શ્રેણી સ્વાધ્યાય ૫.૩ Q.૩(૧,૨,૩,૪)",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/UcFk5yqpV5A"
+                    },
+                    {
+                      "video_name": "સમાંતર શ્રેણી સ્વાધ્યાય ૫.૩ Q.૩(૫ TO ૭)",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/MXx-6tyszjs"
+                    },
+                    {
+                      "video_name": "સમાંતર શ્રેણી સ્વાધ્યાય ૫.૩ Q.૩(૮ TO ૧૦)",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/0AZX5C1RUIk"
                     }
                   ],
                   "material": [
@@ -324,9 +349,24 @@
                   "month_name": "Ch - 6",
                   "videos": [
                     {
-                      "video_name": "ત્રિકોણ",
+                      "video_name": "ત્રિકોણ સૂત્ર અને સમજૂતી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/IjCL-OWKBTE"
+                    },
+                    {
+                      "video_name": "ત્રિકોણ સૂત્ર સ્વાધ્યાય ૬.૧",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/9w6Qggirn28"
+                    },
+                    {
+                      "video_name": "ત્રિકોણ સૂત્ર સ્વાધ્યાય ૬.૨ Q.૧",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/TbhKUUJ0AQw"
+                    },
+                    {
+                      "video_name": "ત્રિકોણ સૂત્ર ૬.૨ Q.૨",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/It8Snh1F_fA"
                     }
                   ],
                   "material": [
@@ -346,7 +386,32 @@
                   "month_name": "Ch - 7",
                   "videos": [
                     {
-                      "video_name": "યામ ભૂમિતિ",
+                      "video_name": "યામ ભૂમિતિ સૂત્ર અને સમજૂતી",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/ES3Hu3yuD68"
+                    },
+                     {
+                      "video_name": "યામ ભૂમિતિ સ્વાધ્યાય ૭.૧",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/3k6BXTlnP4I"
+                    },
+                     {
+                      "video_name": "યામ ભૂમિતિ ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    },
+                     {
+                      "video_name": "યામ ભૂમિતિ સ્વાધ્યાય ૭.૧ Q.૪",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Be55l3tqxjI"
+                    },
+                     {
+                      "video_name": "યામ ભૂમિતિ સૂત્ર અને સમજૂતી",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    },
+                     {
+                      "video_name": "યામ ભૂમિતિ સૂત્ર અને સમજૂતી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
                       "video_link": ""
                     }
