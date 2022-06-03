@@ -517,7 +517,11 @@
                   ],
                   "material": [
                     {
-                      "material_name": "અર્થશાસ્ત્રમાં આલેખ",
+                      "material_name": "અર્થશાસ્ત્રમાં આલેખ (part-1)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
+                    },
+                    {
+                      "material_name": "અર્થશાસ્ત્રમાં આલેખ (part-2)",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
@@ -539,7 +543,15 @@
                   ],
                   "material": [
                     {
-                      "material_name": "વૃદ્ધિ અને વિકાસના નિર્દેશકો",
+                      "material_name": "વૃદ્ધિ અને વિકાસના નિર્દેશકો (part-1)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
+                    },
+                    {
+                      "material_name": "વૃદ્ધિ અને વિકાસના નિર્દેશકો (part-2)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
+                    },
+                    {
+                      "material_name": "વૃદ્ધિ અને વિકાસના નિર્દેશકો (part-3)",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
@@ -561,7 +573,11 @@
                   ],
                   "material": [
                     {
-                      "material_name": "નાણું અને ફુગાવો",
+                      "material_name": "નાણું અને ફુગાવો (part-1)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
+                    },
+                    {
+                      "material_name": "નાણું અને ફુગાવો (part-2)",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
@@ -583,7 +599,15 @@
                   ],
                   "material": [
                     {
-                      "material_name": "બૅન્કિંગ અને નાણાકીય નીતિ",
+                      "material_name": "બૅન્કિંગ અને નાણાકીય નીતિ (part-1)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
+                    },
+                    {
+                      "material_name": "બૅન્કિંગ અને નાણાકીય નીતિ (part-2)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
+                    },
+                    {
+                      "material_name": "બૅન્કિંગ અને નાણાકીય નીતિ (part-3)",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
@@ -605,7 +629,15 @@
                   ],
                   "material": [
                     {
-                      "material_name": "ગરીબી",
+                      "material_name": "ગરીબી (part-1)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
+                    },
+                    {
+                      "material_name": "ગરીબી (part-2)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
+                    },
+                    {
+                      "material_name": "ગરીબી (part-3)",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
@@ -627,7 +659,15 @@
                   ],
                   "material": [
                     {
-                      "material_name": "બેરોજગારી",
+                      "material_name": "બેરોજગારી (part-1)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
+                    },
+                    {
+                      "material_name": "બેરોજગારી (part-2)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
+                    },
+                    {
+                      "material_name": "બેરોજગારી (part-3)",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
@@ -649,7 +689,11 @@
                   ],
                   "material": [
                     {
-                      "material_name": "વસ્તી",
+                      "material_name": "વસ્તી (part-1)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
+                    },
+                    {
+                      "material_name": "વસ્તી (part-2)",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
@@ -671,7 +715,15 @@
                   ],
                   "material": [
                     {
-                      "material_name": "કૃષિક્ષેત્ર",
+                      "material_name": "કૃષિક્ષેત્ર (part-1)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
+                    },
+                    {
+                      "material_name": "કૃષિક્ષેત્ર (part-2)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
+                    },
+                    {
+                      "material_name": "કૃષિક્ષેત્ર (part-3)",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
@@ -693,7 +745,11 @@
                   ],
                   "material": [
                     {
-                      "material_name": "વિદેશવેપાર",
+                      "material_name": "વિદેશવેપાર (part-1)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
+                    },
+                    {
+                      "material_name": "વિદેશવેપાર (part-2)",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
@@ -715,7 +771,15 @@
                   ],
                   "material": [
                     {
-                      "material_name": "ઉદ્યોગ ક્ષેત્ર",
+                      "material_name": "ઉદ્યોગ ક્ષેત્ર (part-1)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
+                    },
+                    {
+                      "material_name": "ઉદ્યોગ ક્ષેત્ર (part-2)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
+                    },
+                    {
+                      "material_name": "ઉદ્યોગ ક્ષેત્ર (part-3)",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
@@ -737,7 +801,15 @@
                   ],
                   "material": [
                     {
-                      "material_name": "ભારતીય અર્થતંત્રમાં નૂતન પ્રશ્નો",
+                      "material_name": "ભારતીય અર્થતંત્રમાં નૂતન પ્રશ્નો (part-1)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
+                    },
+                    {
+                      "material_name": "ભારતીય અર્થતંત્રમાં નૂતન પ્રશ્નો (part-2)",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
+                    },
+                    {
+                      "material_name": "ભારતીય અર્થતંત્રમાં નૂતન પ્રશ્નો (part-3)",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std12/"
                     }
                   ],
