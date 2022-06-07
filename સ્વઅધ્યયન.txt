@@ -185,31 +185,31 @@
               "material": [
                 {
                   "material_name": "પાઠ : 1 : ક્યાંથી જોવું",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/-swa std 3 maths ch 1 સ્વ અધ્યયનપોથી.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-3-maths-ch-1-સ્વ-અધ્યયનપોથી.pdf"
                 },
                 {
                   "material_name": "પાઠ : 2 : સંખ્યાની ગમ્મત",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/-swa std 3 maths ch 2 સ્વ અધ્યયનપોથી.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-3-maths-ch-2-સ્વ-અધ્યયનપોથી.pdf"
                 },
                 {
                   "material_name": "પાઠ : 3 : આપો અને લો",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/.swa std 3 maths ch 3 સ્વ અધ્યયનપોથી.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-3-maths-ch-3-સ્વ-અધ્યયનપોથી.pdf"
                 },
                 {
                   "material_name": "પાઠ : 4 : લાંબું અને ટૂંકું",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/'swa std 3 maths ch 4 સ્વ અધ્યયનપોથી.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-3-maths-ch-4-સ્વ-અધ્યયનપોથી.pdf"
                 },
                 {
                   "material_name": "પાઠ : 5 : આકાર અને ભાત",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/'swa std 3 maths ch 5 સ્વ અધ્યયનપોથી (1).pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-3-maths-ch-5-સ્વ-અધ્યયનપોથી.pdf"
                 },
                 {
                   "material_name": "પાઠ : 6 : આપ-લેની ગમ્મત",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/'swa std 3 maths ch 6 સ્વ અધ્યયનપોથી.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-3-maths-ch-6-સ્વ-અધ્યયનપોથી.pdf"
                 },
                 {
                   "material_name": "પાઠ : 7 : સમય વહી જાય છે",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-3-maths-ch-7-સ્વઅધ્યયનપોથી.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-3-maths-ch-7-સ્વ-અધ્યયનપોથી.pdf"
                 },
                 {
                   "material_name": "પાઠ : 8 : વધુ ભારે કોણ?",
