@@ -67,43 +67,43 @@
               "material": [
                 {
                   "material_name": "પાઠ : 1 : વાંદરાને વાંચતાં ન આવડે",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-3-guj-ch-1-સ્વ-અધ્યયનપોથી.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-3-Guj-ch-1-સ્વ-અધ્યયનપોથી-સેમ-1.pdf"
                 },
                 {
                   "material_name": "પાઠ : 2 : પોટલાં ટપકે ટપ્પ",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/swa std 3 gujarati ch.2 swadhyaanpothi.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-3-Guj-ch-2-સ્વ-અધ્યયનપોથી-સેમ-1.pdf"
                 },
                 {
                   "material_name": "પાઠ : 3 : હું પતંગિયું મારા પિલ્લુનું",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/swa std 3 gujrati ch.3 swadhyaynpothi.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-3-Guj-ch-3-સ્વ-અધ્યયનપોથી-સેમ-1.pdf"
                 },
                 {
                   "material_name": "પાઠ : 4 : સસલા ની પાછળ કુતરો",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/swa std 3 gujarati ch.4 swaadhyanpothi.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-3-Guj-ch-4-સ્વ-અધ્યયનપોથી-સેમ-1.pdf"
                 },
                 {
                   "material_name": "પાઠ : 5 : કોરો કાચબો ભીનો ચાંદો",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/swa std 3 gujarati ch.5 swadhyaynpothi.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-3-Guj-ch-5-સ્વ-અધ્યયનપોથી-સેમ-1.pdf"
                 },
                 {
                   "material_name": "પાઠ : 6 : બતક અને અથવા પણ હંસ",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/-swa std 3 ch 6 gujarati swa adhdhyanapothi.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-3-guj-ch-6-સ્વ-અધ્યયનપોથી.pdf"
                 },
                 {
                   "material_name": "પાઠ : 7 : એક છલાંગે દરિયો કૂદો",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/.swa std 3 ch 7 gujrati swa adhyayan pothi.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-3-guj-ch-7-સ્વ-અધ્યયનપોથી.pdf"
                 },
                 {
                   "material_name": "પાઠ : 8 : કીડી હતી કે હાથી હશે!",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/.swa std 3 gujarati ch.8 swadhyaanpothi.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-3-guj-ch-8-સ્વ-અધ્યયનપોથી.pdf"
                 },
                 {
                   "material_name": "પાઠ : 9 : રંગબેરંગી મસાલિયું",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/.swa std 3 gujarati ch.9 swadhyaanpothi.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-3-guj-ch-9-સ્વ-અધ્યયનપોથી.pdf"
                 },
                 {
                   "material_name": "પાઠ : 10 : ચાલો સૌને રમત મુબારક",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/.swa std 3 gujarati ch.10 swadhyaanpothi.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-3-guj-ch-10-સ્વ-અધ્યયનપોથી.pdf"
                 }
               ],
               "textbook": []
