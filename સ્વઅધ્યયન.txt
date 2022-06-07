@@ -845,103 +845,103 @@
               "material": [
                 {
                   "material_name": "પાઠ : 1 : રોજ નિશાળે જઈએ  ",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-4-evs-ch-1-સ્વ-અધ્યયનપોથી-સેમ-1.pdf"
                 },
                 {
                   "material_name": "પાઠ : 2 : કાનથી કાન   ",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 4 evs ch 2 સ્વ-અધ્યયનપોથી.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-4-evs-ch-2-સ્વ-અધ્યયનપોથી-સેમ-1.pdf"
                 },
                 {
                   "material_name": "પાઠ : 3 : નંદુ સાથે એક દિવસ   ",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std 4 evs ch 3 સ્વ-અધ્યયનપોથી.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-4-evs-ch-3-સ્વ-અધ્યયનપોથી-સેમ-1.pdf"
                 },
                 {
                   "material_name": "પાઠ : 4 : અમૃતાની વાર્તા  ",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/swa std 4 aaspass ch.4 swaadhyanpothi.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-4-evs-ch-4 સ્વ-અધ્યયનપોથી સેમ 1.pdf"
                 },
                 {
                   "material_name": "પાઠ : 5 : અનીતા અને મધમાખીઓ  ",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/swa std 4 aaspass ch.5 swaadhyyapothi.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-4-evs-ch-5-સ્વ-અધ્યયનપોથી-સેમ-1.pdf"
                 },
                 {
                   "material_name": "પાઠ : 6 : રિયાની મુસાફરી   ",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/swa std 4 aaspass ch.6 swadhyaypothi.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-4-evs-ch-6-સ્વ-અધ્યયનપોથી-સેમ-1.pdf"
                 },
                 {
                   "material_name": "પાઠ : 7 : રિયાની ટ્રેન મોડી પડી      ",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 4 aaspass ch.7 swaadhyyapothi.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-4-evs-ch-7-સ્વ-અધ્યયનપોથી-સેમ-1.pdf"
                 },
                 {
                   "material_name": "પાઠ : 8 : રીયા પહોંચી મામાને ઘેર   ",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 4 aaspass ch.8 swaadhyyapothi.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-4-evs-ch-8-સ્વ-અધ્યયનપોથી-સેમ-1.pdf"
                 },
                 {
                   "material_name": "પાઠ : 9 : બદલાતાં કુટુંબો   ",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 4 aaspass ch.9 swaadhyyapothi.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-4-evs-ch-9-સ્વ-અધ્યયનપોથી-સેમ-1.pdf"
                 },
                 {
                   "material_name": "પાઠ : 10 : કબડ્ડી... કબડ્ડી... કબડ્ડી…   ",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 4 પર્યાવરણ ch 10 સ્વ અધ્યયન પોથી.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-4-evs-ch-10 સ્વ-અધ્યયનપોથી-સેમ-1.pdf"
                 },
                 {
                   "material_name": "પાઠ : 11 : વાડીમાં   ",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 4 પર્યાવરણ ch 11 સ્વ અધ્યયન પોથી.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-4-evs-ch-11-સ્વ-અધ્યયનપોથી-સેમ-1.pdf"
                 },
                 {
                   "material_name": "પાઠ : 12 : બદલાતો સમય   ",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 4 પર્યાવરણ ch 12 સ્વ અધ્યયન પોથી.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-4-evs-ch-12-સ્વ-અધ્યયનપોથી-સેમ-1.pdf"
                 },
                 {
                   "material_name": "પાઠ : 13 : નદીની સફર   ",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 4 aaspass ch.13 swaadhyyapothi.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-4-evs-ch-13-સ્વ-અધ્યયનપોથી.pdf"
                 },
                 {
                   "material_name": "પાઠ : 14 : રાજુનું ખેતર   ",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 4 aaspass ch.14 swadhyaypothi.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-4-evs-ch-14-સ્વ-અધ્યયનપોથી.pdf"
                 },
                 {
                   "material_name": "પાઠ : 15 : બજારથી ઘર સુધી   ",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 4 aaspass ch. 15 swadhyaypothi.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-4-evs-ch-15-સ્વ-અધ્યયનપોથી.pdf"
                 },
                 {
                   "material_name": "પાઠ : 16 : કામનો મહિનો   ",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-4-evs-ch-16-સ્વઅધ્યયનપોથી.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-4-evs-ch-16-સ્વ-અધ્યયનપોથી.pdf"
                 },
                 {
                   "material_name": "પાઠ : 17 : તેજલ અમદાવાદમાં  ",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 4 પર્યાવરણ ch 17 સ્વ અધ્યયન પોથી (2) (1) (1).pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-4-evs-ch-17-સ્વ-અધ્યયનપોથી.pdf"
                 },
                 {
                   "material_name": "પાઠ : 18 : ગામ-ગામનાં પાણી   ",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 4 aaspass ch. 18 swadhyaypothi.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-4-evs-ch-18-સ્વ-અધ્યયનપોથી.pdf"
                 },
                 {
                   "material_name": "પાઠ : 19 : સાથે જમીએ   ",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 4 aaspass ch. 19 swadhyaypothi.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-4-evs-ch-19-સ્વ-અધ્યયનપોથી.pdf"
                 },
                 {
                   "material_name": "પાઠ : 20 : ખોરાક અને મજા ",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 4 aaspass ch. 20 swadhyaypothi.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-4-evs-ch-20-સ્વ-અધ્યયનપોથી.pdf"
                 },
                 {
                   "material_name": "પાઠ : 21 : જગત મારા ઘરમાં  ",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 4 aaspass ch. 21 swadhyaypothi.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-4-evs-ch-21-સ્વ-અધ્યયનપોથી.pdf"
                 },
                 {
                   "material_name": "પાઠ : 22 : પટોળાં",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 4 aaspass ch. 22 swadhyaypothi.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-4-evs-ch-22-સ્વ-અધ્યયનપોથી.pdf"
                 },
                 {
                   "material_name": "પાઠ : 23 : દેશ-પરદેશ",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 4 aaspass ch. 23 swadhyaypothi.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-4-evs-ch-23-સ્વ-અધ્યયનપોથી.pdf"
                 },
                 {
                   "material_name": "પાઠ : 24 : મસાલેદાર કોયડા ",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 4 aaspass ch. 24 swadhyanpothi.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-4-evs-ch-24-સ્વ-અધ્યયનપોથી.pdf"
                 },
                 {
                   "material_name": "પાઠ : 25 : મારો જિલ્લો ",
-                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/swa std 4 aaspass ch. 25 swadhyaypothi.pdf"
+                  "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-4-evs-ch-25-સ્વ-અધ્યયનપોથી.pdf"
                 }
               ],
               "textbook": []
