@@ -166,7 +166,7 @@
                   "material": [
                     {
                       "material_name": "પર્યાવરણ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-5-evs-ch-1-samayik-mulyankan-kasoti-(2).pdf"
                     }
                     ]
                 }
@@ -254,7 +254,7 @@
                   "material": [
                     {
                       "material_name": "ગુજરાતી",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-6-guj-ch-1-samayik-milyakan-kasoti.pdf"
                     }
                   ]
                 }
@@ -342,7 +342,7 @@
                   "material": [
                     {
                       "material_name": "વિજ્ઞાન",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/std-7-sci-ch-1-samayik-milyakan-kasoti.pdf"
                     }
                   ]
                 }
