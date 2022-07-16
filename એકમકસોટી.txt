@@ -153,6 +153,22 @@
                       "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/PAT GM Maths 5 4.3.22.pdf"
                     }
                     ]
+                },
+                 {
+                  "month_name": "23 જુલાઈ 2022",
+                  "videos": [
+                    {
+                      "video_name": "પર્યાવરણ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                    ],
+                  "material": [
+                    {
+                      "material_name": "પર્યાવરણ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                    }
+                    ]
                 }
               ]
             },
@@ -225,6 +241,22 @@
                       "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/PAT GM Hindi 6 4.3.22.pdf"
                     }
                   ]
+                },
+                 {
+                  "month_name": "23 જુલાઈ 2022",
+                  "videos": [
+                    {
+                      "video_name": "ગુજરાતી",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "ગુજરાતી",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                    }
+                  ]
                 }
               ]
             },
@@ -295,6 +327,22 @@
                     {
                       "textbook_name": "ગુજરાતી",
                       "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/PAT GM GUJ 7 4.3.22.pdf"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "23 જુલાઈ 2022",
+                  "videos": [
+                    {
+                      "video_name": "વિજ્ઞાન",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "વિજ્ઞાન",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
                     }
                   ]
                 }
