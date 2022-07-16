@@ -369,6 +369,22 @@
                       "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/PAT GM SCI 8 4.3.22 .pdf"
                     }
                   ]
+                },
+                 {
+                  "month_name": "23 જુલાઈ 2022",
+                  "videos": [
+                    {
+                      "video_name": "સમાજ",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": ""
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "સમાજ",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                    }
+                  ]
                 }
               ]
             }
