@@ -382,7 +382,7 @@
                   "material": [
                     {
                       "material_name": "સમાજ",
-                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/"
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Allpdf2/સમાજ-એકમ-કસોટી-જુલાઈ-2022.pdf"
                     }
                   ]
                 }
