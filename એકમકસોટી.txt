@@ -160,7 +160,7 @@
                     {
                       "video_name": "પર્યાવરણ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/G9pJV0-evOc"
                     }
                     ],
                   "material": [
@@ -248,7 +248,7 @@
                     {
                       "video_name": "ગુજરાતી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/ZZawnysN3r0"
                     }
                   ],
                   "material": [
@@ -336,7 +336,7 @@
                     {
                       "video_name": "વિજ્ઞાન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/NxdB0QAI0vc"
                     }
                   ],
                   "material": [
@@ -424,7 +424,7 @@
                     {
                       "video_name": "સમાજ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/lX_FY2dA2FY"
                     }
                   ],
                   "material": [
