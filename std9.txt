@@ -2538,7 +2538,7 @@
                     {
                       "video_name": "समर्चनम्",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/8PEQXKxPqMU"
+                      "video_link": "https://youtu.be/yHqw_Wn5C04"
                     }
                   ],
                   "material": [
@@ -2560,7 +2560,7 @@
                     {
                       "video_name": "कुलस्य आचारः",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/8GzpVKplFg4"
+                      "video_link": "https://youtu.be/dQzOAxWQ6Jk"
                     }
                   ],
                   "material": [
@@ -2582,7 +2582,7 @@
                     {
                       "video_name": "परं निधानम्",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/kX7JpETrSOg"
+                      "video_link": "https://youtu.be/dudXdJFY4vw"
                     }
                   ],
                   "material": [
@@ -2604,7 +2604,7 @@
                     {
                       "video_name": "वलभी विध्यास्थानम ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/H7gaqlD25Es"
+                      "video_link": "https://youtu.be/M9q1N2bfvhY"
                     }
                   ],
                   "material": [
@@ -2626,7 +2626,7 @@
                     {
                       "video_name": "सुभाषितवैभव",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/jYgp02qt_2Y"
+                      "video_link": "https://youtu.be/ugBT2iB-pFM"
                     }
                   ],
                   "material": [
@@ -2646,20 +2646,20 @@
                   "month_name": "Ch - 6",
                   "videos": [
                     {
-                      "video_name": "सर्व चारुतरं वासन्ते !  ",
+                      "video_name": "सर्व चारुतरं वासन्ते !",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/c4K8NmfonhE"
+                      "video_link": "https://youtu.be/W62qdFrAzbA"
                     }
                   ],
                   "material": [
                     {
-                      "material_name": "सर्व चारुतरं वासन्ते !  ",
+                      "material_name": "सर्व चारुतरं वासन्ते !",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/std-9-સંસ્કૃત-ch-6-સ્વાધ્યાય..pdf"
                     }
                   ],
                   "textbook": [
                     {
-                      "textbook_name": "सर्व चारुतरं वासन्ते !  ",
+                      "textbook_name": "सर्व चारुतरं वासन्ते !",
                       "textbook_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/allPDFs/std 9 sanskrit ch 6.pdf"
                     }
                   ]
@@ -2670,7 +2670,7 @@
                     {
                       "video_name": "संहतिः कार्यसाधिका ।",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/w2XyNGYjuoA"
+                      "video_link": "https://youtu.be/uaoOVeLhpng"
                     }
                   ],
                   "material": [
@@ -2692,7 +2692,7 @@
                     {
                       "video_name": "काषायानां कोड्पराध ? ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/h4Bv3k0SnFw"
+                      "video_link": "https://youtu.be/v4TFDlmmvZg"
                     }
                   ],
                   "material": [
@@ -2714,7 +2714,7 @@
                     {
                       "video_name": "उपकारहतस्तू कर्तव्यः ।",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/HuFiHW-S_8I"
+                      "video_link": "https://youtu.be/9UqBrC5j2Co"
                     }
                   ],
                   "material": [
@@ -2736,7 +2736,7 @@
                     {
                       "video_name": "दौवारिकस्य सेवानिष्ठा ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/K6KL_six2LQ"
+                      "video_link": "https://youtu.be/VgWL-j3EfCY"
                     }
                   ],
                   "material": [
@@ -2758,7 +2758,7 @@
                     {
                       "video_name": "वेदितव्यानी मित्राणी ।",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/n-FQBzNfvro"
+                      "video_link": "https://youtu.be/PN2o05yXflk"
                     }
                   ],
                   "material": [
@@ -2780,7 +2780,7 @@
                     {
                       "video_name": "सुभाषित-सप्तकम",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/4v1ZNQiMbsY"
+                      "video_link": "https://youtu.be/85wP-JMLGTI"
                     }
                   ],
                   "material": [
@@ -2802,7 +2802,7 @@
                     {
                       "video_name": "द्रीष्ट्या गोग्रहनं स्वनतम् !",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/tSDg1-Tgl3o"
+                      "video_link": "https://youtu.be/rY6_FZwoBOQ"
                     }
                   ],
                   "material": [
@@ -2824,7 +2824,7 @@
                     {
                       "video_name": "हनुमद्रणीतरामवृतांतः  ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/HhhdYczy67Q"
+                      "video_link": "https://youtu.be/HMeU6otM_k8"
                     }
                   ],
                   "material": [
@@ -2846,7 +2846,7 @@
                     {
                       "video_name": "सुदुर्लभा सर्वमनोरमा वाणी । ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/QsW-bWDsaMM"
+                      "video_link": "https://youtu.be/PW9kD6DnJ5c"
                     }
                   ],
                   "material": [
@@ -2868,7 +2868,7 @@
                     {
                       "video_name": "अजेय: स भविष्यती । ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/rKjsVavD26o"
+                      "video_link": "https://youtu.be/WWavzzhnMzs"
                     }
                   ],
                   "material": [
@@ -2890,7 +2890,7 @@
                     {
                       "video_name": "आचार्य: चरक: ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/eV1k_sDBTLQ"
+                      "video_link": "https://youtu.be/1mY8iAeDQ3g"
                     }
                   ],
                   "material": [
@@ -2912,7 +2912,7 @@
                     {
                       "video_name": "बिलस्य वाणी न कदापी मे श्रुता ।",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/B9iUAY_E04g"
+                      "video_link": "https://youtu.be/UXUf0bvxgQo"
                     }
                   ],
                   "material": [
@@ -2934,7 +2934,7 @@
                     {
                       "video_name": "विनोद्पध्यानी ",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/ROpsHW-hMDc"
+                      "video_link": "https://youtu.be/qD5jg4I2b2A"
                     }
                   ],
                   "material": [
@@ -2956,7 +2956,7 @@
                     {
                       "video_name": "संस्कृतभाषाया: वैशिष्ट्यम्",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": "https://youtu.be/cafVvckGX6o"
+                      "video_link": "https://youtu.be/tgxTZ7zPc7I"
                     }
                   ],
                   "material": [
