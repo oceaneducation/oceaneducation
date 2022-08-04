@@ -1,17 +1,159 @@
 {
-      "homedata_name": "પ્રયોગપોથી/નકશાપોથી",
+      "homedata_name": "પ્રયોગપોથી/નકશાપૂર્તિ",
       "homedata_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
       "direct_sub_cat": false,
       "sub_data": [
         {
-          "sub_data_name": "પ્રયોગપોથી",
+          "sub_data_name": "પ્રયોગપોથી/નકશાપૂર્તિ",
           "standard_data": [
             {
               "standard_name": "ધોરણ 6",
               "standard_image": "https://www.linkpicture.com/q/klipartz.com-2.png",
               "month_cat": [
                 {
-                  "month_name": "વિજ્ઞાન",
+                  "month_name": "વિજ્ઞાન (પ્રયોગપોથી)",
+                  "videos": [
+                    {
+                      "video_name": "પ્રયોગ-1",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/2RdnWOGZm8g"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-2",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/1a-cuT3OwvI"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-3",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/D7-bY3mceY4"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-4",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Fltxs6b-MXw"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-5",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/5-665YSntoA"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-6",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/VQeXR4fqIrc"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-7",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/RPHyPDCdgsk"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-8",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/Nm_15oQdAZ0"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-9",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/9SSfJ7HOPqA"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-10",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/lULhUyI01cg"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-11",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/qZHIrT_yAcY"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-12",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/0ogLucknlqs"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-13",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/1AkLzmy6ak0"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-14",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/zgQZD9pPQPE"
+                    },
+                    {
+                      "video_name": "પ્રયોગ-15",
+                      "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
+                      "video_link": "https://youtu.be/HchY0cn74Fc"
+                    }
+                  ],
+                  "material": [
+                    {
+                      "material_name": "પ્રયોગ-1",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-prayog-1.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-2",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-prayog-2.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-3",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-prayog-3.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-4",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-prayog-4.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-5",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-prayog-5.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-6",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-prayog-6.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-7",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-prayog-7.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-8",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-prayog-8.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-9",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/std-6-prayog-9.pdf"
+                    },
+                     {
+                      "material_name": "પ્રયોગ-10",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
+                    },
+                    {
+                      "material_name": "પ્રયોગ-11",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
+                    },
+                    {
+                      "material_name": "પ્રયોગ-12",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
+                    },
+                    {
+                      "material_name": "પ્રયોગ-13",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
+                    },
+                    {
+                      "material_name": "પ્રયોગ-14",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
+                    },
+                    {
+                      "material_name": "પ્રયોગ-15",
+                      "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
+                    }
+                  ]
+                },
+                {
+                  "month_name": "સમાજ (નકશાપૂર્તિ)",
                   "videos": [
                     {
                       "video_name": "પ્રયોગ-1",
