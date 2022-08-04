@@ -718,14 +718,14 @@
                   "month_name": "સમાજ (નક્શાપૂર્તિ)",
                   "videos": [
                     {
-                      "video_name": "",
+                      "video_name": "પાઠ-10 ખનીજ અને ઉર્જા - સંસાધન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/m3WjUloHYtI"
                     },
                     {
-                      "video_name": "",
+                      "video_name": "પાઠ-11 ખેતી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/Jhcs765EGZI"
                     },
                     {
                       "video_name": "",
@@ -795,11 +795,11 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
+                      "material_name": "પાઠ-10 ખનીજ અને ઉર્જા - સંસાધન",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/"
                     },
                      {
-                      "material_name": "",
+                      "material_name": "પાઠ-11 ખેતી",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std8/"
                     },
                      {
