@@ -156,9 +156,9 @@
                   "month_name": "સમાજ (નકશાપૂર્તિ)",
                   "videos": [
                     {
-                      "video_name": "",
+                      "video_name": "પાઠ-9 આપણું ઘર પૃથ્વી",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/gzie1FZ-_uo"
                     },
                     {
                       "video_name": "",
@@ -233,7 +233,7 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
+                      "material_name": "પાઠ-9 આપણું ઘર પૃથ્વી",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std6/"
                     },
                      {
@@ -437,9 +437,9 @@
                   "month_name": "સમાજ (નક્શાપૂર્તિ)",
                   "videos": [
                     {
-                      "video_name": "",
+                      "video_name": "પાઠ-9 પૃથ્વીની આંતરિક રચના અને ભૂમિસ્વરૂપો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link":   ""
+                      "video_link":   "https://youtu.be/JvQ0G4MGCDg"
                     },
                     {
                       "video_name": "",
@@ -509,7 +509,7 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
+                      "material_name": "પાઠ-9 પૃથ્વીની આંતરિક રચના અને ભૂમિસ્વરૂપો",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std7/"
                     },
                      {
