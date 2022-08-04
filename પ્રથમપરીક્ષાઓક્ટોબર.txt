@@ -1026,14 +1026,14 @@
                   "month_name": "સમાજ (નક્શાપૂર્તિ)",
                   "videos": [
                     {
-                      "video_name": "",
+                      "video_name": "પાઠ-13 ભારત: સ્થાન, ભૂસ્તરીય રચના અને ભૂપૃષ્ઠ - I",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/O1Oo3dtAdy8"
                     },
                     {
-                      "video_name": "",
+                      "video_name": "પાઠ-14 ભારત: સ્થાન, ભૂસ્તરીય રચના અને ભૂપૃષ્ઠ - II",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/uw2ebDddG5o"
                     },
                     {
                       "video_name": "",
@@ -1113,11 +1113,11 @@
                   ],
                   "material": [
                     {
-                      "material_name": "",
+                      "material_name": "પાઠ-13 ભારત: સ્થાન, ભૂસ્તરીય રચના અને ભૂપૃષ્ઠ - I",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
                     },
                      {
-                      "material_name": "",
+                      "material_name": "પાઠ-14 ભારત: સ્થાન, ભૂસ્તરીય રચના અને ભૂપૃષ્ઠ - II",
                       "material_link": "https://raw.githubusercontent.com/oceaneducation/oceaneducation/main/Std9/"
                     },
                      {
@@ -1415,14 +1415,14 @@
                   "month_name": "સમાજ (નક્શાપૂર્તિ)",
                   "videos": [
                     {
-                      "video_name": "",
+                      "video_name": "પાઠ-8 કુદરતી સંસાધનો",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/12HuCu5Yc-c"
                     },
                     {
-                      "video_name": "",
+                      "video_name": "પાઠ-9 વન અને વન્ય જીવ સંસાધન",
                       "video_avatar": "https://www.linkpicture.com/q/klipartz.com-2.png",
-                      "video_link": ""
+                      "video_link": "https://youtu.be/l3ooG6QPtDo"
                     },
                     {
                       "video_name": "",
